@@ -1,3 +1,3 @@
 # atesiask
 
-test:7NUp945qh4WJEYk
+test: 7NUp945qh4WJEYk
