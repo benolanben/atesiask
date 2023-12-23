@@ -72,6 +72,14 @@
             "address": "Antalya",
             "latitude": "36.74879661110893",
             "longitude": "29.910544364261792"
+        },
+      {
+            "id": 10,
+            "title": "Elmalılı Ümmi Sinan",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus12.jpg",
+            "address": "Antalya",
+            "latitude": "29.910313368181285",
+            "longitude": "29.910313368181285"
         }
     ]
 }
