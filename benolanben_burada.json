@@ -56,6 +56,14 @@
             "address": "Bursa",
             "latitude": "40.18302673124326",
             "longitude": "29.057585876154743"
+        },
+      {
+            "id": 8,
+            "title": "Şems-i Tebrîzî",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus8.jpg",
+            "address": "Konya",
+            "latitude": "37.87366687253149",
+            "longitude": "32.49760573135264"
         }
     ]
 }
