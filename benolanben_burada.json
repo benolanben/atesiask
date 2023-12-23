@@ -64,6 +64,14 @@
             "address": "Konya",
             "latitude": "37.87366687253149",
             "longitude": "32.49760573135264"
+        },
+      {
+            "id": 9,
+            "title": "Abdülvahhab Ümmi Sultan",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus9.jpg",
+            "address": "Antalya",
+            "latitude": "36.74879661110893",
+            "longitude": "29.910544364261792"
         }
     ]
 }
