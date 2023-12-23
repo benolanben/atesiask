@@ -78,8 +78,16 @@
             "title": "Elmalılı Ümmi Sinan",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus12.jpg",
             "address": "Antalya",
-            "latitude": "29.910313368181285",
-            "longitude": "29.910313368181285"
+            "latitude": "36.74540430257403",
+            "longitude": "29.910313714798573"
+        },
+      {
+            "id": 11,
+            "title": "Eroğlu Nuri Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus1.jpg",
+            "address": "Antalya",
+            "latitude": "36.41699640319859",
+            "longitude": "30.032678484660487"
         }
     ]
 }
