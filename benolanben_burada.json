@@ -1,0 +1,61 @@
+{
+  "seni_yerler":
+[
+        {
+            "id": 1,
+            "title": "Hacı Bayram-ı Velî",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus11.jpg",
+            "address": "Ankara",
+            "latitude": "39.944228",
+            "longitude": "32.857894",
+        },
+        {
+            "id": 2,
+            "title": "Bıçakçı Dedem",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus1.jpg",
+            "address": "Göynük",
+            "latitude": "40.401461",
+            "longitude": "30.790273"
+        },
+        {
+            "id": 3,
+            "title": "Eşrefoğlu Rumi",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus2.jpg",
+            "address": "İznik",
+            "latitude": "40.430049",
+            "longitude": "29.723408"
+        }, 
+        {
+            "id": 4,
+            "title": "Ladikli Dedem",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus3.jpg",
+            "address": "Konya",
+            "latitude": "38.191440543646216",
+            "longitude": "32.377108677025014"
+        },
+        {
+            "id": 5,
+            "title": "Gaybî Dedem",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus4.jpg",
+            "address": "Kütahya",
+            "latitude": "39.4265266123989",
+            "longitude": "29.985834732470543"
+        },
+        {
+            "id": 6,
+            "title": "Cenâbı Mevlevi",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus6.jpg",
+            "address": "Konya",
+            "latitude": "37.87071500363279",
+            "longitude": "32.50502133063001"
+        },
+        {
+            "id": 7,
+            "title": "Cenâbı Üftade",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus7.jpg",
+            "address": "Bursa",
+            "latitude": "40.18302673124326",
+            "longitude": "29.057585876154743"
+        },
+    ]
+}
