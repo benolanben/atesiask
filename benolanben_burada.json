@@ -88,6 +88,14 @@
             "address": "Antalya",
             "latitude": "36.41699640319859",
             "longitude": "30.032678484660487"
+        },
+      {
+            "id": 12,
+            "title": "Abdal Musa Sultan",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus2.jpg",
+            "address": "Antalya",
+            "latitude": "36.61203872896698",
+            "longitude": "29.87045658927699"
         }
     ]
 }
