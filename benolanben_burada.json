@@ -7,7 +7,7 @@
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus11.jpg",
             "address": "Ankara",
             "latitude": "39.944228",
-            "longitude": "32.857894",
+            "longitude": "32.857894"
         },
         {
             "id": 2,
@@ -56,6 +56,6 @@
             "address": "Bursa",
             "latitude": "40.18302673124326",
             "longitude": "29.057585876154743"
-        },
+        }
     ]
 }
