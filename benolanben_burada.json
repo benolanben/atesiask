@@ -264,6 +264,22 @@
             "address": "Göynük",
             "latitude": "40.39926009743559",
             "longitude": "30.786951517061382"
+        },
+      {
+            "id": 34,
+            "title": "Hacı Bektaş-ı Veli Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0035_kus.jpg",
+            "address": "Nevşehir",
+            "latitude": "38.942446372781895",
+            "longitude": "34.562379309637834"
+        },
+      {
+            "id": 35,
+            "title": "Seyyid Burhaneddin Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0036_kus.jpg",
+            "address": "Kayseri",
+            "latitude": "38.716202484102205",
+            "longitude": "35.497500258169055"
         }
     ]
 }
