@@ -256,6 +256,14 @@
             "address": "Bursa",
             "latitude": "40.182083600862896",
             "longitude": "29.06252220642333"
+        },
+      {
+            "id": 33,
+            "title": "Akşemseddin Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0034_kus.jpg",
+            "address": "Göynük",
+            "latitude": "40.39926009743559",
+            "longitude": "30.786951517061382"
         }
     ]
 }
