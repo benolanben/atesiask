@@ -9,6 +9,22 @@
             "latitude": "39.944228",
             "longitude": "32.857894"
         },
+      {
+            "id": 37,
+            "title": "Merkez Efendi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0038_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.01597693342706",
+            "longitude": "28.920165645200548"
+        },
+      {
+            "id": 36,
+            "title": "Şeyh İzzettin Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0037_kus.jpg",
+            "address": "Ankara",
+            "latitude": "39.94453876244536",
+            "longitude": "32.86044511916972"
+        },
         {
             "id": 2,
             "title": "Bıçakçı Dedem",
