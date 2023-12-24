@@ -152,6 +152,22 @@
             "address": "İstanbul",
             "latitude": "41.0331500630314",
             "longitude": "29.172676278223722"
+        },
+      {
+            "id": 20,
+            "title": "Yahya Efendi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0021_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.04602597217137",
+            "longitude": "29.01736035951392"
+        },
+      {
+            "id": 21,
+            "title": "Ahmet Süreyyâ Emin Efendi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0022_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.04629111714727",
+            "longitude": "29.01766105361827"
         }
     ]
 }
