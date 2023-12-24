@@ -9,6 +9,38 @@
             "latitude": "39.944228",
             "longitude": "32.857894"
         },
+      {
+            "id": 59,
+            "title": "Hasan Veli Abalı Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0059_kus.jpg",
+            "address": "Ankara",
+            "latitude": "40.06407776489146",
+            "longitude": "32.75159952919047"
+        },
+      {
+            "id": 58,
+            "title": "Münir Derman Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0058_kus.jpg",
+            "address": "Ankara",
+            "latitude": "40.063718530617834",
+            "longitude": "32.75089947270425"
+        },
+      {
+            "id": 57,
+            "title": "Telli Baba",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0057_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.17528102124179",
+            "longitude": "29.071141942330243"
+        },
+      {
+            "id": 56,
+            "title": "Hüsamettin Uşşaki hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0057_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.03943223824783",
+            "longitude": "28.972489257924767"
+        },
        {
             "id": 55,
             "title": "İsmail Rumî hz",
