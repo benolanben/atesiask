@@ -216,6 +216,46 @@
             "address": "Tunceli",
             "latitude": "39.1339416700703",
             "longitude": "39.7921032201551"
+        },
+      {
+            "id": 28,
+            "title": "Ahmet Amiş Efendim",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0029_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.0187869959462",
+            "longitude": "28.95037316135807"
+        },
+      {
+            "id": 29,
+            "title": "Taptık Baba",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0030_kus.jpg",
+            "address": "Ankara",
+            "latitude": "39.931313046089684",
+            "longitude": "32.50307971009139"
+        },
+      {
+            "id": 30,
+            "title": "Nûreddîn-i Cerrâhî Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0031_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.02640391076521",
+            "longitude": "28.941536483287553"
+        },
+      {
+            "id": 31,
+            "title": "Abdülhakim Arvasi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0032_kus.jpg",
+            "address": "Ankara",
+            "latitude": "40.052050093025926",
+            "longitude": "32.84061014756672"
+        },
+      {
+            "id": 32,
+            "title": "Akbıyık Sultan Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0033_kus.jpg",
+            "address": "Bursa",
+            "latitude": "40.182083600862896",
+            "longitude": "29.06252220642333"
         }
     ]
 }
