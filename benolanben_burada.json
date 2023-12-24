@@ -9,6 +9,46 @@
             "latitude": "39.944228",
             "longitude": "32.857894"
         },
+       {
+            "id": 55,
+            "title": "İsmail Rumî hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0056_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.02986001054232",
+            "longitude": "28.980506564498704"
+        },
+       {
+            "id": 54,
+            "title": "Tuğrul İnançer (Muradi) Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0055_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.026403898799735",
+            "longitude": "28.941535276147846"
+        },
+      {
+            "id": 53,
+            "title": "Sefer Dal Efendi (Muhibbi) Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0054_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.026403898799735",
+            "longitude": "28.941535276147846"
+        },
+      {
+            "id": 52,
+            "title": "Muzaffer Ozak (Aşki Sultan) Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0053_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.026403898799735",
+            "longitude": "28.941535276147846"
+        },
+      {
+            "id": 51,
+            "title": "Pir Muhammed Nûreddîn-i Cerrâhî (Fettahi) Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0052_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.026403898799735",
+            "longitude": "28.941535276147846"
+        },
       {
             "id": 50,
             "title": "Emir Sultan Hz",
