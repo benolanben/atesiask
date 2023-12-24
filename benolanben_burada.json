@@ -168,6 +168,30 @@
             "address": "İstanbul",
             "latitude": "41.04629111714727",
             "longitude": "29.01766105361827"
+        },
+      {
+            "id": 22,
+            "title": "Gül Efendi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0023_kus.jpg",
+            "address": "Ankara",
+            "latitude": "39.978630",
+            "longitude": "32.904606"
+        },
+      {
+            "id": 23,
+            "title": "Ahmet Kayhan Dedem",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0024_kus.jpg",
+            "address": "Ankara",
+            "latitude": "39.933872914551706",
+            "longitude": "32.99978583065995"
+        },
+      {
+            "id": 24,
+            "title": "Bünyamin Ayaşi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0025_kus.jpg",
+            "address": "Ankara",
+            "latitude": "40.01577796445916",
+            "longitude": "32.33416817361689"
         }
     ]
 }
