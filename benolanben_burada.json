@@ -3,13 +3,117 @@
     [
         {
             "id": 1,
-            "title": "Hacı Bayram-ı Velî",
+            "title": "Hacı Bayram-ı Velî Sultan",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus11.jpg",
             "address": "Ankara",
             "latitude": "39.944228",
             "longitude": "32.857894"
         },
       {
+            "id": 50,
+            "title": "Emir Sultan Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0051_kus.jpg",
+            "address": "Bursa",
+            "latitude": "40.18121263809074",
+            "longitude": "29.081081016218672"
+        },
+       {
+            "id": 49,
+            "title": "Aziz Mahmud Hudai Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0050_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.02291423387014",
+            "longitude": "29.0118870769348"
+        },
+      {
+            "id": 48,
+            "title": "Necip Fazıl Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0049_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.05123100641032",
+            "longitude": "28.9324879037782"
+        },
+      {
+            "id": 47,
+            "title": "Mahmut Esat Coşan Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0048_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.04907175972923",
+            "longitude": "28.933329245261383"
+        },
+      {
+            "id": 46,
+            "title": "Eyüp Sultan Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0047_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.04805997252953",
+            "longitude": "28.933433138780003"
+        },
+      {
+            "id": 45,
+            "title": "Amr Bin As Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0046_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.022431170637205",
+            "longitude": "28.976634722680945"
+        },
+      {
+            "id": 44,
+            "title": "Vehb Bin Hüşeyre Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0045_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.022431170637205",
+            "longitude": "28.976634722680945"
+        },
+      {
+            "id": 43,
+            "title": "Süfyan Bin Üyeyne Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0044_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.022431170637205",
+            "longitude": "28.976634722680945"
+        },
+       {
+            "id": 42,
+            "title": "Muhammed Medeni Tekin Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0043_kus.jpg",
+            "address": "Yalova",
+            "latitude": "40.551247513501",
+            "longitude": "29.276242064834797"
+        },
+      {
+            "id": 41,
+            "title": "Ömer Fevzi Mardini Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0042_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.008182958946584",
+            "longitude": "29.026498532420987"
+        },
+      {
+            "id": 40,
+            "title": "Şemsettin Yeşil Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0041_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.00533038761995",
+            "longitude": "28.917295882019978"
+        },
+      {
+            "id": 39,
+            "title": "Ken'an Rıfai Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0040_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.016085738001316",
+            "longitude": "28.920313767318262"
+        },
+      {
+            "id": 38,
+            "title": "Seyyid Nizâm Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0039_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.00496145601968",
+            "longitude": "28.913280517769003"
+        },
+       {
             "id": 37,
             "title": "Merkez Efendi Hz",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0038_kus.jpg",
