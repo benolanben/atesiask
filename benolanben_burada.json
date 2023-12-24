@@ -10,6 +10,30 @@
             "longitude": "32.857894"
         },
       {
+            "id": 63,
+            "title": "Aziz Çınar Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0063_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.008182958946584",
+            "longitude": "29.026498532420987"
+        },
+      {
+            "id": 62,
+            "title": "Şeyh Galip Dede",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0062_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.028123796654775",
+            "longitude": "28.974448985617947"
+        },
+      {
+            "id": 61,
+            "title": "İsmâil Rusûhî Dede",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0061_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.028123796654775",
+            "longitude": "28.974448985617947"
+        },
+      {
             "id": 60,
             "title": "Çilingir Şevket Dede",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0060_kus.jpg",
