@@ -96,6 +96,30 @@
             "address": "Antalya",
             "latitude": "36.61203872896698",
             "longitude": "29.87045658927699"
+        },
+      {
+            "id": 13,
+            "title": "Şeyh Şerafettin Dağıstani Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0014_kus.jpg",
+            "address": "Yalova",
+            "latitude": "40.55125462165256",
+            "longitude": "29.276242349029413"
+        },
+      {
+            "id": 14,
+            "title": "Pir-i Sani Mustafa Çerkeşi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0015_kus.jpg",
+            "address": "Çankırı",
+            "latitude": "40.81389432506249",
+            "longitude": "32.894067826550355"
+        },
+      {
+            "id": 15,
+            "title": "Pir Ali Semerkandi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0016_kus.jpg",
+            "address": "Ankara",
+            "latitude": "40.487264832385634",
+            "longitude": "32.46898573265243"
         }
     ]
 }
