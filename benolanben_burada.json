@@ -120,6 +120,38 @@
             "address": "Ankara",
             "latitude": "40.487264832385634",
             "longitude": "32.46898573265243"
+        },
+      {
+            "id": 16,
+            "title": "Mustafa Devati Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0017_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.02519412918436",
+            "longitude": "29.017527366937884"
+        },
+      {
+            "id": 17,
+            "title": "Şemsi Sivasi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0018_kus.jpg",
+            "address": "Sivas",
+            "latitude": "39.749416717293194",
+            "longitude": "37.02039329899423"
+        },
+      {
+            "id": 18,
+            "title": "Sultan Baba Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0019_kus.jpg",
+            "address": "Yalova",
+            "latitude": "40.55095820772123",
+            "longitude": "29.276253208299305"
+        },
+      {
+            "id": 19,
+            "title": "Ergün Zekai Tamer Fakirullah Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0020_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.0331500630314",
+            "longitude": "29.172676278223722"
         }
     ]
 }
