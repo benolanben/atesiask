@@ -10,6 +10,14 @@
             "longitude": "32.857894"
         },
       {
+            "id": 64,
+            "title": "Asım Baba Sultan",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0064_kus.jpg",
+            "address": "Ankara",
+            "latitude": "39.944228",
+            "longitude": "32.857894"
+        },
+      {
             "id": 63,
             "title": "Aziz Çınar Hz",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0063_kus.jpg",
