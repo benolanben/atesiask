@@ -10,6 +10,14 @@
             "longitude": "32.857894"
         },
       {
+            "id": 60,
+            "title": "Çilingir Şevket Dede",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0060_kus.jpg",
+            "address": "Göynük",
+            "latitude": "40.406622144167194",
+            "longitude": "30.782199881273062"
+        },
+      {
             "id": 59,
             "title": "Hasan Veli Abalı Hz",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0059_kus.jpg",
