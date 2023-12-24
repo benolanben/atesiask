@@ -192,6 +192,30 @@
             "address": "Ankara",
             "latitude": "40.01577796445916",
             "longitude": "32.33416817361689"
+        },
+      {
+            "id": 25,
+            "title": "Alıyyil Muslıhiddin Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0026_kus.jpg",
+            "address": "Düzce",
+            "latitude": "40.885441613455406",
+            "longitude": "31.002914984760533"
+        },
+      {
+            "id": 26,
+            "title": "Abdulvahap Sancaktar Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0027_kus.jpg",
+            "address": "İznik",
+            "latitude": "40.433676266331545",
+            "longitude": "29.737777542330235"
+        },
+      {
+            "id": 27,
+            "title": "Düzgün Baba Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0028_kus.jpg",
+            "address": "Tunceli",
+            "latitude": "39.1339416700703",
+            "longitude": "39.7921032201551"
         }
     ]
 }
