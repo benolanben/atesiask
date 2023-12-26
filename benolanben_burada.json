@@ -10,6 +10,14 @@
             "longitude": "32.857894"
         },
       {
+            "id": 65,
+            "title": "Sadreddin Konevi Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0065_kus.jpg",
+            "address": "Konya",
+            "latitude": "37.86918525925833",
+            "longitude": "32.48258765418769"
+        },
+      {
             "id": 64,
             "title": "Asım Baba Sultan",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0064_kus.jpg",
