@@ -10,6 +10,14 @@
             "longitude": "32.857894"
         },
       {
+            "id": 66,
+            "title": "Pîr Sümbül Sinan Hz",
+            "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0066_kus.jpg",
+            "address": "İstanbul",
+            "latitude": "41.00381280384981",
+            "longitude": "28.92831177650917"
+        },
+      {
             "id": 65,
             "title": "Sadreddin Konevi Hz",
             "marker_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0065_kus.jpg",
