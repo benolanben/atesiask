@@ -8,7 +8,7 @@
                "mini_title":"agah olasın",
                "date_since":{
                   "date_value":"2024'den",
-               }
+               },
             },
             "lower_header":{
                "tags_container":{
@@ -26,22 +26,22 @@
                "item_text":{
                   "item_data":"1",
                   "item_unit":"Mins"
-               }
+               },
             },
             "view":{
                "item_title":"View",
                "item_text":{
                   "item_data":"1",
                   "item_unit":"Views"
-               }
+               },
             },
             "publish_date":{
                "item_title":"Publish Date",
                "item_text":{
                   "item_data":"",
                   "date_data":"dateData"
-               }
-            }
+               },
+            },
          },
          "main_article":{
             "quotes":[
@@ -52,9 +52,9 @@
                {
                   "type":"metin",
                   "text":"Allâh, münafık erkeklerle münafık kadınları ve müşrik..."
-               }
+               },
             ]
-         }
+         },
       }
    }
 ]
