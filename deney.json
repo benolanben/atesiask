@@ -50,12 +50,20 @@
                         "text": "Mana"
                     },
                     {
+                        "type": "alinti",
+                        "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُؕ اِنَّهُ كَانَ ظَلُوماً جَهُولاًۙ "
+                    },
+                    {
                         "type": "metin",
                         "text": "Muhakkak ki biz o Emaneti (Esmâ şuuruyla yaşamayı), semâlara (benlik bilincine), arza (bedene) ve dağlara (organlara) önerdik de, onu yüklenmekten kaçındılar (Esmâ bileşimleri onu açığa çıkarmaya elvermedi); ve ondan korktular! Onu, İnsan (hilâfeti oluşturan Esmâ mânâlarını açığa çıkarma şuuru) yüklendi! Muhakkak ki o zâlim (hakikatini hakkıyla yaşamakta yetersiz) ve cahildir (sınırsız Esmâ’yı bilmede yetersizdir)!"
                     },
                     {
                         "type": "baslik",
                         "text": "Mana"
+                    },
+                    {
+                        "type": "alinti",
+                        "text": "لِيُعَذِّبَ اللّٰهُ الْمُنَافِقٖينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكٖينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللّٰهُ عَلَى الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِؕ وَكَانَ اللّٰهُ غَفُوراً رَحٖيماً"
                     },
                     {
                         "type": "metin",
