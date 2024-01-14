@@ -4,44 +4,10 @@
         "article": {
             "header": {
                 "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0061_kus.jpg",
-                "upper_header": {
-                    "mini_title": "agah olasın",
-                    "date_since": {
-                        "date_value": "2024'den"
-                    }
-                },
-                "lower_header": {
-                    "tags_container": {
-                        "tags": [
-                            "Emanet","Esmâ","Semâ","Arz","Dağlar","İnsan","Zâlim","Cahil","Münafık","Müşrik","Azap","İman","Tövbe","Ğafûr","Rahıym"
-                        ]
-                    },
-                    "title": "Ahzab 72-73’ten",
-                    "subtitle": "buraya bir açıklama alanı ekleyebiliriz"
-                }
-            },
-            "summary": {
-                "reading_time": {
-                    "item_title": "Reading Time",
-                    "item_text": {
-                        "item_data": "1",
-                        "item_unit": "Mins"
-                    }
-                },
-                "view": {
-                    "item_title": "View",
-                    "item_text": {
-                        "item_data": "1",
-                        "item_unit": "Views"
-                    }
-                },
-                "publish_date": {
-                    "item_title": "Publish Date",
-                    "item_text": {
-                        "item_data": "",
-                        "date_data": "dateData"
-                    }
-                }
+                "date_value": "2024'den",
+                "mini_title": "agah olasın",
+                "tags": ["Emanet","Esmâ"],
+                "title": "Ahzab 72-73’ten",
             },
             "main_article": {
                 "quotes": [
