@@ -1,6 +1,46 @@
 
 [
+{
+        "id":202401152205,
+        "article": {
+            "header": {
+                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0090_kus.jpg",
+                "date_value": "2024'den",
+                "mini_title": "agah olasın",
+                "tags": ["Esma"],
+                "title": "Bakara 31’den",
+                "subtitle":"Mülhem olunan"
+            },
+            "main_article": {
+                "quotes": [
+                    {
+                        "type": "baslik",
+                        "text": "Bakara 31’den"
+                    },
+                    {
+                        "type": "alinti",
+                        "author":"'Bakara 31'",
+                        "text": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ فَقَالَ اَنْبِؤُ۫نٖي بِاَسْمَٓاءِ هٰٓؤُ۬لَٓاءِ اِنْ كُنْتُمْ صَادِقٖينَ"
+                    },
+                    {
+                        "type": "alt_baslik",
+                        "text": "Mana"
+                    },
+                    {
+                        "type": "metin",
+                        "text": "Sonra Âdem’e (Esmâ’nın programlanışı, Esmâ bileşiminin açığa çıkışıyla yoktan var edilene) bütün Esmâ’yı (Esmâ ül Hüsnâ’sının anlamlarını açığa çıkarmayı ve kavramayı) talim etti (programladı). Sonra melâikeye: “Eğer dediğinizde ısrarlı iseniz bana (Âdem’in) varlığındaki Esmâ’nın (özelliklerinin) neler olduğunu anlatın” dedi."
+                    },
+                    {
+                        "type": "fotograf",
+                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0084_kus.jpg"
+                    }
+                ]
+            }
+        }
+    },
 
+
+        
 {
         "id":202401151939,
         "article": {
