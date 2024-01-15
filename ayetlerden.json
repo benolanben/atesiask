@@ -1,222 +1,224 @@
-
-[
 {
-        "id":202401152221,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0093_kus.jpg",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Uyku","Ölüm"],
-                "title": "En’am 60’tan",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "En’am 60’tan"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'En’am 60'",
-                        "text": "وَهُوَ الَّذٖي يَتَوَفّٰيكُمْ بِالَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فٖيهِ لِيُقْضٰٓى اَجَلٌ مُسَمًّىۚ ثُمَّ اِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَࣖ "
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "O’dur ki, sizi gecenin içinde vefat (beden farkındalıksız yaşam) ettirir (uyku ölümün kardeşidir: Hadis); gündüzde ne yaptığınızı bilir... Sonra takdir edilmiş ömür tamamlanıncaya kadar sizi gündüzleri bâ’s eder... Sonra dönüşünüz O’nadır... Sonra yaptıklarınızı size haber verir (yaşamınızı işin hakikati yönünden değerlendirtir)!"
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0086_kus.jpg"
-                    }
-                ]
-            }
-        }
-    },
-
-
-        
+    "ayetler": [
         {
-        "id":202401152221,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0091_kus.jpg",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Vechullâh"],
-                "title": "Bakara 115’ten",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "Bakara 115’ten"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Bakara 115'",
-                        "text": "وَلِلّٰهِ الْمَشْرِقُ وَالْمَغْرِبُ فَاَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللّٰهِؕ اِنَّ اللّٰهَ وَاسِعٌ عَلٖيمٌ"
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Maşrik de (doğu veya doğuş mahallî) mağrip de (batı veya batış - kayboluş - ölüm) Allâh’a aittir! Ne yana dönersen Vechullâh karşındadır (Allâh Esmâ’sının açığa çıkışıyla karşı karşıyasın)! Muhakkak ki Allâh tüm varlığı kapsar ve ilim sahibidir."
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0085_kus.jpg"
-                    }
-                ]
+            "id": 202401152221,
+            "article": {
+                "header": {
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0093_kus.jpg",
+                    "date_value": "2024'den",
+                    "mini_title": "agah olasın",
+                    "tags": [
+                        "Uyku",
+                        "Ölüm"
+                    ],
+                    "title": "En’am 60’tan",
+                    "subtitle": "Mülhem olunan"
+                },
+                "main_article": {
+                    "quotes": [
+                        {
+                            "type": "baslik",
+                            "text": "En’am 60’tan"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'En’am 60'",
+                            "text": "وَهُوَ الَّذٖي يَتَوَفّٰيكُمْ بِالَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فٖيهِ لِيُقْضٰٓى اَجَلٌ مُسَمًّىۚ ثُمَّ اِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَࣖ "
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "O’dur ki, sizi gecenin içinde vefat (beden farkındalıksız yaşam) ettirir (uyku ölümün kardeşidir: Hadis); gündüzde ne yaptığınızı bilir... Sonra takdir edilmiş ömür tamamlanıncaya kadar sizi gündüzleri bâ’s eder... Sonra dönüşünüz O’nadır... Sonra yaptıklarınızı size haber verir (yaşamınızı işin hakikati yönünden değerlendirtir)!"
+                        },
+                        {
+                            "type": "fotograf",
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0086_kus.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 202401152221,
+            "article": {
+                "header": {
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0091_kus.jpg",
+                    "date_value": "2024'den",
+                    "mini_title": "agah olasın",
+                    "tags": [
+                        "Vechullâh"
+                    ],
+                    "title": "Bakara 115’ten",
+                    "subtitle": "Mülhem olunan"
+                },
+                "main_article": {
+                    "quotes": [
+                        {
+                            "type": "baslik",
+                            "text": "Bakara 115’ten"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'Bakara 115'",
+                            "text": "وَلِلّٰهِ الْمَشْرِقُ وَالْمَغْرِبُ فَاَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللّٰهِؕ اِنَّ اللّٰهَ وَاسِعٌ عَلٖيمٌ"
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Maşrik de (doğu veya doğuş mahallî) mağrip de (batı veya batış - kayboluş - ölüm) Allâh’a aittir! Ne yana dönersen Vechullâh karşındadır (Allâh Esmâ’sının açığa çıkışıyla karşı karşıyasın)! Muhakkak ki Allâh tüm varlığı kapsar ve ilim sahibidir."
+                        },
+                        {
+                            "type": "fotograf",
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0085_kus.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 202401152205,
+            "article": {
+                "header": {
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0090_kus.jpg",
+                    "date_value": "2024'den",
+                    "mini_title": "agah olasın",
+                    "tags": [
+                        "Esma"
+                    ],
+                    "title": "Bakara 31’den",
+                    "subtitle": "Mülhem olunan"
+                },
+                "main_article": {
+                    "quotes": [
+                        {
+                            "type": "baslik",
+                            "text": "Bakara 31’den"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'Bakara 31'",
+                            "text": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ فَقَالَ اَنْبِؤُ۫نٖي بِاَسْمَٓاءِ هٰٓؤُ۬لَٓاءِ اِنْ كُنْتُمْ صَادِقٖينَ"
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Sonra Âdem’e (Esmâ’nın programlanışı, Esmâ bileşiminin açığa çıkışıyla yoktan var edilene) bütün Esmâ’yı (Esmâ ül Hüsnâ’sının anlamlarını açığa çıkarmayı ve kavramayı) talim etti (programladı). Sonra melâikeye: “Eğer dediğinizde ısrarlı iseniz bana (Âdem’in) varlığındaki Esmâ’nın (özelliklerinin) neler olduğunu anlatın” dedi."
+                        },
+                        {
+                            "type": "fotograf",
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0084_kus.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 202401151939,
+            "article": {
+                "header": {
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0089_kus.jpg",
+                    "date_value": "2024'den",
+                    "mini_title": "agah olasın",
+                    "tags": [
+                        "Nefs",
+                        "Ölüm"
+                    ],
+                    "title": "Ankebut 57’den",
+                    "subtitle": "Mülhem olunan"
+                },
+                "main_article": {
+                    "quotes": [
+                        {
+                            "type": "baslik",
+                            "text": "Ankebut 57’den"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'Ankebut 57'",
+                            "text": "كُلُّ نَفْسٍ ذَٓائِقَةُ الْمَوْتِ ثُمَّ اِلَيْنَا تُرْجَعُونَ"
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Her nefs, ölümü tadacaktır! Sonra bize döndürüleceksiniz!"
+                        },
+                        {
+                            "type": "fotograf",
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0083_kus.jpg"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 202401141808,
+            "article": {
+                "header": {
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0066_kus.jpg",
+                    "date_value": "2024'den",
+                    "mini_title": "agah olasın",
+                    "tags": [
+                        "Emanet",
+                        "Esmâ"
+                    ],
+                    "title": "Ahzab 72-73’ten",
+                    "subtitle": "Mülhem olunan"
+                },
+                "main_article": {
+                    "quotes": [
+                        {
+                            "type": "baslik",
+                            "text": "Ahzab 72-73’ten"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'Ahzap 72'",
+                            "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُؕ اِنَّهُ كَانَ ظَلُوماً جَهُولاًۙ "
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Muhakkak ki biz o Emaneti (Esmâ şuuruyla yaşamayı), semâlara (benlik bilincine), arza (bedene) ve dağlara (organlara) önerdik de, onu yüklenmekten kaçındılar (Esmâ bileşimleri onu açığa çıkarmaya elvermedi); ve ondan korktular! Onu, İnsan (hilâfeti oluşturan Esmâ mânâlarını açığa çıkarma şuuru) yüklendi! Muhakkak ki o zâlim (hakikatini hakkıyla yaşamakta yetersiz) ve cahildir (sınırsız Esmâ’yı bilmede yetersizdir)!"
+                        },
+                        {
+                            "type": "fotograf",
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0057_kus.jpg"
+                        },
+                        {
+                            "type": "alinti",
+                            "author": "'Ahzap 73'",
+                            "text": "لِيُعَذِّبَ اللّٰهُ الْمُنَافِقٖينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكٖينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللّٰهُ عَلَى الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِؕ وَكَانَ اللّٰهُ غَفُوراً رَحٖيماً"
+                        },
+                        {
+                            "type": "alt_baslik",
+                            "text": "Mana"
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Allâh, münafık erkeklerle münafık kadınları ve müşrik erkeklerle müşrik kadınları azaplandıracak; iman etmiş erkeklerle iman etmiş kadınların tövbelerini de gerçekleştirecektir... Allâh Ğafûr’dur, Rahıym’dir."
+                        },
+                        {
+                            "type": "metin",
+                            "text": "Gönülden\nSelam Olsun."
+                        }
+                    ]
+                }
             }
         }
-    },
-
-
-        
-{
-        "id":202401152205,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0090_kus.jpg",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Esma"],
-                "title": "Bakara 31’den",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "Bakara 31’den"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Bakara 31'",
-                        "text": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلٰٓئِكَةِ فَقَالَ اَنْبِؤُ۫نٖي بِاَسْمَٓاءِ هٰٓؤُ۬لَٓاءِ اِنْ كُنْتُمْ صَادِقٖينَ"
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Sonra Âdem’e (Esmâ’nın programlanışı, Esmâ bileşiminin açığa çıkışıyla yoktan var edilene) bütün Esmâ’yı (Esmâ ül Hüsnâ’sının anlamlarını açığa çıkarmayı ve kavramayı) talim etti (programladı). Sonra melâikeye: “Eğer dediğinizde ısrarlı iseniz bana (Âdem’in) varlığındaki Esmâ’nın (özelliklerinin) neler olduğunu anlatın” dedi."
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0084_kus.jpg"
-                    }
-                ]
-            }
-        }
-    },
-
-
-        
-{
-        "id":202401151939,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0089_kus.jpg",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Nefs","Ölüm"],
-                "title": "Ankebut 57’den",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "Ankebut 57’den"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Ankebut 57'",
-                        "text": "كُلُّ نَفْسٍ ذَٓائِقَةُ الْمَوْتِ ثُمَّ اِلَيْنَا تُرْجَعُونَ"
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Her nefs, ölümü tadacaktır! Sonra bize döndürüleceksiniz!"
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0083_kus.jpg"
-                    }
-                ]
-            }
-        }
-    },
-
-    
-    {
-        "id":202401141808,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0066_kus.jpg",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Emanet","Esmâ"],
-                "title": "Ahzab 72-73’ten",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "Ahzab 72-73’ten"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Ahzap 72'",
-                        "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُؕ اِنَّهُ كَانَ ظَلُوماً جَهُولاًۙ "
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Muhakkak ki biz o Emaneti (Esmâ şuuruyla yaşamayı), semâlara (benlik bilincine), arza (bedene) ve dağlara (organlara) önerdik de, onu yüklenmekten kaçındılar (Esmâ bileşimleri onu açığa çıkarmaya elvermedi); ve ondan korktular! Onu, İnsan (hilâfeti oluşturan Esmâ mânâlarını açığa çıkarma şuuru) yüklendi! Muhakkak ki o zâlim (hakikatini hakkıyla yaşamakta yetersiz) ve cahildir (sınırsız Esmâ’yı bilmede yetersizdir)!"
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0057_kus.jpg"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Ahzap 73'",
-                        "text": "لِيُعَذِّبَ اللّٰهُ الْمُنَافِقٖينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكٖينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللّٰهُ عَلَى الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِؕ وَكَانَ اللّٰهُ غَفُوراً رَحٖيماً"
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Allâh, münafık erkeklerle münafık kadınları ve müşrik erkeklerle müşrik kadınları azaplandıracak; iman etmiş erkeklerle iman etmiş kadınların tövbelerini de gerçekleştirecektir... Allâh Ğafûr’dur, Rahıym’dir."
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Gönülden\nSelam Olsun."
-                    }
-                ]
-            }
-        }
-    }
-
-]
+    ]
+}
