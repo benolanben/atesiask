@@ -1,6 +1,46 @@
 
 [
 
+{
+        "id":202401151939,
+        "article": {
+            "header": {
+                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0089_kus.jpg",
+                "date_value": "2024'den",
+                "mini_title": "agah olasın",
+                "tags": ["Nefs","Ölüm"],
+                "title": "Ankebut 57’den",
+                "subtitle":"Mülhem olunan"
+            },
+            "main_article": {
+                "quotes": [
+                    {
+                        "type": "baslik",
+                        "text": "Ankebut 57’den"
+                    },
+                    {
+                        "type": "alinti",
+                        "author":"'Ankebut 57'",
+                        "text": "كُلُّ نَفْسٍ ذَٓائِقَةُ الْمَوْتِ ثُمَّ اِلَيْنَا تُرْجَعُونَ"
+                    },
+                    {
+                        "type": "alt_baslik",
+                        "text": "Mana"
+                    },
+                    {
+                        "type": "metin",
+                        "text": "Her nefs, ölümü tadacaktır! Sonra bize döndürüleceksiniz!"
+                    },
+                    {
+                        "type": "fotograf",
+                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0083_kus.jpg"
+                    }
+                ]
+            }
+        }
+    },
+
+    
     {
         "id":202401141808,
         "article": {
