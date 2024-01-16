@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+	<meta charset="UTF-8">
+	<title>CodePen - Article Details</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+	<link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+	<!-- partial:index.partial.html -->
+	<article>
+
+		<section class="main-article">
+
+			<div class="gallery">
+				<div class="gallery-mask mask-off">
+					<img class="mask-image" src="" alt="" width="200">
+				</div>
+				<div class="image-item image-1" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus6.jpg');">
+				</div>
+				<div class="image-item image-2" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus10.jpg');">
+				</div>
+				<div class="image-item image-3" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus8.jpg');">
+				</div>
+				<div class="image-item image-4" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus7.jpg');">
+				</div>
+				<div class="image-item image-5" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus5.jpg');">
+				</div>
+				<div class="image-item image-6" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus1.jpg');">
+				</div>
+				<div class="image-item image-7" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus2.jpg');">
+				</div>
+				<div class="image-item image-8" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus9.jpg');">
+				</div>
+				<div class="image-item image-9" alt="" width="200"
+					style="background-image: url('https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus4.jpg');">
+				</div>
+
+			</div>
+		</section>
+	</article>
+
+	<script>
+		// Layout will not be affected after remove below javascript code
+
+		// Handle Image Gallery
+		const galleryMask = document.querySelector(".gallery-mask");
+		const maskImage = document.querySelector(".mask-image");
+		const galleryImgs = document.querySelectorAll(".image-item");
+
+		galleryMask.addEventListener("click", () => {
+			galleryMask.classList.add("mask-off");
+		});
+
+		galleryImgs.forEach((item) => {
+			item.addEventListener("click", () => {
+				let styleValue = item.getAttribute("style");
+				maskImage.setAttribute(
+					"src",
+					styleValue.slice(styleValue.indexOf(": url(") + 7, -3)
+				);
+				galleryMask.classList.remove("mask-off");
+			});
+		});
+
+		// Handle Publish Date
+		const dateData = document.getElementById("dateData");
+		const sinceData = document.getElementById("sinceData");
+		let publishDate = "2023-12-21";
+
+		dateData.innerHTML = moment(publishDate).format("LL");
+		sinceData.innerHTML = moment(publishDate).fromNow();
+	</script>
+</body>
+
+</html>
