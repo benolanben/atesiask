@@ -1,61 +1,7 @@
 {
     "ayetler": [
 
-{
-        "id":202401171808,
-        "article": {
-            "header": {
-                "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/denge.mp4",
-                "date_value": "2024'den",
-                "mini_title": "agah olasın",
-                "tags": ["Emanet","Esmâ"],
-                "title": "Ahzab 72-73’ten",
-                "subtitle":"Mülhem olunan"
-            },
-            "main_article": {
-                "quotes": [
-                    {
-                        "type": "baslik",
-                        "text": "Ahzab 72-73’ten"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Ahzap 72'",
-                        "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُؕ اِنَّهُ كَانَ ظَلُوماً جَهُولاًۙ "
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Muhakkak ki biz o Emaneti (Esmâ şuuruyla yaşamayı), semâlara (benlik bilincine), arza (bedene) ve dağlara (organlara) önerdik de, onu yüklenmekten kaçındılar (Esmâ bileşimleri onu açığa çıkarmaya elvermedi); ve ondan korktular! Onu, İnsan (hilâfeti oluşturan Esmâ mânâlarını açığa çıkarma şuuru) yüklendi! Muhakkak ki o zâlim (hakikatini hakkıyla yaşamakta yetersiz) ve cahildir (sınırsız Esmâ’yı bilmede yetersizdir)!"
-                    },
-                    {
-                        "type": "fotograf",
-                        "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0057_kus.jpg"
-                    },
-                    {
-                        "type": "alinti",
-                        "author":"'Ahzap 73'",
-                        "text": "لِيُعَذِّبَ اللّٰهُ الْمُنَافِقٖينَ وَالْمُنَافِقَاتِ وَالْمُشْرِكٖينَ وَالْمُشْرِكَاتِ وَيَتُوبَ اللّٰهُ عَلَى الْمُؤْمِنٖينَ وَالْمُؤْمِنَاتِؕ وَكَانَ اللّٰهُ غَفُوراً رَحٖيماً"
-                    },
-                    {
-                        "type": "alt_baslik",
-                        "text": "Mana"
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Allâh, münafık erkeklerle münafık kadınları ve müşrik erkeklerle müşrik kadınları azaplandıracak; iman etmiş erkeklerle iman etmiş kadınların tövbelerini de gerçekleştirecektir... Allâh Ğafûr’dur, Rahıym’dir."
-                    },
-                    {
-                        "type": "metin",
-                        "text": "Gönülden\nSelam Olsun."
-                    }
-                ]
-            }
-        }
-    },
+
 
         {
         "id":202401141808,
