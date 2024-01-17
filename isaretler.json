@@ -2,6 +2,119 @@
     "ayetler": [
 
 {
+    "id": 202401172249,
+    "article": {
+        "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0098_kus.jpg",
+            "date_value": "2024'den",
+            "mini_title": "agah olasın",
+            "tags": [
+                "tesviye "
+            ],
+            "title": "Hicr 29’dan",
+            "subtitle": "İşaret"
+        },
+        "main_article": {
+            "quotes": [
+                {
+                    "type": "baslik",
+                    "text": "Hicr 29’dan"
+                },
+                {
+                    "type": "alinti",
+                    "author": "'Hicr 29'",
+                    "text": "فَاِذَا سَوَّيْتُهُ وَنَفَخْتُ فٖيهِ مِنْ رُوحٖي فَقَعُوا لَهُ سَاجِدٖينَ"
+                },
+                {
+                    "type": "alt_baslik",
+                    "text": "Mana"
+                },
+                {
+                    "type": "metin",
+                    "text": "Onu tesviye edip (beden ve beyini kemâle erdirip), ona Ruhumdan (Esmâ mânâlarımın özelliklerinden) nefhettim (üfledim); (böylece buyurdum) Ona secdeye kapanın (Onun kuvveleri olarak hizmetine girin)!"
+                }
+            ]
+        }
+    }
+},
+
+        
+{
+    "id": 202401172239,
+    "article": {
+        "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0097_kus.jpg",
+            "date_value": "2024'den",
+            "mini_title": "agah olasın",
+            "tags": [
+                "Arz"
+            ],
+            "title": "Hadid 22’den",
+            "subtitle": "İşaret"
+        },
+        "main_article": {
+            "quotes": [
+                {
+                    "type": "baslik",
+                    "text": "Hadid 22’den"
+                },
+                {
+                    "type": "alinti",
+                    "author": "'Hadid 22'",
+                    "text": "مَٓا اَصَابَ مِنْ مُصٖيبَةٍ فِي الْاَرْضِ وَلَا فٖٓي اَنْفُسِكُمْ اِلَّا فٖي كِتَابٍ مِنْ قَبْلِ اَنْ نَبْرَاَهَاؕ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَسٖيرٌۚ"
+                },
+                {
+                    "type": "alt_baslik",
+                    "text": "Mana"
+                },
+                {
+                    "type": "metin",
+                    "text": "Arzda (bedeninizde - dış dünyanızda) ve nefslerinizde (iç dünyanızda) size isâbet eden hiçbir musîbet yoktur ki, bizim onu yaratmamızdan önce, bir kitapta (ilim boyutunda oluşmuş) olmasın! Muhakkak ki bu Allâh üzerine çok kolaydır!"
+                }
+            ]
+        }
+    }
+},
+        
+
+{
+    "id": 202401172237,
+    "article": {
+        "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0096_kus.jpg",
+            "date_value": "2024'den",
+            "mini_title": "agah olasın",
+            "tags": [
+                "Hu"
+            ],
+            "title": "Hadid 3’ten",
+            "subtitle": "İşaret"
+        },
+        "main_article": {
+            "quotes": [
+                {
+                    "type": "baslik",
+                    "text": "Hadid 3’ten"
+                },
+                {
+                    "type": "alinti",
+                    "author": "'Hadid 3'",
+                    "text": "هُوَ الْاَوَّلُ وَالْاٰخِرُ وَالظَّاهِرُ وَالْبَاطِنُۚ وَهُوَ بِكُلِّ شَيْءٍ عَلٖيمٌ"
+                },
+                {
+                    "type": "alt_baslik",
+                    "text": "Mana"
+                },
+                {
+                    "type": "metin",
+                    "text": "‘HÛ’dur, Evvel, Âhir, Zâhir, Bâtın (‘HÛ’dan gayrı olarak hiçbir şey yoktur)! O Bi-küllî şey’in (Esmâ’sıyla her şey’i yaratmış olan olarak) Aliym’dir (Bilen’dir şeylerin tamamını)!"
+                }
+            ]
+        }
+    }
+},
+        
+{
     "id": 202401172202,
     "article": {
         "header": {
@@ -9,8 +122,7 @@
             "date_value": "2024'den",
             "mini_title": "agah olasın",
             "tags": [
-                "Uyku",
-                "Ölüm"
+                "Cennet"
             ],
             "title": "Fussilet 30’dan",
             "subtitle": "İşaret"
