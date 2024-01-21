@@ -1,65 +1,6 @@
 {
     "isaretler": [
 
-
-        {
-    "id": 202401212003,
-    "article": {
-        "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0013_kus.jpg",
-            "date_value": "2024'den",
-            "mini_title": "agah olasın",
-            "tags": [
-                ""
-            ],
-            "title": "En’am 60’tan",
-            "subtitle": "İşaret"
-        },
-        "main_article": {
-            "quotes": [
-                {
-                    "type": "baslik",
-                    "text": "En’am 60’tan"
-                },
-                {
-                    "type": "alinti",
-                    "author": "'En’am 60'",
-                    "text": "وَهُوَ الَّذٖي يَتَوَفّٰيكُمْ بِالَّيْلِ وَيَعْلَمُ مَا جَرَحْتُمْ بِالنَّهَارِ ثُمَّ يَبْعَثُكُمْ فٖيهِ لِيُقْضٰٓى اَجَلٌ مُسَمًّىۚ ثُمَّ اِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَࣖ "
-                },
-                {
-                    "type": "alt_baslik",
-                    "text": "Mana"
-                },
-                {
-                    "type": "metin",
-                    "text": "metin girebilirsiniz"
-                },
-                {
-                    "type": "spoiler",
-                    "text": "« Yazsak da yazmasak da, her şeydeki mucize konuşana dek sessizce yürümek şiirdir. »"
-                },
-                {
-                    "type": "fotograf",
-                    "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0013_kus.jpg"
-                },
-                {
-                    "type": "metin",
-                    "text": "buraya giris yapınız"
-                },
-                {
-                    "type": "ses",
-                    "url": "https://www.mediafire.com/file_premium/g9vdwok1832r3w4/sarayda_debu.mp3"
-                },
-                {
-                    "type": "soru",
-                    "faq": "Kendimle ve Dünya ile Sessizlik Olarak Nasıl Tanışabilirim?",
-                    "text": "Bilmiyorum..."
-                }
-            ]
-        }
-    }
-},
-
 {
     "id": 202401172249,
     "article": {
