@@ -1,6 +1,10 @@
 {
   "isaretler": [
-
+{
+      "text": "Tebessümüke vech-i ehîke sadakatün.\n\nKardeşinin yüzüne gülmen sadakadır.",
+      "quran": "تَبَسُّمُكَ وَجْهِ أخِيكَ صَدَقَةٌ",
+      "id": 202402232201
+    },
     {
       "text": "Len tü’minü hattâ tehabbü, ve leedelleküm ‘alâ mâ etehabbûne ‘aleyhi efşû’s-selâme beyneküm vellezî nefsî biyedihî lâ tedhulü’l-cennete hattâ terâhamû, kâlû yâ rasûlullah küllünâ rahime, kâle leyse bi-rahmeti ehadiküm hâssaten velâkinne rahmeten âmmeh.\n\nHiçbiriniz iman edemezsiniz birbirinizi sevmedikçe. Yaptığınızda birbirinizi seveceğiniz bir yol göstereyim mi? Aranızda selamı yayınız. Canım elinde olan Allah’a yemin olsun ki cennete giremezsiniz birbirinize merhamet etmedikçe. Dediler ki: Biz birbirimize merhamet ediyoruz. Buyurdu ki: Bu, birinizin birinize özel olarak rahmet etmesi değil umûmî rahmettir.",
       "quran": "لن تؤمن حتي تحب، ولادلكم علي ما اتحبون عليه افشو السلام بينكم والذي نفسي بيده لا تدخل الجنة حتي تراحمو قالو يا رسول الله كلنا رحم قال ليس برحمة احدكم حاصة ولكن رحمة عامة.",
@@ -30,10 +34,6 @@
 {
       "text": "Yarım hurma verecek olsanız bile dilenciyi (sâili) boş çevirmeyiniz.\n\n(Sâil, hem dilenci hem de soran-isteyen demektir. Yarım elma gönül alma.)",
       "id": 202402202044
-    },
-    {
-      "text": "… kardeşinin yüzüne gülmen sadakadır…",
-      "id": 202402202043
     },
     {
       "text": "Hayru’l-umûri evsatuhâ.\n\nİşlerin hayırlısı vasat (orta) olandır.",
