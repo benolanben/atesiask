@@ -34,7 +34,7 @@ Promise.all(promises).then(jsonDatas => {
     // JSON verisini bir metin haline getirme
     var jsonString = JSON.stringify(menba, null, 2);
     // JSON metnini ekrana yazdırma
-    document.getElementById('jsonContainer').innerText = jsonString;
+    document.body.innerHTML = jsonString;
 });
 
 function adresleri_incele(jsonFile) {
