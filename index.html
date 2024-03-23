@@ -1,1 +1,22 @@
 <h1>ÇOK SEVİYORUM</h1>
+<script>
+        // JSON dosyasını okumak için XMLHttpRequest kullanacağız
+        var xhr = new XMLHttpRequest();
+        
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                // JSON verisini alırız
+                var jsonData = JSON.parse(xhr.responseText);
+                
+                // Veriyi kullanabiliriz
+                console.log(jsonData);
+            }
+        };
+        
+        // JSON dosyasının yolu
+        var jsonFile = 'hadisler.json';
+        
+        // GET isteği ile JSON dosyasını alırız
+        xhr.open('GET', jsonFile, true);
+        xhr.send();
+    </script>
