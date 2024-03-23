@@ -1,22 +1,51 @@
-<h1>ÇOK SEVİYORUM</h1>
+    <div id="jsonContainer"></div>
 <script>
-        // JSON dosyasını okumak için XMLHttpRequest kullanacağız
+
+       var menba = {
+    githubUrl: "https://raw.githubusercontent.com/benolanben/atesiask/main/",
+    link: [
+        { kaynak: "umutrehberi", gonderi: -1, adi: "Bana Oyle Gelmiş  " },
+        { kaynak: "simurg", gonderi: -1, adi: "Simurg  " },
+        { kaynak: "kendinolmayageldin", gonderi: -1, adi: "Bulan Ol Kendi Oldu  " },
+        { kaynak: "hadisler", gonderi: -1, adi: "Hadisler'den  " },
+        { kaynak: "ayetler", gonderi: -1, adi: "Ayetler'den  " },
+        { kaynak: "duyulanlar", gonderi: -1, adi: "D.uyulanlar  " },
+        { kaynak: "kussesleri", gonderi: -1, adi: "Kuş Sesleri  " },
+        { kaynak: "kelamikibar", gonderi: -1, adi: "Kelâm-ı Kibar  " },
+        { kaynak: "soylesikayitlari", gonderi: -1, adi: "Söyleşi Kayıtları  " },
+
+        // { kaynak: "kussesleri", gonderi: -1, adi: "Kuş Sesleri  " }
+
+    ],
+    tema: "#26ABA3"
+}
+
+         for (let i = 0; i < menba.link.length; i++) {
+        const url = `./${menba.link[i].kaynak}.json`;
+        const jsonData = adresleri_incele(url);
+        menba.link[i].gonderi = jsonData.isaretler.length;
+    }
+
+        
+      function adresleri_incele(jsonFile) {
+              // JSON dosyasını okumak için XMLHttpRequest kullanacağız
         var xhr = new XMLHttpRequest();
         
         xhr.onreadystatechange = function () {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 // JSON verisini alırız
                 var jsonData = JSON.parse(xhr.responseText);
+                // JSON verisini ekrana yazdır
+                    document.getElementById('jsonContainer').innerText += JSON.stringify(jsonData, null, 2);
                 
                 // Veriyi kullanabiliriz
                 console.log(jsonData);
             }
         };
         
-        // JSON dosyasının yolu
-        var jsonFile = 'hadisler.json';
-        
         // GET isteği ile JSON dosyasını alırız
         xhr.open('GET', jsonFile, true);
         xhr.send();
+      }  
+        
     </script>
