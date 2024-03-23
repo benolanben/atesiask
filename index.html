@@ -20,32 +20,41 @@
     tema: "#26ABA3"
 }
 
-         for (let i = 0; i < menba.link.length; i++) {
-        const url = `./${menba.link[i].kaynak}.json`;
-        const jsonData = adresleri_incele(url);
-        menba.link[i].gonderi = jsonData.isaretler.length;
-    }
+const promises = [];
+for (let i = 0; i < menba.link.length; i++) {
+    const url = `./${menba.link[i].kaynak}.json`;
+    promises.push(adresleri_incele(url));
+}
 
-        
-      function adresleri_incele(jsonFile) {
-              // JSON dosyasını okumak için XMLHttpRequest kullanacağız
+Promise.all(promises).then(jsonDatas => {
+    jsonDatas.forEach((jsonData, index) => {
+        menba.link[index].gonderi = jsonData.isaretler.length;
+    });
+
+    // JSON verisini bir metin haline getirme
+    var jsonString = JSON.stringify(menba, null, 2);
+    // JSON metnini ekrana yazdırma
+    document.getElementById('jsonContainer').innerText = jsonString;
+});
+
+function adresleri_incele(jsonFile) {
+    return new Promise((resolve, reject) => {
         var xhr = new XMLHttpRequest();
         
         xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                // JSON verisini alırız
-                var jsonData = JSON.parse(xhr.responseText);
-                // JSON verisini ekrana yazdır
-                    document.getElementById('jsonContainer').innerText += JSON.stringify(jsonData, null, 2);
-                
-                // Veriyi kullanabiliriz
-                console.log(jsonData);
+            if (xhr.readyState === 4) {
+                if (xhr.status === 200) {
+                    var jsonData = JSON.parse(xhr.responseText);
+                    resolve(jsonData);
+                } else {
+                    reject(new Error('JSON dosyası yüklenirken hata oluştu'));
+                }
             }
         };
         
-        // GET isteği ile JSON dosyasını alırız
         xhr.open('GET', jsonFile, true);
         xhr.send();
-      }  
+    });
+}
         
     </script>
