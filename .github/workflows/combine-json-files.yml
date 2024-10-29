@@ -35,7 +35,10 @@ jobs:
         run: |
           echo "Combining sesler from JSON files..."
           mkdir -p kaynak  # "kaynak" klasörünün varlığını garantiye al
-          jq -s '{sesler: map(.sesler) | add | flatten}' kaynak/baska.json kaynak/yunus.json > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
+          # JSON verilerini bir değişkende topla
+          combined_data=$(jq -s '[.[][]]' kaynak/baska.json kaynak/yunus.json)
+          # Yeni JSON dosyasını oluştur
+          echo "{\"sesler\": $combined_data}" > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
 
 
       # Değişiklikleri Commit Et ve Pushla
