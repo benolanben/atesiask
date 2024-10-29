@@ -31,14 +31,14 @@ jobs:
           jq '.' kaynak/yunus.json || { echo "Error in yunus.json"; exit 1; }
 
       # JSON Dosyalarını Birleştir
+      # JSON Dosyalarını Birleştir
       - name: Combine "sesler" Arrays
         run: |
           echo "Combining sesler from JSON files..."
           mkdir -p kaynak  # "kaynak" klasörünün varlığını garantiye al
-          # JSON verilerini bir değişkende topla
-          combined_data=$(jq -s '[.[][]]' kaynak/baska.json kaynak/yunus.json)
-          # Yeni JSON dosyasını oluştur
-          echo "{\"sesler\": $combined_data}" > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
+          combined_data=$(jq -s '{sesler: map(.sesler[]) | add}' kaynak/baska.json kaynak/yunus.json)
+          echo "$combined_data" > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
+
 
 
       # Değişiklikleri Commit Et ve Pushla
