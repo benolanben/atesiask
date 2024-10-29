@@ -32,7 +32,7 @@ jobs:
         run: |
           echo "Combining sesler from JSON files..."
           mkdir -p kaynak  # "kaynak" klasörünün varlığını garantiye al
-          jq -s '{sesler: map(.sesler) | add}' kaynak/baska.json kaynak/saz.json > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
+          jq -s '{sesler: map(.sesler) | add}' kaynak/baska.json > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
 
       # Değişiklikleri Commit Et ve Pushla
       - name: Commit and push changes
