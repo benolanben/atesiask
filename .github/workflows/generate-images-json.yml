@@ -47,12 +47,12 @@ jobs:
           cat medya/images.json
           jq '.' medya/images.json
 
-      # Değişiklikleri commit et ve pushla
+      # Değişiklikleri Commit Et ve Pushla
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add medya/images.json
-          git commit -m "Add generated images.json with image metadata"
-          git push https://[PAT]@github.com/benolanben/atesiask.git HEAD:main || { echo "Failed to push changes"; exit 1; }
+          git commit -m "guncellendi images.json"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main || { echo "Failed to push changes"; exit 1; }
 
