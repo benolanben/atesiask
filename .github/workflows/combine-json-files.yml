@@ -46,11 +46,12 @@ jobs:
             jq '.sesler' "kaynak/$file" | jq -s '.[0] + {sesler: (.[0].sesler + .[1])}' kaynak/yeni.json - > temp.json \
               && mv temp.json kaynak/yeni.json || { echo "Failed to append $file"; exit 1; }
           done
-      
+
+              # Birleştirilmiş verinin uzunluğunu yazdır
+          echo "The length of the 'sesler' array in yeni.json is:"
+          jq '.sesler | length' kaynak/yeni.json
+          
           echo "Successfully combined JSON files into kaynak/yeni.json."
-
-
-
 
 
 
