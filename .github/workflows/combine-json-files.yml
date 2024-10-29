@@ -31,18 +31,20 @@ jobs:
           jq '.' kaynak/yunus.json || { echo "Error in yunus.json"; exit 1; }
 
       # JSON Dosyalarını Birleştir
-      - name: Combine "sesler" Arrays
+      - name: Combine "sesler" Arrays Sequentially
         run: |
           echo "Combining sesler from JSON files..."
           mkdir -p kaynak  # "kaynak" klasörünün varlığını garantiye al
       
-          # İlk olarak baska.json dosyasını yeni.json'a yaz
-          jq '. | {sesler: .sesler}' kaynak/baska.json > kaynak/yeni.json || { echo "Failed to write baska.json"; exit 1; }
+          # İlk olarak baska.json dosyasını yeni.json'a yazarak başla
+          jq '{sesler: .sesler}' kaynak/baska.json > kaynak/yeni.json || { echo "Failed to write baska.json"; exit 1; }
       
-          # Şimdi yunus.json dosyasını yeni.json'a ekle
-          jq '. | {sesler: .sesler}' kaynak/yunus.json >> kaynak/yeni.json || { echo "Failed to append yunus.json"; exit 1; }
+          # Şimdi yunus.json dosyasındaki sesleri mevcut yeni.json'a ekle
+          jq '.sesler' kaynak/yunus.json | jq -s '.[0] + {sesler: .[1] + .sesler}' kaynak/yeni.json - > kaynak/yeni.json.temp || { echo "Failed to append yunus.json"; exit 1; }
+          
+          # Sonucu yeni.json olarak güncelle
+          mv kaynak/yeni.json.temp kaynak/yeni.json
       
-          # Birleştirilmiş veriyi kontrol et
           echo "Successfully combined JSON files into kaynak/yeni.json."
 
 
