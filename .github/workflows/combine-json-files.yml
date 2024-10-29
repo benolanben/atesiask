@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - main  # Burada 'main' branch'ini hedefliyoruz
-
+      
+permissions:
+  contents: write  # GitHub Actions botuna yazma izni verin
+  
 jobs:
   combine_json_files:
     runs-on: ubuntu-latest
