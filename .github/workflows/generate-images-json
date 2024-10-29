@@ -1,0 +1,58 @@
+name: Generate Images JSON
+
+on:
+  push:
+    branches:
+      - main  # 'main' branch'indeki değişikliklerde çalışacak
+
+jobs:
+  generate_images_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Yalnızca "medya" klasörünü çek
+      - name: Set up git and sparse-checkout for 'medya'
+        run: |
+          git init
+          git remote add origin https://github.com/benolanben/atesiask.git
+          git config core.sparseCheckout true
+          echo "medya" >> .git/info/sparse-checkout
+          git pull origin main
+
+      # Gerekli araçları yükle
+      - name: Install dependencies
+        run: sudo apt-get install imagemagick -y
+
+      # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
+      - name: Create images.json
+        run: |
+          mkdir -p medya/kuslar
+          image_list=$(find medya/kuslar -type f \( -iname "*.jpg" -o -iname "*.png" \))
+          echo '{ "isaretler": [' > medya/images.json
+
+          for image in $image_list; do
+            dimensions=$(identify -format '%w %h' "$image")
+            width=$(echo "$dimensions" | cut -d' ' -f1)
+            height=$(echo "$dimensions" | cut -d' ' -f2)
+            echo '  {"width": "'$width'", "height": "'$height'", "path": "'$(basename "$image")'"},' >> medya/images.json
+          done
+
+          # Son virgülü kaldırarak JSON formatını düzelt ve dosyayı kapat
+          sed -i '$ s/,$//' medya/images.json
+          echo ']}' >> medya/images.json
+
+      # Oluşturulan JSON dosyasını doğrula
+      - name: Verify images.json
+        run: |
+          cat medya/images.json
+          jq '.' medya/images.json
+
+      # Değişiklikleri commit et ve pushla
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add medya/images.json
+          git commit -m "Add generated images.json with image metadata"
+          git push https://[PAT]@github.com/benolanben/atesiask.git HEAD:main || { echo "Failed to push changes"; exit 1; }
+
