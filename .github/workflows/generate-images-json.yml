@@ -32,19 +32,20 @@ jobs:
       - name: Create images.json
         run: |
           mkdir -p medya/atesiask
-          image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \))
+          image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \) -print0)
           echo '{ "isaretler": [' > medya/images.json
-
-          for image in $image_list; do
+      
+          while IFS= read -r -d '' image; do
             dimensions=$(identify -format '%w %h' "$image")
             width=$(echo "$dimensions" | cut -d' ' -f1)
             height=$(echo "$dimensions" | cut -d' ' -f2)
             echo '  {"width": "'$width'", "height": "'$height'", "path": "'$(basename "$image")'"},' >> medya/images.json
-          done
-
+          done < <(echo "$image_list")
+      
           # Son virgülü kaldırarak JSON formatını düzelt ve dosyayı kapat
           sed -i '$ s/,$//' medya/images.json
           echo ']}' >> medya/images.json
+
 
       # Oluşturulan JSON dosyasını doğrula
       - name: Verify images.json
