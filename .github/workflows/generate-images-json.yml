@@ -57,7 +57,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add medya/images.json
+          git add --sparse medya/images.json  # --sparse bayrağını ekleyin
           git commit -m "guncellendi images.json"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main || { echo "Failed to push changes"; exit 1; }
-
