@@ -18,13 +18,22 @@ jobs:
           git config core.sparseCheckout true
           echo "kaynak" >> .git/info/sparse-checkout
           git pull origin main
-          
+
+      # JSON Dosyalarını Kontrol Et
+      - name: Validate JSON Files
+        run: |
+          echo "Validating baska.json..."
+          jq '.' kaynak/baska.json || { echo "Error in baska.json"; exit 1; }
+          echo "Validating saz.json..."
+          jq '.' kaynak/saz.json || { echo "Error in saz.json"; exit 1; }
+
       # JSON Dosyalarını Birleştir
       - name: Combine "sesler" Arrays
         run: |
-          mkdir -p output
-          jq -s '{sesler: map(.sesler) | add}' kaynak/baska.json kaynak/saz.json > output/yeni.json
-          
+          echo "Combining sesler from JSON files..."
+          mkdir -p kaynak  # "kaynak" klasörünün varlığını garantiye al
+          jq -s '{sesler: map(.sesler) | add}' kaynak/baska.json kaynak/saz.json > kaynak/yeni.json || { echo "Failed to combine JSON files"; exit 1; }
+
       # Değişiklikleri Commit Et ve Pushla
       - name: Commit and push changes
         run: |
