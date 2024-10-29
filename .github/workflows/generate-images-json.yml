@@ -29,19 +29,20 @@ jobs:
         run: sudo apt-get install imagemagick -y
 
       # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
+      # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
       - name: Create images.json
         run: |
           mkdir -p medya/atesiask
-          image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \) -print0)
+          image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \))
           echo '{ "isaretler": [' > medya/images.json
-      
-          while IFS= read -r -d '' image; do
+
+          for image in $image_list; do
             dimensions=$(identify -format '%w %h' "$image")
             width=$(echo "$dimensions" | cut -d' ' -f1)
             height=$(echo "$dimensions" | cut -d' ' -f2)
             echo '  {"width": "'$width'", "height": "'$height'", "path": "'$(basename "$image")'"},' >> medya/images.json
-          done < <(echo "$image_list")
-      
+          done
+
           # Son virgülü kaldırarak JSON formatını düzelt ve dosyayı kapat
           sed -i '$ s/,$//' medya/images.json
           echo ']}' >> medya/images.json
