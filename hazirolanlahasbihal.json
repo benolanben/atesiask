@@ -4,7 +4,7 @@
   "id": 202405301717,
   "article": {
     "header": {
-      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/133112733_197176148708263_2510075365411022922_n_18099571276200180.jpg",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/133112733_197176148708263_2510075365411022922_n_18099571276200180.jpg",
       "date_value": "2021.10.12'den",
       "mini_title": "agah olasın",
       "tags": [
@@ -32,7 +32,7 @@
   "id": 202405301659,
   "article": {
     "header": {
-      "background_image": "https://kardelendergisi.com/atesiask/images/ramadan_1438_5.jpg",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/ramadan_1438_5.jpg",
       "date_value": "2021.10.09'den",
       "mini_title": "agah olasın",
       "tags": [
@@ -64,7 +64,7 @@
   "id": 202405301641,
   "article": {
     "header": {
-      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/136755608_242980433899215_1567224778444815066_n_17857881443360829.jpg",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/136755608_242980433899215_1567224778444815066_n_17857881443360829.jpg",
       "date_value": "2021.10.05'den",
       "mini_title": "agah olasın",
       "tags": [
@@ -92,7 +92,7 @@
     "id": 202404021630,
     "article": {
         "header": {
-            "background_image": "https://kardelendergisi.com/atesiask/images/yeni27.jpg",
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/yeni27.jpg",
             "date_value": "2021.10.03'den",
             "mini_title": "agah olasın",
             "tags": [
@@ -124,7 +124,7 @@
             "id": 202403262041,
             "article": {
                 "header": {
-                    "background_image": "https://kardelendergisi.com/atesiask/images/kuslara_serbest2.jpg",
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/kuslara_serbest2.jpg",
                     "date_value": "2021.10.01'den",
                     "mini_title": "agah olasın",
                     "tags": [
@@ -141,7 +141,7 @@
                         },
                         {
                             "type": "ses",
-                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/kus_sesi.mp3"
+                            "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/kus_sesi.mp3"
                         },
                         {
                             "type": "metin",
@@ -155,7 +155,7 @@
             "id": 202403252240,
             "article": {
                 "header": {
-                    "background_image": "https://kardelendergisi.com/atesiask/images/hira.jpg",
+                    "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/hira.jpg",
                     "date_value": "2021.09.29'dan",
                     "mini_title": "agah olasın",
                     "tags": [
@@ -188,7 +188,7 @@
       "id": 202403251603,
       "article": {
         "header": {
-          "background_image": "https://kardelendergisi.com/atesiask/images/yeni226.jpg",
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/yeni226.jpg",
           "date_value": "2021.09.26'dan",
           "mini_title": "agah olasın",
           "tags": [
@@ -219,7 +219,7 @@
       "id": 202403241657,
       "article": {
         "header": {
-          "background_image": "https://kardelendergisi.com/atesiask/images/yeni203.jpg",
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/yeni203.jpg",
           "date_value": "2021.09.25'den",
           "mini_title": "agah olasın",
           "tags": [
@@ -250,7 +250,7 @@
       "id": 202403241210,
       "article": {
         "header": {
-          "background_image": "https://kardelendergisi.com/atesiask/images/yeni202.jpg",
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/yeni202.jpg",
           "date_value": "2021.09.24'den",
           "mini_title": "agah olasın",
           "tags": [
@@ -277,7 +277,7 @@
       "id": 202403240041,
       "article": {
         "header": {
-          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/emredenbiyunus.jpg",
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/emredenbiyunus.jpg",
           "date_value": "2021.09.23'den",
           "mini_title": "agah olasın",
           "tags": [
@@ -298,7 +298,7 @@
             },
             {
               "type": "fotograf",
-              "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/emredenbiyunus.jpg"
+              "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/emredenbiyunus.jpg"
             },
             {
               "type": "metin",
