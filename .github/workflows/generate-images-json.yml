@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main  # 'main' branch'indeki değişikliklerde çalışacak
+    paths:
+      - medya/atesiask/**  # Sadece 'medya/atesiask' klasörü içindeki dosyalar değiştiğinde çalışacak
+
 permissions:
   contents: write  # GitHub Actions botuna yazma izni verin
   
@@ -18,7 +21,7 @@ jobs:
           git init
           git remote add origin https://github.com/benolanben/atesiask.git
           git config core.sparseCheckout true
-          echo "medya" >> .git/info/sparse-checkout
+          echo "medya/atesiask/*" >> .git/info/sparse-checkout
           git pull origin main
 
       # Gerekli araçları yükle
@@ -28,8 +31,8 @@ jobs:
       # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
       - name: Create images.json
         run: |
-          mkdir -p medya/kuslar
-          image_list=$(find medya/kuslar -type f \( -iname "*.jpg" -o -iname "*.png" \))
+          mkdir -p medya/atesiask
+          image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \))
           echo '{ "isaretler": [' > medya/images.json
 
           for image in $image_list; do
