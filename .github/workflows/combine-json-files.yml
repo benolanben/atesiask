@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main  # Burada 'main' branch'ini hedefliyoruz
+    paths:
+      - kaynak/**  # Sadece 'kaynak' klasörü içindeki dosyalar değiştiğinde çalışacak
       
 permissions:
   contents: write  # GitHub Actions botuna yazma izni verin
