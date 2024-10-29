@@ -10,9 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Adım: Kodu Checkout Et
-      - name: Checkout repository
+      # 1. Adım: Yalnızca kaynak Klasörünü Checkout Et
+      - name: Checkout "kaynak" directory only
         uses: actions/checkout@v2
+        with:
+          # Sadece "kaynak" klasörünü indir
+          path: kaynak
+          sparse-checkout: true
+          fetch-depth: 1
+          sparse-checkout-patterns: |
+            kaynak/
 
       # 2. Adım: JSON Dosyalarını Birleştir
       - name: Combine "isaretler" Arrays
