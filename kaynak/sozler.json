@@ -1,7 +1,5 @@
 {
   "sozler": [
-    "# Değişiklikleri Commit Et ve Pushla\n      - name: Commit and push changes\n        run: |\n          git config --global user.name 'GitHub Actions'\n          git config --global user.email 'actions@github.com'\n          git add kaynak/fihimafih.json\n\n          # Değişiklik olup olmadığını kontrol et\n          if git diff --cached --quiet; then\n            echo 'No changes to commit.'\n          else\n            git commit -m 'Combine sesler arrays into fihimafih.json'\n            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main\n          fi",
-    "[SÖYLEŞİ KAYITLARI'NDAN]\\n\\n- Müsaadenizle size şunu sormak istiyorum:\\n\\nVahdet-i vücud pek yüce bir zevk\\nVarlığın birliği...\\n\\nBunu canlı canlı okuyacak olursak...\\n\\n'Ben-im vücudum', 'Ben-im düşüncelerim' ve 'Ben-im Duyg",
     "« Gerçek, illüzyonun ikili kanatlarında taşınabilir, doğru ancak yalanla anlaşılabilir. »",
     "« Çünkü âridir izâfetten vücûdu dilberin, zevk-i külli isteyen âşık dahi üryân gerek »",
     "« Sır şu ki bir diğeri eninde sonunda sana dönüyor; bir-sen bin-bir-de-sen... »",
