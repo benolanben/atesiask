@@ -52,7 +52,7 @@ jobs:
       
           # Diğer tüm JSON dosyalarını fihimafih.json'daki 'sesler' listesine sırayla ekle
           for file in yunus.json aheng.json cocuk.json cuma.json hakikat.json hu_diyelim.json mevlana.json \
-                      muharrem.json nezih.json niyazi.json nutkuserif.json ramazan.json saz.json tsm.json fihimafih_mestmp3.json
+                      muharrem.json nezih.json niyazi.json nutkuserif.json ramazan.json saz.json tsm.json yeni_mestmp3.json
           do
             jq '.sesler' "kaynak/$file" | jq -s '.[0] + {sesler: (.[0].sesler + .[1])}' kaynak/fihimafih.json - > temp.json \
               && mv temp.json kaynak/fihimafih.json || { echo "Failed to append $file"; exit 1; }
