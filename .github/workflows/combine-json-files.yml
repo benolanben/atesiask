@@ -15,6 +15,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      # Eğer sozler.json veya fotograflar.json dosyaları değiştiyse, iş akışını durdur
+      - name: Check if sozler.json or fotograflar.json changed
+        run: |
+          if git diff --name-only HEAD^ HEAD | grep -qE 'kaynak/(sozler.json|fotograflar.json)'; then
+            echo "sozler.json veya fotograflar.json değişmiş. İşlem durduruluyor."
+            exit 0
+          fi
+          
       # Yalnızca "kaynak" Klasörünü Çek
       - name: Set up git and sparse-checkout
         run: |
@@ -63,6 +72,11 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add kaynak/fihimafih.json
-          git commit -m "Combine sesler arrays into fihimafih.json"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
 
+          # Değişiklik olup olmadığını kontrol et
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Combine sesler arrays into fihimafih.json"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
+          fi
