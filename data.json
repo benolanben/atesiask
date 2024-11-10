@@ -1,1 +1,7 @@
-{ "isaretler": [{ "test": 1111 }] }
+{
+  "isaretler": [
+    {
+      "test": 1234
+    }
+  ]
+}
