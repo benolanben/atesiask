@@ -1,4 +1,4 @@
-name: Sözler Json Güncelle
+name: Check and Update JSON List
 
 on:
   schedule:
@@ -6,48 +6,42 @@ on:
   workflow_dispatch: # Manuel tetikleme için
 
 jobs:
-  compare-and-update:
+  sparse-checkout:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
+    - name: Set up sparse-checkout for "kaynak" directory
+      run: |
+        git init
+        git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git
+        git config core.sparseCheckout true
+        echo "kaynak" >> .git/info/sparse-checkout
+        git pull origin main
 
     - name: Fetch Remote JSON
-      id: fetch_remote
       run: |
         curl -s https://kardelendergisi.com/atesiask/kaynak/sozler.json -o remote.json
 
-    - name: Read Local JSON
+    - name: Compare and Update JSON
       run: |
-        if [ -f kaynak/sozler.json ]; then
-          cat kaynak/sozler.json > local.json
-        else
-          echo '{"sozler": []}' > local.json
+        if [ ! -f kaynak/sozler.json ]; then
+          echo '{"sozler": []}' > kaynak/sozler.json
         fi
 
-    - name: Compare List Lengths
-      id: compare
-      run: |
         remote_length=$(jq '.sozler | length' remote.json)
-        local_length=$(jq '.sozler | length' local.json)
+        local_length=$(jq '.sozler | length' kaynak/sozler.json)
 
         echo "Remote List Length: $remote_length"
         echo "Local List Length: $local_length"
 
         if [ "$remote_length" -ne "$local_length" ]; then
-          echo "Lists are different. Writing remote list to local.json."
+          echo "Lists are different. Updating local JSON."
           cat remote.json > kaynak/sozler.json
-          echo "UPDATED=true" >> $GITHUB_ENV
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add kaynak/sozler.json
+          git commit -m "Update kaynak/sozler.json from remote"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
         else
           echo "Lists are the same. No update needed."
-          echo "UPDATED=false" >> $GITHUB_ENV
-
-    - name: Commit and Push Updated JSON
-      if: env.UPDATED == 'true'
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add kaynak/sozler.json
-        git commit -m "Update kaynak/sozler.json from remote"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
+        fi
