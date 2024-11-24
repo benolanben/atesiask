@@ -1,4 +1,4 @@
-name: Check and Update JSON List
+name: Sozler Json Guncelle
 
 on:
   schedule:
