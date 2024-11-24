@@ -22,7 +22,7 @@ jobs:
       id: define_list
       run: |
         # JSON dosya listesini tanımla
-        FILES=("yunus.json" "aheng.json" "cocuk.json" "cuma.json" "hakikat.json" "hu_diyelim.json" 
+        FILES=("baska.json" "yunus.json" "aheng.json" "cocuk.json" "cuma.json" "hakikat.json" "hu_diyelim.json" 
                "mevlana.json" "muharrem.json" "nezih.json" "niyazi.json" "nutkuserif.json" 
                "ramazan.json" "saz.json" "tsm.json" "yeni_mestmp3.json")
         echo "files=${FILES[*]}" >> $GITHUB_ENV
