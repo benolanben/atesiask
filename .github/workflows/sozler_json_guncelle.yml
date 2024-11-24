@@ -2,7 +2,7 @@ name: Sozler Json Guncelle
 
 on:
   schedule:
-    - cron: "0 */4 * * *" # Her 4 saatte bir
+    - cron: "0 0 * * *"  # Her gün saat 00:00'da
   workflow_dispatch: # Manuel tetikleme için
 
 jobs:
