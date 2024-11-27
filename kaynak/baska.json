@@ -1,13 +1,19 @@
 {
   "sesler": [
     {
-      "sira_no": 1293,
+      "sira_no": 1295,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
     },
     {
       "sira_no": 1294,
+      "parca_adi": "Aşk imamdır bize",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/qdmlg6tj30qusab/ask_imamdir.mp3"
+    },
+    {
+      "sira_no": 1293,
       "parca_adi": "Alaim-i sema",
       "seslendiren": "Ş. Pancaroğlu",
       "url": "https://www.mediafire.com/file/1cj7j31qgee2das/alaim.mp3"
