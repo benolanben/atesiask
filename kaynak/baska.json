@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1296,
+      "sira_no": 1297,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1296,
+      "parca_adi": "Biz-siz",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/q91lf64gaojiov5/bizsiz.mp3"
     },
     {
       "sira_no": 1295,
@@ -6194,7 +6200,7 @@
     },
     {
       "sira_no": 264,
-      "parca_adi": "Girdim aşkin denizine",
+      "parca_adi": "Girdim aşkın denizine",
       "seslendiren": "E. Parlat",
       "url": "https://www.mediafire.com/file/nd7b4j1bwbegwcm/girdimaskin_eparlat.mp3"
     },
