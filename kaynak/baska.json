@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1300,
+      "sira_no": 1301,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1300,
+      "parca_adi": "Derin şifa, nefes",
+      "seslendiren": "S. Yardım",
+      "url": "https://www.mediafire.com/file/z8o37xcqx292mnq/derin_nefes.mp3"
     },
     {
       "sira_no": 1299,
@@ -4160,7 +4166,7 @@
     },
     {
       "sira_no": 607,
-      "parca_adi": "Vech-i yâre düs olan",
+      "parca_adi": "Vech-i yâre düş olan",
       "seslendiren": "G. Rana",
       "url": "https://www.mediafire.com/download/w0d1j1odmm7he09/gr03.mp3"
     },
