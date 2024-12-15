@@ -1,16 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1301,
+      "sira_no": 1302,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
     },
     {
+      "sira_no": 1301,
+      "parca_adi": "Izdırabın sonu",
+      "seslendiren": "B. Sezgin",
+      "url": "https://www.mediafire.com/file/5e459t23tj2fy36/izdirabinsonu_.mp3"
+    },
+    {
       "sira_no": 1300,
       "parca_adi": "Derin şifa, nefes",
       "seslendiren": "S. Yardım",
-      "url": "https://www.mediafire.com/file/z8o37xcqx292mnq/derin_nefes.mp3"
+      "url": "https://www.mediafire.com/file/s260xp82uuiuyfg/derin_sifa.mp3"
     },
     {
       "sira_no": 1299,
