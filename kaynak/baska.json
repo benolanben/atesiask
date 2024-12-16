@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1303,
+      "sira_no": 1304,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1303,
+      "parca_adi": "İnsan olmaya geldim",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/yqoa3b37oentc5k/insanolmy.mp3"
     },
     {
       "sira_no": 1302,
