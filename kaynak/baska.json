@@ -1,10 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1305,
+      "sira_no": 1307,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1306,
+      "parca_adi": "Dağlar dayanmaz enîne",
+      "seslendiren": "V. Dalsaldı",
+      "url": "https://www.mediafire.com/file/grrdnpgcbjaxyv3/daglar_dalsaldi.mp3"
+    },
+    {
+      "sira_no": 1305,
+      "parca_adi": "Kırklar Meydanı",
+      "seslendiren": "C. Karaca",
+      "url": "https://www.mediafire.com/file/zd4ztvh4yxz7cgf/kirklar.mp3"
     },
     {
       "sira_no": 1304,
