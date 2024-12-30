@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1310,
+      "sira_no": 1311,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1310,
+      "parca_adi": "Acemkürdi taksim",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/0hls9uc3uqudzjn/acemkurdi_t.mp3"
     },
     {
       "sira_no": 1309,
@@ -5972,7 +5978,7 @@
     },
     {
       "sira_no": 315,
-      "parca_adi": "Bu meydan açildi",
+      "parca_adi": "Bu meydan açıldı",
       "seslendiren": "U. Sezikli",
       "url": "https://www.mediafire.com/file/6ar0irortzbhigl/bumeydanacildi.mp3"
     },
