@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1313,
+      "sira_no": 1314,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1313,
+      "parca_adi": "Göz vardır görene",
+      "seslendiren": "M. Kılçık",
+      "url": "https://www.mediafire.com/file/cw2a6qa3flre9rh/gozvar_mkilcik.mp3"
     },
     {
       "sira_no": 1312,
