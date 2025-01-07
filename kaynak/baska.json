@@ -1,10 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1316,
+      "sira_no": 1318,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1317,
+      "parca_adi": "Dem-i Mevlevi",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/m3gw5jkaewzfic2/demimevlevi.mp3"
+    },
+    {
+      "sira_no": 1316,
+      "parca_adi": "Çıkmaz Harâbî",
+      "seslendiren": "B. Uymaz",
+      "url": "https://www.mediafire.com/file/e1lrdbta44k89rr/cikmazharabi.mp3"
     },
     {
       "sira_no": 1315,
@@ -2270,7 +2282,7 @@
     },
     {
       "sira_no": 938,
-      "parca_adi": "Usulca basini koy",
+      "parca_adi": "Usulca başını koy",
       "seslendiren": "S. Sergen",
       "url": "https://www.mediafire.com/file/uzhx35abc2ibptj/usulcabasinikoy.mp3"
     },
