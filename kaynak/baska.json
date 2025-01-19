@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1323,
+      "sira_no": 1324,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1323,
+      "parca_adi": "Neydi o akşam",
+      "seslendiren": "B. Sezgin",
+      "url": "https://www.mediafire.com/file/be5kklin39567lz/o_aksam_bss.mp3"
     },
     {
       "sira_no": 1322,
