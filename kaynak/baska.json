@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1326,
+      "sira_no": 1327,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1326,
+      "parca_adi": "Bir dertliyim",
+      "seslendiren": "G. Gülniyaz",
+      "url": "https://www.mediafire.com/file/ac8a725eyhxsxh8/bir_dertliyim.mp3"
     },
     {
       "sira_no": 1325,
@@ -3422,7 +3428,7 @@
     },
     {
       "sira_no": 756,
-      "parca_adi": "Bosu bosuna",
+      "parca_adi": "Boşu boşuna",
       "seslendiren": "B. Uymaz",
       "url": "https://www.mediafire.com/file/d0rmfk4w3lxesjd/bosubosuna_buymaz.mp3"
     },
