@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1327,
+      "sira_no": 1328,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1327,
+      "parca_adi": "O nefes",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/xqx2b18f3d2g83j/o_nefes.mp3"
     },
     {
       "sira_no": 1326,
@@ -6710,8 +6716,8 @@
     },
     {
       "sira_no": 209,
-      "parca_adi": "Kuslara serbest",
-      "seslendiren": "Ü. Akdemir",
+      "parca_adi": "Kuşlara serbest",
+      "seslendiren": "A. Kadrî",
       "url": "https://www.mediafire.com/file/zrbxa3x2icgysqw/kuslara_serbest.mp3"
     },
     {
