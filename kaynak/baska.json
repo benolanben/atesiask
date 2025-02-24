@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1337,
+      "sira_no": 1338,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1337,
+      "parca_adi": "Yıldız sesinden",
+      "seslendiren": "Y. Kenter",
+      "url": "https://www.mediafire.com/file/r5nv044t14cidim/yildizca.mp3"
     },
     {
       "sira_no": 1336,
