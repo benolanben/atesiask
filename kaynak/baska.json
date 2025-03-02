@@ -1,10 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1340,
+      "sira_no": 1342,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1341,
+      "parca_adi": "Derdimin dermânı",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/8z8qmf3plsbo078/dermanihu.mp3"
+    },
+    {
+      "sira_no": 1340,
+      "parca_adi": "Hakikat ehlinin olmaz",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/7gde5hse4i9fjgx/hakikatehlinin.mp3"
     },
     {
       "sira_no": 1339,
