@@ -1,10 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1343,
+      "sira_no": 1345,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1344,
+      "parca_adi": "Hakk'a âşık",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/2wa2qztse3q7vnp/hakkasik.mp3"
+    },
+    {
+      "sira_no": 1343,
+      "parca_adi": "Cümlemiz yek-sân",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/3qpd19we0pbb7sa/cumlemiz_yeksan.mp3"
     },
     {
       "sira_no": 1342,
