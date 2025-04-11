@@ -1,10 +1,28 @@
 {
   "sesler": [
     {
-      "sira_no": 1358,
+      "sira_no": 1361,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1360,
+      "parca_adi": "N'oldu sana böyle",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/tudxxvse7t5cx30/noldusana.mp3"
+    },
+    {
+      "sira_no": 1359,
+      "parca_adi": "O kapıyı kapı",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/7xna9dw64lk3fvv/o_kapiyi.mp3"
+    },
+    {
+      "sira_no": 1358,
+      "parca_adi": "Ölüm odası",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/je3zxsrfj2kgloc/olumodasi.mp3"
     },
     {
       "sira_no": 1357,
@@ -3254,7 +3272,7 @@
     },
     {
       "sira_no": 816,
-      "parca_adi": "Asik oldur kim",
+      "parca_adi": "Âşık oldur kim",
       "seslendiren": "U. Özdemir",
       "url": "https://www.mediafire.com/download/ljm2sv4skfm5ake/amanyadost.mp3"
     },
