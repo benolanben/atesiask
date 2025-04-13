@@ -1,10 +1,22 @@
 {
   "sesler": [
     {
-      "sira_no": 1362,
+      "sira_no": 1364,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1363,
+      "parca_adi": "Kurana Ya Huu",
+      "seslendiren": "B. Sıdkı",
+      "url": "https://www.mediafire.com/file/ukh4ij3yt6x1asg/kurana_yahuu.mp3"
+    },
+    {
+      "sira_no": 1362,
+      "parca_adi": "Biz gittik",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/download/f0kkuakhnaphk82/bizgittik.mp3"
     },
     {
       "sira_no": 1361,
@@ -992,7 +1004,7 @@
     },
     {
       "sira_no": 1197,
-      "parca_adi": "Hicaz-humayun Peşrev",
+      "parca_adi": "Hicaz-hümâyun Peşrev",
       "seslendiren": "U. Sezikli",
       "url": "https://www.mediafire.com/file/iqm1miqru41cj1u/hicazhumayun.mp3"
     },
