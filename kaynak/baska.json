@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1364,
+      "sira_no": 1365,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1364,
+      "parca_adi": "Gelir geçer sanmıştım",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/s8d86eu56ozx5u6/birruzgar.mp3"
     },
     {
       "sira_no": 1363,
@@ -7754,7 +7760,7 @@
     },
     {
       "sira_no": 72,
-      "parca_adi": "Altin tasta gül",
+      "parca_adi": "Yâri sînemde",
       "seslendiren": "M. Toper",
       "url": "https://www.mediafire.com/file/e1wtui4vr6yljyf/acemkurdi_sarki.mp3"
     },
