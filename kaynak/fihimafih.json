@@ -1,13 +1,493 @@
 {
   "sesler": [
     {
-      "sira_no": 1293,
+      "sira_no": 1374,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
     },
     {
+      "sira_no": 1373,
+      "parca_adi": "Üffdendi",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/1tdc2dst3rd61u8/seffaf2.mp3"
+    },
+    {
+      "sira_no": 1372,
+      "parca_adi": "İster idim Allah'ı",
+      "seslendiren": "F. Erkaya",
+      "url": "https://www.mediafire.com/download/hogij8094yu9avj/111-isteridim.mp3"
+    },
+    {
+      "sira_no": 1371,
+      "parca_adi": "Safhâyı sadrında dâim",
+      "seslendiren": "T. İnançer",
+      "url": "https://www.mediafire.com/file/lw47fuiq8hoaegk/hu5_safhayisadr.mp3"
+    },
+    {
+      "sira_no": 1370,
+      "parca_adi": "Aşkın meyine kanmış",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file_premium/21f2jmlfjf9xwt2/askinmeyinekanmis_vd.mp3"
+    },
+    {
+      "sira_no": 1369,
+      "parca_adi": "Deryada deryalıklar",
+      "seslendiren": "Ç. Fidan",
+      "url": "https://www.mediafire.com/file/c12lq5z9k8k4sv9/deryada.mp3"
+    },
+    {
+      "sira_no": 1368,
+      "parca_adi": "Nezr-i Kadrî",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/y2a3fmm45r6u56e/nezri_kadri.mp3"
+    },
+    {
+      "sira_no": 1367,
+      "parca_adi": "Erenlere aşk olsun",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/23zza2g5hvf8ts7/askolsun.mp3"
+    },
+    {
+      "sira_no": 1366,
+      "parca_adi": "Ey gönül gel",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/y2umwedtkazh67b/eygonulgel.mp3"
+    },
+    {
+      "sira_no": 1365,
+      "parca_adi": "Güzel âşık",
+      "seslendiren": "N. Uzel",
+      "url": "https://www.mediafire.com/download/3g164nfnj9goade/guzelasik3.mp3"
+    },
+    {
+      "sira_no": 1364,
+      "parca_adi": "Gelir geçer sanmıştım",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/s8d86eu56ozx5u6/birruzgar.mp3"
+    },
+    {
+      "sira_no": 1363,
+      "parca_adi": "Kurana Ya Huu",
+      "seslendiren": "B. Sıdkı",
+      "url": "https://www.mediafire.com/file/ukh4ij3yt6x1asg/kurana_yahuu.mp3"
+    },
+    {
+      "sira_no": 1362,
+      "parca_adi": "Biz gittik",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/download/f0kkuakhnaphk82/bizgittik.mp3"
+    },
+    {
+      "sira_no": 1361,
+      "parca_adi": "N'oldu sana böyle",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/tudxxvse7t5cx30/noldusana.mp3"
+    },
+    {
+      "sira_no": 1360,
+      "parca_adi": "Mehtabın ışığında",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/jtvl9njiav6jzj6/mehtabin.mp3"
+    },
+    {
+      "sira_no": 1359,
+      "parca_adi": "O kapıyı kapı",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/7xna9dw64lk3fvv/o_kapiyi.mp3"
+    },
+    {
+      "sira_no": 1358,
+      "parca_adi": "Ölüm odası",
+      "seslendiren": "S. Sergen",
+      "url": "https://www.mediafire.com/file/je3zxsrfj2kgloc/olumodasi.mp3"
+    },
+    {
+      "sira_no": 1357,
+      "parca_adi": "Hatırla ama",
+      "seslendiren": "A. Bektaş",
+      "url": "https://www.mediafire.com/file/e8b7emmm7ebo6el/hatirla.mp3"
+    },
+    {
+      "sira_no": 1356,
+      "parca_adi": "Dolap niçin inilersin",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/zazucpzy9aubs3t/dolapnicin.mp3"
+    },
+    {
+      "sira_no": 1355,
+      "parca_adi": "Aşk var soluğunda",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/e1vquyx4i7jsb22/1sus.mp3"
+    },
+    {
+      "sira_no": 1354,
+      "parca_adi": "SON",
+      "seslendiren": "T. Özüfler",
+      "url": "https://www.mediafire.com/file/ywxfplugzr19wgx/son_ufler.mp3"
+    },
+    {
+      "sira_no": 1353,
+      "parca_adi": "Yalnız seni",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/tqhm1dd6foc6afp/yalnizseni_sg.mp3"
+    },
+    {
+      "sira_no": 1352,
+      "parca_adi": "Hakk'ı görmek",
+      "seslendiren": "C. Doğan",
+      "url": "https://www.mediafire.com/file/pddzwifbxwxji70/hakkigormek.mp3"
+    },
+    {
+      "sira_no": 1351,
+      "parca_adi": "Süzül güzel",
+      "seslendiren": "S. Güney",
+      "url": "https://www.mediafire.com/file/1cw4nntvsip1805/suzulguzel_sguney.mp3"
+    },
+    {
+      "sira_no": 1350,
+      "parca_adi": "İyileştirme",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/4x1t1gpz1pmvdz6/iyilestirme.mp3"
+    },
+    {
+      "sira_no": 1349,
+      "parca_adi": "Naz ehliyüz",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/d3s6ulg7yli8thq/nazehli.mp3"
+    },
+    {
+      "sira_no": 1348,
+      "parca_adi": "Boş geçir",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/6pxunn3kzvxld4h/bosgecir_hayyamdan.mp3"
+    },
+    {
+      "sira_no": 1347,
+      "parca_adi": "Kapıldım gidiyorum",
+      "seslendiren": "M. Utandı",
+      "url": "https://www.mediafire.com/file/y0ipz85c9u6wdrq/kapildim_utandi.mp3"
+    },
+    {
+      "sira_no": 1346,
+      "parca_adi": "Aşk vadisi",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/j2l4i819ew914ze/ses.mp3"
+    },
+    {
+      "sira_no": 1345,
+      "parca_adi": "Cemiyet-i dil",
+      "seslendiren": "B. Uymaz",
+      "url": "https://www.mediafire.com/file/k8qvu9ewpt9bne1/cemiiyet.mp3"
+    },
+    {
+      "sira_no": 1344,
+      "parca_adi": "Hakk'a âşık",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/2wa2qztse3q7vnp/hakkasik.mp3"
+    },
+    {
+      "sira_no": 1343,
+      "parca_adi": "Cümlemiz yek-sân",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/3qpd19we0pbb7sa/cumlemiz_yeksan.mp3"
+    },
+    {
+      "sira_no": 1342,
+      "parca_adi": "Şeydâ kılan",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/jozsqhhqivguwu4/seydakilan.mp3"
+    },
+    {
+      "sira_no": 1341,
+      "parca_adi": "Derdimin dermânı",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/8z8qmf3plsbo078/dermanihu.mp3"
+    },
+    {
+      "sira_no": 1340,
+      "parca_adi": "Hakikat ehlinin olmaz",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/7gde5hse4i9fjgx/hakikatehlinin.mp3"
+    },
+    {
+      "sira_no": 1339,
+      "parca_adi": "Beyt-i akla girme",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/ofggkdyrudqqr26/beytiaklagirme.mp3"
+    },
+    {
+      "sira_no": 1338,
+      "parca_adi": "Gül bahçeleri'nden",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/jz0kfftco41obim/gecmez.mp3"
+    },
+    {
+      "sira_no": 1337,
+      "parca_adi": "Yıldız sesinden",
+      "seslendiren": "Y. Kenter",
+      "url": "https://www.mediafire.com/file/r5nv044t14cidim/yildizca.mp3"
+    },
+    {
+      "sira_no": 1336,
+      "parca_adi": "Üçüncü selâmın imdâdı",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/tfwfrbgz77wi6pt/bayati3.mp3"
+    },
+    {
+      "sira_no": 1335,
+      "parca_adi": "Sevdiğim dünyalar kadar",
+      "seslendiren": "M. Selçuk",
+      "url": "https://www.mediafire.com/file/kewot5o3d73orel/vesvese.mp3"
+    },
+    {
+      "sira_no": 1334,
+      "parca_adi": "Gücüm yok",
+      "seslendiren": "D. Tengi",
+      "url": "https://www.mediafire.com/file/9v8lkymuffe3upl/gucumyok_diltengi.mp3"
+    },
+    {
+      "sira_no": 1333,
+      "parca_adi": "Seyr-i dîdâr",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/snp3x8vabe5pzcc/seyrididar.mp3"
+    },
+    {
+      "sira_no": 1332,
+      "parca_adi": "İştiyâk",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/zvi5edy44so3qzh/istiyak2.mp3"
+    },
+    {
+      "sira_no": 1331,
+      "parca_adi": "Bade-i lebinden",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/iqdcq3b1c7yh6wf/badeileb.mp3"
+    },
+    {
+      "sira_no": 1330,
+      "parca_adi": "Namaz niyaz",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/egljsl1uo9t7iy6/namaz_niyaz.mp3"
+    },
+    {
+      "sira_no": 1329,
+      "parca_adi": "Dil hanesi pür nur",
+      "seslendiren": "M. Kemiksiz",
+      "url": "https://www.mediafire.com/file/u23kf075r2qoslb/dilhanesipurnur.mp3"
+    },
+    {
+      "sira_no": 1328,
+      "parca_adi": "Beklerim her gün",
+      "seslendiren": "S. Ayla",
+      "url": "https://www.mediafire.com/file/zkw0xmdnmidawl9/beklerimhergun.mp3"
+    },
+    {
+      "sira_no": 1327,
+      "parca_adi": "O nefes",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/xqx2b18f3d2g83j/o_nefes.mp3"
+    },
+    {
+      "sira_no": 1326,
+      "parca_adi": "Bir dertliyim",
+      "seslendiren": "G. Gülniyaz",
+      "url": "https://www.mediafire.com/file/ac8a725eyhxsxh8/bir_dertliyim.mp3"
+    },
+    {
+      "sira_no": 1325,
+      "parca_adi": "Pervane",
+      "seslendiren": "E. Ogur",
+      "url": "https://www.mediafire.com/file/ju3c5xrihfzjjd3/pervane.mp3"
+    },
+    {
+      "sira_no": 1324,
+      "parca_adi": "Şelalenin sesi",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/2agh42ay8hnl757/selaledir_zu.mp3"
+    },
+    {
+      "sira_no": 1323,
+      "parca_adi": "Neydi o akşam",
+      "seslendiren": "B. Sezgin",
+      "url": "https://www.mediafire.com/file/be5kklin39567lz/o_aksam_bss.mp3"
+    },
+    {
+      "sira_no": 1322,
+      "parca_adi": "Kün emriyle",
+      "seslendiren": "Z. Altun",
+      "url": "https://www.mediafire.com/file/0bhyvu4l550ijew/kuenmri.mp3"
+    },
+    {
+      "sira_no": 1321,
+      "parca_adi": "Aşkî teneffüs",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/11x7kf0tt69nnax/askefza_nefes.mp3"
+    },
+    {
+      "sira_no": 1320,
+      "parca_adi": "Kadrî nefesler",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/q4ysibv7h59dfuk/posttaksimi_p.mp3"
+    },
+    {
+      "sira_no": 1319,
+      "parca_adi": "Murâdî nefesler",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/jbqmu9zgwbbnzfk/z_istedi.mp3"
+    },
+    {
+      "sira_no": 1318,
+      "parca_adi": "Dem-i Mevlevi gazeli",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/dnoy0qfe255w24q/gazel_rumi.mp3"
+    },
+    {
+      "sira_no": 1317,
+      "parca_adi": "Dem-i Mevlevi",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/m3gw5jkaewzfic2/demimevlevi.mp3"
+    },
+    {
+      "sira_no": 1316,
+      "parca_adi": "Çıkmaz Harâbî",
+      "seslendiren": "B. Uymaz",
+      "url": "https://www.mediafire.com/file/e1lrdbta44k89rr/cikmazharabi.mp3"
+    },
+    {
+      "sira_no": 1315,
+      "parca_adi": "Ney-kemençe müşterek taksim",
+      "seslendiren": "K. Erguner",
+      "url": "https://www.mediafire.com/download/334y6xn7tcjtkvh/neykemence.mp3"
+    },
+    {
+      "sira_no": 1314,
+      "parca_adi": "Acem meşk kaydı",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://www.mediafire.com/file/e055rpi6kqqsjx7/acemmesk.mp3"
+    },
+    {
+      "sira_no": 1313,
+      "parca_adi": "Göz vardır görene",
+      "seslendiren": "M. Kılçık",
+      "url": "https://www.mediafire.com/file/cw2a6qa3flre9rh/gozvar_mkilcik.mp3"
+    },
+    {
+      "sira_no": 1312,
+      "parca_adi": "Öyle sermest",
+      "seslendiren": "V. Gündoğdu",
+      "url": "https://www.mediafire.com/file/ed4imuty987h4yw/oyleser_vg.mp3"
+    },
+    {
+      "sira_no": 1311,
+      "parca_adi": "İnsan sûretinde",
+      "seslendiren": "S. Arat",
+      "url": "https://www.mediafire.com/file/g1lkm6kwrxskc28/haydar_sarat.mp3"
+    },
+    {
+      "sira_no": 1310,
+      "parca_adi": "Acemkürdi taksim",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/0hls9uc3uqudzjn/acemkurdi_t.mp3"
+    },
+    {
+      "sira_no": 1309,
+      "parca_adi": "Âlem yüzüne saldı zıyâ",
+      "seslendiren": "M. Mevlevihane",
+      "url": "https://www.mediafire.com/download/rllgdxb0fxmcue6/alemyuzune_mevlevihane.mp3"
+    },
+    {
+      "sira_no": 1308,
+      "parca_adi": "Ey gönül gel Hakk'a",
+      "seslendiren": "B. Uymaz",
+      "url": "https://www.mediafire.com/file/rrokdd6i1ddsfxw/eyghakk.mp3"
+    },
+    {
+      "sira_no": 1307,
+      "parca_adi": "Tuti",
+      "seslendiren": "K. Karaca",
+      "url": "https://www.mediafire.com/file/aghaepl89ink8rl/tuti.mp3"
+    },
+    {
+      "sira_no": 1306,
+      "parca_adi": "Dağlar dayanmaz enîne",
+      "seslendiren": "V. Dalsaldı",
+      "url": "https://www.mediafire.com/file/grrdnpgcbjaxyv3/daglar_dalsaldi.mp3"
+    },
+    {
+      "sira_no": 1305,
+      "parca_adi": "Kırklar Meydanı",
+      "seslendiren": "C. Karaca",
+      "url": "https://www.mediafire.com/file/zd4ztvh4yxz7cgf/kirklar.mp3"
+    },
+    {
+      "sira_no": 1304,
+      "parca_adi": "Pekey dedik",
+      "seslendiren": "E. Doğan",
+      "url": "https://www.mediafire.com/file/3vn4esf4vod8dci/pekey.mp3"
+    },
+    {
+      "sira_no": 1303,
+      "parca_adi": "İnsan olmaya geldim",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/yqoa3b37oentc5k/insanolmy.mp3"
+    },
+    {
+      "sira_no": 1302,
+      "parca_adi": "Nâd-ı Ali",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/odlv37tviz8gzva/nadi_ali.mp3"
+    },
+    {
+      "sira_no": 1301,
+      "parca_adi": "Izdırabın sonu",
+      "seslendiren": "B. Sezgin",
+      "url": "https://www.mediafire.com/file/5e459t23tj2fy36/izdirabinsonu_.mp3"
+    },
+    {
+      "sira_no": 1300,
+      "parca_adi": "Derin Nefes",
+      "seslendiren": "S. Yardım",
+      "url": "https://www.mediafire.com/file/664ccbpevrpbpxd/nefes_derin_sifa.mp3"
+    },
+    {
+      "sira_no": 1299,
+      "parca_adi": "Cihan var olmadan",
+      "seslendiren": "M. Kahraman",
+      "url": "https://www.mediafire.com/file/lv6t6bwe1m28fi7/cihanvar.mp3"
+    },
+    {
+      "sira_no": 1298,
+      "parca_adi": "Siyah perçemlerin",
+      "seslendiren": "K. Cemil",
+      "url": "https://www.mediafire.com/file/ex26pkd13i7zn6c/siyahpercemlerin.mp3"
+    },
+    {
+      "sira_no": 1297,
+      "parca_adi": "Gülistan",
+      "seslendiren": "G. Baktagir",
+      "url": "https://www.mediafire.com/file/jxtxdaqvibgea34/gulistan-baktagir.mp3"
+    },
+    {
+      "sira_no": 1296,
+      "parca_adi": "Biz-siz",
+      "seslendiren": "A. Kadrî",
+      "url": "https://www.mediafire.com/file/q91lf64gaojiov5/bizsiz.mp3"
+    },
+    {
+      "sira_no": 1295,
+      "parca_adi": "Yâd-ı hayâl-i yâr",
+      "seslendiren": "C. Tanrıkorur",
+      "url": "https://www.mediafire.com/file/k791juiovnfq1xf/baktimagladim.mp3"
+    },
+    {
       "sira_no": 1294,
+      "parca_adi": "Aşk imamdır bize",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/qdmlg6tj30qusab/ask_imamdir.mp3"
+    },
+    {
+      "sira_no": 1293,
       "parca_adi": "Alaim-i sema",
       "seslendiren": "Ş. Pancaroğlu",
       "url": "https://www.mediafire.com/file/1cj7j31qgee2das/alaim.mp3"
@@ -584,7 +1064,7 @@
     },
     {
       "sira_no": 1197,
-      "parca_adi": "Hicaz-humayun Peşrev",
+      "parca_adi": "Hicaz-hümâyun Peşrev",
       "seslendiren": "U. Sezikli",
       "url": "https://www.mediafire.com/file/iqm1miqru41cj1u/hicazhumayun.mp3"
     },
@@ -1760,8 +2240,8 @@
     },
     {
       "sira_no": 1001,
-      "parca_adi": "Aski fisildar sesin",
-      "seslendiren": "A. Ask",
+      "parca_adi": "Aşkı fısıldar sesin",
+      "seslendiren": "A. Aşk",
       "url": "https://www.mediafire.com/file/yrp6as0n6n2e1z3/askifisildar.mp3"
     },
     {
@@ -2138,7 +2618,7 @@
     },
     {
       "sira_no": 938,
-      "parca_adi": "Usulca basini koy",
+      "parca_adi": "Usulca başını koy",
       "seslendiren": "S. Sergen",
       "url": "https://www.mediafire.com/file/uzhx35abc2ibptj/usulcabasinikoy.mp3"
     },
@@ -2276,7 +2756,7 @@
     },
     {
       "sira_no": 915,
-      "parca_adi": "Özleyis",
+      "parca_adi": "Özleyiş",
       "seslendiren": "Y. Tokcan",
       "url": "https://www.mediafire.com/file/pu97cx1wjcctx48/ozleyis.mp3"
     },
@@ -2870,7 +3350,7 @@
     },
     {
       "sira_no": 816,
-      "parca_adi": "Asik oldur kim",
+      "parca_adi": "Âşık oldur kim",
       "seslendiren": "U. Özdemir",
       "url": "https://www.mediafire.com/download/ljm2sv4skfm5ake/amanyadost.mp3"
     },
@@ -3230,7 +3710,7 @@
     },
     {
       "sira_no": 756,
-      "parca_adi": "Bosu bosuna",
+      "parca_adi": "Boşu boşuna",
       "seslendiren": "B. Uymaz",
       "url": "https://www.mediafire.com/file/d0rmfk4w3lxesjd/bosubosuna_buymaz.mp3"
     },
@@ -4124,7 +4604,7 @@
     },
     {
       "sira_no": 607,
-      "parca_adi": "Vech-i yâre düs olan",
+      "parca_adi": "Vech-i yâre düş olan",
       "seslendiren": "G. Rana",
       "url": "https://www.mediafire.com/download/w0d1j1odmm7he09/gr03.mp3"
     },
@@ -4952,9 +5432,9 @@
     },
     {
       "sira_no": 469,
-      "parca_adi": "Ask",
+      "parca_adi": "Aşk",
       "seslendiren": "K. Erguner",
-      "url": "https://www.mediafire.com/file/1hugtzjgt0azj3y/101-ask.mp3"
+      "url": "https://www.mediafire.com/file/ys19domnaxfoums/ask_kadri.mp3"
     },
     {
       "sira_no": 468,
@@ -5876,7 +6356,7 @@
     },
     {
       "sira_no": 315,
-      "parca_adi": "Bu meydan açildi",
+      "parca_adi": "Bu meydan açıldı",
       "seslendiren": "U. Sezikli",
       "url": "https://www.mediafire.com/file/6ar0irortzbhigl/bumeydanacildi.mp3"
     },
@@ -6182,7 +6662,7 @@
     },
     {
       "sira_no": 264,
-      "parca_adi": "Girdim aşkin denizine",
+      "parca_adi": "Girdim aşkın denizine",
       "seslendiren": "E. Parlat",
       "url": "https://www.mediafire.com/file/nd7b4j1bwbegwcm/girdimaskin_eparlat.mp3"
     },
@@ -6512,8 +6992,8 @@
     },
     {
       "sira_no": 209,
-      "parca_adi": "Kuslara serbest",
-      "seslendiren": "Ü. Akdemir",
+      "parca_adi": "Kuşlara serbest",
+      "seslendiren": "A. Kadrî",
       "url": "https://www.mediafire.com/file/zrbxa3x2icgysqw/kuslara_serbest.mp3"
     },
     {
@@ -7334,7 +7814,7 @@
     },
     {
       "sira_no": 72,
-      "parca_adi": "Altin tasta gül",
+      "parca_adi": "Yâri sînemde",
       "seslendiren": "M. Toper",
       "url": "https://www.mediafire.com/file/e1wtui4vr6yljyf/acemkurdi_sarki.mp3"
     },
@@ -16069,10 +16549,16 @@
       "url": "https://www.mediafire.com/download/o557mo109834m5a/186-dermanarardim.mp3"
     },
     {
-      "sira_no": 65143,
+      "sira_no": 65144,
       "parca_adi": "Efendim",
       "seslendiren": "T. İnançer",
       "url": "https://www.mediafire.com/file/vdluou2d3wsy0xk/efendim_efendim.mp3"
+    },
+    {
+      "sira_no": 65143,
+      "parca_adi": "Neyzen'e vefâ",
+      "seslendiren": "A. Aşk",
+      "url": "https://www.mediafire.com/file/dchq3irw2a59p3l/neyzen_belgesel.mp3"
     },
     {
       "sira_no": 65142,
