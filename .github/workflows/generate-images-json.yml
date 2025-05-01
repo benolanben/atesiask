@@ -3,62 +3,63 @@ name: Generate Images JSON
 on:
   push:
     branches:
-      - main  # 'main' branch'indeki değişikliklerde çalışacak
+      - main
     paths:
-      - medya/atesiask/**  # Sadece 'medya/atesiask' klasörü içindeki dosyalar değiştiğinde çalışacak
+      - medya/atesiask/**
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
-  contents: write  # GitHub Actions botuna yazma izni verin
+  contents: write
   
 jobs:
   generate_images_json:
     runs-on: ubuntu-latest
 
     steps:
-      # Yalnızca "medya" klasörünü çek
-      - name: Set up git and sparse-checkout for 'medya'
-        run: |
-          git init
-          git remote add origin https://github.com/benolanben/atesiask.git
-          git config core.sparseCheckout true
-          echo "medya/atesiask/*" >> .git/info/sparse-checkout
-          git pull origin main
+      - name: Sparse Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            medya/atesiask/*
+            medya/images.json
+          fetch-depth: 0
 
-      # Gerekli araçları yükle
       - name: Install dependencies
-        run: sudo apt-get install imagemagick -y
+        run: sudo apt-get install imagemagick jq -y
 
-      # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
-      # Medya klasöründeki görsellerin bilgilerini images.json dosyasına yaz
-      - name: Create images.json
+      - name: Create images.json with timestamp
         run: |
-          mkdir -p medya/atesiask
           image_list=$(find medya/atesiask -type f \( -iname "*.jpg" -o -iname "*.png" \))
           echo '{ "isaretler": [' > medya/images.json
-
           for image in $image_list; do
             dimensions=$(identify -format '%w %h' "$image")
             width=$(echo "$dimensions" | cut -d' ' -f1)
             height=$(echo "$dimensions" | cut -d' ' -f2)
-            echo '  {"width": "'$width'", "height": "'$height'", "path": "'$(basename "$image")'"},' >> medya/images.json
-          done
+            filename=$(basename "$image")
+            timestamp="null"
+            
+            # Timestamp çıkarımı
+            if [[ "$filename" =~ -([0-9]+)\.[a-zA-Z]+$ ]]; then
+              timestamp="${BASH_REMATCH[1]}"
+            fi
 
-          # Son virgülü kaldırarak JSON formatını düzelt ve dosyayı kapat
+            # Width ve height string olarak yazılıyor
+            echo "  {\"width\": \"$width\", \"height\": \"$height\", \"path\": \"$filename\", \"timestamp\": $timestamp}," >> medya/images.json
+          done
           sed -i '$ s/,$//' medya/images.json
           echo ']}' >> medya/images.json
 
+      - name: Validate JSON
+        run: jq empty medya/images.json || (echo "Invalid JSON"; exit 1)
 
-      # Oluşturulan JSON dosyasını doğrula
-      - name: Verify images.json
+      - name: Commit & Push
         run: |
-          cat medya/images.json
-          jq '.' medya/images.json
-
-      # Değişiklikleri Commit Et ve Pushla
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add --sparse medya/images.json  # --sparse bayrağını ekleyin
-          git commit -m "guncellendi images.json"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main || { echo "Failed to push changes"; exit 1; }
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add medya/images.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Otomatik: images.json güncellendi"
+          git pull --rebase origin main
+          git push https://${{ github.actor}}:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
