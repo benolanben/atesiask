@@ -29,7 +29,9 @@ jobs:
           fetch-depth: 0
 
       - name: Install dependencies
-        run: sudo apt-get install imagemagick jq -y
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick jq
 
       - name: Create images.json
         run: |
@@ -43,7 +45,6 @@ jobs:
             if [[ "$filename" =~ -([0-9]+)\.[a-zA-Z]+$ ]]; then
               timestamp="${BASH_REMATCH[1]}"
             fi
-
             echo "  {\"width\": \"${dimensions% *}\", \"height\": \"${dimensions#* }\", \"path\": \"$filename\", \"timestamp\": $timestamp}," >> medya/images.json
           done
           sed -i '$ s/,$//' medya/images.json
