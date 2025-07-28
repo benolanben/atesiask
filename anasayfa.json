@@ -1,0 +1,33 @@
+{
+  "son_guncelleme": "2025-07-28T16:48:30.251Z",
+  "surum": "1.0",
+  "isaretler": {
+    "taze": [
+      {
+        "yol": "birbakista.json",
+        "tazeler": [
+          999928878957,
+          993492918577,
+          973551611702
+        ],
+        "son_guncelleme": "2025-07-28T16:48:30.244Z",
+        "toplam_adet": 142
+      },
+      {
+        "yol": "soylesikayitlari.json",
+        "tazeler": [
+          202507271507,
+          202507251945,
+          202507162157
+        ],
+        "son_guncelleme": "2025-07-28T16:48:30.251Z",
+        "toplam_adet": 197
+      }
+    ]
+  },
+  "istatistikler": {
+    "toplam_dosya": 2,
+    "toplam_isaret": 339,
+    "son_aktivite": "2025-07-28T16:48:30.251Z"
+  }
+}
