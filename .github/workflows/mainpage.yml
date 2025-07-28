@@ -42,8 +42,10 @@ jobs:
         
         // Mevcut anasayfa.json dosyasını oku
         let homepage = {
-          header: "Some Header Value",  // Yeni header alanı eklendi
           son_guncelleme: new Date().toISOString(),
+          header: {
+            toplamlar: {}
+          },
           isaretler: {
             taze: []
           }
@@ -52,6 +54,9 @@ jobs:
         if (fs.existsSync('anasayfa.json')) {
           try {
             homepage = JSON.parse(fs.readFileSync('anasayfa.json', 'utf8'));
+            // Eski yapıyla uyumluluk için
+            if (!homepage.header) homepage.header = { toplamlar: {} };
+            if (!homepage.header.toplamlar) homepage.header.toplamlar = {};
           } catch (error) {
             console.log('Mevcut anasayfa.json okunamadı, yeni bir tane oluşturuluyor...');
           }
@@ -59,8 +64,8 @@ jobs:
         
         // İşlenecek dosyalar
         const filesToProcess = [
-          { path: 'birbakista.json', name: 'birbakista.json' },
-          { path: 'soylesikayitlari.json', name: 'soylesikayitlari.json' }
+          { path: 'birbakista.json', name: 'birbakista' },
+          { path: 'soylesikayitlari.json', name: 'soylesikayitlari' }
         ];
         
         let processedFiles = 0;
@@ -70,6 +75,13 @@ jobs:
           if (fs.existsSync(file.path)) {
             try {
               const data = JSON.parse(fs.readFileSync(file.path, 'utf8'));
+              
+              // Toplam adet bilgisini header'a ekle
+              if (data.toplamadet) {
+                homepage.header.toplamlar[file.name] = parseInt(data.toplamadet) || 0;
+              } else {
+                homepage.header.toplamlar[file.name] = 0;
+              }
               
               if (data.isaretler && Array.isArray(data.isaretler)) {
                 // Dosyanın son güncellenme zamanını al
@@ -92,8 +104,7 @@ jobs:
                 const updateData = {
                   yol: file.name,
                   tazeler: sortedItems,
-                  son_guncelleme: fileLastModified,
-                  toplamadet: 142  // Her dosya için "toplamadet":142 eklendi
+                  son_guncelleme: fileLastModified
                 };
                 
                 if (existingIndex !== -1) {
@@ -117,6 +128,7 @@ jobs:
         // anasayfa.json dosyasını güncelle
         fs.writeFileSync('anasayfa.json', JSON.stringify(homepage, null, 2));
         console.log(`anasayfa.json güncellendi - ${processedFiles} dosya işlendi`);
+        console.log('Toplam adetler:', JSON.stringify(homepage.header.toplamlar, null, 2));
         EOF
     
     - name: Validate JSON
