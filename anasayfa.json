@@ -1,27 +1,30 @@
 {
-  "son_guncelleme": "2025-07-28T16:48:30.251Z",
+  "son_guncelleme": "2025-07-28T17:17:44.234Z",
   "surum": "1.0",
   "isaretler": {
     "taze": [
       {
         "yol": "birbakista.json",
-        "tazeler": [
-          999928878957,
-          993492918577,
-          973551611702
-        ],
-        "son_guncelleme": "2025-07-28T16:48:30.244Z",
-        "toplam_adet": 142
+        "tazeler": [],
+        "son_guncelleme": "2025-07-28T17:17:10.208Z"
       },
       {
         "yol": "soylesikayitlari.json",
         "tazeler": [
-          202507271507,
-          202507251945,
-          202507162157
+          {
+            "id": 202507271507,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n~\nEgo, sahte bir benlik a..."
+          },
+          {
+            "id": 202507251945,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nZİHNİN İRONİK ŞAKASI: \nA..."
+          },
+          {
+            "id": 202507162157,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Boşluğa düşmekten, ses..."
+          }
         ],
-        "son_guncelleme": "2025-07-28T16:48:30.251Z",
-        "toplam_adet": 197
+        "son_guncelleme": "2025-07-28T17:17:41.249Z"
       }
     ]
   },
