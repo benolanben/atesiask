@@ -1,0 +1,157 @@
+name: Anasayfa Güncelleme (Gelişmiş)
+
+on:
+  push:
+    paths:
+      - 'birbakista.json'
+      - 'soylesikayitlari.json'
+    branches:
+      - main
+
+jobs:
+  update-homepage:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+    
+    - name: Update Homepage JSON (Enhanced)
+      run: |
+        node << 'EOF'
+        const fs = require('fs');
+        const path = require('path');
+        
+        // Değişen dosyaları tespit et
+        const { execSync } = require('child_process');
+        let changedFiles = [];
+        try {
+          const gitDiff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' });
+          changedFiles = gitDiff.trim().split('\n').filter(f => f.endsWith('.json'));
+        } catch (error) {
+          console.log('Git diff alınamadı, tüm dosyalar işlenecek');
+          changedFiles = ['birbakista.json', 'soylesikayitlari.json'];
+        }
+        
+        // Mevcut anasayfa.json dosyasını oku
+        let homepage = {
+          son_guncelleme: new Date().toISOString(),
+          surum: "1.0",
+          isaretler: {
+            taze: []
+          },
+          istatistikler: {
+            toplam_dosya: 0,
+            toplam_isaret: 0,
+            son_aktivite: new Date().toISOString()
+          }
+        };
+        
+        if (fs.existsSync('anasayfa.json')) {
+          try {
+            homepage = JSON.parse(fs.readFileSync('anasayfa.json', 'utf8'));
+          } catch (error) {
+            console.log('Mevcut anasayfa.json okunamadı, yeni bir tane oluşturuluyor...');
+          }
+        }
+        
+        // İşlenecek dosyalar
+        const filesToProcess = [
+          { path: 'birbakista.json', name: 'birbakista.json' },
+          { path: 'soylesikayitlari.json', name: 'soylesikayitlari.json' }
+        ];
+        
+        let totalItems = 0;
+        let processedFiles = 0;
+        
+        // Her dosyayı işle
+        filesToProcess.forEach(file => {
+          if (fs.existsSync(file.path)) {
+            try {
+              const data = JSON.parse(fs.readFileSync(file.path, 'utf8'));
+              
+              if (data.isaretler && Array.isArray(data.isaretler)) {
+                const itemCount = data.isaretler.length;
+                totalItems += itemCount;
+                
+                // ID'leri büyükten küçüğe sırala ve ilk 3'ünü al
+                const sortedIds = data.isaretler
+                  .map(item => item.id)
+                  .filter(id => id !== undefined && id !== null)
+                  .sort((a, b) => b - a)
+                  .slice(0, 3);
+                
+                // Anasayfa verisinde bu dosya için olan kaydı bul veya oluştur
+                const existingIndex = homepage.isaretler.taze.findIndex(item => item.yol === file.name);
+                
+                const updateData = {
+                  yol: file.name,
+                  tazeler: sortedIds,
+                  son_guncelleme: new Date().toISOString(),
+                  toplam_adet: itemCount
+                };
+                
+                if (existingIndex !== -1) {
+                  homepage.isaretler.taze[existingIndex] = updateData;
+                } else {
+                  homepage.isaretler.taze.push(updateData);
+                }
+                
+                processedFiles++;
+                console.log(`${file.name} işlendi: ${sortedIds.length} taze ID, ${itemCount} toplam`);
+              }
+            } catch (error) {
+              console.error(`${file.name} işlenirken hata oluştu:`, error.message);
+            }
+          }
+        });
+        
+        // İstatistikleri güncelle
+        homepage.son_guncelleme = new Date().toISOString();
+        homepage.istatistikler = {
+          toplam_dosya: processedFiles,
+          toplam_isaret: totalItems,
+          son_aktivite: new Date().toISOString()
+        };
+        
+        // anasayfa.json dosyasını güncelle
+        fs.writeFileSync('anasayfa.json', JSON.stringify(homepage, null, 2));
+        console.log(`anasayfa.json güncellendi - ${processedFiles} dosya, ${totalItems} toplam işaret`);
+        EOF
+    
+    - name: Validate JSON
+      run: |
+        # JSON dosyasının geçerli olduğunu kontrol et
+        if ! jq empty anasayfa.json 2>/dev/null; then
+          echo "❌ anasayfa.json geçersiz JSON formatında!"
+          exit 1
+        else
+          echo "✅ JSON formatı geçerli"
+        fi
+    
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add anasayfa.json
+        
+        # Değişiklik var mı kontrol et
+        if git diff --staged --quiet; then
+          echo "ℹ️ Herhangi bir değişiklik yok"
+        else
+          # Hangi dosyaların değiştiğini commit mesajına ekle
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|soylesikayitlari)\.json' | tr '\n' ' ')
+          git commit -m "🔄 Anasayfa güncellendi
+
+          Değişen dosyalar: $CHANGED_FILES
+          Güncelleme zamanı: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          echo "✅ Değişiklikler commit edildi ve push yapıldı"
+        fi
