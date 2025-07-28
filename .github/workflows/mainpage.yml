@@ -4,7 +4,19 @@ on:
   push:
     paths:
       - 'birbakista.json'
+      - 'birlikdukkani.json'
+      - 'duyulanlar.json'
+      - 'hazirolanlahasbihal.json'
+      - 'kelamikibar.json'
+      - 'kendinolmayageldin.json'
+      - 'kussesleri.json'
+      - 'pelevin.json'
+      - 'sabahnesesi.json'
+      - 'simurg.json'
       - 'soylesikayitlari.json'
+      - 'tazecik.json'
+      - 'umutrehberi.json'
+      - 'varliginsevinci.json'
     branches:
       - main
 
@@ -37,7 +49,12 @@ jobs:
           changedFiles = gitDiff.trim().split('\n').filter(f => f.endsWith('.json'));
         } catch (error) {
           console.log('Git diff alınamadı, tüm dosyalar işlenecek');
-          changedFiles = ['birbakista.json', 'soylesikayitlari.json'];
+          changedFiles = [
+            'birbakista.json', 'birlikdukkani.json', 'duyulanlar.json',
+            'hazirolanlahasbihal.json', 'kelamikibar.json', 'kendinolmayageldin.json',
+            'kussesleri.json', 'pelevin.json', 'sabahnesesi.json', 'simurg.json',
+            'soylesikayitlari.json', 'tazecik.json', 'umutrehberi.json', 'varliginsevinci.json'
+          ];
         }
         
         // Mevcut anasayfa.json dosyasını oku
@@ -65,7 +82,19 @@ jobs:
         // İşlenecek dosyalar
         const filesToProcess = [
           { path: 'birbakista.json', name: 'birbakista' },
-          { path: 'soylesikayitlari.json', name: 'soylesikayitlari' }
+          { path: 'birlikdukkani.json', name: 'birlikdukkani' },
+          { path: 'duyulanlar.json', name: 'duyulanlar' },
+          { path: 'hazirolanlahasbihal.json', name: 'hazirolanlahasbihal' },
+          { path: 'kelamikibar.json', name: 'kelamikibar' },
+          { path: 'kendinolmayageldin.json', name: 'kendinolmayageldin' },
+          { path: 'kussesleri.json', name: 'kussesleri' },
+          { path: 'pelevin.json', name: 'pelevin' },
+          { path: 'sabahnesesi.json', name: 'sabahnesesi' },
+          { path: 'simurg.json', name: 'simurg' },
+          { path: 'soylesikayitlari.json', name: 'soylesikayitlari' },
+          { path: 'tazecik.json', name: 'tazecik' },
+          { path: 'umutrehberi.json', name: 'umutrehberi' },
+          { path: 'varliginsevinci.json', name: 'varliginsevinci' }
         ];
         
         let processedFiles = 0;
@@ -119,6 +148,9 @@ jobs:
             } catch (error) {
               console.error(`${file.name} işlenirken hata oluştu:`, error.message);
             }
+          } else {
+            console.log(`${file.path} dosyası bulunamadı, atlanıyor...`);
+            homepage.header.toplamlar[file.name] = 0;
           }
         });
         
@@ -152,7 +184,7 @@ jobs:
           echo "ℹ️ Herhangi bir değişiklik yok"
         else
           # Hangi dosyaların değiştiğini commit mesajına ekle
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|soylesikayitlari)\.json' | tr '\n' ' ')
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '\.json$' | tr '\n' ' ')
           git commit -m "🔄 Anasayfa güncellendi
 
           Değişen dosyalar: $CHANGED_FILES
