@@ -42,6 +42,7 @@ jobs:
         
         // Mevcut anasayfa.json dosyasını oku
         let homepage = {
+          header: "Some Header Value",  // Yeni header alanı eklendi
           son_guncelleme: new Date().toISOString(),
           isaretler: {
             taze: []
@@ -91,7 +92,8 @@ jobs:
                 const updateData = {
                   yol: file.name,
                   tazeler: sortedItems,
-                  son_guncelleme: fileLastModified
+                  son_guncelleme: fileLastModified,
+                  toplamadet: 142  // Her dosya için "toplamadet":142 eklendi
                 };
                 
                 if (existingIndex !== -1) {
