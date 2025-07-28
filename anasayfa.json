@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2025-07-28T17:31:55.708Z",
+  "son_guncelleme": "2025-07-28T17:49:59.099Z",
   "surum": "1.0",
   "isaretler": {
     "taze": [
@@ -27,6 +27,245 @@
         ],
         "son_guncelleme": "2025-07-28T17:31:53.298Z",
         "toplamadet": 142
+      },
+      {
+        "yol": "birbakista",
+        "tazeler": [],
+        "son_guncelleme": "2025-07-28T17:49:23.704Z"
+      },
+      {
+        "yol": "birlikdukkani",
+        "tazeler": [
+          {
+            "id": 202505042201,
+            "text": ""
+          },
+          {
+            "id": 202409061646,
+            "text": ""
+          },
+          {
+            "id": 202405171211,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:23.715Z"
+      },
+      {
+        "yol": "duyulanlar",
+        "tazeler": [
+          {
+            "id": 202505161021,
+            "text": "İçini dışını bir edecek, tatbiki mümkün bir temrîn..."
+          },
+          {
+            "id": 202505160903,
+            "text": "~\nVe aşk, iki insanın birbirine dokunması değil, i..."
+          },
+          {
+            "id": 202505141918,
+            "text": "~\nKonuşurken iki kelime arasında boşluk var\n~\nFark..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:23.715Z"
+      },
+      {
+        "yol": "hazirolanlahasbihal",
+        "tazeler": [
+          {
+            "id": 202501042344,
+            "text": ""
+          },
+          {
+            "id": 202501022323,
+            "text": ""
+          },
+          {
+            "id": 202405301717,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:26.494Z"
+      },
+      {
+        "yol": "kelamikibar",
+        "tazeler": [
+          {
+            "id": 202403170078,
+            "text": "Muhabbet baldan datl’olur doyamazsın demedim mi?"
+          },
+          {
+            "id": 202403170077,
+            "text": "Hayatta mutluluğa ulaşmanın belki de en emin yolu ..."
+          },
+          {
+            "id": 202403170076,
+            "text": "Huzura varmak için bende tâkât yok deme \nBüyüklerl..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:29.025Z"
+      },
+      {
+        "yol": "kendinolmayageldin",
+        "tazeler": [
+          {
+            "id": 202401311603,
+            "text": ""
+          },
+          {
+            "id": 202401301204,
+            "text": ""
+          },
+          {
+            "id": 202401171725,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:29.033Z"
+      },
+      {
+        "yol": "kussesleri",
+        "tazeler": [
+          {
+            "id": 202503141957,
+            "text": ""
+          },
+          {
+            "id": 202503140838,
+            "text": ""
+          },
+          {
+            "id": 202503140723,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:29.052Z"
+      },
+      {
+        "yol": "pelevin",
+        "tazeler": [
+          {
+            "id": 202507241604,
+            "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n...\nBatılı Buda, Efesli H..."
+          },
+          {
+            "id": 202507221329,
+            "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBu Niyazi kendinden demez..."
+          },
+          {
+            "id": 202507151947,
+            "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nZen'in hakîkî amacı, şeyl..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.655Z"
+      },
+      {
+        "yol": "sabahnesesi",
+        "tazeler": [
+          {
+            "id": 202507280833,
+            "text": "~\nZihin \nTanrı'yı\nBiir deneyim \n(Nesnesi)\nOlarak\nK..."
+          },
+          {
+            "id": 202507260634,
+            "text": "~\nAyrıca yaşadığımı sandığım mevsimlere varsaydı d..."
+          },
+          {
+            "id": 202507240737,
+            "text": "~\nGörmeyi öğrenmeye geldik; bu yüzden gerçek keşif..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.657Z"
+      },
+      {
+        "yol": "simurg",
+        "tazeler": [
+          {
+            "id": 202305010302,
+            "text": ""
+          },
+          {
+            "id": 202305010301,
+            "text": ""
+          },
+          {
+            "id": 202305010300,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.658Z"
+      },
+      {
+        "yol": "soylesikayitlari",
+        "tazeler": [
+          {
+            "id": 202507271507,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n~\nEgo, sahte bir benlik a..."
+          },
+          {
+            "id": 202507251945,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nZİHNİN İRONİK ŞAKASI: \nA..."
+          },
+          {
+            "id": 202507162157,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Boşluğa düşmekten, ses..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.661Z"
+      },
+      {
+        "yol": "tazecik",
+        "tazeler": [
+          {
+            "id": 202408082115,
+            "text": ""
+          },
+          {
+            "id": 202408081808,
+            "text": ""
+          },
+          {
+            "id": 202408081807,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.692Z"
+      },
+      {
+        "yol": "umutrehberi",
+        "tazeler": [
+          {
+            "id": 202011080523,
+            "text": ""
+          },
+          {
+            "id": 202011010017,
+            "text": ""
+          },
+          {
+            "id": 202010312053,
+            "text": ""
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.715Z"
+      },
+      {
+        "yol": "varliginsevinci",
+        "tazeler": [
+          {
+            "id": 202505141902,
+            "text": "Bildiğinle amel et ki, Allah seni ilme vâris kılsı..."
+          },
+          {
+            "id": 202501072006,
+            "text": "…Va’lemû ennallahe yehûlü beyne’l-mer’i ve kalbihî..."
+          },
+          {
+            "id": 202501072005,
+            "text": "Eyahsebu’l-insânü en yütrake südâ.\n\nİnsan başıboş ..."
+          }
+        ],
+        "son_guncelleme": "2025-07-28T17:49:55.721Z"
       }
     ]
   },
@@ -34,5 +273,23 @@
     "toplam_dosya": 2,
     "toplam_isaret": 339,
     "son_aktivite": "2025-07-28T16:48:30.251Z"
+  },
+  "header": {
+    "toplamlar": {
+      "birbakista": 0,
+      "birlikdukkani": 0,
+      "duyulanlar": 0,
+      "hazirolanlahasbihal": 0,
+      "kelamikibar": 0,
+      "kendinolmayageldin": 0,
+      "kussesleri": 0,
+      "pelevin": 0,
+      "sabahnesesi": 0,
+      "simurg": 0,
+      "soylesikayitlari": 0,
+      "tazecik": 0,
+      "umutrehberi": 0,
+      "varliginsevinci": 0
+    }
   }
 }
