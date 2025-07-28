@@ -1,4 +1,4 @@
-name: Anasayfa Güncelleme
+name: Anasayfa Güncelleme (Gelişmiş)
 
 on:
   push:
@@ -23,13 +23,24 @@ jobs:
       with:
         node-version: '18'
     
-    - name: Update Homepage JSON
+    - name: Update Homepage JSON (Enhanced)
       run: |
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
         
-        // Mevcut anasayfa.json dosyasını oku veya yeni bir tane oluştur
+        // Değişen dosyaları tespit et
+        const { execSync } = require('child_process');
+        let changedFiles = [];
+        try {
+          const gitDiff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' });
+          changedFiles = gitDiff.trim().split('\n').filter(f => f.endsWith('.json'));
+        } catch (error) {
+          console.log('Git diff alınamadı, tüm dosyalar işlenecek');
+          changedFiles = ['birbakista.json', 'soylesikayitlari.json'];
+        }
+        
+        // Mevcut anasayfa.json dosyasını oku
         let homepage = {
           son_guncelleme: new Date().toISOString(),
           isaretler: {
@@ -51,6 +62,8 @@ jobs:
           { path: 'soylesikayitlari.json', name: 'soylesikayitlari.json' }
         ];
         
+        let processedFiles = 0;
+        
         // Her dosyayı işle
         filesToProcess.forEach(file => {
           if (fs.existsSync(file.path)) {
@@ -58,20 +71,27 @@ jobs:
               const data = JSON.parse(fs.readFileSync(file.path, 'utf8'));
               
               if (data.isaretler && Array.isArray(data.isaretler)) {
-                // ID'leri büyükten küçüğe sırala ve ilk 3'ünü al
-                const sortedIds = data.isaretler
-                  .map(item => item.id)
-                  .filter(id => id !== undefined && id !== null)
-                  .sort((a, b) => b - a)
-                  .slice(0, 3);
+                // Dosyanın son güncellenme zamanını al
+                const fileStats = fs.statSync(file.path);
+                const fileLastModified = fileStats.mtime.toISOString();
+                
+                // ID'leri büyükten küçüğe sırala, sadece 20 ile başlayanları al ve ilk 3'ünü seç
+                const sortedItems = data.isaretler
+                  .filter(item => item.id !== undefined && item.id !== null && item.id.toString().startsWith('20'))
+                  .sort((a, b) => b.id - a.id)
+                  .slice(0, 3)
+                  .map(item => ({
+                    id: item.id,
+                    text: item.text ? item.text.substring(0, 50) + (item.text.length > 50 ? '...' : '') : ''
+                  }));
                 
                 // Anasayfa verisinde bu dosya için olan kaydı bul veya oluştur
                 const existingIndex = homepage.isaretler.taze.findIndex(item => item.yol === file.name);
                 
                 const updateData = {
                   yol: file.name,
-                  tazeler: sortedIds,
-                  son_guncelleme: new Date().toISOString()
+                  tazeler: sortedItems,
+                  son_guncelleme: fileLastModified
                 };
                 
                 if (existingIndex !== -1) {
@@ -80,7 +100,8 @@ jobs:
                   homepage.isaretler.taze.push(updateData);
                 }
                 
-                console.log(`${file.name} işlendi: ${sortedIds.length} ID bulundu`);
+                processedFiles++;
+                console.log(`${file.name} işlendi: ${sortedItems.length} taze ID (20 ile başlayan)`);
               }
             } catch (error) {
               console.error(`${file.name} işlenirken hata oluştu:`, error.message);
@@ -93,19 +114,35 @@ jobs:
         
         // anasayfa.json dosyasını güncelle
         fs.writeFileSync('anasayfa.json', JSON.stringify(homepage, null, 2));
-        console.log('anasayfa.json güncellendi');
+        console.log(`anasayfa.json güncellendi - ${processedFiles} dosya işlendi`);
         EOF
+    
+    - name: Validate JSON
+      run: |
+        # JSON dosyasının geçerli olduğunu kontrol et
+        if ! jq empty anasayfa.json 2>/dev/null; then
+          echo "❌ anasayfa.json geçersiz JSON formatında!"
+          exit 1
+        else
+          echo "✅ JSON formatı geçerli"
+        fi
     
     - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.name "GitHub Action Bot"
         git add anasayfa.json
         
         # Değişiklik var mı kontrol et
         if git diff --staged --quiet; then
-          echo "Herhangi bir değişiklik yok"
+          echo "ℹ️ Herhangi bir değişiklik yok"
         else
-          git commit -m "🔄 Anasayfa otomatik güncellendi"
+          # Hangi dosyaların değiştiğini commit mesajına ekle
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|soylesikayitlari)\.json' | tr '\n' ' ')
+          git commit -m "🔄 Anasayfa güncellendi
+
+          Değişen dosyalar: $CHANGED_FILES
+          Güncelleme zamanı: $(date '+%Y-%m-%d %H:%M:%S')"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          echo "✅ Değişiklikler commit edildi ve push yapıldı"
         fi
