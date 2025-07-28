@@ -1,13 +1,12 @@
 {
-  "son_guncelleme": "2025-07-28T18:02:40.067Z",
+  "son_guncelleme": "2025-07-28T18:29:42.133Z",
   "surum": "1.0",
   "isaretler": {
     "taze": [
       {
         "yol": "birbakista.json",
         "tazeler": [],
-        "son_guncelleme": "2025-07-28T17:31:22.314Z",
-        "toplamadet": 142
+        "son_guncelleme": "2025-07-28T18:29:08.289Z"
       },
       {
         "yol": "soylesikayitlari.json",
@@ -25,8 +24,7 @@
             "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Boşluğa düşmekten, ses..."
           }
         ],
-        "son_guncelleme": "2025-07-28T17:31:53.298Z",
-        "toplamadet": 142
+        "son_guncelleme": "2025-07-28T18:29:39.425Z"
       },
       {
         "yol": "birbakista",
@@ -291,5 +289,9 @@
       "umutrehberi": 0,
       "varliginsevinci": 0
     }
+  },
+  "adetler": {
+    "birbakista": 142,
+    "soylesikayitlari": 197
   }
 }
