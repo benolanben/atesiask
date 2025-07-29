@@ -35,49 +35,14 @@ jobs:
       with:
         node-version: '18'
     
-    - name: Update Homepage JSON (Enhanced)
+    - name: Update Homepage JSON
       run: |
         node << 'EOF'
         const fs = require('fs');
         const path = require('path');
         
-        // Değişen dosyaları tespit et
-        const { execSync } = require('child_process');
-        let changedFiles = [];
-        try {
-          const gitDiff = execSync('git diff --name-only HEAD~1 HEAD', { encoding: 'utf8' });
-          changedFiles = gitDiff.trim().split('\n').filter(f => f.endsWith('.json'));
-        } catch (error) {
-          console.log('Git diff alınamadı, tüm dosyalar işlenecek');
-          changedFiles = ['birbakista.json', 'birlikdukkani.json', 'duyulanlar.json', 'hazirolanlahasbihal.json', 'kelamikibar.json', 'kendinolmayageldin.json', 'kussesleri.json', 'pelevin.json', 'sabahnesesi.json', 'simurg.json', 'soylesikayitlari.json', 'tazecik.json', 'umutrehberi.json', 'varliginsevinci.json'];
-        }
-        
-        // YENİ anasayfa.json verisi - eski veriyi okumuyoruz
-        let homepage = {
-          son_guncelleme: new Date().toISOString(),
-          isaretler: {
-            taze: []
-          },
-          adetler: {
-            birbakista: 0,
-            birlikdukkani: 0,
-            duyulanlar: 0,
-            hazirolanlahasbihal: 0,
-            kelamikibar: 0,
-            kendinolmayageldin: 0,
-            kussesleri: 0,
-            pelevin: 0,
-            sabahnesesi: 0,
-            simurg: 0,
-            soylesikayitlari: 0,
-            tazecik: 0,
-            umutrehberi: 0,
-            varliginsevinci: 0
-          }
-        };
-        
         // İşlenecek dosyalar
-        const filesToProcess = [
+        const files = [
           { path: 'birbakista.json', name: 'Bir Bakışta' },
           { path: 'birlikdukkani.json', name: 'Birlik Dükkanı' },
           { path: 'duyulanlar.json', name: 'Duyulanlar' },
@@ -94,86 +59,107 @@ jobs:
           { path: 'varliginsevinci.json', name: 'Varlığın Sevinci' }
         ];
         
-        let processedFiles = 0;
+        // Tüm öğeleri topla (saat hesaplaması YOK)
+        const allItems = [];
+        const counts = {};
         
-        // Her dosyayı işle
-        filesToProcess.forEach(file => {
-          if (fs.existsSync(file.path)) {
-            try {
-              const data = JSON.parse(fs.readFileSync(file.path, 'utf8'));
-              
-              // Adet bilgisini güncelle
-              const baseName = path.basename(file.path, '.json');
-              if (homepage.adetler.hasOwnProperty(baseName)) {
-                homepage.adetler[baseName] = Array.isArray(data.isaretler) ? data.isaretler.length : 0;
-              }
-              
-              if (data.isaretler && Array.isArray(data.isaretler)) {
-                // Dosyanın son güncellenme zamanını al
-                const fileStats = fs.statSync(file.path);
-                const fileLastModified = fileStats.mtime.toISOString();
-                
-                // ID'leri büyükten küçüğe sırala, sadece 20 ile başlayanları al ve ilk 3'ünü seç
-                const sortedItems = data.isaretler
-                  .filter(item => item.id !== undefined && item.id !== null && item.id.toString().startsWith('20'))
-                  .sort((a, b) => b.id - a.id)
-                  .slice(0, 3)
-                  .map(item => ({
-                    id: item.id,
-                    text: item.text ? item.text.substring(0, 50) + (item.text.length > 50 ? '...' : '') : ''
-                  }));
-                
-                // Yeni veriyi taze listesine ekle
-                homepage.isaretler.taze.push({
-                  yol: file.path,
-                  baslik: file.name,
-                  tazeler: sortedItems,
-                  son_guncelleme: fileLastModified
-                });
-                
-                processedFiles++;
-                console.log(`${file.name} işlendi: ${sortedItems.length} taze ID (20 ile başlayan)`);
-              }
-            } catch (error) {
-              console.error(`${file.name} işlenirken hata oluştu:`, error.message);
+        files.forEach(({ path: filePath, name }) => {
+          const key = path.basename(filePath, '.json');
+          
+          try {
+            if (!fs.existsSync(filePath)) {
+              counts[key] = 0;
+              return;
             }
+            
+            const { isaretler = [] } = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+            counts[key] = isaretler.length;
+            
+            // Sadece 20 ile başlayan ID'leri işle - saat hesaplaması yok!
+            isaretler.forEach(({ id, text = '' }) => {
+              if (id && id.toString().startsWith('20')) {
+                allItems.push({
+                  id,
+                  yol: key,
+                  baslik: name,
+                  text: text.length > 50 ? text.slice(0, 50) + '...' : text
+                });
+              }
+            });
+            
+            console.log(`✓ ${name}: ${isaretler.length} öğe`);
+          } catch (err) {
+            console.error(`✗ ${name}: ${err.message}`);
+            counts[key] = 0;
           }
         });
         
-        // Genel son güncelleme zamanını ayarla
-        homepage.son_guncelleme = new Date().toISOString();
+        // En yüksek 3 ID'yi bul
+        const topThreeIds = allItems
+          .sort((a, b) => b.id - a.id)
+          .slice(0, 3);
         
-        // anasayfa.json dosyasını tamamen yeniden yaz
+        // ID'den geçen saati hesapla (sadece son 3 için!)
+        const getHoursFromId = (id) => {
+          const s = id.toString();
+          if (s.length < 12) return '0h';
+          
+          try {
+            const date = new Date(
+              +s.slice(0, 4),      // yıl
+              +s.slice(4, 6) - 1,  // ay (0-11)
+              +s.slice(6, 8),      // gün
+              +s.slice(8, 10),     // saat
+              +s.slice(10, 12)     // dakika
+            );
+            
+            const hours = Math.floor((Date.now() - date) / 3600000);
+            return hours >= 0 ? `${hours}h` : '0h';
+          } catch {
+            return '0h';
+          }
+        };
+        
+        // Son 3 öğeye saat hesaplaması ekle
+        const topThree = topThreeIds.map(item => ({
+          ...item,
+          gecensaat: getHoursFromId(item.id)
+        }));
+        
+        console.log(`\nEn yüksek 3 ID:`);
+        topThree.forEach(({ id, gecensaat, yol, baslik }) => 
+          console.log(`${id} (${gecensaat}) - ${baslik}`)
+        );
+        
+        // JSON oluştur ve kaydet
+        const homepage = {
+          son_guncelleme: new Date().toISOString(),
+          isaretler: { taze: topThree },
+          adetler: counts
+        };
+        
         fs.writeFileSync('anasayfa.json', JSON.stringify(homepage, null, 2));
-        console.log(`anasayfa.json tamamen yeniden oluşturuldu - ${processedFiles} dosya işlendi`);
+        console.log(`\n✅ anasayfa.json güncellendi`);
         EOF
     
     - name: Validate JSON
       run: |
-        # JSON dosyasının geçerli olduğunu kontrol et
         if ! jq empty anasayfa.json 2>/dev/null; then
-          echo "❌ anasayfa.json geçersiz JSON formatında!"
+          echo "❌ JSON formatı geçersiz!"
           exit 1
-        else
-          echo "✅ JSON formatı geçerli"
         fi
+        echo "✅ JSON geçerli"
     
-    - name: Commit and Push Changes
+    - name: Commit Changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action Bot"
         git add anasayfa.json
         
-        # Değişiklik var mı kontrol et
         if git diff --staged --quiet; then
-          echo "ℹ️ Herhangi bir değişiklik yok"
+          echo "ℹ️ Değişiklik yok"
         else
-          # Hangi dosyaların değiştiğini commit mesajına ekle
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|birlikdukkani|duyulanlar|hazirolanlahasbihal|kelamikibar|kendinolmayageldin|kussesleri|pelevin|sabahnesesi|simurg|soylesikayitlari|tazecik|umutrehberi|varliginsevinci)\.json' | tr '\n' ' ')
-          git commit -m "🔄 Anasayfa güncellendi
-
-          Değişen dosyalar: $CHANGED_FILES
-          Güncelleme zamanı: $(date '+%Y-%m-%d %H:%M:%S')"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-          echo "✅ Değişiklikler commit edildi ve push yapıldı"
+          git commit -m "🔄 Anasayfa güncellendi - $(date '+%Y-%m-%d %H:%M')"
+          git push
+          echo "✅ Değişiklikler kaydedildi"
         fi
