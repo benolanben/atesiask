@@ -51,7 +51,7 @@ jobs:
           { path: 'kendinolmayageldin.json', name: 'Bulan Ol Kendi Oldu' },
           { path: 'kussesleri.json', name: 'Kuş Sesleri' },
           { path: 'pelevin.json', name: 'Yolda Çevrilenler' },
-          { path: 'sabahnesesi.json', name: 'Sabah Neş'esi' },
+          { path: 'sabahnesesi.json', name: 'Sabah Neşesi' },
           { path: 'simurg.json', name: 'Simurg' },
           { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' },
           { path: 'tazecik.json', name: 'Tazecik' },
