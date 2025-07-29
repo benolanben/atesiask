@@ -46,16 +46,16 @@ jobs:
           { path: 'birbakista.json', name: 'Bir Bakışta' },
           { path: 'birlikdukkani.json', name: 'Birlik Dükkanı' },
           { path: 'duyulanlar.json', name: 'Duyulanlar' },
-          { path: 'hazirolanlahasbihal.json', name: 'Hazır Olanla Has Bihal' },
-          { path: 'kelamikibar.json', name: 'Kelam-ı Kibar' },
-          { path: 'kendinolmayageldin.json', name: 'Kendin Olmaya Geldin' },
+          { path: 'hazirolanlahasbihal.json', name: 'Hazır Olanla Hasbihal' },
+          { path: 'kelamikibar.json', name: 'Kelâm-ı Kibar' },
+          { path: 'kendinolmayageldin.json', name: 'Bulan Ol Kendi Oldu' },
           { path: 'kussesleri.json', name: 'Kuş Sesleri' },
-          { path: 'pelevin.json', name: 'Pelevin' },
-          { path: 'sabahnesesi.json', name: 'Sabah Nefesi' },
+          { path: 'pelevin.json', name: 'Yolda Çevrilenler' },
+          { path: 'sabahnesesi.json', name: 'Sabah Neş'esi' },
           { path: 'simurg.json', name: 'Simurg' },
           { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' },
           { path: 'tazecik.json', name: 'Tazecik' },
-          { path: 'umutrehberi.json', name: 'Umut Rehberi' },
+          { path: 'umutrehberi.json', name: 'Bana Öyle Gelmiş' },
           { path: 'varliginsevinci.json', name: 'Varlığın Sevinci' }
         ];
         
