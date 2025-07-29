@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2025-07-29T20:34:22.222Z",
+  "son_guncelleme": "2025-07-29T20:44:11.273Z",
   "isaretler": {
     "taze": [
       {
@@ -22,29 +22,6 @@
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n~\nEgo, sahte bir benlik a...",
         "gecensaat": "53h"
-      }
-    ],
-    "rastgele": [
-      {
-        "id": 202406240838,
-        "yol": "kussesleri",
-        "baslik": "Kuş Sesleri",
-        "text": "...",
-        "gecensaat": "9611h"
-      },
-      {
-        "id": 202308191227,
-        "yol": "kussesleri",
-        "baslik": "Kuş Sesleri",
-        "text": "...",
-        "gecensaat": "17048h"
-      },
-      {
-        "id": 202205171804,
-        "yol": "kussesleri",
-        "baslik": "Kuş Sesleri",
-        "text": "...",
-        "gecensaat": "28058h"
       }
     ]
   },
