@@ -105,7 +105,15 @@ jobs:
           .sort((a, b) => b.id - a.id)
           .slice(0, 3);
         
-        // ID'den geçen saati hesapla (sadece son 3 için!)
+        // Rastgele 3 öğe seç
+        const getRandomItems = (items, count) => {
+          const shuffled = [...items].sort(() => 0.5 - Math.random());
+          return shuffled.slice(0, count);
+        };
+        
+        const randomThreeItems = getRandomItems(allItems, 3);
+        
+        // ID'den geçen saati hesapla (taze ve rastgele için!)
         const getHoursFromId = (id) => {
           const s = id.toString();
           if (s.length < 12) return '0h';
@@ -132,15 +140,29 @@ jobs:
           gecensaat: getHoursFromId(item.id)
         }));
         
+        // Rastgele 3 öğeye saat hesaplaması ekle
+        const randomThree = randomThreeItems.map(item => ({
+          ...item,
+          gecensaat: getHoursFromId(item.id)
+        }));
+        
         console.log(`\nEn yüksek 3 ID:`);
         topThree.forEach(({ id, gecensaat, yol, baslik }) => 
+          console.log(`${id} (${gecensaat}) - ${baslik}`)
+        );
+        
+        console.log(`\nRastgele 3 öğe:`);
+        randomThree.forEach(({ id, gecensaat, yol, baslik }) => 
           console.log(`${id} (${gecensaat}) - ${baslik}`)
         );
         
         // JSON oluştur ve kaydet
         const homepage = {
           son_guncelleme: new Date().toISOString(),
-          isaretler: { taze: topThree },
+          isaretler: { 
+            taze: topThree,
+            rastgele: randomThree
+          },
           adetler: counts
         };
         
