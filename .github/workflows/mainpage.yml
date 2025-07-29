@@ -4,7 +4,19 @@ on:
   push:
     paths:
       - 'birbakista.json'
+      - 'birlikdukkani.json'
+      - 'duyulanlar.json'
+      - 'hazirolanlahasbihal.json'
+      - 'kelamikibar.json'
+      - 'kendinolmayageldin.json'
+      - 'kussesleri.json'
+      - 'pelevin.json'
+      - 'sabahnesesi.json'
+      - 'simurg.json'
       - 'soylesikayitlari.json'
+      - 'tazecik.json'
+      - 'umutrehberi.json'
+      - 'varliginsevinci.json'
     branches:
       - main
 
@@ -37,39 +49,49 @@ jobs:
           changedFiles = gitDiff.trim().split('\n').filter(f => f.endsWith('.json'));
         } catch (error) {
           console.log('Git diff alınamadı, tüm dosyalar işlenecek');
-          changedFiles = ['birbakista.json', 'soylesikayitlari.json'];
+          changedFiles = ['birbakista.json', 'birlikdukkani.json', 'duyulanlar.json', 'hazirolanlahasbihal.json', 'kelamikibar.json', 'kendinolmayageldin.json', 'kussesleri.json', 'pelevin.json', 'sabahnesesi.json', 'simurg.json', 'soylesikayitlari.json', 'tazecik.json', 'umutrehberi.json', 'varliginsevinci.json'];
         }
         
-        // Mevcut anasayfa.json dosyasını oku
+        // YENİ anasayfa.json verisi - eski veriyi okumuyoruz
         let homepage = {
           son_guncelleme: new Date().toISOString(),
           isaretler: {
             taze: []
+          },
+          adetler: {
+            birbakista: 0,
+            birlikdukkani: 0,
+            duyulanlar: 0,
+            hazirolanlahasbihal: 0,
+            kelamikibar: 0,
+            kendinolmayageldin: 0,
+            kussesleri: 0,
+            pelevin: 0,
+            sabahnesesi: 0,
+            simurg: 0,
+            soylesikayitlari: 0,
+            tazecik: 0,
+            umutrehberi: 0,
+            varliginsevinci: 0
           }
-        };
-        
-        if (fs.existsSync('anasayfa.json')) {
-          try {
-            homepage = JSON.parse(fs.readFileSync('anasayfa.json', 'utf8'));
-          } catch (error) {
-            console.log('Mevcut anasayfa.json okunamadı, yeni bir tane oluşturuluyor...');
-          }
-        }
-        
-        // İstenmeyen alanları kaldır
-        delete homepage.istatistik;
-        delete homepage.sürüm;
-        
-        // Adetler için nesneyi başlat
-        let adetler = {
-          birbakista: 0,
-          soylesikayitlari: 0
         };
         
         // İşlenecek dosyalar
         const filesToProcess = [
           { path: 'birbakista.json', name: 'Bir Bakışta' },
-          { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' }
+          { path: 'birlikdukkani.json', name: 'Birlik Dükkanı' },
+          { path: 'duyulanlar.json', name: 'Duyulanlar' },
+          { path: 'hazirolanlahasbihal.json', name: 'Hazır Olanla Has Bihal' },
+          { path: 'kelamikibar.json', name: 'Kelam-ı Kibar' },
+          { path: 'kendinolmayageldin.json', name: 'Kendin Olmaya Geldin' },
+          { path: 'kussesleri.json', name: 'Kuş Sesleri' },
+          { path: 'pelevin.json', name: 'Pelevin' },
+          { path: 'sabahnesesi.json', name: 'Sabah Nefesi' },
+          { path: 'simurg.json', name: 'Simurg' },
+          { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' },
+          { path: 'tazecik.json', name: 'Tazecik' },
+          { path: 'umutrehberi.json', name: 'Umut Rehberi' },
+          { path: 'varliginsevinci.json', name: 'Varlığın Sevinci' }
         ];
         
         let processedFiles = 0;
@@ -82,8 +104,8 @@ jobs:
               
               // Adet bilgisini güncelle
               const baseName = path.basename(file.path, '.json');
-              if (adetler.hasOwnProperty(baseName)) {
-                adetler[baseName] = Array.isArray(data.isaretler) ? data.isaretler.length : 0;
+              if (homepage.adetler.hasOwnProperty(baseName)) {
+                homepage.adetler[baseName] = Array.isArray(data.isaretler) ? data.isaretler.length : 0;
               }
               
               if (data.isaretler && Array.isArray(data.isaretler)) {
@@ -101,21 +123,13 @@ jobs:
                     text: item.text ? item.text.substring(0, 50) + (item.text.length > 50 ? '...' : '') : ''
                   }));
                 
-                // Anasayfa verisinde bu dosya için olan kaydı bul veya oluştur
-                const existingIndex = homepage.isaretler.taze.findIndex(item => item.yol === file.name);
-                
-                const updateData = {
+                // Yeni veriyi taze listesine ekle
+                homepage.isaretler.taze.push({
                   yol: file.path,
                   baslik: file.name,
                   tazeler: sortedItems,
                   son_guncelleme: fileLastModified
-                };
-                
-                if (existingIndex !== -1) {
-                  homepage.isaretler.taze[existingIndex] = updateData;
-                } else {
-                  homepage.isaretler.taze.push(updateData);
-                }
+                });
                 
                 processedFiles++;
                 console.log(`${file.name} işlendi: ${sortedItems.length} taze ID (20 ile başlayan)`);
@@ -126,15 +140,12 @@ jobs:
           }
         });
         
-        // Adetler alanını homepage'e ekle
-        homepage.adetler = adetler;
-        
         // Genel son güncelleme zamanını ayarla
         homepage.son_guncelleme = new Date().toISOString();
         
-        // anasayfa.json dosyasını güncelle
+        // anasayfa.json dosyasını tamamen yeniden yaz
         fs.writeFileSync('anasayfa.json', JSON.stringify(homepage, null, 2));
-        console.log(`anasayfa.json güncellendi - ${processedFiles} dosya işlendi`);
+        console.log(`anasayfa.json tamamen yeniden oluşturuldu - ${processedFiles} dosya işlendi`);
         EOF
     
     - name: Validate JSON
@@ -158,7 +169,7 @@ jobs:
           echo "ℹ️ Herhangi bir değişiklik yok"
         else
           # Hangi dosyaların değiştiğini commit mesajına ekle
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|soylesikayitlari)\.json' | tr '\n' ' ')
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep -E '(birbakista|birlikdukkani|duyulanlar|hazirolanlahasbihal|kelamikibar|kendinolmayageldin|kussesleri|pelevin|sabahnesesi|simurg|soylesikayitlari|tazecik|umutrehberi|varliginsevinci)\.json' | tr '\n' ' ')
           git commit -m "🔄 Anasayfa güncellendi
 
           Değişen dosyalar: $CHANGED_FILES
