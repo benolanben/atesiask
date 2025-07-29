@@ -78,11 +78,17 @@ jobs:
             // Sadece 20 ile başlayan ID'leri işle - saat hesaplaması yok!
             isaretler.forEach(({ id, text = '' }) => {
               if (id && id.toString().startsWith('20')) {
+                // Text alanını kontrol et ve formatla
+                let formattedText = '...';
+                if (text && text.trim()) {
+                  formattedText = text.length > 50 ? text.slice(0, 50) + '...' : text;
+                }
+                
                 allItems.push({
                   id,
                   yol: key,
                   baslik: name,
-                  text: text.length > 50 ? text.slice(0, 50) + '...' : text
+                  text: formattedText
                 });
               }
             });
