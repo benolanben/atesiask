@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2025-07-28T18:36:16.850Z",
+  "son_guncelleme": "2025-07-29T12:23:51.786Z",
   "isaretler": {
     "taze": [
       {
@@ -24,6 +24,31 @@
           }
         ],
         "son_guncelleme": "2025-07-28T18:36:13.856Z"
+      },
+      {
+        "yol": "birbakista.json",
+        "baslik": "Bir Bakışta",
+        "tazeler": [],
+        "son_guncelleme": "2025-07-29T12:23:17.844Z"
+      },
+      {
+        "yol": "soylesikayitlari.json",
+        "baslik": "Söyleşi Kayıtları",
+        "tazeler": [
+          {
+            "id": 202507271507,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n~\nEgo, sahte bir benlik a..."
+          },
+          {
+            "id": 202507251945,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nZİHNİN İRONİK ŞAKASI: \nA..."
+          },
+          {
+            "id": 202507162157,
+            "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Boşluğa düşmekten, ses..."
+          }
+        ],
+        "son_guncelleme": "2025-07-29T12:23:48.688Z"
       }
     ]
   },
