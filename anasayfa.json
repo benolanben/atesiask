@@ -1,27 +1,50 @@
 {
-  "son_guncelleme": "2025-07-29T18:55:15.140Z",
+  "son_guncelleme": "2025-07-29T20:34:22.222Z",
   "isaretler": {
     "taze": [
       {
         "id": 202507290852,
         "yol": "sabahnesesi",
-        "baslik": "Sabah Nefesi",
+        "baslik": "Sabah Neşesi",
         "text": "~\nKorkularımız var\nAma her şeyden çok, kendimizden...",
-        "gecensaat": "10h"
+        "gecensaat": "11h"
       },
       {
         "id": 202507280833,
         "yol": "sabahnesesi",
-        "baslik": "Sabah Nefesi",
+        "baslik": "Sabah Neşesi",
         "text": "~\nZihin \nTanrı'yı\nBiir deneyim \n(Nesnesi)\nOlarak\nK...",
-        "gecensaat": "34h"
+        "gecensaat": "36h"
       },
       {
         "id": 202507271507,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n~\nEgo, sahte bir benlik a...",
-        "gecensaat": "51h"
+        "gecensaat": "53h"
+      }
+    ],
+    "rastgele": [
+      {
+        "id": 202406240838,
+        "yol": "kussesleri",
+        "baslik": "Kuş Sesleri",
+        "text": "...",
+        "gecensaat": "9611h"
+      },
+      {
+        "id": 202308191227,
+        "yol": "kussesleri",
+        "baslik": "Kuş Sesleri",
+        "text": "...",
+        "gecensaat": "17048h"
+      },
+      {
+        "id": 202205171804,
+        "yol": "kussesleri",
+        "baslik": "Kuş Sesleri",
+        "text": "...",
+        "gecensaat": "28058h"
       }
     ]
   },
