@@ -68,8 +68,8 @@ jobs:
         
         // İşlenecek dosyalar
         const filesToProcess = [
-          { path: 'birbakista.json', name: 'birbakista.json' },
-          { path: 'soylesikayitlari.json', name: 'soylesikayitlari.json' }
+          { path: 'birbakista.json', name: 'Bir Bakışta' },
+          { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' }
         ];
         
         let processedFiles = 0;
@@ -105,7 +105,8 @@ jobs:
                 const existingIndex = homepage.isaretler.taze.findIndex(item => item.yol === file.name);
                 
                 const updateData = {
-                  yol: file.name,
+                  yol: file.path,
+                  baslik: file.name,
                   tazeler: sortedItems,
                   son_guncelleme: fileLastModified
                 };
