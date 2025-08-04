@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-03T20:30:37.987Z",
+  "son_guncelleme": "2025-08-04T04:31:15.903Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508040728,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nO nev'i yargıdan önce, dünya öylece durur: Çıpla...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508032328,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nBilinmez ki bedenin ötes...",
-        "gecensaat": "0h"
+        "gecensaat": "5h"
       },
       {
         "id": 202508020841,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nŞimdi olanı fark edebilmek için, şu anda ne yapm...",
-        "gecensaat": "35h"
-      },
-      {
-        "id": 202508011030,
-        "yol": "soylesikayitlari",
-        "baslik": "Söyleşi Kayıtları",
-        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n♪\nGer 'ölümden kurtulam'...",
-        "gecensaat": "58h"
+        "gecensaat": "43h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 173,
-    "sabahnesesi": 499,
+    "sabahnesesi": 500,
     "simurg": 303,
     "soylesikayitlari": 199,
     "tazecik": 2786,
