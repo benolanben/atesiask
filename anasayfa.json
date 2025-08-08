@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-07T19:03:56.043Z",
+  "son_guncelleme": "2025-08-08T04:32:33.601Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508080730,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\n\nA benim cânım\nAnlat bakalım nerde tıkandın?\n\n.....",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508072201,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nAynı şeye baktığımızda\nH...",
-        "gecensaat": "0h"
+        "gecensaat": "6h"
       },
       {
         "id": 202508060728,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\n\n'Sen'\nKendinin\nNe olduğunu\nTam olarak\n\nBiliyor ...",
-        "gecensaat": "35h"
-      },
-      {
-        "id": 202508050946,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nNeyse-ne-ler\n~\nVe onların geçtiği \nTürlü ilişkil...",
-        "gecensaat": "57h"
+        "gecensaat": "45h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 174,
-    "sabahnesesi": 502,
+    "sabahnesesi": 503,
     "simurg": 303,
     "soylesikayitlari": 200,
     "tazecik": 2786,
