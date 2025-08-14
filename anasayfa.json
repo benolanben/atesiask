@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-14T05:30:37.353Z",
+  "son_guncelleme": "2025-08-14T16:30:30.214Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508141927,
+        "yol": "pelevin",
+        "baslik": "Yolda Çevrilenler",
+        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nKendimizi kandırmazsak, b...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508140827,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nSen~den ne kadar az varsa, SEN~den o kadar çok v...",
-        "gecensaat": "0h"
+        "gecensaat": "8h"
       },
       {
         "id": 202508130832,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nUyanık olduğunuz saatlerde, sanki sahnede bir ro...",
-        "gecensaat": "20h"
-      },
-      {
-        "id": 202508120753,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nVe nefahtu \nMin ruhî\n'Ve ruhumdan üflediğimde......",
-        "gecensaat": "45h"
+        "gecensaat": "31h"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "kelamikibar": 76,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
-    "pelevin": 174,
+    "pelevin": 175,
     "sabahnesesi": 508,
     "simurg": 303,
     "soylesikayitlari": 200,
