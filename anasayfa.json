@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-15T04:19:21.749Z",
+  "son_guncelleme": "2025-08-15T17:41:08.288Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508152038,
+        "yol": "soylesikayitlari",
+        "baslik": "Söyleşi Kayıtları",
+        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nGüvenlik ve kesinliğe ya...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508150716,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nKelimeler\nSessizliğe\nNüfûz edesi değil \n~\nSözde ...",
-        "gecensaat": "0h"
+        "gecensaat": "10h"
       },
       {
         "id": 202508141927,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nKendimizi kandırmazsak, b...",
-        "gecensaat": "8h"
-      },
-      {
-        "id": 202508140827,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nSen~den ne kadar az varsa, SEN~den o kadar çok v...",
-        "gecensaat": "19h"
+        "gecensaat": "22h"
       }
     ]
   },
@@ -36,7 +36,7 @@
     "pelevin": 175,
     "sabahnesesi": 509,
     "simurg": 303,
-    "soylesikayitlari": 200,
+    "soylesikayitlari": 201,
     "tazecik": 2786,
     "umutrehberi": 2465,
     "varliginsevinci": 233
