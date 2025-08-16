@@ -1,26 +1,26 @@
 {
-  "son_guncelleme": "2025-08-15T17:41:08.288Z",
+  "son_guncelleme": "2025-08-16T05:39:56.609Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508160837,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nKafanın İçini Görmek İstiyorsan, Gözlerini Açık ...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508152038,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nGüvenlik ve kesinliğe ya...",
-        "gecensaat": "0h"
+        "gecensaat": "9h"
       },
       {
         "id": 202508150716,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nKelimeler\nSessizliğe\nNüfûz edesi değil \n~\nSözde ...",
-        "gecensaat": "10h"
-      },
-      {
-        "id": 202508141927,
-        "yol": "pelevin",
-        "baslik": "Yolda Çevrilenler",
-        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nKendimizi kandırmazsak, b...",
         "gecensaat": "22h"
       }
     ]
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 175,
-    "sabahnesesi": 509,
+    "sabahnesesi": 510,
     "simurg": 303,
     "soylesikayitlari": 201,
     "tazecik": 2786,
