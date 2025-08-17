@@ -1,7 +1,14 @@
 {
-  "son_guncelleme": "2025-08-17T06:12:57.636Z",
+  "son_guncelleme": "2025-08-17T09:23:02.957Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508171220,
+        "yol": "pelevin",
+        "baslik": "Yolda Çevrilenler",
+        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nSame\nOld\nStory\n~\nDünyay...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508170910,
         "yol": "pelevin",
@@ -14,14 +21,7 @@
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nKafanın İçini Görmek İstiyorsan, Gözlerini Açık ...",
-        "gecensaat": "21h"
-      },
-      {
-        "id": 202508152038,
-        "yol": "soylesikayitlari",
-        "baslik": "Söyleşi Kayıtları",
-        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nGüvenlik ve kesinliğe ya...",
-        "gecensaat": "33h"
+        "gecensaat": "24h"
       }
     ]
   },
@@ -33,7 +33,7 @@
     "kelamikibar": 76,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
-    "pelevin": 176,
+    "pelevin": 177,
     "sabahnesesi": 510,
     "simurg": 303,
     "soylesikayitlari": 201,
