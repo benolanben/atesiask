@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-17T09:23:02.957Z",
+  "son_guncelleme": "2025-08-18T04:37:25.395Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508180734,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nSaf görmede \n(Pure vision)\n\nGördüğünü \n(Vizyon)\n...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508171220,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nSame\nOld\nStory\n~\nDünyay...",
-        "gecensaat": "0h"
+        "gecensaat": "16h"
       },
       {
         "id": 202508170910,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nDans, en yüce dua tarzı o...",
-        "gecensaat": "0h"
-      },
-      {
-        "id": 202508160837,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nKafanın İçini Görmek İstiyorsan, Gözlerini Açık ...",
-        "gecensaat": "24h"
+        "gecensaat": "19h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 177,
-    "sabahnesesi": 510,
+    "sabahnesesi": 511,
     "simurg": 303,
     "soylesikayitlari": 201,
     "tazecik": 2786,
