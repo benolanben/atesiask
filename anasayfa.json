@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-19T10:12:13.567Z",
+  "son_guncelleme": "2025-08-20T04:41:44.679Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508200739,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nKulluğun hası\nBir teslimiyettir,\nBir talep değil...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508191309,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'den]\n\n~\nGünümü non-dualite zevk...",
-        "gecensaat": "0h"
+        "gecensaat": "15h"
       },
       {
         "id": 202508190745,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "'Manevî y~OL'\nDediğimiz şeylerin çoğu, durmak için...",
-        "gecensaat": "2h"
-      },
-      {
-        "id": 202508180734,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nSaf görmede \n(Pure vision)\n\nGördüğünü \n(Vizyon)\n...",
-        "gecensaat": "26h"
+        "gecensaat": "20h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 178,
-    "sabahnesesi": 512,
+    "sabahnesesi": 513,
     "simurg": 303,
     "soylesikayitlari": 201,
     "tazecik": 2786,
