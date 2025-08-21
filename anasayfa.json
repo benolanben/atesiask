@@ -1,7 +1,14 @@
 {
-  "son_guncelleme": "2025-08-21T10:42:01.493Z",
+  "son_guncelleme": "2025-08-21T14:24:22.940Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508211721,
+        "yol": "soylesikayitlari",
+        "baslik": "Söyleşi Kayıtları",
+        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- İçimdeki uykuyu delece...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508211339,
         "yol": "kelamikibar",
@@ -14,14 +21,7 @@
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nHer şeyin içindeki o ışığı fark ettiğimizde, alg...",
-        "gecensaat": "2h"
-      },
-      {
-        "id": 202508202107,
-        "yol": "pelevin",
-        "baslik": "Yolda Çevrilenler",
-        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBir çokları için manevî y...",
-        "gecensaat": "13h"
+        "gecensaat": "5h"
       }
     ]
   },
@@ -36,7 +36,7 @@
     "pelevin": 179,
     "sabahnesesi": 514,
     "simurg": 303,
-    "soylesikayitlari": 201,
+    "soylesikayitlari": 202,
     "tazecik": 2786,
     "umutrehberi": 2465,
     "varliginsevinci": 233
