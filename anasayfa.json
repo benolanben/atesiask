@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-21T05:40:03.019Z",
+  "son_guncelleme": "2025-08-21T10:42:01.493Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508211339,
+        "yol": "kelamikibar",
+        "baslik": "Kelâm-ı Kibar",
+        "text": "Girdim Gül Bahçesi'ne Dereyim Dedim\nYolunu Bilene,...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508210837,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nHer şeyin içindeki o ışığı fark ettiğimizde, alg...",
-        "gecensaat": "0h"
+        "gecensaat": "2h"
       },
       {
         "id": 202508202107,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBir çokları için manevî y...",
-        "gecensaat": "8h"
-      },
-      {
-        "id": 202508200739,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nKulluğun hası\nBir teslimiyettir,\nBir talep değil...",
-        "gecensaat": "22h"
+        "gecensaat": "13h"
       }
     ]
   },
@@ -30,7 +30,7 @@
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
-    "kelamikibar": 76,
+    "kelamikibar": 77,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 179,
