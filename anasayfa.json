@@ -1,34 +1,34 @@
 {
-  "son_guncelleme": "2025-08-25T07:25:52.668Z",
+  "son_guncelleme": "2025-08-25T21:16:28.502Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508252413,
+        "yol": "duyulanlar",
+        "baslik": "Duyulanlar",
+        "text": "test\n\n\n123",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508251023,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Geldik ne günden,\nDedik 'bu an'dan'\nSunduk yüceden...",
-        "gecensaat": "0h"
+        "gecensaat": "10h"
       },
       {
         "id": 202508251015,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Perdenin aralığı hepten açılsın,\nBu aleme senin gö...",
-        "gecensaat": "0h"
-      },
-      {
-        "id": 202508251010,
-        "yol": "kelamikibar",
-        "baslik": "Kelâm-ı Kibar",
-        "text": "Evimdeyim, misafir değilim.",
-        "gecensaat": "0h"
+        "gecensaat": "11h"
       }
     ]
   },
   "adetler": {
     "birbakista": 142,
     "birlikdukkani": 172,
-    "duyulanlar": 167,
+    "duyulanlar": 168,
     "hazirolanlahasbihal": 12,
     "kelamikibar": 80,
     "kendinolmayageldin": 828,
