@@ -1,7 +1,14 @@
 {
-  "son_guncelleme": "2025-08-25T07:13:34.844Z",
+  "son_guncelleme": "2025-08-25T07:18:31.417Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508251015,
+        "yol": "kelamikibar",
+        "baslik": "Kelâm-ı Kibar",
+        "text": "Perdenin aralığı hepten açılsın,\nBu aleme senin gö...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508251010,
         "yol": "kelamikibar",
@@ -15,13 +22,6 @@
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nFarkında mısınız?\nFark e...",
         "gecensaat": "6h"
-      },
-      {
-        "id": 202508231415,
-        "yol": "pelevin",
-        "baslik": "Yolda Çevrilenler",
-        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nBazen neşeden şarkı söy...",
-        "gecensaat": "40h"
       }
     ]
   },
@@ -30,7 +30,7 @@
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
-    "kelamikibar": 78,
+    "kelamikibar": 79,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 180,
