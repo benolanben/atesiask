@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-24T21:22:22.531Z",
+  "son_guncelleme": "2025-08-25T07:13:34.844Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508251010,
+        "yol": "kelamikibar",
+        "baslik": "Kelâm-ı Kibar",
+        "text": "Evimdeyim, misafir değilim.",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508242419,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nFarkında mısınız?\nFark e...",
-        "gecensaat": "0h"
+        "gecensaat": "6h"
       },
       {
         "id": 202508231415,
         "yol": "pelevin",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nBazen neşeden şarkı söy...",
-        "gecensaat": "31h"
-      },
-      {
-        "id": 202508230608,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nZihin, \nUyanış'a\nAydınlanma’ya\n\nAllah'a varan\nBi...",
-        "gecensaat": "39h"
+        "gecensaat": "40h"
       }
     ]
   },
@@ -30,7 +30,7 @@
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
-    "kelamikibar": 77,
+    "kelamikibar": 78,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 180,
