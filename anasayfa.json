@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-25T21:21:01.244Z",
+  "son_guncelleme": "2025-08-26T04:47:36.725Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508260745,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nVücûdu bir mâbet olarak görmek, kutsal olanın dı...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508251023,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Geldik ne günden,\nDedik 'bu an'dan'\nSunduk yüceden...",
-        "gecensaat": "10h"
+        "gecensaat": "18h"
       },
       {
         "id": 202508251015,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Perdenin aralığı hepten açılsın,\nBu aleme senin gö...",
-        "gecensaat": "11h"
-      },
-      {
-        "id": 202508251010,
-        "yol": "kelamikibar",
-        "baslik": "Kelâm-ı Kibar",
-        "text": "Evimdeyim, misafir değilim.",
-        "gecensaat": "11h"
+        "gecensaat": "18h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "pelevin": 180,
-    "sabahnesesi": 515,
+    "sabahnesesi": 516,
     "simurg": 303,
     "soylesikayitlari": 203,
     "tazecik": 2786,
