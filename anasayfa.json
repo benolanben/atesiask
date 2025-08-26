@@ -1,5 +1,5 @@
 {
-  "son_guncelleme": "2025-08-26T06:50:10.775Z",
+  "son_guncelleme": "2025-08-26T11:07:33.446Z",
   "isaretler": {
     "taze": [
       {
@@ -7,21 +7,21 @@
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nVücûdu bir mâbet olarak görmek, kutsal olanın dı...",
-        "gecensaat": "0h"
+        "gecensaat": "3h"
       },
       {
         "id": 202508251023,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Geldik ne günden,\nDedik 'bu an'dan'\nSunduk yüceden...",
-        "gecensaat": "20h"
+        "gecensaat": "24h"
       },
       {
         "id": 202508251015,
         "yol": "kelamikibar",
         "baslik": "Kelâm-ı Kibar",
         "text": "Perdenin aralığı hepten açılsın,\nBu aleme senin gö...",
-        "gecensaat": "20h"
+        "gecensaat": "24h"
       }
     ]
   },
