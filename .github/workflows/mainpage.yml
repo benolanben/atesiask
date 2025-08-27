@@ -10,12 +10,12 @@ on:
       - 'kelamikibar.json'
       - 'kendinolmayageldin.json'
       - 'kussesleri.json'
-      - 'pelevin.json'
+      - 'yoldacevrilenler.json'
       - 'sabahnesesi.json'
       - 'simurg.json'
       - 'soylesikayitlari.json'
       - 'tazecik.json'
-      - 'umutrehberi.json'
+      - 'banaoylegelmis.json'
       - 'varliginsevinci.json'
     branches:
       - main
@@ -50,12 +50,12 @@ jobs:
           { path: 'kelamikibar.json', name: 'Kelâm-ı Kibar' },
           { path: 'kendinolmayageldin.json', name: 'Bulan Ol Kendi Oldu' },
           { path: 'kussesleri.json', name: 'Kuş Sesleri' },
-          { path: 'pelevin.json', name: 'Yolda Çevrilenler' },
+          { path: 'yoldacevrilenler.json', name: 'Yolda Çevrilenler' },
           { path: 'sabahnesesi.json', name: 'Sabah Neşesi' },
           { path: 'simurg.json', name: 'Simurg' },
           { path: 'soylesikayitlari.json', name: 'Söyleşi Kayıtları' },
           { path: 'tazecik.json', name: 'Tazecik' },
-          { path: 'umutrehberi.json', name: 'Bana Öyle Gelmiş' },
+          { path: 'banaoylegelmis.json', name: 'Bana Öyle Gelmiş' },
           { path: 'varliginsevinci.json', name: 'Varlığın Sevinci' }
         ];
         
