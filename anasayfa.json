@@ -1,7 +1,14 @@
 {
-  "son_guncelleme": "2025-08-28T18:16:20.449Z",
+  "son_guncelleme": "2025-08-28T18:29:32.597Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508282066,
+        "yol": "birbakista",
+        "baslik": "Bir Bakışta",
+        "text": "asdasdasd",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508282043,
         "yol": "birbakista",
@@ -15,18 +22,11 @@
         "baslik": "Bir Bakışta",
         "text": "asdasdasd",
         "gecensaat": "0h"
-      },
-      {
-        "id": 202508280758,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
-        "gecensaat": "10h"
       }
     ]
   },
   "adetler": {
-    "birbakista": 144,
+    "birbakista": 145,
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
