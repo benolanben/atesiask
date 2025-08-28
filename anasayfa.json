@@ -1,32 +1,32 @@
 {
-  "son_guncelleme": "2025-08-28T18:40:18.411Z",
+  "son_guncelleme": "2025-08-28T19:41:42.345Z",
   "isaretler": {
     "taze": [
-      {
-        "id": 202508282067,
-        "yol": "birbakista",
-        "baslik": "Bir Bakışta",
-        "text": "asdasdasd",
-        "gecensaat": "0h"
-      },
-      {
-        "id": 202508282066,
-        "yol": "birbakista",
-        "baslik": "Bir Bakışta",
-        "text": "asdasdasd",
-        "gecensaat": "0h"
-      },
       {
         "id": 202508280758,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
-        "gecensaat": "10h"
+        "gecensaat": "11h"
+      },
+      {
+        "id": 202508271706,
+        "yol": "yoldacevrilenler",
+        "baslik": "Yolda Çevrilenler",
+        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
+        "gecensaat": "26h"
+      },
+      {
+        "id": 202508271430,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n...",
+        "gecensaat": "29h"
       }
     ]
   },
   "adetler": {
-    "birbakista": 144,
+    "birbakista": 142,
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
