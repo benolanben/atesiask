@@ -1,7 +1,14 @@
 {
-  "son_guncelleme": "2025-08-28T17:52:43.113Z",
+  "son_guncelleme": "2025-08-28T17:56:23.557Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508282040,
+        "yol": "birbakista",
+        "baslik": "Bir Bakışta",
+        "text": "asdasdasd",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508280758,
         "yol": "sabahnesesi",
@@ -15,18 +22,11 @@
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
         "gecensaat": "24h"
-      },
-      {
-        "id": 202508271430,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n...",
-        "gecensaat": "27h"
       }
     ]
   },
   "adetler": {
-    "birbakista": 142,
+    "birbakista": 143,
     "birlikdukkani": 172,
     "duyulanlar": 167,
     "hazirolanlahasbihal": 12,
