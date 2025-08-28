@@ -1,10 +1,16 @@
 {
-  "isaretler": [ 
+  "isaretler": [
+    {
+      "text": "asdasdasd",
+      "id": 202508282040,
+      "category": "birbakista",
+      "type": "add",
+      "timestamp": "2025-08-28T17:40:11.147Z"
+    },
     {
       "id": 202508271430,
       "category": "Sabah Neşesi",
       "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n..."
     }
-    
   ]
 }
