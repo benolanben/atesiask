@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-27T11:33:07.073Z",
+  "son_guncelleme": "2025-08-28T05:01:01.072Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508280758,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
+        "gecensaat": "0h"
+      },
+      {
+        "id": 202508271706,
+        "yol": "yoldacevrilenler",
+        "baslik": "Yolda Çevrilenler",
+        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
+        "gecensaat": "11h"
+      },
       {
         "id": 202508271430,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n...",
-        "gecensaat": "0h"
-      },
-      {
-        "id": 202508260745,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nVücûdu bir mâbet olarak görmek, kutsal olanın dı...",
-        "gecensaat": "27h"
-      },
-      {
-        "id": 202508251023,
-        "yol": "kelamikibar",
-        "baslik": "Kelâm-ı Kibar",
-        "text": "Geldik ne günden,\nDedik 'bu an'dan'\nSunduk yüceden...",
-        "gecensaat": "49h"
+        "gecensaat": "14h"
       }
     ]
   },
@@ -33,12 +33,12 @@
     "kelamikibar": 80,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
-    "pelevin": 180,
-    "sabahnesesi": 517,
+    "yoldacevrilenler": 182,
+    "sabahnesesi": 518,
     "simurg": 303,
     "soylesikayitlari": 203,
     "tazecik": 2786,
-    "umutrehberi": 2465,
+    "banaoylegelmis": 2465,
     "varliginsevinci": 233
   }
 }
