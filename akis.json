@@ -6,28 +6,19 @@
       "category": "kaynak/aheng"
     },
     {
-      "text": "asdasdasd",
-      "id": 202508282447,
-      "category": "birbakista"
-    },
-    {
-      "text": "asdasdasd",
-      "id": 202508282068,
-      "category": "birbakista",
-      "type": "set",
-      "timestamp": "2025-08-28T18:47:32.968Z"
-    },
-    {
-      "text": "asdasdasd",
-      "id": 202508282040,
-      "category": "birbakista",
-      "type": "add",
-      "timestamp": "2025-08-28T17:40:11.147Z"
-    },
-    {
-      "id": 202508271430,
-      "category": "Sabah Neşesi",
-      "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n..."
-    }
+        "id": 202508290735,
+        "category": "sabahnesesi",
+        "text": "~\nArzunun olduğu yerde seçim, çatışma ve esâret va...",
+      },
+      {
+        "id": 202508280758,
+        "category": "sabahnesesi",
+        "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
+      },
+      {
+        "id": 202508271706,
+        "category": "yoldacevrilenler",
+        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
+      }
   ]
 }
