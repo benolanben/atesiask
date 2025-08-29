@@ -1,24 +1,34 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 450699,
+        "parca_adi": "Seyyâh olp yâr yolunda",
+        "seslendiren": "M. Kemiksiz",
+        "url": "https://www.mediafire.com/file/tieq1j35ar555ae/256-seyyaholup.mp3"
+      },
+      "id": 450699,
+      "category": "kaynak/aheng"
+    },
+    {
       "text": "{\"sira_no\":4505567,\"parca_adi\":\"Seyyâh olp yâr yolunda\",\"seslendiren\":\"M. Kemiksiz\",\"url\":\"https://www.mediafire.com/file/tieq1j35ar555ae/256-seyyaholup.mp3\"}",
       "id": 4505567,
       "category": "kaynak/aheng"
     },
     {
-        "id": 202508290735,
-        "category": "sabahnesesi",
-        "text": "~\nArzunun olduğu yerde seçim, çatışma ve esâret va..."
-      },
-      {
-        "id": 202508280758,
-        "category": "sabahnesesi",
-        "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş..."
-      },
-      {
-        "id": 202508271706,
-        "category": "yoldacevrilenler",
-        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ..."
-      }
+      "id": 202508290735,
+      "category": "sabahnesesi",
+      "text": "~\nArzunun olduğu yerde seçim, çatışma ve esâret va..."
+    },
+    {
+      "id": 202508280758,
+      "category": "sabahnesesi",
+      "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş..."
+    },
+    {
+      "id": 202508271706,
+      "category": "yoldacevrilenler",
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ..."
+    }
   ]
 }
