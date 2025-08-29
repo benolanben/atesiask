@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-28T19:41:42.345Z",
+  "son_guncelleme": "2025-08-29T04:37:54.330Z",
   "isaretler": {
     "taze": [
+      {
+        "id": 202508290735,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nArzunun olduğu yerde seçim, çatışma ve esâret va...",
+        "gecensaat": "0h"
+      },
       {
         "id": 202508280758,
         "yol": "sabahnesesi",
         "baslik": "Sabah Neşesi",
         "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
-        "gecensaat": "11h"
+        "gecensaat": "20h"
       },
       {
         "id": 202508271706,
         "yol": "yoldacevrilenler",
         "baslik": "Yolda Çevrilenler",
         "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
-        "gecensaat": "26h"
-      },
-      {
-        "id": 202508271430,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "🎵\n\nNeler oluyor bize\nBize neler oluyor canım \n🎵\n...",
-        "gecensaat": "29h"
+        "gecensaat": "35h"
       }
     ]
   },
@@ -34,7 +34,7 @@
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
     "yoldacevrilenler": 182,
-    "sabahnesesi": 518,
+    "sabahnesesi": 519,
     "simurg": 303,
     "soylesikayitlari": 203,
     "tazecik": 2786,
