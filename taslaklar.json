@@ -2,7 +2,7 @@
   "isaretler": [
     {
       "id": "taslak-1756840539928",
-      "title": "Yeni Taslak",
+      "title": "Yeni Taslak 111",
       "content": {
         "id": "taslak-1756840539928",
         "slug": "yeni-taslak",
@@ -45,7 +45,7 @@
         }
       },
       "created_at": "2025-09-02T19:15:39.929Z",
-      "updated_at": "2025-09-02T19:16:00.057Z"
+      "updated_at": "2025-09-02T19:30:28.292Z"
     }
   ]
 }
