@@ -1,6 +1,15 @@
 {
   "isaretler": [
     {
+      "id": 1756846423865,
+      "name": "Oxalis",
+      "email": "emreaksell@gmail.com",
+      "message": "olololol",
+      "reason": "Teşekkür",
+      "is_read": 0,
+      "created_at": "2025-09-02T20:53:43.865Z"
+    },
+    {
       "id": 1756844356081,
       "name": "Emre Aksel",
       "email": "emreaksell@gmail.com",
