@@ -32,53 +32,6 @@
       },
       "created_at": "2025-09-02T20:55:54.391Z",
       "updated_at": "2025-09-02T20:56:18.580Z"
-    },
-    {
-      "id": "taslak-1756840539928",
-      "title": "Yeni Taslak 111",
-      "content": {
-        "id": "taslak-1756840539928",
-        "slug": "yeni-taslak",
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2025-09-02T19:15:20.630Z",
-        "content": "",
-        "imageUrl": "",
-        "tags": [],
-        "category": "taslaklar",
-        "baslik": "Yeni Taslak Başlığı",
-        "gecensaat": "",
-        "text": "",
-        "image": "",
-        "yol": "",
-        "created_at": "2025-09-02T19:15:20.630Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
-            "date_value": "2025",
-            "mini_title": "agah olasın",
-            "tags": [
-              "deneme"
-            ],
-            "title": "Başlık",
-            "subtitle": "Alt Başlık"
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": "İçeriğinizi buraya frdgdrgdgirin..."
-              },
-              {
-                "type": "baslik",
-                "text": "gdrgrgrg"
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2025-09-02T19:15:39.929Z",
-      "updated_at": "2025-09-02T19:30:28.292Z"
     }
   ]
 }
