@@ -1,27 +1,27 @@
 {
-  "son_guncelleme": "2025-08-29T14:09:08.603Z",
+  "son_guncelleme": "2025-09-03T18:16:41.826Z",
   "isaretler": {
     "taze": [
       {
-        "id": 202508290735,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nArzunun olduğu yerde seçim, çatışma ve esâret va...",
+        "id": 202509032113,
+        "yol": "simurg",
+        "baslik": "Simurg",
+        "text": "...",
+        "gecensaat": "0h"
+      },
+      {
+        "id": 202509031119,
+        "yol": "soylesikayitlari",
+        "baslik": "Söyleşi Kayıtları",
+        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Bu dünyada en çok iste...",
         "gecensaat": "6h"
       },
       {
-        "id": 202508280758,
-        "yol": "sabahnesesi",
-        "baslik": "Sabah Neşesi",
-        "text": "~\nÂlemde nefes gibi önce san'at görmedim \n[Ş. Nakş...",
-        "gecensaat": "30h"
-      },
-      {
-        "id": 202508271706,
-        "yol": "yoldacevrilenler",
-        "baslik": "Yolda Çevrilenler",
-        "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n•\nKemâle dönüşüm celâlle ...",
-        "gecensaat": "45h"
+        "id": 202509021227,
+        "yol": "soylesikayitlari",
+        "baslik": "Söyleşi Kayıtları",
+        "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n💧\nBIR~ak ey katre sana ...",
+        "gecensaat": "29h"
       }
     ]
   },
@@ -33,10 +33,10 @@
     "kelamikibar": 80,
     "kendinolmayageldin": 828,
     "kussesleri": 6723,
-    "yoldacevrilenler": 182,
-    "sabahnesesi": 519,
-    "simurg": 303,
-    "soylesikayitlari": 203,
+    "yoldacevrilenler": 183,
+    "sabahnesesi": 522,
+    "simurg": 304,
+    "soylesikayitlari": 207,
     "tazecik": 2786,
     "banaoylegelmis": 2465,
     "varliginsevinci": 233
