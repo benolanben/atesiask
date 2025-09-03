@@ -1,20 +1,13 @@
 {
-  "son_guncelleme": "2025-09-03T18:16:41.826Z",
+  "son_guncelleme": "2025-09-03T18:23:18.383Z",
   "isaretler": {
     "taze": [
-      {
-        "id": 202509032113,
-        "yol": "simurg",
-        "baslik": "Simurg",
-        "text": "...",
-        "gecensaat": "0h"
-      },
       {
         "id": 202509031119,
         "yol": "soylesikayitlari",
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Bu dünyada en çok iste...",
-        "gecensaat": "6h"
+        "gecensaat": "7h"
       },
       {
         "id": 202509021227,
@@ -22,6 +15,13 @@
         "baslik": "Söyleşi Kayıtları",
         "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n💧\nBIR~ak ey katre sana ...",
         "gecensaat": "29h"
+      },
+      {
+        "id": 202509020910,
+        "yol": "sabahnesesi",
+        "baslik": "Sabah Neşesi",
+        "text": "~\nZihin teslim olamaz...\n~\n\nGerçek teslimiyet\nZihn...",
+        "gecensaat": "33h"
       }
     ]
   },
@@ -35,7 +35,7 @@
     "kussesleri": 6723,
     "yoldacevrilenler": 183,
     "sabahnesesi": 522,
-    "simurg": 304,
+    "simurg": 303,
     "soylesikayitlari": 207,
     "tazecik": 2786,
     "banaoylegelmis": 2465,
