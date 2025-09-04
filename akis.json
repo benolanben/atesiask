@@ -1,12 +1,17 @@
 {
   "isaretler": [
     {
-      "text": {
-      "sira_no": 1394,
-      "parca_adi": "Ağır semâi",
-      "seslendiren": "S. İstanbul",
-      "url": "https://www.mediafire.com/file/nf0xqg3puayrljp/syegah_agir.mp3"
+      "text": "~\nEn yüksek gerçekliğe her zaman teslim olduğunuzu ve bunun başka bir yolu olmadığını bilmek, anlatılmaz bir saadet...\n[...",
+      "id": 202509040836,
+      "category": "sabahnesesi"
     },
+    {
+      "text": {
+        "sira_no": 1394,
+        "parca_adi": "Ağır semâi",
+        "seslendiren": "S. İstanbul",
+        "url": "https://www.mediafire.com/file/nf0xqg3puayrljp/syegah_agir.mp3"
+      },
       "id": 1394,
       "category": "kaynak/baska"
     },
