@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nY~OL \nVar olan iki şey arasında olur\nİki şey yoktur\nBu yüzden Zen bir yol değil  \nBir zevktir...",
+      "id": 202509101330,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "°\n~O~ev~de; yürüyüşe çıkan biz~iz; evin yolunu hatırlayabilir miyiz?\n\nNefes kimin?\nHayat kimin?\nZihin kimin?\nBu rüya kim...",
       "id": 202509090723,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n💧\nBIR~ak ey katre sana bes bu şeref\nKarış ol deryaya olmazsın telef\n💦\nAllah Allah terk kıl s...",
       "id": 202509021227,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": "~\nZihin teslim olamaz...\n~\n\nGerçek teslimiyet\nZihnin teslimiyetidir\n\nTeslimiyet,\nHayat nasıl ilerlerse ilerlesin şüphe d...",
-      "id": 202509020910,
-      "category": "sabahnesesi"
     }
   ]
 }
