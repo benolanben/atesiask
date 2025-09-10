@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1396,
+        "parca_adi": "Tac marifet tâcıdır",
+        "seslendiren": "A. Bektaş",
+        "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+      },
+      "id": 202509101921,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nBoş olduğu için gerçek bir madde yoktur. \nBerrak olduğu için de kendinin farkındadır\n~\nÖzünde...",
       "id": 202509101704,
       "category": "yoldacevrilenler"
@@ -44,16 +54,6 @@
       "text": "~\nEn yüksek gerçekliğe her zaman teslim olduğunuzu ve bunun başka bir yolu olmadığını bilmek, anlatılmaz bir saadet...\n[...",
       "id": 202509040836,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1394,
-        "parca_adi": "Ağır semâi",
-        "seslendiren": "S. İstanbul",
-        "url": "https://www.mediafire.com/file/nf0xqg3puayrljp/syegah_agir.mp3"
-      },
-      "id": 202509040801,
-      "category": "kaynak/baska"
     }
   ]
 }
