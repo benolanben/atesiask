@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nBoş olduğu için gerçek bir madde yoktur. \nBerrak olduğu için de kendinin farkındadır\n~\nÖzünde...",
+      "id": 202509101704,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "‘Hasret kaldık.’ desem yersiz, \nGelen görüşümden habersiz,\n‘Öyle olsa, böyle gelse.’ denmesin,\nHer ben diyen, olacaktan ...",
       "id": 202509101349,
       "category": "kelamikibar"
@@ -49,11 +54,6 @@
       },
       "id": 202509040801,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Bu dünyada en çok istediğim şey gök~yüzümde özgürce uçabilmek, gerçi çocukken rüyalarımda bi...",
-      "id": 202509031119,
-      "category": "soylesikayitlari"
     }
   ]
 }
