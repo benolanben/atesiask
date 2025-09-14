@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Ya doğru zamanda doğru kararı verip doğru eylemde bulunamazsam?\n\nÖmür törpüsüne benzer bu ya...",
+      "id": 202509142040,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": "~\nGörmediklerimizi görmeli, daha önce gördüklerimizi yeni~den görmeli, yazın gördüklerimizi baharda görmeli, gece gördük...",
       "id": 202509140757,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       "text": "‘Hasret kaldık.’ desem yersiz, \nGelen görüşümden habersiz,\n‘Öyle olsa, böyle gelse.’ denmesin,\nHer ben diyen, olacaktan ...",
       "id": 202509101349,
       "category": "kelamikibar"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n~\nY~OL \nVar olan iki şey arasında olur\nİki şey yoktur\nBu yüzden Zen bir yol değil  \nBir zevktir...",
-      "id": 202509101330,
-      "category": "yoldacevrilenler"
     }
   ]
 }
