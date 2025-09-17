@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\nKaos, henüz anlaşılmamış düzendir.\n\nTüm çelişkilerin aslında tamamlayıcı olduğunu, zıtların birbirini bütünlediğini fa...",
+      "id": 202509170711,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Temutune Kema Tâişun Ve Tuhşerune Kema Temutun\n\nNasıl yaşarsanız öyle ölürsünüz, nasıl ölürseniz yeni hayat içine öyle d...",
       "id": 202509152406,
       "category": "varliginsevinci"
@@ -44,16 +49,6 @@
       "text": "~\nOrganize dinlerin temel işlevlerinden biri, insanları Tanrı'yla doğrudan bir deneyim yaşamaktan korumaktır.\n[C. Jung'd...",
       "id": 202509120901,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1395,
-        "parca_adi": "Mahperi",
-        "seslendiren": "S. Yardım",
-        "url": "https://www.mediafire.com/file/faoxn2zjtfx80rg/mahperi.mp3"
-      },
-      "id": 202509101921,
-      "category": "kaynak/baska"
     }
   ]
 }
