@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1397,
+        "parca_adi": "Tac marifet tâcıdır",
+        "seslendiren": "A. Bektaş",
+        "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+      },
+      "id": 202509252021,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\nÇok çok çok \nDaha daha daha...\n~\n\nCümle içinde geçen \nHer \"daha\"\nŞimdi olan değil \nBundan başka \nBundan öte \nBundan zi...",
       "id": 202509250924,
       "category": "sabahnesesi"
@@ -44,11 +54,6 @@
       "text": "~\nŞeyleri, sandığın gibi görmek yerine olduğu gibi görmeyi öğrenmeden ölmeyesin\n\nNasıl mı?\n\nÇok basit\nÖyle sanma\n\nŞimdi ...",
       "id": 202509150831,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Ya doğru zamanda doğru kararı verip doğru eylemde bulunamazsam?\n\nÖmür törpüsüne benzer bu ya...",
-      "id": 202509142040,
-      "category": "soylesikayitlari"
     }
   ]
 }
