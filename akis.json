@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1398,
+        "parca_adi": "Tac marifet tâcıdır",
+        "seslendiren": "A. Bektaş",
+        "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+      },
+      "id": 202509291015,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'DAN]\n\nİyiliği emreden Tanrı, kötülüğe izin vermiştir. \nÇünkü çok daha büyük bir iyilik için evrilir h...",
       "id": 202509272042,
       "category": "soylesikayitlari"
@@ -48,11 +58,6 @@
     {
       "text": "~\n\nAşkın zıddı yoktur.\n\nKorktuğunuz her şey, henüz tanımadığınız bir biçimde aşktır...\n\n\"Aşk olsun\" derken \n'Zâten aşk o...",
       "id": 202509180741,
-      "category": "sabahnesesi"
-    },
-    {
-      "text": "~\nKaos, henüz anlaşılmamış düzendir.\n\nTüm çelişkilerin aslında tamamlayıcı olduğunu, zıtların birbirini bütünlediğini fa...",
-      "id": 202509170711,
       "category": "sabahnesesi"
     }
   ]
