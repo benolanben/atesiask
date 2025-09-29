@@ -1,10 +1,16 @@
 {
   "sesler": [
     {
-      "sira_no": 1397,
+      "sira_no": 1398,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
       "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1397,
+      "parca_adi": "Doğu Vadileri",
+      "seslendiren": "B. Tahir",
+      "url": "https://www.mediafire.com/file/6nb790vzcgsuk4y/doguvadileri_ahura.mp3"
     },
     {
       "sira_no": 1396,
