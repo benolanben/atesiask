@@ -2,11 +2,21 @@
   "isaretler": [
     {
       "text": {
-      "sira_no": 1398,
-      "parca_adi": "Doğu Vadileri",
-      "seslendiren": "B. Tahir",
-      "url": "https://www.mediafire.com/file/agnebct9q2h3dba/ahura.mp3"
+        "sira_no": 1399,
+        "parca_adi": "Aradığım bende imiş",
+        "seslendiren": "E. Pancarcı",
+        "url": "https://www.mediafire.com/file/f40vh8x1k5ythoj/aradigimbende_epancari.mp3"
+      },
+      "id": 202509301124,
+      "category": "kaynak/baska"
     },
+    {
+      "text": {
+        "sira_no": 1398,
+        "parca_adi": "Doğu Vadileri",
+        "seslendiren": "B. Tahir",
+        "url": "https://www.mediafire.com/file/agnebct9q2h3dba/ahura.mp3"
+      },
       "id": 202509291015,
       "category": "kaynak/baska"
     },
@@ -54,11 +64,6 @@
       "text": "[SÖYLEŞİ  KAYITLARI'NDAN]\n\n-  \"Ben-im hikâyem\" nerde başlıyor?\nNe ile başlıyor?\n\nRüyâya geçiş ânı gibi o kadar silik ki ...",
       "id": 202509211735,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": "~\n\nAşkın zıddı yoktur.\n\nKorktuğunuz her şey, henüz tanımadığınız bir biçimde aşktır...\n\n\"Aşk olsun\" derken \n'Zâten aşk o...",
-      "id": 202509180741,
-      "category": "sabahnesesi"
     }
   ]
 }
