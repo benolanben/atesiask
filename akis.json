@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1400,
+        "parca_adi": "İntisâb",
+        "seslendiren": "Ş. Pancaroğlu",
+        "url": "https://www.mediafire.com/file/p8cohhcfidfalm1/intisab_sp.mp3"
+      },
+      "id": 202510041315,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nİlâhî olan, en sıradan olduğunuzda en yakınınızdadır. Her yerde olana ulaşmak için hiçbir yere...",
       "id": 202510040900,
       "category": "soylesikayitlari"
@@ -53,11 +63,6 @@
     {
       "text": "[SÖYLEŞİ KAYITLARI'DAN]\n\nİyiliği emreden Tanrı, kötülüğe izin vermiştir. \nÇünkü çok daha büyük bir iyilik için evrilir h...",
       "id": 202509272042,
-      "category": "soylesikayitlari"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Var olmanın dayanılmaz ağırlığı bir nefesçik düşse ya sırtımdan...\n\nTadayım dersen bir anda ...",
-      "id": 202509271104,
       "category": "soylesikayitlari"
     }
   ]
