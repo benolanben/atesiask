@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nGerçek bilgelik, bilgi biriktirmek değil, kesinlikten vazgeçmektir. \n\nBilmediğinde, zihin kavramlar üzerindeki hakimi...",
+      "id": 202510051023,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1400,
         "parca_adi": "İntisâb",
@@ -59,11 +64,6 @@
       },
       "id": 202509291015,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'DAN]\n\nİyiliği emreden Tanrı, kötülüğe izin vermiştir. \nÇünkü çok daha büyük bir iyilik için evrilir h...",
-      "id": 202509272042,
-      "category": "soylesikayitlari"
     }
   ]
 }
