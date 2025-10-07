@@ -1,6 +1,51 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1401,
+        "parca_adi": "Derdi nedir bilmiyorum",
+        "seslendiren": "B. Uymaz",
+        "url": "https://www.mediafire.com/file/fu9ot1bhox64gu2/derdinedir.mp3"
+      },
+      "id": 202510071608,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nHayatınızda bir şeyler ters gittiğinde, sanki tüm dünyanız üzerinize yıkılıyormuş gibi hissede...",
+      "id": 202510071442,
+      "category": "soylesikayitlari"
+    },
+    {
+      "text": "~\nŞimdi yetersizim\nBir isteğin tatmini ile\nYârın yeterli olabilirim\n\nHiçbir istek seni tatmin edemez zira şimdi bir eksi...",
+      "id": 202510070847,
+      "category": "sabahnesesi"
+    },
+    {
+      "text": "~\n\nGerçek bilgelik, bilgi biriktirmek değil, kesinlikten vazgeçmektir. \n\nBilmediğinde, zihin kavramlar üzerindeki hakimi...",
+      "id": 202510051023,
+      "category": "sabahnesesi"
+    },
+    {
+      "text": {
+        "sira_no": 1400,
+        "parca_adi": "İntisâb",
+        "seslendiren": "Ş. Pancaroğlu",
+        "url": "https://www.mediafire.com/file/p8cohhcfidfalm1/intisab_sp.mp3"
+      },
+      "id": 202510041315,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nİlâhî olan, en sıradan olduğunuzda en yakınınızdadır. Her yerde olana ulaşmak için hiçbir yere...",
+      "id": 202510040900,
+      "category": "soylesikayitlari"
+    },
+    {
+      "text": "~\n\nHayâlî bir katılım olmadan nefesin gözlemlenmesi, gerçekliğin gözlemlenmesidir. \n\nZira nefes buradadır \nVe hayat anca...",
+      "id": 202510040856,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Neden hiç bir kimse, hiçbir zaman Tanrı'yı görmüyor biliyor musun?\n\n- Neden?\n\n- Çünkü...\n\nÇü...",
       "id": 202510022153,
       "category": "soylesikayitlari"
@@ -14,56 +59,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Bir kimse derin bir anlam duygusu bulamadığında, kendini haz üstüne haz ile oyalar ya...\n\nBe...",
       "id": 202510011136,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Şimdi burada bunları size itiraf ederken, sonsuzluğa dair bir özlemle, doğuştan gelen metafi...",
-      "id": 202509301807,
-      "category": "soylesikayitlari"
-    },
-    {
-      "text": {
-        "sira_no": 1399,
-        "parca_adi": "Aradığım bende imiş",
-        "seslendiren": "E. Pancarcı",
-        "url": "https://www.mediafire.com/file/f40vh8x1k5ythoj/aradigimbende_epancari.mp3"
-      },
-      "id": 202509301124,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1398,
-        "parca_adi": "Doğu Vadileri",
-        "seslendiren": "B. Tahir",
-        "url": "https://www.mediafire.com/file/agnebct9q2h3dba/ahura.mp3"
-      },
-      "id": 202509291015,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'DAN]\n\nİyiliği emreden Tanrı, kötülüğe izin vermiştir. \nÇünkü çok daha büyük bir iyilik için evrilir h...",
-      "id": 202509272042,
-      "category": "soylesikayitlari"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Var olmanın dayanılmaz ağırlığı bir nefesçik düşse ya sırtımdan...\n\nTadayım dersen bir anda ...",
-      "id": 202509271104,
-      "category": "soylesikayitlari"
-    },
-    {
-      "text": {
-        "sira_no": 1396,
-        "parca_adi": "Nikriz bağlı",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/odiqfg64wiykh4s/nikrizbagli.mp3"
-      },
-      "id": 202509252021,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nÇok çok çok \nDaha daha daha...\n~\n\nCümle içinde geçen \nHer \"daha\"\nŞimdi olan değil \nBundan başka \nBundan öte \nBundan zi...",
-      "id": 202509250924,
-      "category": "sabahnesesi"
     }
   ]
 }
