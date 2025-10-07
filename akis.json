@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nHayatınızda bir şeyler ters gittiğinde, sanki tüm dünyanız üzerinize yıkılıyormuş gibi hissede...",
+      "id": 202510071442,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": "~\nŞimdi yetersizim\nBir isteğin tatmini ile\nYârın yeterli olabilirim\n\nHiçbir istek seni tatmin edemez zira şimdi bir eksi...",
       "id": 202510070847,
       "category": "sabahnesesi"
@@ -49,16 +54,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Şimdi burada bunları size itiraf ederken, sonsuzluğa dair bir özlemle, doğuştan gelen metafi...",
       "id": 202509301807,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": {
-        "sira_no": 1399,
-        "parca_adi": "Aradığım bende imiş",
-        "seslendiren": "E. Pancarcı",
-        "url": "https://www.mediafire.com/file/f40vh8x1k5ythoj/aradigimbende_epancari.mp3"
-      },
-      "id": 202509301124,
-      "category": "kaynak/baska"
     }
   ]
 }
