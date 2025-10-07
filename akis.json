@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1401,
+        "parca_adi": "Derdi nedir bilmiyorum",
+        "seslendiren": "B. Uymaz",
+        "url": "https://www.mediafire.com/file/fu9ot1bhox64gu2/derdinedir.mp3"
+      },
+      "id": 202510071608,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nHayatınızda bir şeyler ters gittiğinde, sanki tüm dünyanız üzerinize yıkılıyormuş gibi hissede...",
       "id": 202510071442,
       "category": "soylesikayitlari"
@@ -48,11 +58,6 @@
     {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Bir kimse derin bir anlam duygusu bulamadığında, kendini haz üstüne haz ile oyalar ya...\n\nBe...",
       "id": 202510011136,
-      "category": "soylesikayitlari"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Şimdi burada bunları size itiraf ederken, sonsuzluğa dair bir özlemle, doğuştan gelen metafi...",
-      "id": 202509301807,
       "category": "soylesikayitlari"
     }
   ]
