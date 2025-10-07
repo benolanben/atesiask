@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\nŞimdi yetersizim\nBir isteğin tatmini ile\nYârın yeterli olabilirim\n\nHiçbir istek seni tatmin edemez zira şimdi bir eksi...",
+      "id": 202510070847,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "~\n\nGerçek bilgelik, bilgi biriktirmek değil, kesinlikten vazgeçmektir. \n\nBilmediğinde, zihin kavramlar üzerindeki hakimi...",
       "id": 202510051023,
       "category": "sabahnesesi"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/f40vh8x1k5ythoj/aradigimbende_epancari.mp3"
       },
       "id": 202509301124,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1398,
-        "parca_adi": "Doğu Vadileri",
-        "seslendiren": "B. Tahir",
-        "url": "https://www.mediafire.com/file/agnebct9q2h3dba/ahura.mp3"
-      },
-      "id": 202509291015,
       "category": "kaynak/baska"
     }
   ]
