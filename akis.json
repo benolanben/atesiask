@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1403,
+        "parca_adi": "Senin sermest gözlerin",
+        "seslendiren": "R. Şerceryan",
+        "url": "https://www.mediafire.com/file/mmbxdphbm09dl9d/hudadya.mp3"
+      },
+      "id": 202510092037,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1402,
         "parca_adi": "Gider ayak",
         "seslendiren": "N. Hikmet",
@@ -59,11 +69,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nİlâhî olan, en sıradan olduğunuzda en yakınınızdadır. Her yerde olana ulaşmak için hiçbir yere...",
       "id": 202510040900,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": "~\n\nHayâlî bir katılım olmadan nefesin gözlemlenmesi, gerçekliğin gözlemlenmesidir. \n\nZira nefes buradadır \nVe hayat anca...",
-      "id": 202510040856,
-      "category": "sabahnesesi"
     }
   ]
 }
