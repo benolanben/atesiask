@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1402,
+        "parca_adi": "Gider ayak",
+        "seslendiren": "N. Hikmet",
+        "url": "https://www.mediafire.com/file/cnntwsgp576b2wn/giderayak_nazim.mp3"
+      },
+      "id": 202510091212,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\n\nZihin her zaman Olan'dan başka bir şey ister-\n\n-çünkü Olan sadece Olan olduğunda...\n\nZihinsel aktivite mevcut değildi...",
       "id": 202510090740,
       "category": "sabahnesesi"
@@ -54,11 +64,6 @@
       "text": "~\n\nHayâlî bir katılım olmadan nefesin gözlemlenmesi, gerçekliğin gözlemlenmesidir. \n\nZira nefes buradadır \nVe hayat anca...",
       "id": 202510040856,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Neden hiç bir kimse, hiçbir zaman Tanrı'yı görmüyor biliyor musun?\n\n- Neden?\n\n- Çünkü...\n\nÇü...",
-      "id": 202510022153,
-      "category": "soylesikayitlari"
     }
   ]
 }
