@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\nBu ıtlâk yolu yok mu?\n\nZihinden kurtulmakla filan ilgili değil...\n\nAlgıyı değiştirmekle ilgili.\n\nZihni bir kimlik olar...",
+      "id": 202510100707,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1403,
         "parca_adi": "Senin sermest gözlerin",
@@ -64,11 +69,6 @@
       },
       "id": 202510041315,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nİlâhî olan, en sıradan olduğunuzda en yakınınızdadır. Her yerde olana ulaşmak için hiçbir yere...",
-      "id": 202510040900,
-      "category": "soylesikayitlari"
     }
   ]
 }
