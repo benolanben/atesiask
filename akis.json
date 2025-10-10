@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1404,
+        "parca_adi": "Demedim mi?",
+        "seslendiren": "A. Ilgaz",
+        "url": "https://www.mediafire.com/file/0m5tpoq9a8miakl/demedimmi_ilgaz.mp3"
+      },
+      "id": 202510101221,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\nBu ıtlâk yolu yok mu?\n\nZihinden kurtulmakla filan ilgili değil...\n\nAlgıyı değiştirmekle ilgili.\n\nZihni bir kimlik olar...",
       "id": 202510100707,
       "category": "sabahnesesi"
@@ -59,16 +69,6 @@
       "text": "~\n\nGerçek bilgelik, bilgi biriktirmek değil, kesinlikten vazgeçmektir. \n\nBilmediğinde, zihin kavramlar üzerindeki hakimi...",
       "id": 202510051023,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1400,
-        "parca_adi": "İntisâb",
-        "seslendiren": "Ş. Pancaroğlu",
-        "url": "https://www.mediafire.com/file/p8cohhcfidfalm1/intisab_sp.mp3"
-      },
-      "id": 202510041315,
-      "category": "kaynak/baska"
     }
   ]
 }
