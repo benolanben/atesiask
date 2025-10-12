@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nMerhabalar,\n\nTâze tâze çevirdiğimiz kadîm bir metinde geçince heyecanlandık ve buradan birlikte...",
+      "id": 202510121732,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "~\n\"İnsanlar, uykudadır\"\nUykuda görülen \nDünya rüyasıdır \n\"Ölüm, uykunun kardeşidir\"\nÖlen küçük kıyametle uyanır\nUyanan a...",
       "id": 202510120817,
       "category": "sabahnesesi"
@@ -64,11 +69,6 @@
       },
       "id": 202510071608,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nHayatınızda bir şeyler ters gittiğinde, sanki tüm dünyanız üzerinize yıkılıyormuş gibi hissede...",
-      "id": 202510071442,
-      "category": "soylesikayitlari"
     }
   ]
 }
