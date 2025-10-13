@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nA benim canım,\nBir ân için olsun\nŞu anda öyle olduğunu düşündüğün kişi olmama\nOlasılığını hayâl edelim mi bir kere?\n\n...",
+      "id": 202510130912,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nMerhabalar,\n\nTâze tâze çevirdiğimiz kadîm bir metinde geçince heyecanlandık ve buradan birlikte...",
       "id": 202510121732,
       "category": "yoldacevrilenler"
@@ -59,16 +64,6 @@
       "text": "~\nSevgili'yi \nBiblo gibi\nAyrı bir şey olarak\nAyrı bir formda\nAramayasın ey sevgili...\n\nHer nefes, her gözyaşı, her harek...",
       "id": 202510080716,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1401,
-        "parca_adi": "Derdi nedir bilmiyorum",
-        "seslendiren": "B. Uymaz",
-        "url": "https://www.mediafire.com/file/fu9ot1bhox64gu2/derdinedir.mp3"
-      },
-      "id": 202510071608,
-      "category": "kaynak/baska"
     }
   ]
 }
