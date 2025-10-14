@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "\nGeriye, hükmü çoktan verilmiş bu boş salon...\n\nVe ben, usulca kapıyı kapatıp çıkıyorum.\n\nŞimdi bir b~aşka duyuluyor:\nbe...",
+      "id": 202510142252,
+      "category": "birbakista"
+    },
+    {
       "text": {
         "sira_no": 1406,
         "parca_adi": "Aradan çıkarsın",
@@ -54,16 +59,6 @@
       "text": "~\n\nFe eyne-mâ tuvellû fe-śemme vechu(A)llâh(i)\n[Bakara:115'den]\n\nArtık nereye dönerseniz dönün, \nOrada Allah'a dönmüş ol...",
       "id": 202510110722,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1404,
-        "parca_adi": "Demedim mi?",
-        "seslendiren": "A. Ilgaz",
-        "url": "https://www.mediafire.com/file/0m5tpoq9a8miakl/demedimmi_ilgaz.mp3"
-      },
-      "id": 202510101221,
-      "category": "kaynak/baska"
     }
   ]
 }
