@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBaşka biri size acı çektirdiğinde, bunun nedeni kendi içinde derin bir acı çekmesi ve bu acının...",
+      "id": 202510141151,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": {
         "sira_no": 1405,
         "parca_adi": "Sevgi dillerde yara",
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/mmbxdphbm09dl9d/hudadya.mp3"
       },
       "id": 202510092037,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1402,
-        "parca_adi": "Gider ayak",
-        "seslendiren": "N. Hikmet",
-        "url": "https://www.mediafire.com/file/cnntwsgp576b2wn/giderayak_nazim.mp3"
-      },
-      "id": 202510091212,
       "category": "kaynak/baska"
     }
   ]
