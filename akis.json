@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Geriye, hükmü çoktan verilmiş bu boş salon... \n\nVe ben, usulca kapıyı kapatıp çıkıyorum.\n\nŞimdi bir b~aşka duyuluyor:\nbe...",
+      "id": 202510141604,
+      "category": "birbakista"
+    },
+    {
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n… Üstelik, yüce kudretlerin gazabından pek de korkmuyordum. Tanrı beni bu ıstırap vadisinde do...",
       "id": 202510141557,
       "category": "yoldacevrilenler"
@@ -54,11 +59,6 @@
       },
       "id": 202510101221,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nBu ıtlâk yolu yok mu?\n\nZihinden kurtulmakla filan ilgili değil...\n\nAlgıyı değiştirmekle ilgili.\n\nZihni bir kimlik olar...",
-      "id": 202510100707,
-      "category": "sabahnesesi"
     }
   ]
 }
