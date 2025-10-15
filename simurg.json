@@ -1,34 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 202510152331,
-      "article": {
-        "header": {
-          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
-          "date_value": "2025",
-          "mini_title": "agah olasın",
-          "tags": [
-            "deneme"
-          ],
-          "title": "Başlık",
-          "subtitle": "Alt Başlık"
-        },
-        "main_article": {
-          "quotes": [
-            {
-              "type": "fotograf",
-              "text": "İçeriğinizi buraya girin...",
-              "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/simurg/202510152331-1760560275283.jpg"
-            },
-            {
-              "type": "metin",
-              "text": "testttttttt"
-            }
-          ]
-        }
-      }
-    },
-    {
       "article": {
         "header": {
           "date_value": "",
