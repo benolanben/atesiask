@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nHani bâzen biri sana sorar ya: \n\"Doğum günün ne zaman?\" \n\nAma kendine daha ilginç bir soru sora...",
+      "id": 202510171135,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "~\n\nTeslimiyet öyle edilgen bir eylemsizlik değildir.\n\nBilakis hayata direnmeyi bırakma iradesinin ta kendisidir. \n\nHuzur...",
       "id": 202510170741,
       "category": "sabahnesesi"
@@ -59,11 +64,6 @@
       },
       "id": 202510141011,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n\"Lâ-mekân\" geldiler evvel yine andan âhir\nKonmağa bir mülke ikrâr eylemez dervîşler\n[Ü. Sinan ...",
-      "id": 202510131137,
-      "category": "soylesikayitlari"
     }
   ]
 }
