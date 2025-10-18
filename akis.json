@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n- Peki, bir insanı kurtarmak mümkün mü gerçekten?\n\nBir güneş ışını kurtarılabilir mi? \nYa etik...",
+      "id": 202510181228,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "~\nHer şey buradan yükselir, bunun içinde dans eder ve buna geri döner. Okyanusun dalga olarak yükselip dans ettiği gibi,...",
       "id": 202510180758,
       "category": "sabahnesesi"
@@ -53,11 +58,6 @@
     {
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n… Üstelik, yüce kudretlerin gazabından pek de korkmuyordum. Tanrı beni bu ıstırap vadisinde do...",
       "id": 202510141557,
-      "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBaşka biri size acı çektirdiğinde, bunun nedeni kendi içinde derin bir acı çekmesi ve bu acının...",
-      "id": 202510141151,
       "category": "yoldacevrilenler"
     }
   ]
