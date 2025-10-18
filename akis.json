@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\nHer şey buradan yükselir, bunun içinde dans eder ve buna geri döner. Okyanusun dalga olarak yükselip dans ettiği gibi,...",
+      "id": 202510180758,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nHani bâzen biri sana sorar ya: \n\"Doğum günün ne zaman?\" \n\nAma kendine daha ilginç bir soru sora...",
       "id": 202510171135,
       "category": "yoldacevrilenler"
@@ -54,16 +59,6 @@
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nBaşka biri size acı çektirdiğinde, bunun nedeni kendi içinde derin bir acı çekmesi ve bu acının...",
       "id": 202510141151,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": {
-        "sira_no": 1405,
-        "parca_adi": "Sevgi dillerde yara",
-        "seslendiren": "N. Cici",
-        "url": "https://www.mediafire.com/file/0m0b9imxrweyr2g/sevgidillerde.mp3"
-      },
-      "id": 202510141011,
-      "category": "kaynak/baska"
     }
   ]
 }
