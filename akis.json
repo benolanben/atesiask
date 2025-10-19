@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1408,
+        "parca_adi": "Sohhbet-i hemdem de geçer",
+        "seslendiren": "A. Bektaş",
+        "url": "https://www.mediafire.com/file/udyfu7fa5lvnbxp/gecer_bektas.mp3"
+      },
+      "id": 202510192019,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Aziz ve Celîl olan Allah kıyamet gününde: \n'Ey Âdemoğlu! Ben hastalandım da beni ziyaret etmedin!' buyurur. Kul: 'Ya Rab...",
       "id": 202510191301,
       "category": "varliginsevinci"
@@ -48,16 +58,6 @@
         "url": "https://www.mediafire.com/file/pd6bq6nfsy8yczk/birsenibir.mp3"
       },
       "id": 202510151519,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1406,
-        "parca_adi": "Aradan çıkarsın",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/2cz6ekbcvm4cox3/aradan_cikarsin.mp3"
-      },
-      "id": 202510142130,
       "category": "kaynak/baska"
     }
   ]
