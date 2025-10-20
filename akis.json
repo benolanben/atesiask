@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1409,
+        "parca_adi": "Magusa limanı",
+        "seslendiren": "E. Oğur",
+        "url": "https://www.mediafire.com/file/jg5dlr13hja72af/magusalim.mp3"
+      },
+      "id": 202510202041,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1408,
         "parca_adi": "Sohbet-i hemdem de geçer",
         "seslendiren": "A. Bektaş",
@@ -49,16 +59,6 @@
       "text": "~\n\nUyanış, ani bir atılım, zirve bir deneyim ya mistik bir olay olmayabilir. Belki de yanılsamanın zamanla nazikçe ortad...",
       "id": 202510160656,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1407,
-        "parca_adi": "Bir seni bir gülü",
-        "seslendiren": "A. Çoban",
-        "url": "https://www.mediafire.com/file/pd6bq6nfsy8yczk/birsenibir.mp3"
-      },
-      "id": 202510151519,
-      "category": "kaynak/baska"
     }
   ]
 }
