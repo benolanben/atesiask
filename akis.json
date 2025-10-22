@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1410,
+        "parca_adi": "Her gün bir yerden",
+        "seslendiren": "S. Sergen",
+        "url": "https://www.mediafire.com/file/jmue9ho8jn8r1jy/hergunbir.mp3"
+      },
+      "id": 202510221154,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1409,
         "parca_adi": "Magusa limanı",
         "seslendiren": "E. Oğur",
@@ -54,11 +64,6 @@
       "text": "Yâ Hayyu yâ Kayyûm \nBi-rahmetik-e esteğîsu \nFe-aslıhlî şe'nnnî kulle-hû \nVe lâ tekilnî ile'n-nefsî tarfete 'aynin \n\nEy H...",
       "id": 202510161855,
       "category": "varliginsevinci"
-    },
-    {
-      "text": "~\n\nUyanış, ani bir atılım, zirve bir deneyim ya mistik bir olay olmayabilir. Belki de yanılsamanın zamanla nazikçe ortad...",
-      "id": 202510160656,
-      "category": "sabahnesesi"
     }
   ]
 }
