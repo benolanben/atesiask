@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1413,
+        "parca_adi": "Nice sırdanız",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/5llj9ko8058f5eh/nicesirdan.mp3"
+      },
+      "id": 202510231442,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1412,
         "parca_adi": "Hak'tan özge nesne yok",
         "seslendiren": "C. Asitanesi",
@@ -69,11 +79,6 @@
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nHani bâzen biri sana sorar ya: \n\"Doğum günün ne zaman?\" \n\nAma kendine daha ilginç bir soru sora...",
       "id": 202510171135,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "~\n\nTeslimiyet öyle edilgen bir eylemsizlik değildir.\n\nBilakis hayata direnmeyi bırakma iradesinin ta kendisidir. \n\nHuzur...",
-      "id": 202510170741,
-      "category": "sabahnesesi"
     }
   ]
 }
