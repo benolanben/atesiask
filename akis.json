@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1415,
+        "parca_adi": "Dediğim oldu",
+        "seslendiren": "B. Uymaz",
+        "url": "https://www.mediafire.com/file/sniowfqbvo1wmnr/dedigim.mp3"
+      },
+      "id": 202510252035,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1414,
         "parca_adi": "Dost Hu~dey",
         "seslendiren": "M. Güzel",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/jmue9ho8jn8r1jy/hergunbir.mp3"
       },
       "id": 202510221154,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1409,
-        "parca_adi": "Magusa limanı",
-        "seslendiren": "E. Oğur",
-        "url": "https://www.mediafire.com/file/jg5dlr13hja72af/magusalim.mp3"
-      },
-      "id": 202510202041,
       "category": "kaynak/baska"
     }
   ]
