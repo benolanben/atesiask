@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1414,
+        "parca_adi": "Dost Hu~dey",
+        "seslendiren": "M. Güzel",
+        "url": "https://www.mediafire.com/file/81yf9l5x3yr4xa0/dosthudey.mp3"
+      },
+      "id": 202510251504,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n...\nİçkiyi kafaya diktiğimde Lomas'la göz~göze geldik.  \n\nİçimi ısıtan konyak fark edilir derec...",
       "id": 202510251056,
       "category": "yoldacevrilenler"
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/jg5dlr13hja72af/magusalim.mp3"
       },
       "id": 202510202041,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1408,
-        "parca_adi": "Sohbet-i hemdem de geçer",
-        "seslendiren": "A. Bektaş",
-        "url": "https://www.mediafire.com/file/udyfu7fa5lvnbxp/gecer_bektas.mp3"
-      },
-      "id": 202510192019,
       "category": "kaynak/baska"
     }
   ]
