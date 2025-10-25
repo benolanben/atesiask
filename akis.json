@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n...\nİçkiyi kafaya diktiğimde Lomas'la göz~göze geldik.  \n\nİçimi ısıtan konyak fark edilir derec...",
+      "id": 202510251056,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "~\nİnsanlık hâlinin karanlık yüzüyle ve kırılganlığıyla yüzleşme isteği olmadan, onun içindeki kırılmamış olanı, karanlık...",
       "id": 202510250908,
       "category": "sabahnesesi"
@@ -74,11 +79,6 @@
       },
       "id": 202510192019,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Aziz ve Celîl olan Allah kıyamet gününde: \n'Ey Âdemoğlu! Ben hastalandım da beni ziyaret etmedin!' buyurur. Kul: 'Ya Rab...",
-      "id": 202510191301,
-      "category": "varliginsevinci"
     }
   ]
 }
