@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "`\nSonbahar, her yaprağın bir çiçeğe dönüştüğü ikinci bir bahardır.\n[A. Camus]\n\nŞimdi yaprak döken bir ağacın altında sol...",
+      "id": 202510260933,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1415,
         "parca_adi": "Dediğim oldu",
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/xrp85cwfqwglc3m/acephalim.mp3"
       },
       "id": 202510222120,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1410,
-        "parca_adi": "Her gün bir yerden",
-        "seslendiren": "S. Sergen",
-        "url": "https://www.mediafire.com/file/jmue9ho8jn8r1jy/hergunbir.mp3"
-      },
-      "id": 202510221154,
       "category": "kaynak/baska"
     }
   ]
