@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\n\"Perde\" ne demek?\nYüz örtüsü\n\n\"Örtü\" niye vardır?\nAşina olmayanlar\nTanımayanlar göremesin diye\n\nÖyleyse eşya yani şey...",
+      "id": 202510270750,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1416,
         "parca_adi": "Niyaz-nağme",
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/5llj9ko8058f5eh/nicesirdan.mp3"
       },
       "id": 202510231442,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1412,
-        "parca_adi": "Hak'tan özge nesne yok",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/xyj12wn5yn3zi47/haktanozge.mp3"
-      },
-      "id": 202510222157,
       "category": "kaynak/baska"
     }
   ]
