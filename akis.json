@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1417,
+        "parca_adi": "Dervişlik evsâfı",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/2mwl68inmncmeto/dervislikevsafi.mp3"
+      },
+      "id": 202510272108,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\n\n\"Perde\" ne demek?\nYüz örtüsü\n\n\"Örtü\" niye vardır?\nAşina olmayanlar\nTanımayanlar göremesin diye\n\nÖyleyse eşya yani şey...",
       "id": 202510270750,
       "category": "sabahnesesi"
@@ -59,16 +69,6 @@
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\nSöylenebilecek şeyler açıkça söylenmeli, söylenemeyecek şeyler ise sessiz kalınmalıdır... Buda...",
       "id": 202510231947,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": {
-        "sira_no": 1413,
-        "parca_adi": "Nice sırdanız",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/5llj9ko8058f5eh/nicesirdan.mp3"
-      },
-      "id": 202510231442,
-      "category": "kaynak/baska"
     }
   ]
 }
