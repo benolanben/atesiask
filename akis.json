@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1418,
+        "parca_adi": "Nevâ meşk",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/5w5g4a34e3sozxl/nevamesk.mp3"
+      },
+      "id": 202510291409,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Ben, çok üzgünüm...\nBiraz tesellîye ihtiyâcım var.\n\nElbette sarılalım önce tesellî için ve y...",
       "id": 202510281257,
       "category": "soylesikayitlari"
@@ -64,11 +74,6 @@
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n...\nİçkiyi kafaya diktiğimde Lomas'la göz~göze geldik.  \n\nİçimi ısıtan konyak fark edilir derec...",
       "id": 202510251056,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "~\nİnsanlık hâlinin karanlık yüzüyle ve kırılganlığıyla yüzleşme isteği olmadan, onun içindeki kırılmamış olanı, karanlık...",
-      "id": 202510250908,
-      "category": "sabahnesesi"
     }
   ]
 }
