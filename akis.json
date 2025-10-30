@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n~\nEYLEM~CİNİN SONU\nYapan çatan Hak\nKulun fiili muallak\n~\n\n- Özgür irade-m var mı, yok mu gerçe...",
+      "id": 202510301105,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": {
         "sira_no": 1418,
         "parca_adi": "Nevâ meşk",
@@ -69,11 +74,6 @@
       },
       "id": 202510251504,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n...\nİçkiyi kafaya diktiğimde Lomas'la göz~göze geldik.  \n\nİçimi ısıtan konyak fark edilir derec...",
-      "id": 202510251056,
-      "category": "yoldacevrilenler"
     }
   ]
 }
