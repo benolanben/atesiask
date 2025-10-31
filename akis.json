@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n...\nVe sonra Denkov'un bana neden özgür irade hakkında düşünmemi söylediğini ve neden bana sim...",
+      "id": 202510312315,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": {
         "sira_no": 1419,
         "parca_adi": "Bir ihtimal",
@@ -64,16 +69,6 @@
       "text": "`\nSonbahar, her yaprağın bir çiçeğe dönüştüğü ikinci bir bahardır.\n[A. Camus]\n\nŞimdi yaprak döken bir ağacın altında sol...",
       "id": 202510260933,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1415,
-        "parca_adi": "Dediğim oldu",
-        "seslendiren": "B. Uymaz",
-        "url": "https://www.mediafire.com/file/sniowfqbvo1wmnr/dedigim.mp3"
-      },
-      "id": 202510252035,
-      "category": "kaynak/baska"
     }
   ]
 }
