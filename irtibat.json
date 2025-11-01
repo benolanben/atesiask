@@ -1,6 +1,15 @@
 {
   "isaretler": [
     {
+      "id": 1762030303096,
+      "name": "Yeni Karikatür",
+      "email": "",
+      "message": "Bir karikatür geldi: 1000002093.png\n\nhttps://raw.githubusercontent.com/benolanben/atesiask/main/medya/karikatur/202511012351-1762030300579.jpg",
+      "reason": "Yeni Karikatür",
+      "is_read": 0,
+      "created_at": "2025-11-01T20:51:43.096Z"
+    },
+    {
       "id": 1762030254743,
       "name": "Yeni Karikatür",
       "email": "",
