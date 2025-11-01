@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1420,
+        "parca_adi": "Gözlerinden içti gönlüm",
+        "seslendiren": "N. Ahıskan",
+        "url": "https://www.mediafire.com/file/i96pl5g6oi4o21n/gozlerindenicti.mp3"
+      },
+      "id": 202511011006,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n...\nVe sonra Denkov'un bana neden özgür irade hakkında düşünmemi söylediğini ve neden bana sim...",
       "id": 202510312315,
       "category": "yoldacevrilenler"
@@ -64,11 +74,6 @@
       },
       "id": 202510262106,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "`\nSonbahar, her yaprağın bir çiçeğe dönüştüğü ikinci bir bahardır.\n[A. Camus]\n\nŞimdi yaprak döken bir ağacın altında sol...",
-      "id": 202510260933,
-      "category": "sabahnesesi"
     }
   ]
 }
