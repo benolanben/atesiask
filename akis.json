@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nDamarıma basıyorlar ve bana heyheyler geliyor işte...\n\nAslında her gün her gün tekrar ettiklerimiz oluyoruz biraz da....",
+      "id": 202511030836,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1421,
         "parca_adi": "Bu sevda ne tatlı",
@@ -64,11 +69,6 @@
       },
       "id": 202510291409,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Ben, çok üzgünüm...\nBiraz tesellîye ihtiyâcım var.\n\nElbette sarılalım önce tesellî için ve y...",
-      "id": 202510281257,
-      "category": "soylesikayitlari"
     }
   ]
 }
