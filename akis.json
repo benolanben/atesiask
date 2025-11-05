@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1424,
+        "parca_adi": "Ben dellalım",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/zaoey2zbzcd83zo/eyvallahdost.mp3"
+      },
+      "id": 202511052002,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1423,
         "parca_adi": "Hüsranla gönül",
         "seslendiren": "İ. Çayırlı",
@@ -59,16 +69,6 @@
       "text": "~\nTamamen açık olmak,\nSaf duyarlılık,\nKoşulsuz izin veriş: \nBunlar bir 'kişi' olarak yapabileceğiniz şeyler değildir; sa...",
       "id": 202511011011,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1420,
-        "parca_adi": "Gözlerinden içti gönlüm",
-        "seslendiren": "N. Ahıskan",
-        "url": "https://www.mediafire.com/file/i96pl5g6oi4o21n/gozlerindenicti.mp3"
-      },
-      "id": 202511011006,
-      "category": "kaynak/baska"
     }
   ]
 }
