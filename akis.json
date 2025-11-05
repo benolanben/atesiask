@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1423,
+        "parca_adi": "Hüsranla gönül",
+        "seslendiren": "İ. Çayırlı",
+        "url": "https://www.mediafire.com/file/otxb3wide65pss7/husranlagonul.mp3"
+      },
+      "id": 202511051930,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1422,
         "parca_adi": "Dur Leylâ",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       },
       "id": 202511011006,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n...\nVe sonra Denkov'un bana neden özgür irade hakkında düşünmemi söylediğini ve neden bana sim...",
-      "id": 202510312315,
-      "category": "yoldacevrilenler"
     }
   ]
 }
