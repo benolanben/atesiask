@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1422,
+        "parca_adi": "Dur Leylâ",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/fq7o0vk55hkuqc3/durleyla.mp3"
+      },
+      "id": 202511050947,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\nHerhangi birine veya bir şeye tepki verdiğimiz her seferinde, \"kimin adına tepki veriyorum\" diye minik bir sorgulama â...",
       "id": 202511050701,
       "category": "sabahnesesi"
@@ -54,16 +64,6 @@
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\n...\nVe sonra Denkov'un bana neden özgür irade hakkında düşünmemi söylediğini ve neden bana sim...",
       "id": 202510312315,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": {
-        "sira_no": 1419,
-        "parca_adi": "Bir ihtimal",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/2v5lt2lsavskzmo/birihtimal.mp3"
-      },
-      "id": 202510311428,
-      "category": "kaynak/baska"
     }
   ]
 }
