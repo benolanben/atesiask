@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1426,
+        "parca_adi": "Bir kuşun ölümü",
+        "seslendiren": "İ. Özel",
+        "url": "https://www.mediafire.com/file/161pqn3hnw0qp8b/birkusun.mp3"
+      },
+      "id": 202511061132,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1425,
         "parca_adi": "Hayat bir nefes",
         "seslendiren": "A. Kadrî",
@@ -69,11 +79,6 @@
       },
       "id": 202511021313,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nBizi, bu illüzyonda\nVarlık komasında tutan\nÂkıbet öldüren ne?\n\"Zam~an\"\n\nDoğrusal zaman...\n\nVe rüyalarda zaman\nFraktal ...",
-      "id": 202511020810,
-      "category": "sabahnesesi"
     }
   ]
 }
