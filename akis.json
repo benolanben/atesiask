@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Korkusuzluk nedir?\n\nHayatın her seferinde bir nefes, bir nefes, bir nefes yaşanmasıdır.\n\nSabahunnûr ve's-sürûr \nGeçici o...",
+      "id": 202511060741,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1424,
         "parca_adi": "Ben dellalım",
@@ -64,11 +69,6 @@
       "text": "Şüphesiz ki ben yüzümü bir muvahhit olarak o yerleri ve gökleri yaratmış olan Allah'a yönelttim. Ben müşriklerden değili...",
       "id": 202511012112,
       "category": "varliginsevinci"
-    },
-    {
-      "text": "~\nTamamen açık olmak,\nSaf duyarlılık,\nKoşulsuz izin veriş: \nBunlar bir 'kişi' olarak yapabileceğiniz şeyler değildir; sa...",
-      "id": 202511011011,
-      "category": "sabahnesesi"
     }
   ]
 }
