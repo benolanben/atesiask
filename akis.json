@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1425,
+        "parca_adi": "Hayat bir nefes",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/6g0sug3573zyc19/hayatbirnefes.mp3"
+      },
+      "id": 202511061007,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Korkusuzluk nedir?\n\nHayatın her seferinde bir nefes, bir nefes, bir nefes yaşanmasıdır.\n\nSabahunnûr ve's-sürûr \nGeçici o...",
       "id": 202511060741,
       "category": "sabahnesesi"
@@ -64,11 +74,6 @@
       "text": "~\nBizi, bu illüzyonda\nVarlık komasında tutan\nÂkıbet öldüren ne?\n\"Zam~an\"\n\nDoğrusal zaman...\n\nVe rüyalarda zaman\nFraktal ...",
       "id": 202511020810,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Şüphesiz ki ben yüzümü bir muvahhit olarak o yerleri ve gökleri yaratmış olan Allah'a yönelttim. Ben müşriklerden değili...",
-      "id": 202511012112,
-      "category": "varliginsevinci"
     }
   ]
 }
