@@ -1,6 +1,15 @@
 {
   "isaretler": [
     {
+      "id": 1762532654058,
+      "name": "zeynep",
+      "email": "isimsizzeynep@gmail.com",
+      "message": "Bir karikatür geldi: 16451.jpg\n\nhttps://raw.githubusercontent.com/benolanben/atesiask/main/medya/karikatur/202511071924-1762532652786.jpg",
+      "reason": "Yeni Karikatür",
+      "is_read": 0,
+      "created_at": "2025-11-07T16:24:14.058Z"
+    },
+    {
       "id": 1762525935867,
       "name": "Ayla",
       "email": "aylaorcin35@gmail.com",
