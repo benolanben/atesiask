@@ -1,6 +1,15 @@
 {
   "isaretler": [
     {
+      "id": 1762525935867,
+      "name": "Ayla",
+      "email": "aylaorcin35@gmail.com",
+      "message": "Sohbetlerde nasılsın haberdar olabiliriz.",
+      "reason": "Teşekkür",
+      "is_read": 0,
+      "created_at": "2025-11-07T14:32:15.867Z"
+    },
+    {
       "id": 1762446011846,
       "name": "zeynep",
       "email": "isimsizzeynep@gmail.com",
