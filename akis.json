@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nİnsanların onay arama eğilimi,\nB~ağ kurma arzusundan kaynaklanır.\n\nAncak bu arzu bağımlılığa dönüştüğünde, acı kaynağ...",
+      "id": 202511070704,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1426,
         "parca_adi": "Bir kuşun ölümü",
@@ -69,16 +74,6 @@
       "text": "~\n\nDamarıma basıyorlar ve bana heyheyler geliyor işte...\n\nAslında her gün her gün tekrar ettiklerimiz oluyoruz biraz da....",
       "id": 202511030836,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1421,
-        "parca_adi": "Bu sevda ne tatlı",
-        "seslendiren": "N. Ahıskan",
-        "url": "https://www.mediafire.com/file/wthe2si1wm4bsmu/busevda.mp3"
-      },
-      "id": 202511021313,
-      "category": "kaynak/baska"
     }
   ]
 }
