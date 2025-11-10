@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n'Şimdi', hayatın her daim mevcut olan dingin noktasıdır . Gerçekten var olan tek zamandır; sab...",
+      "id": 202511101250,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Sizce, bizi bu dünya sahnesine düşüren ilk ayrılık neden sebep baş verdi?\n\n- Bazı dinler bun...",
       "id": 202511090754,
       "category": "soylesikayitlari"
@@ -69,11 +74,6 @@
       },
       "id": 202511050947,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nHerhangi birine veya bir şeye tepki verdiğimiz her seferinde, \"kimin adına tepki veriyorum\" diye minik bir sorgulama â...",
-      "id": 202511050701,
-      "category": "sabahnesesi"
     }
   ]
 }
