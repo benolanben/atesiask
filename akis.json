@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Tanrı benim içimde mi? \n\nUzatmadan lütfen\nEvet mi Hayır mı?\n\nSoruyu doğrudan kabul etmek\nSor...",
+      "id": 202511141452,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": "~\nİçerde direnen biri olduğu vehmi, bir savaş ve onun cepheleri olduğu yanılsamasını besliyor.\n\nYâni kurmaca benlik, kor...",
       "id": 202511120744,
       "category": "sabahnesesi"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/zaoey2zbzcd83zo/eyvallahdost.mp3"
       },
       "id": 202511052002,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1423,
-        "parca_adi": "Hüsranla gönül",
-        "seslendiren": "İ. Çayırlı",
-        "url": "https://www.mediafire.com/file/otxb3wide65pss7/husranlagonul.mp3"
-      },
-      "id": 202511051930,
       "category": "kaynak/baska"
     }
   ]
