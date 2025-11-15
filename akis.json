@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\nRay eğri de olsa trenin yolu doğrudur...\n[YÜZ SÖZ'den]\n\nYaşlandıkça insan daha bir mutlu ve hu...",
+      "id": 202511151610,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": {
         "sira_no": 1427,
         "parca_adi": "İrfan olamaz",
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/161pqn3hnw0qp8b/birkusun.mp3"
       },
       "id": 202511061132,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1425,
-        "parca_adi": "Hayat bir nefes",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/6g0sug3573zyc19/hayatbirnefes.mp3"
-      },
-      "id": 202511061007,
       "category": "kaynak/baska"
     }
   ]
