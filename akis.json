@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1427,
+        "parca_adi": "İrfan olamaz",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/8omvxhiumxjfs00/irfanolamaz.mp3"
+      },
+      "id": 202511151441,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\nNedir bu hayat? \nİçinden geçip durduğum bir kapı.\n[K. Chōmei'den]\n\nƏksər insanlar bunu anlamır:\n\"Bu gün dünənkindən fə...",
       "id": 202511150811,
       "category": "sabahnesesi"
@@ -54,11 +64,6 @@
       },
       "id": 202511061007,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Korkusuzluk nedir?\n\nHayatın her seferinde bir nefes, bir nefes, bir nefes yaşanmasıdır.\n\nSabahunnûr ve's-sürûr \nGeçici o...",
-      "id": 202511060741,
-      "category": "sabahnesesi"
     }
   ]
 }
