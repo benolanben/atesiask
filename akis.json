@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1429,
+        "parca_adi": "Ayrılık yarası",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/mr0sbxr8t834prs/ayrilikyarasi.mp3"
+      },
+      "id": 202511192141,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n- Şâyet huzur ve mutluluk varlığımızın en doğal hali ise ve biz her zaman bu varlığı deneyimliy...",
       "id": 202511192126,
       "category": "yoldacevrilenler"
@@ -49,11 +59,6 @@
       "text": "~\n\nPerdeleri indirerek içeride hayâl-nüvâz bir ziyâ bırakırken bendim hayâl üstüne hayâl kuran...\n\n\"Benimle bir gelecek ...",
       "id": 202511160947,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\nRay eğri de olsa trenin yolu doğrudur...\n[YÜZ SÖZ'den]\n\nYaşlandıkça insan daha bir mutlu ve hu...",
-      "id": 202511151610,
-      "category": "yoldacevrilenler"
     }
   ]
 }
