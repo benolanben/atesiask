@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1430,
+        "parca_adi": "Yoktan değil vardan",
+        "seslendiren": "Ü. Kaya",
+        "url": "https://www.mediafire.com/file/cvqnbqbm67ve0cs/yoktandegil.mp3"
+      },
+      "id": 202511221923,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nÂlemde halkiyyet yoktur; zuhûrat vardır amma biz bunu pek her yerde söylemeyiz evladım... ❞\n\nK...",
       "id": 202511221353,
       "category": "soylesikayitlari"
@@ -49,11 +59,6 @@
       "text": "[Y~OLDA ÇEVRİLENLERDEN]\n\nYaddaş bizə dünən həqiqətən baş verdiyinə əminlik verir, amma kim bilir, bəlkə də bütün bu xati...",
       "id": 202511161908,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nSen ve ben fiziksel evrenle, bir dalganın okyanusla sürekliliği kadar sürekliyiz...\n[A. Watts ...",
-      "id": 202511161236,
-      "category": "soylesikayitlari"
     }
   ]
 }
