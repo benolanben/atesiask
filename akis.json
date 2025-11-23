@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1432,
+        "parca_adi": "Gül devri",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/dvawl4sgp9r2sq3/guldevri.mp3"
+      },
+      "id": 202511231654,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1431,
         "parca_adi": "Gönüller hünkârı",
         "seslendiren": "A. Kadrî",
@@ -59,11 +69,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Düşünceler, düşünce üstüne düşünce, düşüncenin düşünceye tepkisi...\n\nÇok yoruldum...\n\nAcaba ...",
       "id": 202511171358,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\nİndiki an ilə heç bir əlaqəsi olmayan şeylərlə başınızı narahat etməyin,\" dedi Çapayev. \"Hələ ...",
-      "id": 202511171017,
-      "category": "yoldacevrilenler"
     }
   ]
 }
