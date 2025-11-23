@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1431,
+        "parca_adi": "Gönüller hünkârı",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/b1kartqj1erjdo2/gonullerhunkari.mp3"
+      },
+      "id": 202511231343,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1430,
         "parca_adi": "Yoktan değil vardan",
         "seslendiren": "Ü. Kaya",
@@ -53,11 +63,6 @@
     {
       "text": "[Y~OLDA ÇEVRİLENLER'DEN]\n\nİndiki an ilə heç bir əlaqəsi olmayan şeylərlə başınızı narahat etməyin,\" dedi Çapayev. \"Hələ ...",
       "id": 202511171017,
-      "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLERDEN]\n\nYaddaş bizə dünən həqiqətən baş verdiyinə əminlik verir, amma kim bilir, bəlkə də bütün bu xati...",
-      "id": 202511161908,
       "category": "yoldacevrilenler"
     }
   ]
