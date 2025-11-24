@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1436,
+        "parca_adi": "Baktım cihana",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/7wtl6sd6qoa4dob/baktimcihana.mp3"
+      },
+      "id": 202511242031,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1435,
         "parca_adi": "Ömrümce o saf aşkını",
         "seslendiren": "N. Ersöz",
@@ -74,11 +84,6 @@
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n- Şâyet huzur ve mutluluk varlığımızın en doğal hali ise ve biz her zaman bu varlığı deneyimliy...",
       "id": 202511192126,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n- Görselleştirme ve kendini onaylama, zihinlerimizin kendi gerçekliğimizi bükebilecek kadar gü...",
-      "id": 202511191057,
-      "category": "soylesikayitlari"
     }
   ]
 }
