@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1437,
+        "parca_adi": "Kırık kalp",
+        "seslendiren": "G. Baktagir",
+        "url": "https://www.mediafire.com/file/rvqkvkmsovuoxgu/kirikkalp.mp3"
+      },
+      "id": 202511252041,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1436,
         "parca_adi": "Baktım cihana",
         "seslendiren": "A. Kadrî",
@@ -79,11 +89,6 @@
       },
       "id": 202511192141,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'DEN]\n\n- Şâyet huzur ve mutluluk varlığımızın en doğal hali ise ve biz her zaman bu varlığı deneyimliy...",
-      "id": 202511192126,
-      "category": "yoldacevrilenler"
     }
   ]
 }
