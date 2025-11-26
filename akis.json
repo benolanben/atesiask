@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nBaşarısız olmuş insanlarla oturun. \nOnların egosu yoktur, \nSâdece deneyimleri vardır. ❞\n[Kaybe...",
+      "id": 202511261334,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": {
         "sira_no": 1438,
         "parca_adi": "Hüseyni taksim",
@@ -83,16 +88,6 @@
         "url": "https://www.mediafire.com/file/b1kartqj1erjdo2/gonullerhunkari.mp3"
       },
       "id": 202511231343,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1430,
-        "parca_adi": "Yoktan değil vardan",
-        "seslendiren": "Ü. Kaya",
-        "url": "https://www.mediafire.com/file/cvqnbqbm67ve0cs/yoktandegil.mp3"
-      },
-      "id": 202511221923,
       "category": "kaynak/baska"
     }
   ]
