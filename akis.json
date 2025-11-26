@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1439,
+        "parca_adi": "Nesiyim ben",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/9lvq515t52v9vap/huseyni_syardim.mp3"
+      },
+      "id": 202511262103,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nBaşarısız olmuş insanlarla oturun. \nOnların egosu yoktur, \nSâdece deneyimleri vardır. ❞\n[Kaybe...",
       "id": 202511261334,
       "category": "soylesikayitlari"
@@ -78,16 +88,6 @@
         "url": "https://www.mediafire.com/file/dvawl4sgp9r2sq3/guldevri.mp3"
       },
       "id": 202511231654,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1431,
-        "parca_adi": "Gönüller hünkârı",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/b1kartqj1erjdo2/gonullerhunkari.mp3"
-      },
-      "id": 202511231343,
       "category": "kaynak/baska"
     }
   ]
