@@ -23,8 +23,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           sparse-checkout: |
-            /medya/birgulsen/        # DEĞİŞİKLİK 2: Checkout yapılacak klasör
-            /medya/birgulsen.json    # Varsa mevcut JSON dosyasını çek
+            medya/birgulsen/
+            medya/birgulsen.json
           sparse-checkout-cone-mode: false
           fetch-depth: 0
 
