@@ -1,0 +1,72 @@
+name: Generate Birgulsen JSON
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - medya/birgulsen/** # DEĞİŞİKLİK 1: Sadece birgulsen klasörü izleniyor
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+  
+jobs:
+  generate_birgulsen_json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sparse Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /medya/birgulsen/        # DEĞİŞİKLİK 2: Checkout yapılacak klasör
+            /medya/birgulsen.json    # Varsa mevcut JSON dosyasını çek
+          sparse-checkout-cone-mode: false
+          fetch-depth: 0
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick jq
+
+      - name: Create birgulsen.json
+        run: |
+          # DEĞİŞİKLİK 3: Arama yapılacak klasör yolu değiştirildi
+          image_list=$(find medya/birgulsen -type f \( -iname "*.jpg" -o -iname "*.png" \))
+          
+          # DEĞİŞİKLİK 4: Çıktı dosyası birgulsen.json olarak ayarlandı
+          # JSON anahtarını (key) "isaretler" olarak bıraktım, isterseniz değiştirebilirsiniz.
+          echo '{ "isaretler": [' > medya/birgulsen.json
+          
+          for image in $image_list; do
+            dimensions=$(identify -format '%w %h' "$image")
+            filename=$(basename "$image")
+            timestamp="null"
+            
+            if [[ "$filename" =~ -([0-9]+)\.[a-zA-Z]+$ ]]; then
+              timestamp="${BASH_REMATCH[1]}"
+            fi
+            
+            # JSON'a yazma işlemi
+            echo "  {\"width\": \"${dimensions% *}\", \"height\": \"${dimensions#* }\", \"path\": \"$filename\", \"timestamp\": $timestamp}," >> medya/birgulsen.json
+          done
+          
+          # Sondaki virgülü temizle ve JSON'ı kapat
+          sed -i '$ s/,$//' medya/birgulsen.json
+          echo ']}' >> medya/birgulsen.json
+
+      - name: Validate JSON
+        run: jq empty medya/birgulsen.json || (echo "Invalid JSON"; exit 1)
+
+      - name: Commit & Push
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add medya/birgulsen.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Otomatik: birgulsen.json güncellendi"
+          git pull --rebase origin main
+          git push origin HEAD:main
