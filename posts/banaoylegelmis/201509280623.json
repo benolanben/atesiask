@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "28 Eyl 2015 06:23",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/umutrehberi/kuslaraserbest.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Şeb oluncâ çekilurüz kûşe-i inzivayâ\n            Sohbet-i dildâr içün ğam-hânemiz var bizim\n            Bâde dolu aşk ile meyhânemiz var bizim"
+        }
+      ]
+    }
+  },
+  "id": 201509280623
+}

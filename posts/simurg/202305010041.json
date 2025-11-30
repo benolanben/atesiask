@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0042_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "'Hep açık bir kapı, bir şeyler yapma ihtiyacında ısrar eden zihin için en büyük engeldir'\n\nAçık bir kapıyı daha ne zamana kadar yumruklamaya devam edeceksin?\nBirinin açması için yalvaracaksın?\nÜstelik içerden çalıyorsun!\n\n- Bana açık kapıyı göster\n\nZâten eşiktesin\nİlk adımı at"
+        }
+      ]
+    }
+  },
+  "id": 202305010041
+}

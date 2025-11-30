@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "8 Eki 2016 00:15",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/umutrehberi/kuslaraserbest.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Allah, dedikten sonra yolunu tut\n            Efendim dedikten sonra sözünü tut,\n            Kardeşim dedikten sonra elini tut, kinini yut!"
+        }
+      ]
+    }
+  },
+  "id": 201610080015
+}

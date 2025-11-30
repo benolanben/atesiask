@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0006_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Ev-cil kuşlar özgürlüğün şarkısını söyler\nEv-siz kuşlar özgürce uçar\n[A. Kadrî]\n\nBir kuş uçtuğunda:\n\nGüneş uçuyor\nAy uçuyor\nHava uçuyor\nYağmur uçuyor\nAğaç uçuyor\nToprak uçuyor\nSolucan uçuyor\n\nUçan kuş aynasına \nGülerek bakan\nHer birimiz uçuyor\n...\nAyıran kendini ayırıyor\nAyrıca uçamıyor\n...\nAyırınca yerini bulamıyor"
+        }
+      ]
+    }
+  },
+  "id": 202305010275
+}

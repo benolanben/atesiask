@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0021_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Esrar-ı Şâh'ı bilmeyen \nZatında Hakk'ı görmeyen \nEmmâresinden geçmeyen \nNe söylerse yalan bana\n[Basrî Babam]"
+        }
+      ]
+    }
+  },
+  "id": 202305010020
+}

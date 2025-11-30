@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0037_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Bu şiir aşk ile bir daha yakılmış gibi okundu:\n\nGerçekten karanlık olduğunda\nGöz görmeye başlar sonunda\n\n'Gözyaşının dinmediği uzun bir gecede\nBenliğin ölümüyle yere yığılmış bir adam\nKorku cehenneminden çıkıyor\nVe zihin kendine geliyor\n\nTanrı zihin dünya\nHer biri Bir'dir\n\nVe fırtınanın yıktığı evde alabildiğine özgür'\n\nYaklaşıyor yaklaşmakta olan..."
+        }
+      ]
+    }
+  },
+  "id": 202305010036
+}

@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0092_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "İnsanı, insan, 'insan' yapar imanım var\n'Şimdi burada olanda' canlılık var"
+        }
+      ]
+    }
+  },
+  "id": 202305010091
+}

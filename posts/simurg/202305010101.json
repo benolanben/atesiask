@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0102_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Bilmeye çalışanı, okumak isteyeni yer ile yeksan edecek acziyetle 'okuyamıyorum' dedirtecek bir fırtına esti esecek, yağmur topluyor...\n\nNasıldı o nefes:\n\nRâhat ile istedim vaslını kahretti bana\nDerde düşüp ağlayınca güldü cânânım benim"
+        }
+      ]
+    }
+  },
+  "id": 202305010101
+}

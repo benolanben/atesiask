@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0104_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "üzgarı çerçevelesen\nsuyu dondurup buz eylesen\nyok ateşi kapatacak olsan sönmez mi?\nToprağa düşenin meyveye durması için\nilkin karanlıkta parçalanması gerekmez mi?\n\nSustuk elhamdulillah"
+        }
+      ]
+    }
+  },
+  "id": 202305010103
+}

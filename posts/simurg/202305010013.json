@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0014_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Sabahunnûr ve's-sürûr\nCümle canlara aşk ile duyrulur\n\nAsla unutulmamalı, hepsi bu:\nAyrı bir 'Ben' yok\n\nFıkra bu ya:\n'Deniz olmak isteyen dalga”"
+        }
+      ]
+    }
+  },
+  "id": 202305010013
+}

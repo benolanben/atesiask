@@ -1,0 +1,23 @@
+{
+  "article": {
+    "header": {
+      "date_value": "",
+      "title": "",
+      "mini_title": "agah olasın",
+      "tags": [
+        ""
+      ],
+      "subtitle": "",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0070_kus.jpg"
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Beyâtî makâmında tâze bir selâm olsun, bir yağmurda yıkanan âşıklara...\n\nBâde-i lebinden nûş iden âşık\nNe gezer mescitte meyhâneler var\nOnun için kimseyle etmez ilişik\nNasîbini almış dîvâneler var\n\nÂşık olan aşk oduna alışır\nSâdık olan erenlere karışır\nMeyhaneden çıkar gelir ulaşır\nHakk'a vâsıl olan mestaneler var\n\nHakkı gel sırrını eyleme zâhir\nÖyle bir yol tut ki olasın mâhir\nHarâbât ehline hor bakma şâkir\nDefîneye mâlik virâneler var"
+        }
+      ]
+    }
+  },
+  "id": 202305010069
+}
