@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\nKendini aramaya başlamalısın \nVe kendini ancak basit ve unutulmuş şeylerde bulabilirsin. Neden bir süreliğine ormana g...",
+      "id": 202511300922,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nXoşbəxtliyin dadını çıxarmaq üçün bütün digər dadları unudun. Sükut əbədi olaraq sərxoş olacağı...",
       "id": 202511292307,
       "category": "yoldacevrilenler"
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/rvqkvkmsovuoxgu/kirikkalp.mp3"
       },
       "id": 202511252041,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1436,
-        "parca_adi": "Baktım cihana",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/7wtl6sd6qoa4dob/baktimcihana.mp3"
-      },
-      "id": 202511242031,
       "category": "kaynak/baska"
     }
   ]
