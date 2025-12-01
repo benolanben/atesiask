@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1443,
+        "parca_adi": "Ölümden sonra",
+        "seslendiren": "C. Ünal",
+        "url": "https://www.mediafire.com/file/a5732rv8ir6u79m/olduk.mp3"
+      },
+      "id": 202512011349,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1442,
         "parca_adi": "Hicaz'dan yağmur",
         "seslendiren": "A. Aşk",
@@ -64,16 +74,6 @@
       "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nBaşarısız olmuş insanlarla oturun. \nOnların egosu yoktur, \nSâdece deneyimleri vardır. ❞\n[Kaybe...",
       "id": 202511261334,
       "category": "soylesikayitlari"
-    },
-    {
-      "text": {
-        "sira_no": 1438,
-        "parca_adi": "Hüseyni taksim",
-        "seslendiren": "S. Yardım",
-        "url": "https://www.mediafire.com/file/9lvq515t52v9vap/huseyni_syardim.mp3"
-      },
-      "id": 202511261137,
-      "category": "kaynak/baska"
     }
   ]
 }
