@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nÇabuk çabuk\nKoşturmaca içinde \nAğaçlardan ormanı göremezken\n\nAceleyle ayağım takıldı\nVe fenâ düştüm \nAllah'tan düştüm...",
+      "id": 202512010712,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1441,
         "parca_adi": "Huzurda hicaz",
@@ -69,11 +74,6 @@
       },
       "id": 202511261137,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\n\n\"Lütfen sana yardım etmeme izin ver, yoksa boğulacaksın,\" dedi maymun...\n\nVe balığı güvenli bir şekilde ağacın tepesi...",
-      "id": 202511260843,
-      "category": "sabahnesesi"
     }
   ]
 }
