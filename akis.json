@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n-  \"Hakikat nakledilemez\" derken, işaret ettiğiniz şeyi anlatmak için sözcüklerin ve kavramlar...",
+      "id": 202512011855,
+      "category": "soylesikayitlari"
+    },
+    {
       "text": {
         "sira_no": 1443,
         "parca_adi": "Ölümden sonra",
@@ -69,11 +74,6 @@
       },
       "id": 202511262108,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\nBaşarısız olmuş insanlarla oturun. \nOnların egosu yoktur, \nSâdece deneyimleri vardır. ❞\n[Kaybe...",
-      "id": 202511261334,
-      "category": "soylesikayitlari"
     }
   ]
 }
