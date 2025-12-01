@@ -1,3 +1,45 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1764617879271,
+      "title": "Yeni Taslak",
+      "content": {
+        "id": 1764617879271,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-01T19:29:15.030Z",
+        "created_at": "2025-12-01T19:29:15.030Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "2025",
+            "mini_title": "agah olasın",
+            "tags": [
+              "deneme"
+            ],
+            "title": "bir şeyler deniyoruz",
+            "subtitle": "Alt Başlık"
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "İçeriğinizi buraya girin..."
+              },
+              {
+                "type": "metin",
+                "text": "333"
+              },
+              {
+                "type": "metin",
+                "text": "36636"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2025-12-01T19:37:59.271Z",
+      "updated_at": "2025-12-01T19:40:38.071Z"
+    }
+  ]
 }
