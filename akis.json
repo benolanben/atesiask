@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "~\n\nUnuttuğumuz şey, düşüncelerin ve kelimelerin birer uzlaşım olduğudur; gerçeğin sözcüsü değil...\n[YÜZ SÖZ'den]\n\nDüşünc...",
+      "id": 202512020719,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1444,
         "parca_adi": "Nutk-ı Harâbî",
@@ -64,16 +69,6 @@
       "text": "~\nGözü açılan \nUyanmış\nBir görüşte, \n\nUsta ile çırak, yüksek ile alçak, kutsal ile sıradan arasında bir hiyerarşi yoktur...",
       "id": 202511280902,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1440,
-        "parca_adi": "Aşkın çağrısı",
-        "seslendiren": "M. Cem",
-        "url": "https://www.mediafire.com/file/9jc5itn4fc18opo/askincagrisi.mp3"
-      },
-      "id": 202511271217,
-      "category": "kaynak/baska"
     }
   ]
 }
