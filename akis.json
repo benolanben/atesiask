@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1445,
+        "parca_adi": "Pend-i Mevlevî",
+        "seslendiren": "B. Uymaz",
+        "url": "https://www.mediafire.com/file/wluiq88kqeezztd/pendimevlevi.mp3"
+      },
+      "id": 202512030950,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "~\n\nUnuttuğumuz şey, düşüncelerin ve kelimelerin birer uzlaşım olduğudur; gerçeğin sözcüsü değil...\n[YÜZ SÖZ'den]\n\nDüşünc...",
       "id": 202512020719,
       "category": "sabahnesesi"
@@ -64,11 +74,6 @@
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nXoşbəxtliyin dadını çıxarmaq üçün bütün digər dadları unudun. Sükut əbədi olaraq sərxoş olacağı...",
       "id": 202511292307,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "~\nGözü açılan \nUyanmış\nBir görüşte, \n\nUsta ile çırak, yüksek ile alçak, kutsal ile sıradan arasında bir hiyerarşi yoktur...",
-      "id": 202511280902,
-      "category": "sabahnesesi"
     }
   ]
 }
