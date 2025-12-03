@@ -5,7 +5,7 @@ on:
     branches: 
       - main 
     paths: 
-      - medya/birgulsen/** # DEĞİŞİKLİK 1: Sadece birgulsen klasörü izleniyor 
+      - medya/birgulsen/**
  
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }} 
@@ -35,17 +35,18 @@ jobs:
  
       - name: Create birgulsen.json 
         run: | 
-          # DEĞİŞİKLİK 3: Arama yapılacak klasör yolu değiştirildi 
-          image_list=$(find medya/birgulsen -type f \( -iname "*.jpg" -o -iname "*.png" \)) 
-           
-          # DEĞİŞİKLİK 4: Çıktı dosyası birgulsen.json olarak ayarlandı 
+          # Geçici dosya oluştur
+          temp_file=$(mktemp)
+          
+          # Resimleri bul ve sırala
+          image_list=$(find medya/birgulsen -type f \( -iname "*.jpg" -o -iname "*.png" \) | sort -t'-' -k2 -rn)
+          
           echo '{ "isaretler": [' > medya/birgulsen.json 
            
           for image in $image_list; do 
             dimensions=$(identify -format '%w %h' "$image") 
             filename=$(basename "$image") 
              
-            # JSON'a yazma işlemi (timestamp alanı kaldırıldı)
             echo "  {\"width\": \"${dimensions% *}\", \"height\": \"${dimensions#* }\", \"path\": \"$filename\"}," >> medya/birgulsen.json 
           done 
            
@@ -61,6 +62,6 @@ jobs:
           git config --local user.name "GitHub Actions" 
           git config --local user.email "actions@github.com" 
           git add medya/birgulsen.json 
-          git diff --quiet && git diff --staged --quiet || git commit -m "Otomatik: birgulsen.json güncellendi" 
+          git diff --quiet && git diff --staged --quiet || git commit -m "Otomatik: birgulsen.json güncellendi (sıralı)" 
           git pull --rebase origin main 
           git push origin HEAD:main
