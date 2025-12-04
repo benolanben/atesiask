@@ -2,6 +2,36 @@
   "isaretler": [
     {
       "text": {
+        "id": 202512042305,
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/simurg/202512042305-1764878731555.jpg",
+          "date_value": "2025",
+          "mini_title": "agah olasın",
+          "tags": [
+            "deneme"
+          ],
+          "title": "Başlık",
+          "subtitle": "Alt Başlık"
+        },
+        "main_article": {
+          "quotes": [
+            {
+              "type": "metin",
+              "text": "İçeriğinizi buraya girin..."
+            },
+            {
+              "type": "fotograf",
+              "text": "",
+              "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/simurg/202512042305-1764878748051.jpg"
+            }
+          ]
+        }
+      },
+      "id": 202512042305,
+      "category": "posts/simurg/202512042305"
+    },
+    {
+      "text": {
         "id": 202512042301,
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/simurg/202512042257-1764878232452.png",
@@ -84,11 +114,6 @@
       },
       "id": 202512011239,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\n\nÇabuk çabuk\nKoşturmaca içinde \nAğaçlardan ormanı göremezken\n\nAceleyle ayağım takıldı\nVe fenâ düştüm \nAllah'tan düştüm...",
-      "id": 202512010712,
-      "category": "sabahnesesi"
     }
   ]
 }
