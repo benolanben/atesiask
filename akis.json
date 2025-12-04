@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER]\n\n\"İnsanların gerçekten hayvanlardan daha ileri bir evrim geçirdiğini mi düşünüyorsun?\" \n\n\"Elbette,\"...",
+      "id": 202512042037,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "~\nHer nerede bir güzellik görsen \nTadını çıkarabilirsin bir ân için \nAşk budur\n\nYok eğer onu ele geçirmeye çalışırsan\nKo...",
       "id": 202512040901,
       "category": "sabahnesesi"
@@ -69,11 +74,6 @@
       },
       "id": 202511301152,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nKendini aramaya başlamalısın \nVe kendini ancak basit ve unutulmuş şeylerde bulabilirsin. Neden bir süreliğine ormana g...",
-      "id": 202511300922,
-      "category": "sabahnesesi"
     }
   ]
 }
