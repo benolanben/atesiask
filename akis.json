@@ -1,6 +1,31 @@
 {
   "isaretler": [
     {
+      "text": {
+        "id": 202512042301,
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/simurg/202512042257-1764878232452.png",
+          "date_value": "2025",
+          "mini_title": "agah olasın",
+          "tags": [
+            "deneme"
+          ],
+          "title": "Başlık",
+          "subtitle": "Alt Başlık"
+        },
+        "main_article": {
+          "quotes": [
+            {
+              "type": "metin",
+              "text": "İçeriğinizi buraya girin..."
+            }
+          ]
+        }
+      },
+      "id": 202512042301,
+      "category": "posts/simurg/202512042301"
+    },
+    {
       "text": "[Y~OLDA ÇEVRİLENLER]\n\n\"İnsanların gerçekten hayvanlardan daha ileri bir evrim geçirdiğini mi düşünüyorsun?\" \n\n\"Elbette,\"...",
       "id": 202512042037,
       "category": "yoldacevrilenler"
@@ -64,16 +89,6 @@
       "text": "~\n\nÇabuk çabuk\nKoşturmaca içinde \nAğaçlardan ormanı göremezken\n\nAceleyle ayağım takıldı\nVe fenâ düştüm \nAllah'tan düştüm...",
       "id": 202512010712,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1441,
-        "parca_adi": "Huzurda hicaz",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/zjt0vredat8ymxj/huzurdahicaz.mp3"
-      },
-      "id": 202511301152,
-      "category": "kaynak/baska"
     }
   ]
 }
