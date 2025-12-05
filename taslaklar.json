@@ -1,3 +1,34 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 202305010302,
+      "title": "El-Vedâ",
+      "category": "simurg",
+      "content": {
+        "article": {
+          "header": {
+            "date_value": "",
+            "title": "El-vedâ",
+            "mini_title": "agah olasın",
+            "tags": [
+              ""
+            ],
+            "subtitle": "",
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/kuslar/0033_kus.jpg"
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "Merhaba,\n\nToplandık, dağılmaya\nGöründük, kaybolmaya\nBiriktik, boşalmaya\n\nHer başlayan biter a!\nSen gerçeği \nBaşlaması bitmesi olmayanda ara!\n\nAramaktan sıkılınca\nDön bak aynaya\n...\nBir de ne göresin \nSÎ-MURG zaten varacağı yerde\n...\nVarlığı ile yokluğu arasında fark kallmadığı yerde\n\nİsmi, sûret perdesinden silinse gerektir\n...\nAkışın bu mevsimindeki hoşça refâkatiniz için hepinize bir bir teşekkür ederim.\n\nBundan sonraki seyrinizde\nKendinizle rahat olduğunuz\nBirbirinizin kadrini bildiğiniz\nHayırlı yolcular dilerim\n\nSemâdan ne indi de\nYer kabul etmedi ki...\n\nBir ümit\nBir yel esti...\nÖyle yazıldı\nÖyle olsun mâdem\n\nBir nefes yalnız bırakmayana emânetiz\n...\nEl-vedâ tülüne sarılı \nTatlı rüyâlar efendim\nKalanlara selâm olsun\n"
+              }
+            ]
+          }
+        },
+        "id": 202305010302
+      },
+      "created_at": "2025-12-05T19:27:18.184Z",
+      "updated_at": "2025-12-05T19:27:51.360Z"
+    }
+  ]
 }
