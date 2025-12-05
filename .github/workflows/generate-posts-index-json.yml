@@ -1,0 +1,116 @@
+name: Generate Posts Index JSON
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - posts/**/*.json
+      - '!posts/*.json'
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+permissions:
+  contents: write
+  
+jobs:
+  generate_posts_index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sparse Checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            /posts/
+          sparse-checkout-cone-mode: false
+          fetch-depth: 0
+          
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+          
+      - name: Create index JSON files
+        run: |
+          # Değişen dosyaları tespit et
+          changed_files=$(git diff --name-only HEAD~1 HEAD | grep '^posts/.*/.*\.json$' || true)
+          
+          if [ -z "$changed_files" ]; then
+            echo "No post files changed"
+            exit 0
+          fi
+          
+          # Değişen dosyaların klasörlerini bul (unique)
+          changed_dirs=$(echo "$changed_files" | xargs -n1 dirname | sort -u)
+          
+          echo "Changed directories:"
+          echo "$changed_dirs"
+          echo ""
+          
+          # Sadece değişen klasörler için index oluştur
+          for dir in $changed_dirs; do
+            # Klasör adını al
+            dirname=$(basename "$dir")
+            
+            # İndeks dosyasının yolu
+            index_file="posts/${dirname}.json"
+            
+            # JSON dosyalarını bul ve ID'ye göre sırala (büyükten küçüğe)
+            post_files=$(find "$dir" -maxdepth 1 -type f -name "*.json" ! -name "${dirname}.json" 2>/dev/null | sort -r)
+            
+            # Eğer post dosyası yoksa atla
+            if [ -z "$post_files" ]; then
+              echo "⚠ No posts found in: $dirname"
+              continue
+            fi
+            
+            # Başlangıç JSON yapısı
+            echo "{" > "$index_file"
+            echo "  \"isaretler\": [" >> "$index_file"
+            
+            # Her post dosyasını işle
+            first=true
+            for post in $post_files; do
+              # Post dosyasını oku ve sadece id ve article.header'ı çıkar
+              post_data=$(jq '{
+                id: .id,
+                article: {
+                  header: .article.header
+                }
+              }' "$post")
+              
+              # Virgül ekle (ilk eleman hariç)
+              if [ "$first" = true ]; then
+                first=false
+              else
+                echo "," >> "$index_file"
+              fi
+              
+              # Post verisini ekle (4 boşluk girintili)
+              echo "$post_data" | sed 's/^/    /' >> "$index_file"
+            done
+            
+            echo "" >> "$index_file"
+            echo "  ]" >> "$index_file"
+            echo "}" >> "$index_file"
+            
+            # JSON validasyonu
+            if jq empty "$index_file" 2>/dev/null; then
+              echo "✓ Generated: $index_file ($(echo "$post_files" | wc -l) posts)"
+            else
+              echo "✗ Invalid JSON in $index_file"
+              exit 1
+            fi
+          done
+          
+      - name: Commit & Push
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add posts/*.json
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Otomatik: Post index dosyaları güncellendi"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
