@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nLETÂFET\nSÜKÛNET\nHAYRET\n\"ŞEFFAFLIKTAN DOĞAN SANAT\"\n\nMasûmiyetle, tâze gözlemlenen tek bir havucu...",
+      "id": 202512051645,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": {
         "sira_no": 1446,
         "parca_adi": "Üryan geldim",
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/a5732rv8ir6u79m/olduk.mp3"
       },
       "id": 202512011349,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1442,
-        "parca_adi": "Hicaz'dan yağmur",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/ve4nq2xl0rti4wl/bayatiyagmur.mp3"
-      },
-      "id": 202512011239,
       "category": "kaynak/baska"
     }
   ]
