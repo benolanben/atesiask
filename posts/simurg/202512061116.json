@@ -20,7 +20,9 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "yalnızca bir defa "
+          "text": "yalnızca bir defa ",
+          "is_colored": true,
+          "is_italic": true
         },
         {
           "type": "spoiler",
