@@ -1,23 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 202512061116,
-      "article": {
-        "header": {
-          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/simurg/202512061047-1765007224958.jpg",
-          "date_value": "2025.12.06",
-          "mini_title": "Agah Olasın",
-          "tags": [
-            "aşk",
-            "aşkolsun"
-          ],
-          "title": "yazı başlığı",
-          "subtitle": "yazı alt başlık"
-        }
-      }
-    }
-,
-    {
       "id": 202305010302,
       "article": {
         "header": {
