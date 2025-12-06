@@ -1,6 +1,37 @@
 {
   "isaretler": [
     {
+      "text": {
+        "id": 202512061031,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-06T07:29:30.204Z",
+        "created_at": "2025-12-06T07:29:30.204Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "2025",
+            "mini_title": "agah olasın",
+            "tags": [
+              "deneme"
+            ],
+            "title": "Başlık",
+            "subtitle": "Alt Başlık"
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "İçeriğinizi buraya girin..."
+              }
+            ]
+          }
+        }
+      },
+      "id": 202512061031,
+      "category": "posts/simurg/202512061031"
+    },
+    {
       "text": "~\nHafızanızda tuttuğunuz her şey zaten geride kalmıştır; Tanrı geçmişte olanlarda değil, şimdi imgesiz olarak mevcut ola...",
       "id": 202512060820,
       "category": "sabahnesesi"
@@ -59,11 +90,6 @@
       },
       "id": 202512012037,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[SÖYLEŞİ KAYITLARI'NDAN]\n\n-  \"Hakikat nakledilemez\" derken, işaret ettiğiniz şeyi anlatmak için sözcüklerin ve kavramlar...",
-      "id": 202512011855,
-      "category": "soylesikayitlari"
     }
   ]
 }
