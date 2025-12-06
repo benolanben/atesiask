@@ -1,6 +1,45 @@
 {
   "isaretler": [
-    
+    {
+      "text": {
+        "id": 202512061212,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-06T09:10:26.107Z",
+        "created_at": "2025-12-06T09:10:26.107Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "2025",
+            "mini_title": "agah olasın",
+            "tags": [
+              "deneme"
+            ],
+            "title": "Başlık",
+            "subtitle": "Alt Başlık"
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "İçeriğinizi buraya girin..."
+              },
+              {
+                "type": "renkli_metin",
+                "text": "gtgtgtgtgt",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "emre'den bir şeyler gör\"ünüyor"
+              }
+            ]
+          }
+        }
+      },
+      "id": 202512061212,
+      "category": "posts/simurg/202512061212"
+    },
     {
       "text": "~\nHafızanızda tuttuğunuz her şey zaten geride kalmıştır; Tanrı geçmişte olanlarda değil, şimdi imgesiz olarak mevcut ola...",
       "id": 202512060820,
