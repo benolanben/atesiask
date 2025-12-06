@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1448,
+        "parca_adi": "Perde perde",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/890ot12dbt252qy/perdeperde.mp3"
+      },
+      "id": 202512061603,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nBil bakalım bu nedir?\n\nBen neyim?\n\nFenâ hâlde düştüğünde\nBen yükseltirim seni\n\nO sessiz çöküşle...",
       "id": 202512061524,
       "category": "yoldacevrilenler"
@@ -59,11 +69,6 @@
       },
       "id": 202512030950,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\n\nUnuttuğumuz şey, düşüncelerin ve kelimelerin birer uzlaşım olduğudur; gerçeğin sözcüsü değil...\n[YÜZ SÖZ'den]\n\nDüşünc...",
-      "id": 202512020719,
-      "category": "sabahnesesi"
     }
   ]
 }
