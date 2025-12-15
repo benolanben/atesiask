@@ -2,6 +2,11 @@
   "isaretler": [
     {
       "text": "Sanat bir ayna değildir ve her şeyi ayrım gözetmeksizin yansıtmak zorunda filan değildir. \n[Emil the Meek]",
+      "id": 202512141603,
+      "category": "kelamikibar"
+    },
+    {
+      "text": "Sanat bir ayna değildir ve her şeyi ayrım gözetmeksizin yansıtmak zorunda filan değildir. \n[Emil the Meek]",
       "id": 202512141602,
       "category": "kelamikibar"
     },
@@ -59,16 +64,6 @@
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nLETÂFET\nSÜKÛNET\nHAYRET\n\"ŞEFFAFLIKTAN DOĞAN SANAT\"\n\nMasûmiyetle, tâze gözlemlenen tek bir havucu...",
       "id": 202512051645,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": {
-        "sira_no": 1446,
-        "parca_adi": "Üryan geldim",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/jglfmag11gp354r/uryangeldim_livaneli.mp3"
-      },
-      "id": 202512051451,
-      "category": "kaynak/baska"
     }
   ]
 }
