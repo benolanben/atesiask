@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1451,
+        "parca_adi": "Gecelerden birinde",
+        "seslendiren": "C. Ünal",
+        "url": "https://www.mediafire.com/file/smo2zw3wtzuu6xa/birsekaldi.mp3"
+      },
+      "id": 202512162117,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1450,
         "parca_adi": "Mâh yüzüne âşıkânım",
         "seslendiren": "D. Dikmen",
@@ -64,11 +74,6 @@
       "text": "~\nHafızanızda tuttuğunuz her şey zaten geride kalmıştır; Tanrı geçmişte olanlarda değil, şimdi imgesiz olarak mevcut ola...",
       "id": 202512060820,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nLETÂFET\nSÜKÛNET\nHAYRET\n\"ŞEFFAFLIKTAN DOĞAN SANAT\"\n\nMasûmiyetle, tâze gözlemlenen tek bir havucu...",
-      "id": 202512051645,
-      "category": "yoldacevrilenler"
     }
   ]
 }
