@@ -1,6 +1,22 @@
 {
   "isaretler": [
     {
+      "id": 202512190100,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182500-1766095211327.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aşk"
+          ],
+          "title": "Aşkın gözü kördür",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512190041,
       "article": {
         "header": {
