@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Genişleme yasası",
+      "id": 202512190041,
+      "category": "posts/seyirdefteri/202512190041"
+    },
+    {
       "text": "Sînemi şerh",
       "id": 202512190039,
       "category": "posts/seyirdefteri/202512190039"
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/inma9sfvfxqi7q5/vasil_asitane.mp3"
       },
       "id": 202512141359,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1448,
-        "parca_adi": "Perde perde",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/890ot12dbt252qy/perdeperde.mp3"
-      },
-      "id": 202512061603,
       "category": "kaynak/baska"
     }
   ]
