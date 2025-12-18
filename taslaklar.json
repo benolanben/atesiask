@@ -12,7 +12,7 @@
         "created_at": "2025-12-18T16:16:47.227Z",
         "article": {
           "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512181937-1766075846161.jpg",
             "date_value": "",
             "mini_title": "",
             "tags": [
@@ -28,13 +28,18 @@
                 "text": "Kendinden boşalan dalga hemen aynen okyanustur.\nHer zaman, her yerde kendi peşindeki aynı okyanustur",
                 "is_colored": false,
                 "is_italic": true
+              },
+              {
+                "type": "ses",
+                "text": "",
+                "url": "https://benolanben.com/dinle/baska&1448"
               }
             ]
           }
         }
       },
       "created_at": "2025-12-18T16:30:00.821Z",
-      "updated_at": "2025-12-18T16:31:25.145Z"
+      "updated_at": "2025-12-18T16:37:01.304Z"
     },
     {
       "id": 1766074617304,
