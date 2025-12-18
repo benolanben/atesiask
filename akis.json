@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1452,
+        "parca_adi": "Anlamalısın",
+        "seslendiren": "C. Ünal",
+        "url": "https://www.mediafire.com/file/wpakp8vx7fglubr/anlamalisin.mp3"
+      },
+      "id": 202512181023,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1451,
         "parca_adi": "Gecelerden birinde",
         "seslendiren": "C. Ünal",
@@ -69,11 +79,6 @@
       },
       "id": 202512061422,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "~\nHafızanızda tuttuğunuz her şey zaten geride kalmıştır; Tanrı geçmişte olanlarda değil, şimdi imgesiz olarak mevcut ola...",
-      "id": 202512060820,
-      "category": "sabahnesesi"
     }
   ]
 }
