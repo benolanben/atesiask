@@ -40,43 +40,6 @@
       },
       "created_at": "2025-12-18T16:30:00.821Z",
       "updated_at": "2025-12-18T16:37:01.304Z"
-    },
-    {
-      "id": 1766074617304,
-      "title": "Yeni Taslak",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1766074617304,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2025-12-18T16:16:47.227Z",
-        "created_at": "2025-12-18T16:16:47.227Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              ""
-            ],
-            "title": "Var mı beni içinizde tanıyan, yaşanmadan çözülmeyen sır benim...",
-            "subtitle": "",
-            "show_background_image": false
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "ses",
-                "text": "İçeriğinizi buraya girin...",
-                "url": "https://benolanben.com/dinle/baska&1448",
-                "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512181944-1766076264342.jpg"
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2025-12-18T16:16:57.304Z",
-      "updated_at": "2025-12-18T16:42:11.649Z"
     }
   ]
 }
