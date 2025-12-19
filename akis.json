@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ayna ayna, söyle~s~ana",
+      "id": 202512192235,
+      "category": "posts/seyirdefteri/202512192235"
+    },
+    {
       "text": "Elhamdulillah",
       "id": 202512192231,
       "category": "posts/seyirdefteri/202512192231"
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/smo2zw3wtzuu6xa/birsekaldi.mp3"
       },
       "id": 202512162117,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1450,
-        "parca_adi": "Mâh yüzüne âşıkânım",
-        "seslendiren": "D. Dikmen",
-        "url": "https://www.mediafire.com/file/x3iqe4pmtx4nyqv/mahyuzune.mp3"
-      },
-      "id": 202512161255,
       "category": "kaynak/baska"
     }
   ]
