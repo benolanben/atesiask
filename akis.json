@@ -1,6 +1,10 @@
 {
   "isaretler": [
-  
+    {
+      "text": "Gerçek Öğrenilemez",
+      "id": 202512191523,
+      "category": "posts/seyirdefteri/202512191523"
+    },
     {
       "text": {
         "sira_no": 1454,
@@ -11,7 +15,6 @@
       "id": 202512191512,
       "category": "kaynak/baska"
     },
-   
     {
       "text": {
         "sira_no": 1453,
