@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1454,
+        "parca_adi": "Safâ geldin",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/5ebz4qaam7pof80/safageldin.mp3"
+      },
+      "id": 202512191512,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Sırların Gül Bahçesi",
       "id": 202512191300,
       "category": "posts/seyirdefteri/202512191300"
