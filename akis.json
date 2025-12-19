@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Tende cânımsın ey...",
+      "id": 202512192109,
+      "category": "posts/seyirdefteri/202512192109"
+    },
+    {
       "text": "Aşk mihrâbı",
       "id": 202512192103,
       "category": "posts/seyirdefteri/202512192103"
@@ -68,11 +73,6 @@
     {
       "text": "Sanat bir ayna değildir ve her şeyi ayrım gözetmeksizin yansıtmak zorunda filan değildir. \n[Emil the Meek]",
       "id": 202512141603,
-      "category": "kelamikibar"
-    },
-    {
-      "text": "Mahv edip binâ-i nefsi bir nazarda\nEtti tâmir aşkla tevhid~hânesin\n[M. Medhî'den]",
-      "id": 202512141602,
       "category": "kelamikibar"
     }
   ]
