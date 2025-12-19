@@ -1,0 +1,45 @@
+{
+  "id": 202512191523,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2025-12-19T12:05:56.806Z",
+  "created_at": "2025-12-19T12:05:56.806Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191523-1766147027916.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Gerçek Öğrenilemez",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "~\n\nBir şeyi bir kez öğrendikten sonra\nOnu bir daha asla bilmemezlikten gelemezsin.\nÖyleyse neyi öğrenmeyeceğini iyi bil!\n[YÜZ SÖZ'den]\n\nGerçek,\nDeneyimin etrafını saran sabit bir inanç sistemi değil ki...\n\nHer an nabzı vuran, titreyen, soluyan yani şimdi yaşanan süre-gelen~giden canlı bir deneyim..."
+        },
+        {
+          "type": "spoiler",
+          "text": "~\n\nHayretteyim nedir bu \"OL\" emri\nHer nefes yenilenir demi...\n\n~"
+        },
+        {
+          "type": "metin",
+          "text": "Şimdi ne olduğunu gerçekten öğrenmenin, burada boş bulunup yaşayıp doğrudan görmekten başka yolu yok...\n\nŞimdi gerçekten diri olmak için\nDün ya da yarında ölü olmalı\n\nAnlam,\nDuymak içindir\nGeçmişin tüm anlamını boşalt\n\nZira geçmişi anlarsan şimdi anlam dünyanda yaşarsın yâni canlı canlı sahada değil haritada...\n\nHayal,\nGörmek içindir\nGeleceğin tüm görüntülerini boşalt"
+        },
+        {
+          "type": "metin",
+          "text": "Dünden boş kulaklarla, yarından boş gözlerle şimdi canlı ol...\n\n",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "~\n\nŞimdi burada ol\nVarlığını tam hisset\nHepsi bu\n\nVarsın olsun\n\n~"
+        }
+      ]
+    }
+  }
+}
