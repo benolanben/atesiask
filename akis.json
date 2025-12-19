@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Rüyâ perdesi",
+      "id": 202512191250,
+      "category": "posts/seyirdefteri/202512191250"
+    },
+    {
       "text": "Ehli bilir şeriatın hakikati ne...",
       "id": 202512191232,
       "category": "posts/seyirdefteri/202512191232"
@@ -64,16 +69,6 @@
       "text": "Ben kıyamete yakın bir zamanda kılıçla gönderildim...",
       "id": 202512141600,
       "category": "varliginsevinci"
-    },
-    {
-      "text": {
-        "sira_no": 1449,
-        "parca_adi": "Vâsıl olmaz kimse",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/inma9sfvfxqi7q5/vasil_asitane.mp3"
-      },
-      "id": 202512141359,
-      "category": "kaynak/baska"
     }
   ]
 }
