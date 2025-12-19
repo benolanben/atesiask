@@ -15,11 +15,78 @@
       "title": "İnşaatı durdurun",
       "subtitle": ""
     },
-    "main_article": {
+     "main_article": {
       "quotes": [
         {
           "type": "metin",
-          "text": "a"
+          "text": "~\n\nNiçin sevmeye cân ânı ki anda buldu cânânı\nYIKILDI \"kal’a-i fikrim\" yapıldı dinim îmânım\n[N. Mısrî'den]\n\nBir ev vardı ve o evde kişisel hayatını yaşadığı sanan bir \"kişi\"\nŞimdi o kişi (fikri) gitti ve evi de yıkıldı; hayatım hayat oldu\nPencere, kapı, duvar kalmayınca hâne pür~nur oldu\n[YÜZ SÖZ'den]\n"
+        },
+        {
+          "type": "alinti",
+          "text": "İnanmanızı istemiyorum, dağılmanızı istiyorum\n",
+          "author": "[Türbedâr Dedem'den]"
+        },
+        {
+          "type": "metin",
+          "text": "Ya ayrılık gerçekten hiç var olmasaydı da sadece inanmayı öğrendiğimiz bir hikâye olsaydı?",
+          "is_colored": true,
+          "is_bold": true,
+          "is_italic": true
+        },
+        {
+          "type": "metin",
+          "text": "Özgürlük, \"ben\" diye~bildiğimiz şeyin,\nSandığımız gibi değil, olduğu gibi görülmesiyle başlar:\n\nSabit bir şey değil,\nSabit bir şeyin varlığına dair bir düşünce\n\nVe düşüncenin düşünceye tepkisiyle devam etmece...\n\nNe var ki\n\"Ayrı bir benlik\" olarak var~olduğuna inandığın sürece\nHayat mücadelesi devam eder.\n\nBu fikre inanmayı bırak ve zâten orada duran huzur ortaya çıkar.\n\nMeğer o düşünce kalesi düşünce...\n\n~"
+        },
+        {
+          "type": "metin",
+          "text": "\"Yol yoktur, yürümek vardır.\"",
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Öyleyse biraz daha yürüyelim bu âlemden içeri...\nYazının geri kalanını sözde \"ben~kalemin\" harabelerinden yazılıyor…\n\nBu ne demekti?\n\nArtık katı bir yapı, sağlam bir kale inşa etmeye çalışmadan yazmak.\nAdım atarken beliren, ayağını kaldırınca imhâ olan bir basamak gibi...\n\nKelimelerin, düşüncelerin gelip geçici olduğunu bilerek, onlara tutunmadan, onlarla oynamak.\n\nTıpkı su üstüne yazı yazmak gibi...\n\nYazarken silinmek\nSilinirken var olmak.\n\nPeki ya ayrılık?\n\nO büyük yalan,\nO temel yanılsama?\nBu belki de en büyük sanal gerçeklik simülasyonuydu.\n\nBize “inanç” denen programı yüklemek için yazılmış bir başlangıç senaryosu."
+        },
+        {
+          "type": "metin",
+          "text": "Ayrı olduğuna inan...\n",
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "İnan ki bir ömür vuslatı arayasın.\n\nArayışın içinde, arayanın aslında aranan olduğunu fark edesin.\n\n~\n\nDerken fazla uykudan yorgun düştün, ekran birden karardı...\nİki gözünün arasında, karanlığa kurulu perdede, kayanlar kaydı:"
+        },
+        {
+          "type": "spoiler",
+          "text": "Muhterem arayıcı,\nKalen yoksa, kuşatma da yoktur.\nKuşatma yoksa, teslim olacak kimse de...",
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Geriye ne kaldı?\nİşte bu.\nTam da şu an.\nHiçbir şeyin eksik olmadığı\n"
+        },
+        {
+          "type": "metin",
+          "text": "\nBU\nBÖYLECE\nOLAN",
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "Dağılmış olanın, kendi mükemmel düzensizliği içinde anlık parıldayışı sadece...\n\nVe bir kez daha anlar gibi oldun:"
+        },
+        {
+          "type": "metin",
+          "text": "Özgürlük, hiçbir kaleye sığınmamakta değil, hiç kale inşa etmemekteydi.\n",
+          "is_colored": true,
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "Yapılıp yıkılmalardan yorulup da\nİnşa etmediğin an,\nZaten içinde yaşadığın\nSonsuz, sınırsız boşluğu\nBüsbütün görürsün.\n\nSakın adına “ben” deme.\nAnlama, anlamlandırma\nSadece bak işte...\n\nO bir bakışın içinde, Niyâzî’nin cananı, Dedem’in dağılması ve su üstündeki yazı hep aynı şeydi. Neydi o?\n\nVar olmayan bir merkezin etrafında dönen bu kusursuz dönüş,\nİşte bu senin aslî hâlin.\n\nŞimdi, inşaatı durdur ve sadece dön.\nZâten dönüyorsun.\n\n\n...\n\n"
+        },
+        {
+          "type": "alinti",
+          "text": "\nÂlemde meşhûd olan bu devrân\nTekâmül içindir, kemâle doğru\n\nHer nokta cevvâl, her zerre raksân\nUçup giderler visâle doğru\n\nYorulma, gitme celâle doğru\nÇevir yüzünü cemâle doğru\n",
+          "author": " [Hayâlin Derinlikleri'nden]"
         }
       ]
     }
