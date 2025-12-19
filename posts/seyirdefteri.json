@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202512191921,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191921-1766161301741.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Sûret perdesinde ayna nerede?",
+          "subtitle": "",
+          "show_background_image": true
+        }
+      }
+    }
+,
+    {
       "id": 202512191900,
       "article": {
         "header": {
