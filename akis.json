@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Elhamdulillah",
+      "id": 202512192231,
+      "category": "posts/seyirdefteri/202512192231"
+    },
+    {
       "text": "Az sanma kendini",
       "id": 202512192224,
       "category": "posts/seyirdefteri/202512192224"
@@ -69,11 +74,6 @@
       },
       "id": 202512161255,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Sanat bir ayna değildir ve her şeyi ayrım gözetmeksizin yansıtmak zorunda filan değildir. \n[Emil the Meek]",
-      "id": 202512141603,
-      "category": "kelamikibar"
     }
   ]
 }
