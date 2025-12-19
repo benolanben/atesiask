@@ -2,6 +2,11 @@
   "isaretler": [
     {
       "text": "İnşaatı durdurun",
+      "id": 202512191632,
+      "category": "posts/seyirdefteri/202512191632"
+    },
+    {
+      "text": "İnşaatı durdurun",
       "id": 202512191611,
       "category": "posts/seyirdefteri/202512191611"
     },
@@ -69,11 +74,6 @@
       "text": "Mahv edip binâ-i nefsi bir nazarda\nEtti tâmir aşkla tevhid~hânesin\n[M. Medhî'den]",
       "id": 202512141602,
       "category": "kelamikibar"
-    },
-    {
-      "text": "Ben kıyamete yakın bir zamanda kılıçla gönderildim...",
-      "id": 202512141600,
-      "category": "varliginsevinci"
     }
   ]
 }
