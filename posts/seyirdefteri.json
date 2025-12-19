@@ -1,6 +1,22 @@
 {
   "isaretler": [
     {
+      "id": 202512192012,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192012-1766164346894.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Labirentin Çıkışı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512191935,
       "article": {
         "header": {
