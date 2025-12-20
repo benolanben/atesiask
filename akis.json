@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Aklıma geldi de...",
+      "id": 202512202130,
+      "category": "posts/seyirdefteri/202512202130"
+    },
+    {
       "text": "Farkındalığın doğasına dâir",
       "id": 202512202122,
       "category": "posts/seyirdefteri/202512202122"
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/wpakp8vx7fglubr/anlamalisin.mp3"
       },
       "id": 202512181023,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1451,
-        "parca_adi": "Gecelerden birinde",
-        "seslendiren": "C. Ünal",
-        "url": "https://www.mediafire.com/file/smo2zw3wtzuu6xa/birsekaldi.mp3"
-      },
-      "id": 202512162117,
       "category": "kaynak/baska"
     }
   ]
