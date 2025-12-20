@@ -50,14 +50,24 @@
           "text": "Habîbullâh kıldı gerçek namaz yalnız kendi özüne\n"
         },
         {
-          "type": "metin",
-          "text": "Uydu \"Yüzünü ortaksız dîn~e dön\" sözüne",
+          "type": "metin_inline",
+          "text": "Uydu ",
           "is_colored": false,
+          "is_bold": false
+        },
+        {
+          "type": "metin_inline",
+          "text": "\"Yüzünü ortaksız dîn~e dön\"",
           "is_bold": true
         },
         {
+          "type": "metin_inline",
+          "text": " sözüne"
+        },
+        {
           "type": "metin",
-          "text": "Gerçek tevhîd! O senin fıtratındaki dindir!\nSaklı rûhunu çıkar! Ortak koşmayı dindir!\n\nKâbe'de HAK DOST'un yaptığı gibi, sen de!\nİçinde ve dışında, her putu kırıp indir!\n"
+          "text": "Gerçek tevhîd! O senin fıtratındaki dindir!\nSaklı rûhunu çıkar! Ortak koşmayı dindir!\n\nKâbe'de HAK DOST'un yaptığı gibi, sen de!\nİçinde ve dışında, her putu kırıp indir!\n",
+          "is_tight": true
         },
         {
           "type": "alinti",
