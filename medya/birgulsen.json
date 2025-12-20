@@ -1,5 +1,7 @@
 { "isaretler": [
-  {"width": "1500", "height": "1560", "path": "birgulsen-489.png"},
+  {"width": "1500", "height": "1202", "path": "birgulsen-491.png"},
+  {"width": "1500", "height": "1028", "path": "birgulsen-490.png"},
+  {"width": "1500", "height": "1512", "path": "birgulsen-489.png"},
   {"width": "1500", "height": "1380", "path": "birgulsen-488.png"},
   {"width": "1500", "height": "2219", "path": "birgulsen-487.png"},
   {"width": "1500", "height": "1875", "path": "birgulsen-486.png"},
@@ -242,7 +244,7 @@
   {"width": "1500", "height": "1466", "path": "birgulsen-249.png"},
   {"width": "1500", "height": "1510", "path": "birgulsen-248.png"},
   {"width": "1687", "height": "1920", "path": "birgulsen-247.png"},
-  {"width": "1542", "height": "1920", "path": "birgulsen-246.png"},
+  {"width": "1500", "height": "1560", "path": "birgulsen-246.png"},
   {"width": "1500", "height": "1080", "path": "birgulsen-245.png"},
   {"width": "1500", "height": "1060", "path": "birgulsen-244.png"},
   {"width": "1500", "height": "1551", "path": "birgulsen-243.png"},
