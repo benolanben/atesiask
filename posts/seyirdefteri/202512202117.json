@@ -1,0 +1,56 @@
+{
+  "id": 202512202117,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2025-12-20T18:05:15.783Z",
+  "created_at": "2025-12-20T18:05:15.783Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202117-1766254644948.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "feda",
+        "pelevin",
+        "yolda çevrilen"
+      ],
+      "title": "Harcanıyoruz",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "Tanya bunu anaokulundan beri biliyordu; insanlar meta değeri taşıyordu ve en fedakâr dostluklar bile karşılıklı bir kiralama ilişkisinden ibaretti; bâzen faydalı bir şeyle, bâzen de bizzât kendileriyle ödeme yapıyorlardı.\n[V. Pelevin'den]\n\nMüsrifliğin en büyüğü insan imkânını harcamaktır, hassaten kendini harcamak.\n[Kelâm-ı Azîz-i Melâmîye'den]\n\nBedenin enerjisi daha yüksek bir şeye bağlı değilse, daha düşük bir şey tarafından harcanacaktır.\n[A. Kadrî]\n\n~\n\nİnsanı, yapıp yapamadığı hikâyesinden ibâret bir kişiye\nKişiyi de sınırları belirli bir profile indirgersen\nEr geç harcanır...\n\nNe var ki bu bile film icâbıdır yâni her sahne, yerli yerincedir zira bedeni ve evreni evirip çeviren tek bir kudrettir:"
+        },
+        {
+          "type": "metin",
+          "text": "Ve O kudret, O ezel zekâsıyla\nEvirir çevirir, tohumu harcar, ağacı getirir\nYüzeyde görünen şahsî nefsi harcar\nMerkezdeki özü, belirgin hâle getir",
+          "is_colored": true,
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "~\nVe Tanya, son ilişkisinden de bir enkâz yığını olarak çıkınca artık anladı ki:\n\nHarcanmak denen şey, aslında yok olmak değil, biçim değiştirmektir.\nParanın geçersiz bir kâğıda, kâğıdın ışığa, ışığın bakışa dönüşmesi gibi...\n\nHer kayıp, bir kazançtır; her ödenen bedel, görünmez bir hesaba yatırılan bir mevduat...\n\nVe asıl müsriflik, bu döngüye direnip hiçbir şey olmamakta ısrar etmektir.\n\nÇünkü güneşin altında her şey eninde sonunda harcanır; mesele, senin paranın hangi pazarda geçerli olduğunu bilmendir...\n\nO pazar ki, raflarında yalnızca aynalar sergilenir.\n\nVe sen, orada ancak harcandığın kadar varsın..."
+        },
+        {
+          "type": "spoiler",
+          "text": "Ol ganîyem ki bu bâzâr-ı fenâda feleğe\nMetelik vermek için bende bozukluk yoktur"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202117-1766254654040.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202117-1766254650104.mp3"
+        },
+        {
+          "type": "metin",
+          "text": "\n\nÂşık oldur kim kılar cânın fedâ cânânına\nMeyl-i cânân etmesin her kim ki kıymaz cânına\n\nCanını cânâna vermektir kemâli âşıkın\nVermeyen cân itirâf etmek gerek noksânına",
+          "is_colored": true,
+          "is_bold": true,
+          "is_italic": true
+        }
+      ]
+    }
+  }
+}
