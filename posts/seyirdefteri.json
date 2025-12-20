@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202512202117,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202117-1766254644948.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "feda",
+            "pelevin",
+            "yolda çevrilen"
+          ],
+          "title": "Harcanıyoruz",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512192357,
       "article": {
         "header": {
