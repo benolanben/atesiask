@@ -1,11 +1,16 @@
 {
   "isaretler": [
     {
+      "text": "Pencereden b~akarken...",
+      "id": 202512211156,
+      "category": "posts/seyirdefteri/202512211156"
+    },
+    {
       "text": "Din, merkeze bağlar",
       "id": 202512202229,
       "category": "posts/seyirdefteri/202512202229"
     },
-      {
+    {
       "text": {
         "sira_no": 1456,
         "parca_adi": "Kendinden geç",
@@ -40,7 +45,6 @@
       "id": 202512202117,
       "category": "posts/seyirdefteri/202512202117"
     },
-  
     {
       "text": "Yeşil perdenin ardı",
       "id": 202512192357,
@@ -59,16 +63,6 @@
         "url": "https://www.mediafire.com/file/5ebz4qaam7pof80/safageldin.mp3"
       },
       "id": 202512191512,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1453,
-        "parca_adi": "Eski vârım n'oldu",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/ku47idvc4l9o07f/kimene.mp3"
-      },
-      "id": 202512191211,
       "category": "kaynak/baska"
     }
   ]
