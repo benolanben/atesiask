@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yalan dünya veya paralel evrenler",
+      "id": 202512221927,
+      "category": "posts/seyirdefteri/202512221927"
+    },
+    {
       "text": "Pencereden b~akarken...",
       "id": 202512211156,
       "category": "posts/seyirdefteri/202512211156"
@@ -54,16 +59,6 @@
       "text": "Allah onlara tanıdıkları suretten başka bir surette gelir ve \"Ben Rabb'inizim\" der. Onlar: \"Senden Allah'a sığınırız. Bu...",
       "id": 202512192010,
       "category": "varliginsevinci"
-    },
-    {
-      "text": {
-        "sira_no": 1454,
-        "parca_adi": "Safâ geldin",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/5ebz4qaam7pof80/safageldin.mp3"
-      },
-      "id": 202512191512,
-      "category": "kaynak/baska"
     }
   ]
 }
