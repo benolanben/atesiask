@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sabah neş'esi ~2",
+      "id": 202512231928,
+      "category": "posts/seyirdefteri/202512231928"
+    },
+    {
       "text": {
         "sira_no": 1457,
         "parca_adi": "Geçmez",
@@ -59,11 +64,6 @@
       "text": "Farkındalığın doğasına dâir",
       "id": 202512202122,
       "category": "posts/seyirdefteri/202512202122"
-    },
-    {
-      "text": "Harcanıyoruz",
-      "id": 202512202117,
-      "category": "posts/seyirdefteri/202512202117"
     }
   ]
 }
