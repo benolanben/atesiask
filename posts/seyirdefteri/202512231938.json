@@ -87,8 +87,13 @@
           "text": "\nSÜRPRİZ FİNAL:\nAdı, soyadı, doğduğu yer, sevdiği yemek, korktuğu şeyler…\nHepsi birer dosya, birer karakter profili.\nBu dosyaların sahibi kimdi peki?\nDosyayı okuyan biri mi, yoksa dosyalayanın kendisi mi?\nİşte tam da bu sorunun ortasında, ekran karardı.\nAma kapanmadan önce, son bir mesaj titredi:\n\nSIMULATION_OVERRIDE:\nHata bulundu.\nAna kullanıcı, kontrollü bir uyanışa hazırlanıyor."
         },
         {
+          "type": "alinti",
+          "text": "\nAkıl kendi kendine takılır\nKendi çalar kendi oynar\nİnananı oyununa katar\nBu oyunu ancak\nFişin takılı olmadığını anlayan bozar!",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
           "type": "metin",
-          "text": "\nAkıl kendi kendine takılır\nKendi çalar kendi oynar\nİnananı oyununa katar\nBu oyunu ancak\nFişin takılı olmadığını anlayan bozar!\n[YÜZ SÖZ'den]\n\n~"
+          "text": "\n~"
         }
       ]
     }
