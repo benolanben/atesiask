@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1457,
+        "parca_adi": "Geçmez",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/18hse5rlkl17agm/hilmi.mp3"
+      },
+      "id": 202512231123,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Sabah neş'esi ~ 1",
       "id": 202512222009,
       "category": "posts/seyirdefteri/202512222009"
@@ -54,11 +64,6 @@
       "text": "Harcanıyoruz",
       "id": 202512202117,
       "category": "posts/seyirdefteri/202512202117"
-    },
-    {
-      "text": "Yeşil perdenin ardı",
-      "id": 202512192357,
-      "category": "posts/seyirdefteri/202512192357"
     }
   ]
 }
