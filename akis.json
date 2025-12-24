@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1458,
+        "parca_adi": "olmasa olmaz",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/7alaoq1atl35i6r/4olmasa.mp3"
+      },
+      "id": 202512242246,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "'IŞK nasıl bulunur",
       "id": 202512241925,
       "category": "posts/seyirdefteri/202512241925"
@@ -49,11 +59,6 @@
       "text": "Pencereden b~akarken...",
       "id": 202512211156,
       "category": "posts/seyirdefteri/202512211156"
-    },
-    {
-      "text": "Din, merkeze bağlar",
-      "id": 202512202229,
-      "category": "posts/seyirdefteri/202512202229"
     }
   ]
 }
