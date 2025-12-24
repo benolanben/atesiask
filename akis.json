@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Noel gelmiş neyime",
+      "id": 202512241921,
+      "category": "posts/seyirdefteri/202512241921"
+    },
+    {
       "text": "Uzun lafın kısası",
       "id": 202512241912,
       "category": "posts/seyirdefteri/202512241912"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/download/q6bg5v3utrt4at1/rubailer_kendindengec.mp3"
       },
       "id": 202512201348,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1455,
-        "parca_adi": "Hoşluk senin yüreğinde",
-        "seslendiren": "A. Ari",
-        "url": "https://www.mediafire.com/file/753l8u6cgtp4ilc/hosluksenin_aria.mp3"
-      },
-      "id": 202512201158,
       "category": "kaynak/baska"
     }
   ]
