@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Uzun lafın kısası",
+      "id": 202512241912,
+      "category": "posts/seyirdefteri/202512241912"
+    },
+    {
       "text": "Eksiltilmiş gerçeklikten çıkış: VR-Off",
       "id": 202512231938,
       "category": "posts/seyirdefteri/202512231938"
@@ -59,11 +64,6 @@
       },
       "id": 202512201158,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Aklıma geldi de...",
-      "id": 202512202130,
-      "category": "posts/seyirdefteri/202512202130"
     }
   ]
 }
