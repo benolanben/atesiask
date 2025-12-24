@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "'IŞK nasıl bulunur",
+      "id": 202512241925,
+      "category": "posts/seyirdefteri/202512241925"
+    },
+    {
       "text": "Noel gelmiş neyime",
       "id": 202512241921,
       "category": "posts/seyirdefteri/202512241921"
@@ -49,16 +54,6 @@
       "text": "Din, merkeze bağlar",
       "id": 202512202229,
       "category": "posts/seyirdefteri/202512202229"
-    },
-    {
-      "text": {
-        "sira_no": 1456,
-        "parca_adi": "Kendinden geç",
-        "seslendiren": "M. Cihad",
-        "url": "https://www.mediafire.com/download/q6bg5v3utrt4at1/rubailer_kendindengec.mp3"
-      },
-      "id": 202512201348,
-      "category": "kaynak/baska"
     }
   ]
 }
