@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202512251918,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251918-1766679526215.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "kandil",
+            "merkez"
+          ],
+          "title": "Kandil gelmiş mi rağbetim neye",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512251911,
       "article": {
         "header": {
