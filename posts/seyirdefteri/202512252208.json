@@ -19,17 +19,17 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Varoluş, nihai süper~pozisyondur; ontolojik bir anda her değişkeni hesaplamak için, onu kavrayabilmek adına evreni zihninizde yeniden yaratmanız gerekir. Biz bilgiye değil, deneyime mahkum edildik.\n\n",
+          "text": "Varoluş, nihai süper~pozisyondur; ontolojik bir anda her değişkeni hesaplamak için, onu kavrayabilmek adına evreni zihninizde yeniden yaratmanız gerekir. Biz bilgiye değil, deneyime mahkum edildik.\n",
           "author": "[A. Watts'dan]"
         },
         {
           "type": "alinti",
-          "text": "Hiçbir şey, kendini her şey olarak deneyimliyor; bütün yönleriyle, renkleriyle, sesleriyle, kendinin tüm yelpazesinde... Kime ne!\n",
+          "text": "Hiçbir şey, kendini her şey olarak deneyimliyor;\nBütün yönleriyle, renkleriyle, sesleriyle, kendinin tüm yelpazesinde...\nKime ne!\n",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "Teleskoplarımızla ne kadar uzağa bakarsak\nVe mikroskoplarımızla ne kadar derine bakarsak,\nEvren incelenmekten kaçmak için o kadar büyük ve o kadar küçük hâle gelir\nZira biz evrenin kendisine bakan evreniz.\n\n~\n\nVe sonunda, aletleri bırakıp sadece nefes alırken geliyor idrak:\n\nKaçan bir şey yok.\nSadece bir oyun bu..."
+          "text": "Teleskoplarımızla ne kadar uzağa bakarsak\nBir o kadar büyük\nVe mikroskoplarımızla ne kadar derine bakarsak\nBir o kadar küçük hâle gelir\nPeki neden\nİncelenmekten kaçınmak için Ev~İ~ren,\n~\nZira biz evrenin kendisine bakan evreniz.\n\n~\n\nVe sonunda, aletleri bırakıp sadece nefes alırken geliyor idrak:\n\nKaçan bir şey yok.\nSadece bir oyun bu..."
         },
         {
           "type": "metin",
@@ -62,6 +62,15 @@
           "type": "alinti",
           "text": "Hepimiz maskeler takan ve kendisiyle saklambaç oynayan tek bir bütünüz...\n",
           "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "~"
+        },
+        {
+          "type": "alinti",
+          "text": "İfşâ olurum ••• saklanır dururum;\nİşte buyum Müslüman, Hıristiyan hem Musevi olurum\nAşkım yerleşsin diye her bir kalbe iyice\nBen kendime her gün yeni bir yüz bulurum\n",
+          "author": "[Cenâb-ı Mevlevî Yüzü'nden]"
         },
         {
           "type": "metin",
