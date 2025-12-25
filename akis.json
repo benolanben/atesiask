@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1459,
+        "parca_adi": "Âlem-i dilde acep",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/msq50nw7ldl6bg9/alemidilde.mp3"
+      },
+      "id": 202512252235,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Tadım durağı",
       "id": 202512252208,
       "category": "posts/seyirdefteri/202512252208"
@@ -49,11 +59,6 @@
       "text": "Noel gelmiş neyime",
       "id": 202512241921,
       "category": "posts/seyirdefteri/202512241921"
-    },
-    {
-      "text": "Uzun lafın kısası",
-      "id": 202512241912,
-      "category": "posts/seyirdefteri/202512241912"
     }
   ]
 }
