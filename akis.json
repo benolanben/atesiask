@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sabah neş'esi ~3",
+      "id": 202512251911,
+      "category": "posts/seyirdefteri/202512251911"
+    },
+    {
       "text": "Bir kaygı veya üzüntü gelince, bir şeye canı sıkıldığında şöyle derlerdi:\n\"Ya Hayyu ya Kayyum, bi Rahmetike estağîsu\"\n[R...",
       "id": 202512251635,
       "category": "varliginsevinci"
@@ -49,16 +54,6 @@
       "text": "Sabah neş'esi ~2",
       "id": 202512231928,
       "category": "posts/seyirdefteri/202512231928"
-    },
-    {
-      "text": {
-        "sira_no": 1457,
-        "parca_adi": "Geçmez",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/18hse5rlkl17agm/hilmi.mp3"
-      },
-      "id": 202512231123,
-      "category": "kaynak/baska"
     }
   ]
 }
