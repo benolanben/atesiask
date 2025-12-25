@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yemek yediğinde veya bir şey içtiğinde şöyle de: \n\"Bismillâhi ve billâhillezî lâ yedurru ma'asmihî şey'ün fil ardı ve lâ...",
+      "id": 202512251617,
+      "category": "varliginsevinci"
+    },
+    {
       "text": "\nSeni, beni dinlemene, ve beni, sana sabaha çıktığında ve akşama ulaştığında şöyle söylemeni tavsiye etmeme ne ma'ni olu...",
       "id": 202512251613,
       "category": "varliginsevinci"
@@ -54,11 +59,6 @@
       "text": "Sabah neş'esi ~ 1",
       "id": 202512222009,
       "category": "posts/seyirdefteri/202512222009"
-    },
-    {
-      "text": "Yalan dünya veya paralel evrenler",
-      "id": 202512221927,
-      "category": "posts/seyirdefteri/202512221927"
     }
   ]
 }
