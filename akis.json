@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bir kaygı veya üzüntü gelince, bir şeye canı sıkıldığında şöyle derlerdi:\n\"Ya Hayyu ya Kayyum, bi Rahmetike estağîsu\"\n[R...",
+      "id": 202512251635,
+      "category": "varliginsevinci"
+    },
+    {
       "text": "Yemek yediğinde veya bir şey içtiğinde şöyle de: \n\"Bismillâhi ve billâhillezî lâ yedurru ma'asmihî şey'ün fil ardı ve lâ...",
       "id": 202512251617,
       "category": "varliginsevinci"
@@ -54,11 +59,6 @@
       },
       "id": 202512231123,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Sabah neş'esi ~ 1",
-      "id": 202512222009,
-      "category": "posts/seyirdefteri/202512222009"
     }
   ]
 }
