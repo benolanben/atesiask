@@ -1,0 +1,48 @@
+{
+  "id": 202512251918,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2025-12-25T15:58:17.390Z",
+  "created_at": "2025-12-25T15:58:17.390Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251918-1766679526215.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "kandil",
+        "merkez"
+      ],
+      "title": "Kandil gelmiş mi rağbetim neye",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "Merkezle âşinâ ol etme muhîte rağbet\nMüstağrık-i hakîkat meyl-i kenârı neyler\n",
+          "author": "[NÂBÎ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "Gerçeklik, her zaman boş bir tuval, rağbetinle onu boyayan sensin\nRağbetinle var ediyor, inancınla çekiyorsun zuhûratı a güzel,\n\nGeçenlere rağbet edip durmakla geçti ömrün\nOysa geçmeyenin rağbeti var sana bir güzel...\n\nRağbet ettiğine, miracın olur\nBeratı elinde olan, kadrini bulur\nKendine gelene, her dem bayram olur\n~\nDâire tamam olunca merkezde dönmeye başlar\nDönen devrettikçe birlikte seyri şâhane olur\n~"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251918-1766679531387.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251918-1766679529558.mp3"
+        },
+        {
+          "type": "alinti",
+          "text": "Nâre yanıp aşk-ı pâkinden ferâgat etmedim\nMahvolup cânân yolunda cânâ rağbet etmedim\n",
+          "author": "[Divân-ı Aşk'tan]"
+        },
+        {
+          "type": "metin",
+          "text": "~"
+        }
+      ]
+    }
+  }
+}
