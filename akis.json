@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Tadım durağı",
+      "id": 202512252208,
+      "category": "posts/seyirdefteri/202512252208"
+    },
+    {
       "text": "Kandil gelmiş mi rağbetim neye",
       "id": 202512251918,
       "category": "posts/seyirdefteri/202512251918"
@@ -49,11 +54,6 @@
       "text": "Uzun lafın kısası",
       "id": 202512241912,
       "category": "posts/seyirdefteri/202512241912"
-    },
-    {
-      "text": "Eksiltilmiş gerçeklikten çıkış: VR-Off",
-      "id": 202512231938,
-      "category": "posts/seyirdefteri/202512231938"
     }
   ]
 }
