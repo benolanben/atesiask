@@ -2,24 +2,159 @@
   "id": 202106031159,
   "article": {
     "header": {
-      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/fotograflar/0001_kus.jpg",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/birlikdukkani/202512272301-1766865697368.jpg",
       "date_value": "3 HAZİRAN 2021",
       "mini_title": "agah olasın",
       "tags": [
         ""
       ],
-      "title": "Korumalı: Sabrî Dilinden",
+      "title": "Sabrî Dilinden",
       "subtitle": ""
     },
     "main_article": {
       "quotes": [
         {
-          "type": "baslik",
-          "text": "Korumalı: Sabrî Dilinden"
+          "type": "metin",
+          "text": "Minber-i aşkdan âteşîn bir nefes düştü dilimize:"
+        },
+        {
+          "type": "ses",
+          "text": "Korumalı: Sabrî Dilinden",
+          "url": "https://benolanben.com/dinle/baska&221"
         },
         {
           "type": "metin",
-          "text": "Bu içerik şifre ile korunmaktadır. Görmek için lütfen aşağıya şifrenizi girin:\nŞifre:\n\n"
+          "text": "Âyâ duydun mu sen rindân-ı Hudâ’nın efgânını\nAnladın mı hem nedir “Nây-ı Mevlânâ” esrârını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Görünüşe önem vermeyen, sûret kaydını çözmüş hoşgörülü Hak erlerinin, O’nun rindlerinin feryâdını duydun mu acaba?\n\nCenâb-ı Mevlevî’den “Dinle Ney”den diyerek duyurduğu, dudağını sevgilinin dudağına dayamış, o içi boş kamışın sırrını anladın mı acaba?"
+        },
+        {
+          "type": "metin",
+          "text": "Bildin mi kimdir söyleyen “İnni enallah” sırrını\nSezdin mi sen hem nedir “men ‘aref” irfânını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "[Tâ-hâ:14’den] Eymen vâdisinde bir ağaçtan “şüphesiz Ben Allahım” diyen her eşyadan fısıldar durur, şeylerin hakikati, birden bakana apaçık görünür. Bir sıfata bürünerek, her şeyi türlü işlerde kullanan kimdir bildin mi acaba?\n\nİnsan ancak kendi dışındaki şeyleri bilebilir ammâ ne olmadığını bilerek “kendini farketme” irfânını sezdin mi acaba?"
+        },
+        {
+          "type": "metin",
+          "text": "Geçtin mi gönül hubb-u sivâdan bu aşk ile\nTuttun mu acep uşşâk-ı Hudâ’nın râhını",
+          "is_colored": true,
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "Ey gönül, gayrısı olmayandan ayrı bir şey görmekten geçip O’nda başka sanıp sevdiklerini bu aşk içinde eriterek gerçek âşıklarının yolunu tuttun mu acaba?\n"
+        },
+        {
+          "type": "metin",
+          "text": "Sırr-ı meclâ hem nedir sırr-ı mahbûb-u Hudâ\nSemi gûş ittin mi sen “Lâ fetâ” fermânını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Âlem sahnesinde, hayâl perdesine düşen aynanın sırrı, Hak sevgilisinin sırrı nedir acaba?\n\nGörmeyen âyine-i sûretde yârin, nakşını silmemiştir gönül âyinesinin pasını. Âlem aynadır görmez misin ki aynaya baktığın halde, kendi kaybolup bakanı gösterir. Bundan ötürü aynaya nazar eylemek sünnettir. Aynanın marifeti kendini değil kendine bakan sahibini göstermektir.\n\nLâ fetâ ‘Alî hiçbir mürüvvet sâhibi yoktur ancak Cenâb-ı Şâh-ı Velâyet olan Muhammed (sav) şehrinin kapısı olan Alî (kv)\n\nBuraya kadar ki beyitlerde:\n\nMevlânâ’nın kamış neyi, Hak erlerinin feryâdı, bir ağaçtan “ben O’yum” nidâsı, kendini tanıyan derhal rabbini tanır irfânı, aynanın sırrı hep tek bir gerçeği fısıldar:\n\nÖzün yüze yansıması, aynadan görünen, ağaçtan seslenen, neye nefes veren, her zerrenin ancak sâhibin sesi olması…"
+        },
+        {
+          "type": "metin",
+          "text": "Aldın mı haberi semt-i Leylâ’dan bugün\nTerk-i cân ittin de buldun mu Mecnûn hâlini",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Sevgili rolünü oynayan Leylâ’nın yaşadığı topraklardan, şimdi haber aldın mı acaba? “Ben-benim” sandığın varlığından geçince hâlinin zâten sevilen hâl olduğu gerçeği bulunur zirâ maşûk ne halde ne işte ise âşık da o iştedir."
+        },
+        {
+          "type": "metin",
+          "text": "Sorma uşşâka sakın kayd-ı imkân erkânını\nLâ ve illâ’dan geçip bulmuş anlar cânını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Âşıklara yol, yöntem, usül, erkân sorulmaz zira onların âlem-i imkân ile bir bağları kalmamıştır. LÂ ile inkâr edecek ve İLLÂ ile isbât edecek varlıktan geçmiş, “can dediklerinin aynen cânân olduğu” farkındalığına erişmişlerdir.\n\nBu beyit şimdiye dek acaba diye sual eylediği muhatabı birliğe davet ediyor ama nasıl olacak, yolu yordamı nedir diye zihinle olacak iş değildir bu. İnkar ve isbâtı, küfür ve imanı, ikilik hallerini bırakınca ancak varlığın toplamının sıfır yani yokluk olduğu anlaşılır."
+        },
+        {
+          "type": "metin",
+          "text": "Gâfil olma râh-ı aşka gel hemân vir cânını\nCâm-ı aşkı nûş idüp bul ehl-i aşk sekrânını",
+          "is_colored": true,
+          "is_bold": true
+        },
+        {
+          "type": "metin",
+          "text": "Dünya dediğimiz hayal perdesinde olanları fark edememek, açık gerçeği görememek tam bir gaflet hâlidir. Kâmilin ağzından akan kevser şerbetînden içince benlik dağı yıkılacak, vahdet yolunda eriyenin, kendinden geçerek ikilikten kurtulmasına vesîle ancak aşkın sarhoşluğudur."
+        },
+        {
+          "type": "metin",
+          "text": "Biz “Ene’l Hak” dârının Mansûr’u olduk bî-gümân\nBaşı canı terk idüp geydik aşk ihrâmını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Varlık fenâ bulmaz fenâ bulan cehâlettir, gaflettir. Benim sandığımız vücuddan geçerek Cenâbı Mansûr’un bayrağını taşıdığı Dar ağacında şüphesiz bugün biz varız.\n\nYârin semtini ziyârete gitmeden giyilen, kefeni andıran kıyafet, her rengi silici aşk ötesi renk, yokluk zevkidir. Bu zevki, kendine nispet ettiği fiillerden geçen, “ben rengini” silen yani “aşk ihrâmını” giyenler tadabilir. Hak’ta seyre ancak aşk ihrâmını giyenler çıkabilir."
+        },
+        {
+          "type": "metin",
+          "text": "Ka’be-i ruhsâr-ı dildâr-ı kıldık çün tavaf\nVech-i yâre düş olup bulduk aşk mihrâbını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Bu seyrin merkezinde Zât makamı olan Kâbe vardır ki dönenler onun etrâfında dönerler. Birliğe erenler de “Kâbe” diye yere göğe sığmayan sevgilinin gül yüzünün etrâfında döner dururlar divâne âşıklar gibi. O yârin âleme dolan vechine müptelâ olanlar, kemer kaşları ve hassaten iki kaşın arasını kıble duvarı bellerler."
+        },
+        {
+          "type": "metin",
+          "text": "Küfr-ü zülfün kendine astık bugün ebdânımız\nRuy-i mahbûbda seyr ittik gönül mirâcımız",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Bugün geçici olarak giyindiğimiz bedenimizi, sevgilinin yüzünü örten saçının bir teline astık. Bize dar ağacı; küfre, örtünmeye sebep sevgili olduğundan, gönül mirâcımız da yükseldiğimiz yerde, perde açılınca yine sevgilinin yüzünden seyredilir."
+        },
+        {
+          "type": "metin",
+          "text": "“Semme vechullâh”ı bildik tâ ezelden zâhidâ\nMinber-i insana çıktık ittik aşk ilânını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "Doludur Hak ile âlem muhakkak: Nereye baksan anda görünür Hak [Bak.ara:115’den] işâretini tâ ezelden okuduk biz.\n\nNebr “yükseltmek”ten minber: yüksekçe kürsü ise İnsan kürsüsüne çıkıp kendinden kendiyle kendine ilân-ı aşk eden de biziz.\n\nNihâyetinde “Hacı Bayram kendi banglar o şehrin minâresinde”"
+        },
+        {
+          "type": "metin",
+          "text": "Şân-ı “Levlâk” kenz-i aşkdır bil Sabrîyâ\nZâhid-i hodbîn ne bilsin ehl-i aşkın kânını",
+          "is_bold": true,
+          "is_colored": true
+        },
+        {
+          "type": "metin",
+          "text": "“Sen olmasan varlığı var göstermezdim” itibârı abd-ı mutlak olan Hazreti insan içindir. Ezelden, bilinmekliği murâd eden, açılmak, saçılmak isteyen “gizli hazîne” işte bu aşktır.\n\nKendini görmediğin her yerde bu hazineyi, bu aşkı, bu güzelliği yani Hakk’ı görebilirsin ama gözünün önünde “Ben perdesi” olan ikilik yurdunda ayrı ayrı yaşayanlar, bütünü büsbütün göresi değildir vesselâm"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/birlikdukkani/202512272301-1766865698254.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "İsim, varlıkları, şeyleri birbirinden ayırmaya yarayan kelimedir ve eşyâ şey’in çoğulu olarak, zuhûra gelen her şeydir. Hâsılı gerisini ayırmadan söyleyelim:"
+        },
+        {
+          "type": "alinti",
+          "text": "Ki yânî hiç eşyâ kalmayınca\nVücûd-ı Hak’dır diyen “Ene’l Hak”\nHulûsî bu bahirde mahvolunca\nLisân-ı Hak der “Ene’l Hak” muhakkak\n\n",
+          "author": "[Hacı Maksûd Efendi]"
         }
       ]
     }
