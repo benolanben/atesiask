@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Boşlukta ne gizli",
+      "id": 202512272212,
+      "category": "posts/seyirdefteri/202512272212"
+    },
+    {
       "text": {
         "sira_no": 1460,
         "parca_adi": "Hayy zikrine davet",
@@ -59,11 +64,6 @@
       },
       "id": 202512242246,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "'IŞK nasıl bulunur",
-      "id": 202512241925,
-      "category": "posts/seyirdefteri/202512241925"
     }
   ]
 }
