@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1460,
+        "parca_adi": "Hayy zikrine davet",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/kl658iiabv2uw49/haydavet.mp3"
+      },
+      "id": 202512271534,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1459,
         "parca_adi": "Âlem-i dilde acep",
         "seslendiren": "A. Aşk",
@@ -54,11 +64,6 @@
       "text": "'IŞK nasıl bulunur",
       "id": 202512241925,
       "category": "posts/seyirdefteri/202512241925"
-    },
-    {
-      "text": "Noel gelmiş neyime",
-      "id": 202512241921,
-      "category": "posts/seyirdefteri/202512241921"
     }
   ]
 }
