@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Mutlu Son",
+      "id": 202512282239,
+      "category": "posts/seyirdefteri/202512282239"
+    },
+    {
       "text": "Kar Ses~sizliği",
       "id": 202512282233,
       "category": "posts/seyirdefteri/202512282233"
@@ -64,11 +69,6 @@
       "text": "Tadım durağı",
       "id": 202512252208,
       "category": "posts/seyirdefteri/202512252208"
-    },
-    {
-      "text": "Kandil gelmiş mi rağbetim neye",
-      "id": 202512251918,
-      "category": "posts/seyirdefteri/202512251918"
     }
   ]
 }
