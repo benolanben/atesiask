@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kar Ses~sizliği",
+      "id": 202512282233,
+      "category": "posts/seyirdefteri/202512282233"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •1",
       "id": 202512282101,
       "category": "posts/seyirdefteri/202512282101"
@@ -64,11 +69,6 @@
       "text": "Kandil gelmiş mi rağbetim neye",
       "id": 202512251918,
       "category": "posts/seyirdefteri/202512251918"
-    },
-    {
-      "text": "Sabah neş'esi ~3",
-      "id": 202512251911,
-      "category": "posts/seyirdefteri/202512251911"
     }
   ]
 }
