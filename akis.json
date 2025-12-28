@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •1",
+      "id": 202512282101,
+      "category": "posts/seyirdefteri/202512282101"
+    },
+    {
       "text": {
         "sira_no": 1462,
         "parca_adi": "Biz ölmeyiz",
@@ -64,11 +69,6 @@
       "text": "Sabah neş'esi ~3",
       "id": 202512251911,
       "category": "posts/seyirdefteri/202512251911"
-    },
-    {
-      "text": "Bir kaygı veya üzüntü gelince, bir şeye canı sıkıldığında şöyle derlerdi:\n\"Ya Hayyu ya Kayyum, bi Rahmetike estağîsu\"\n[R...",
-      "id": 202512251635,
-      "category": "varliginsevinci"
     }
   ]
 }
