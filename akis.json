@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1462,
+        "parca_adi": "Biz ölmeyiz",
+        "seslendiren": "H. Olanlar",
+        "url": "https://www.mediafire.com/file/97shlydit3p92xs/bizolmeyiz.mp3"
+      },
+      "id": 202512281649,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1461,
         "parca_adi": "Tevbe-şiken",
         "seslendiren": "H. Şeceryan",
@@ -58,11 +68,6 @@
     {
       "text": "Bir kaygı veya üzüntü gelince, bir şeye canı sıkıldığında şöyle derlerdi:\n\"Ya Hayyu ya Kayyum, bi Rahmetike estağîsu\"\n[R...",
       "id": 202512251635,
-      "category": "varliginsevinci"
-    },
-    {
-      "text": "Yemek yediğinde veya bir şey içtiğinde şöyle de: \n\"Bismillâhi ve billâhillezî lâ yedurru ma'asmihî şey'ün fil ardı ve lâ...",
-      "id": 202512251617,
       "category": "varliginsevinci"
     }
   ]
