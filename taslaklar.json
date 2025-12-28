@@ -1,3 +1,58 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1766951048618,
+      "title": "Oyun var oyun içinde",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1766951048618,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-28T19:26:37.771Z",
+        "created_at": "2025-12-28T19:26:37.771Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952880651.mp4",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "gözlemci",
+              "oyun"
+            ],
+            "title": "Oyun var oyun içinde",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "~\nHer şey gelir\nHer şey gider\nAma her bir şey\nSâdece sessiz bir iz bırakır\nVe damakta târifsiz bir tat\n~\n\nFormlar belirir, bir an için burada kalır\nVe sonra çözülüp geldikleri yere geri dönerler\n\nŞimdi çoktan gayb~olmuş olan bile\nHiçbir şeyin kalıcı olmadığını\nBize hatırlatmaya yetecek kadar kalır sâdece\n\nVe bunu doğrudan deneyimle\nAçık açık görmenin\nKendine has bir huzur olduğunu...\n\n~~~\n\nVe sen sanmadığın yerde bir anda anlaşılır:\n\nBu gelip gidişin kendisi de aslında sabit bir ritim değil, yalnızca aynanın karşısında dans eden bir başka hayal~ettir.\n\nHiçlikten süslü bir kıyafet giyinerek çıkagelen,\nKendini bir anlığına kendini 'ben' sandıran,\nSonra tekrar soyunan bir illüzyonlar silsilesi.\n\nTasavvuf zevkindeki gibi:\n“Fenâ fillâh” hâli, yokluğun içinde var olmanın şaşkınlığı.\n\nZen Bahçeleri'ndeki gibi:\nSu üstüne yazı yazmak, gökte iz bırakmadan geçmek.\n\nTek bildiği ipin ucunu bağlamak olan zihin, bu geçici formlara tutunmak ister; iki ucu açık olandan tumturaklı bir hikâyeye örmek ve akanı, sabit bir kimliğe dönüştürmek için...\n\nOysa hepsi hepsi, boşluktan geçen birer enstantaneden ibaret.\n\nBaktığın her şey,\nSana kendi yokluğunu gösteren\nAçık bir ayna.\n\nBu aynada ne kalıcı bir benlik var, ne de kalıcı bir nesne...\n\nHer şey bir anlığına öyle görünüyor işte...\nYalnızca saf, nötr, ışıltılı bir yansıma oyunu.\n\nOyun bu ya...\n\nUnutup hatırlayınca\nKaybedip bulunca\nZaten olduğu yerde\nNasıl güzel bir oyun böyle\nGel de oyuna gelme\nHayran olup seyreyle...\n\n"
+              },
+              {
+                "type": "ses",
+                "text": "",
+                "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952892059.mp3",
+                "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952895650.jpg"
+              },
+              {
+                "type": "metin",
+                "text": "\n~\n\nDünya dediğin,\nTanrı'nın kendini unutma oyunudur.\nOyun bittiğinde\n...\n"
+              },
+              {
+                "type": "alinti",
+                "text": "Oyuncu da kalmaz!\n",
+                "author": "[YÜZ SÖZ'den]"
+              },
+              {
+                "type": "metin",
+                "text": "\n~"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2025-12-28T19:44:08.618Z",
+      "updated_at": "2025-12-28T20:14:12.522Z"
+    }
+  ]
 }
