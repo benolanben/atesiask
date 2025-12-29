@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Açık ellerle yüzü~ne",
+      "id": 202512292101,
+      "category": "posts/seyirdefteri/202512292101"
+    },
+    {
       "text": "Ayna ayna",
       "id": 202512292035,
       "category": "posts/seyirdefteri/202512292035"
@@ -59,11 +64,6 @@
       },
       "id": 202512281441,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Tanımlama Hatası",
-      "id": 202512272218,
-      "category": "posts/seyirdefteri/202512272218"
     }
   ]
 }
