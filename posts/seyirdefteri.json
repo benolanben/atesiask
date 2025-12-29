@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202512291116,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952880651.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "gözlemci",
+            "oyun"
+          ],
+          "title": "Oyun var oyun içinde",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512282239,
       "article": {
         "header": {
