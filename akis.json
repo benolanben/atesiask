@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Oyun var oyun içinde",
+      "id": 202512291116,
+      "category": "posts/seyirdefteri/202512291116"
+    },
+    {
       "text": "Mutlu Son",
       "id": 202512282239,
       "category": "posts/seyirdefteri/202512282239"
@@ -64,11 +69,6 @@
       },
       "id": 202512252235,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Tadım durağı",
-      "id": 202512252208,
-      "category": "posts/seyirdefteri/202512252208"
     }
   ]
 }
