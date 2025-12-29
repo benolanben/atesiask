@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "En zorun on kolayı",
+      "id": 202512292028,
+      "category": "posts/seyirdefteri/202512292028"
+    },
+    {
       "text": {
         "sira_no": 1463,
         "parca_adi": "Deneyim",
@@ -59,16 +64,6 @@
       "text": "Boşlukta ne gizli",
       "id": 202512272212,
       "category": "posts/seyirdefteri/202512272212"
-    },
-    {
-      "text": {
-        "sira_no": 1460,
-        "parca_adi": "Hayy zikrine davet",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/kl658iiabv2uw49/haydavet.mp3"
-      },
-      "id": 202512271534,
-      "category": "kaynak/baska"
     }
   ]
 }
