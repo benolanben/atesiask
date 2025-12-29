@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ayna ayna",
+      "id": 202512292035,
+      "category": "posts/seyirdefteri/202512292035"
+    },
+    {
       "text": "En zorun on kolayı",
       "id": 202512292028,
       "category": "posts/seyirdefteri/202512292028"
@@ -59,11 +64,6 @@
       "text": "Tanımlama Hatası",
       "id": 202512272218,
       "category": "posts/seyirdefteri/202512272218"
-    },
-    {
-      "text": "Boşlukta ne gizli",
-      "id": 202512272212,
-      "category": "posts/seyirdefteri/202512272212"
     }
   ]
 }
