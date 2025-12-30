@@ -1,6 +1,42 @@
 {
   "isaretler": [
     {
+      "id": 1767119714556,
+      "title": "Aşk kendine çevirmen",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1767119714556,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-30T18:17:32.244Z",
+        "created_at": "2025-12-30T18:17:32.244Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302140-1767120011576.mp4",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "akıl",
+              "aşk",
+              "cenabı mevlevi"
+            ],
+            "title": "Aşk kendine çevirmen",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2025-12-30T18:35:14.556Z",
+      "updated_at": "2025-12-30T18:39:54.888Z"
+    },
+    {
       "id": 1767119663511,
       "title": "Kendini parçalama",
       "category": "seyirdefteri",
