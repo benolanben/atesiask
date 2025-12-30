@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ölümü nasıl öldürebiliriz",
+      "id": 202512301124,
+      "category": "posts/seyirdefteri/202512301124"
+    },
+    {
       "text": "Açık ellerle yüzü~ne",
       "id": 202512292101,
       "category": "posts/seyirdefteri/202512292101"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/97shlydit3p92xs/bizolmeyiz.mp3"
       },
       "id": 202512281649,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1461,
-        "parca_adi": "Tevbe-şiken",
-        "seslendiren": "H. Şeceryan",
-        "url": "https://www.mediafire.com/file/rkh91pu8lp3gu59/tevbesiken_seceryan.mp3"
-      },
-      "id": 202512281441,
       "category": "kaynak/baska"
     }
   ]
