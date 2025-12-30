@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kelebek rüyâsı",
+      "id": 202512302118,
+      "category": "posts/seyirdefteri/202512302118"
+    },
+    {
       "text": "Zeng-i Siva: Aynanın Pası",
       "id": 202512301652,
       "category": "posts/seyirdefteri/202512301652"
@@ -54,11 +59,6 @@
       "text": "Mutlu Son",
       "id": 202512282239,
       "category": "posts/seyirdefteri/202512282239"
-    },
-    {
-      "text": "Kar Ses~sizliği",
-      "id": 202512282233,
-      "category": "posts/seyirdefteri/202512282233"
     }
   ]
 }
