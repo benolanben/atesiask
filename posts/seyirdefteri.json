@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202512301124,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292122-1767032543108.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "zaman",
+            "ân-ı dâim",
+            "ölüm"
+          ],
+          "title": "Ölümü nasıl öldürebiliriz",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202512292101,
       "article": {
         "header": {
