@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Virâne ol virâne",
+      "id": 202512302126,
+      "category": "posts/seyirdefteri/202512302126"
+    },
+    {
       "text": "Kelebek rüyâsı",
       "id": 202512302118,
       "category": "posts/seyirdefteri/202512302118"
@@ -54,11 +59,6 @@
       "text": "Oyun var oyun içinde",
       "id": 202512291116,
       "category": "posts/seyirdefteri/202512291116"
-    },
-    {
-      "text": "Mutlu Son",
-      "id": 202512282239,
-      "category": "posts/seyirdefteri/202512282239"
     }
   ]
 }
