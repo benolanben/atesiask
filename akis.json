@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zeng-i Siva: Aynanın Pası",
+      "id": 202512301652,
+      "category": "posts/seyirdefteri/202512301652"
+    },
+    {
       "text": {
         "sira_no": 1464,
         "parca_adi": "Gülşen-i hüsnüne",
@@ -54,11 +59,6 @@
       "text": "Kar Ses~sizliği",
       "id": 202512282233,
       "category": "posts/seyirdefteri/202512282233"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •1",
-      "id": 202512282101,
-      "category": "posts/seyirdefteri/202512282101"
     }
   ]
 }
