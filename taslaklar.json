@@ -1,6 +1,158 @@
 {
   "isaretler": [
     {
+      "id": 1767102316282,
+      "title": "Virâne ol virâne",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1767102316282,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2025-12-30T12:57:44.673Z",
+        "created_at": "2025-12-30T12:57:44.673Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Virâne ol virâne",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "Her taraftan yıkılıp vîrân olan anlar bizi...\nEvsizlerin evi viran~şehir~de değil mi?\n🔥\nBir nefes bile açmadan arayı, aşkın âteşîn ağzına yaslayalım mı şimdi kulağı...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nDîvâne şov dîvâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Bırak ey aşık hîleyi, düzeni, virâne ol virâne;",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "Pervâne şov pervâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Ateşin ta ortasına atıl, adeta gönül ocağına düş de pervane ol, pervane.\n",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nHem~hâne şov hem~hâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Hem kendine yabancı kesil, hem evini vîrâne kıl da ondan sonra gel, âşıklarla aynı evde otur, aynı evde onlarla düş kalk.\n\nKendini yâd et, evini harâb et de uç!\nSonra âşıklarla yoldaş ol; aynı evde buluş!",
+                "is_tight": false
+              },
+              {
+                "type": "metin",
+                "text": "•\nPeymâne şov peymâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Yürü, gönlünü siniler gibi yedi kere yıka kinden de sonra gel, aşk şarabına kadeh kesil, kadeh.\n\nKinlerden arın, yedi kez su gibi pâk ol,\nSonra aşk bâdesiyle dol; kadeh ol, kadeh ol!"
+              },
+              {
+                "type": "metin",
+                "text": "•\nMestâne şov mestâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Sevgiliye layık olman için tamamıyla can kesilmelisin; sarhoşların yanına gidiyorsan sarhoş ol, sarhoş.\n\nCan kesil ki cânâna layık olasın;\nMestler diyarına varsan, mestane ol, mestane ol!",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nPîşâne şov pîşâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Düşüncen nereye gidiyorsa seni de peşinden sürükler, oraya çeker; düşünceden geç de kaza ve kader gibi en ilerde yürü, en öne geç.",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nLâne şov lâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Süleyman, kuşdilini duy, öğren diyor sana, halbuki sen bir tuzaksın ki kuş senden kaçıyor, tuzak olma, aç kendini yuva ol, yuva.\n\nSüleyman’ın sözünü dinle, “kuş dili”ni işit;\nTuzak da kuş da senden kaçar; sen yuva ol, yuva ol!",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nŞâne şov şâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Güzel sana yüz gösterirse ayna gibi dol onunla; güzel sana karşı saçlarını çözer açarsa, yürü, tarak kesil, tarak.\n\nSevgili yüzünü gösterirse, ayna gibi onunla dol;\nZülfünü açsa, tarak ol; saçlarına dolan, tarak ol!",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nŞükrâne şov şükrâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Hediyelere, mallara sahip oldun da şükrane olarak aşkı verdin; malı bırak, mal şöyle dursun sen aşka can şükrâne olarak kendini ver, kendini...\n\nAşka hediye ve maldan şükranlar sundun;\nMalı bırak, kendini ada; şükran ol, şükran ol!",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nCânâne şov cânâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Bir müddet yel oldun, ateş oldun, su kesildin ve toprağa doldun; bir müddet de hayvan sıfatında kaldın, hayvanlık âleminde yeldin yorttun; mademki bir müddet de cân hâline geldin, bâri sevgiliye lâyık bir can ol, sevgiliye layık bir cânân.\n\nBir süre erkân idin, bir süre de hayvan\nBir süre can oldun; canâne ol, cânâne ol!",
+                "is_tight": true
+              },
+              {
+                "type": "metin",
+                "text": "•\nBî-çâne şov bî-çâne...",
+                "is_bold": true
+              },
+              {
+                "type": "metin",
+                "text": "Ey söz söyleme kabiliyeti, niceye bir dama çıkacak, kapıya geleceksin? Eve uç artık, dille söylemeyi bırak, vazgeç sözden, vazgeç de sus.\n\nEy nâtıka, damda ve kapıda, ne vakte dek kanat çırpar durursun evde?\nNutk-ı zebânı terk et; kendine dön; çenesiz ol, çenesiz ol\n\n~",
+                "is_tight": true
+              },
+              {
+                "type": "spoiler",
+                "text": "\nGerçi aşkınla senin deryâ gibi cûş eylerim\nMahz-ı lütfûnla lisânım gayra hamûş eylerim\n\n"
+              },
+              {
+                "type": "metin",
+                "text": "Zira sessizlik, aralarında aşk akanların konuşmasıdır ve mühim olan söylenenler değil, söylenmesi gerekmeyenlerdir.\n\n~"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2025-12-30T13:45:16.282Z",
+      "updated_at": "2025-12-30T13:51:27.748Z"
+    },
+    {
       "id": 1767033067856,
       "title": "Kelebek rüyâsı",
       "category": "seyirdefteri",
