@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Aşk kendine çevirmen",
+      "id": 202512312204,
+      "category": "posts/seyirdefteri/202512312204"
+    },
+    {
       "text": "Kendini parçalama",
       "id": 202512312158,
       "category": "posts/seyirdefteri/202512312158"
@@ -49,11 +54,6 @@
       "text": "Ayna ayna",
       "id": 202512292035,
       "category": "posts/seyirdefteri/202512292035"
-    },
-    {
-      "text": "En zorun on kolayı",
-      "id": 202512292028,
-      "category": "posts/seyirdefteri/202512292028"
     }
   ]
 }
