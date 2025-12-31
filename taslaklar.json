@@ -73,40 +73,6 @@
       },
       "created_at": "2025-12-30T18:35:14.556Z",
       "updated_at": "2025-12-30T18:39:54.888Z"
-    },
-    {
-      "id": 1767119663511,
-      "title": "Kendini parçalama",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1767119663511,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2025-12-30T18:17:32.244Z",
-        "created_at": "2025-12-30T18:17:32.244Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302134-1767119683168.jpg",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              ""
-            ],
-            "title": "Kendini parçalama",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": ""
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2025-12-30T18:34:23.511Z",
-      "updated_at": "2025-12-30T18:34:29.656Z"
     }
   ]
 }
