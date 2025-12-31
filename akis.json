@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zihin dalgası",
+      "id": 202512312155,
+      "category": "posts/seyirdefteri/202512312155"
+    },
+    {
       "text": "Virâne ol virâne",
       "id": 202512302126,
       "category": "posts/seyirdefteri/202512302126"
@@ -54,11 +59,6 @@
       },
       "id": 202512291207,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Oyun var oyun içinde",
-      "id": 202512291116,
-      "category": "posts/seyirdefteri/202512291116"
     }
   ]
 }
