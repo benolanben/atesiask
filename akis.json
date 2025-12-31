@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kendini parçalama",
+      "id": 202512312158,
+      "category": "posts/seyirdefteri/202512312158"
+    },
+    {
       "text": "Zihin dalgası",
       "id": 202512312155,
       "category": "posts/seyirdefteri/202512312155"
@@ -49,16 +54,6 @@
       "text": "En zorun on kolayı",
       "id": 202512292028,
       "category": "posts/seyirdefteri/202512292028"
-    },
-    {
-      "text": {
-        "sira_no": 1463,
-        "parca_adi": "Deneyim",
-        "seslendiren": "M. Simone",
-        "url": "https://www.mediafire.com/file/26jvrqjg2jur8wu/experience.mp3"
-      },
-      "id": 202512291207,
-      "category": "kaynak/baska"
     }
   ]
 }
