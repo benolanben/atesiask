@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1465,
+        "parca_adi": "Rast Kârçe",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/4bdrwvm6r0mfc6u/karce.mp3"
+      },
+      "id": 202601011753,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Kendini gerçekleştiren döngü",
       "id": 202512312208,
       "category": "posts/seyirdefteri/202512312208"
@@ -49,11 +59,6 @@
       "text": "Ölümü nasıl öldürebiliriz",
       "id": 202512301124,
       "category": "posts/seyirdefteri/202512301124"
-    },
-    {
-      "text": "Açık ellerle yüzü~ne",
-      "id": 202512292101,
-      "category": "posts/seyirdefteri/202512292101"
     }
   ]
 }
