@@ -3,7 +3,7 @@
     {
       "id": 1767300539196,
       "title": "Boya küpü",
-      "category": "seyirzevki",
+      "category": "seyirdefteri",
       "content": {
         "id": 1767300539196,
         "title": "Yeni Taslak",
@@ -12,7 +12,7 @@
         "created_at": "2026-01-01T20:48:50.271Z",
         "article": {
           "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601012416-1767302199411.mp4",
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601012416-1767302199411.mp4",
             "date_value": "",
             "mini_title": "",
             "tags": [
