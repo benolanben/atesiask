@@ -2,7 +2,7 @@
   "id": 202403262041,
   "article": {
     "header": {
-      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/kuslara_serbest2.jpg",
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/hazirolanlahasbihal/kuslara_serbest2.jpg",
       "date_value": "2021.10.01'den",
       "mini_title": "agah olasın",
       "tags": [
@@ -19,7 +19,7 @@
         },
         {
           "type": "ses",
-          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/hasbihal/kus_sesi.mp3"
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/hazirolanlahasbihal/kus_sesi.mp3"
         },
         {
           "type": "metin",
