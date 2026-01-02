@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ters~yüz",
+      "id": 202601021625,
+      "category": "posts/seyirdefteri/202601021625"
+    },
+    {
       "text": "Boya küpü",
       "id": 202601021500,
       "category": "posts/seyirdefteri/202601021500"
@@ -49,16 +54,6 @@
       "text": "Zeng-i Siva: Aynanın Pası",
       "id": 202512301652,
       "category": "posts/seyirdefteri/202512301652"
-    },
-    {
-      "text": {
-        "sira_no": 1464,
-        "parca_adi": "Gülşen-i hüsnüne",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/7u8muv7ug03neqn/gulseninhusn.mp3"
-      },
-      "id": 202512301428,
-      "category": "kaynak/baska"
     }
   ]
 }
