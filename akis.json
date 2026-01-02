@@ -11,6 +11,16 @@
       "category": "posts/seyirdefteri/202601022132"
     },
     {
+      "text": {
+        "sira_no": 1465,
+        "parca_adi": "Rast Kârçe",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/4bdrwvm6r0mfc6u/karce.mp3"
+      },
+      "id": 202601011753,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Örtünen kim",
       "id": 202601022125,
       "category": "posts/seyirdefteri/202601022125"
@@ -25,16 +35,7 @@
       "id": 202601021500,
       "category": "posts/seyirdefteri/202601021500"
     },
-    {
-      "text": {
-        "sira_no": 1465,
-        "parca_adi": "Rast Kârçe",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/4bdrwvm6r0mfc6u/karce.mp3"
-      },
-      "id": 202601011753,
-      "category": "kaynak/baska"
-    },
+    
     {
       "text": "Kendini gerçekleştiren döngü",
       "id": 202512312208,
