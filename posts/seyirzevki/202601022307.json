@@ -1,0 +1,35 @@
+{
+  "id": 202601022307,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-02T18:13:05.686Z",
+  "created_at": "2026-01-02T18:13:05.686Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601022307-1767384424015.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "İstanbul Ansiklopedisi",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">O eski devirlerde ateşle muharebede kullanıldığı söylenir. <br><br>Doğrudur. Kullanıldı.<br><br>Savaşlarda ve savunmalarda kullanıldı benliğim.<br>Kendim komutan, kendim er, kendim olmuş muharebe.<br></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>~ ~ ~</strong><br><strong>~ ~ </strong><br><strong>~ </strong></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><strong>cenge, ispata, korkuya, koşuşa değil. <br><br>Işıl ışıl bir arayışla ben;<br><br>ancak keşfe ve şehadete geldim..</strong><br></p>"
+        }
+      ]
+    }
+  }
+}
