@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Boya küpü",
+      "id": 202601021500,
+      "category": "posts/seyirdefteri/202601021500"
+    },
+    {
       "text": {
         "sira_no": 1465,
         "parca_adi": "Rast Kârçe",
@@ -54,11 +59,6 @@
       },
       "id": 202512301428,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Ölümü nasıl öldürebiliriz",
-      "id": 202512301124,
-      "category": "posts/seyirdefteri/202512301124"
     }
   ]
 }
