@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Korkma yalnız değilsin",
+      "id": 202601022144,
+      "category": "posts/seyirdefteri/202601022144"
+    },
+    {
       "text": "Bilir bilmez olunca",
       "id": 202601022132,
       "category": "posts/seyirdefteri/202601022132"
@@ -49,11 +54,6 @@
       "text": "Zihin dalgası",
       "id": 202512312155,
       "category": "posts/seyirdefteri/202512312155"
-    },
-    {
-      "text": "Virâne ol virâne",
-      "id": 202512302126,
-      "category": "posts/seyirdefteri/202512302126"
     }
   ]
 }
