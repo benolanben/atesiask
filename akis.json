@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Örtünen kim",
+      "id": 202601022125,
+      "category": "posts/seyirdefteri/202601022125"
+    },
+    {
       "text": "Ters~yüz",
       "id": 202601021625,
       "category": "posts/seyirdefteri/202601021625"
@@ -49,11 +54,6 @@
       "text": "Kelebek rüyâsı",
       "id": 202512302118,
       "category": "posts/seyirdefteri/202512302118"
-    },
-    {
-      "text": "Zeng-i Siva: Aynanın Pası",
-      "id": 202512301652,
-      "category": "posts/seyirdefteri/202512301652"
     }
   ]
 }
