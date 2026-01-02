@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bilir bilmez olunca",
+      "id": 202601022132,
+      "category": "posts/seyirdefteri/202601022132"
+    },
+    {
       "text": "Örtünen kim",
       "id": 202601022125,
       "category": "posts/seyirdefteri/202601022125"
@@ -49,11 +54,6 @@
       "text": "Virâne ol virâne",
       "id": 202512302126,
       "category": "posts/seyirdefteri/202512302126"
-    },
-    {
-      "text": "Kelebek rüyâsı",
-      "id": 202512302118,
-      "category": "posts/seyirdefteri/202512302118"
     }
   ]
 }
