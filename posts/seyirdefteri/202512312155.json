@@ -19,26 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\n\nZihin düşünce demektir\nVe her bir düşüncenin iki ucu vardır:"
-        },
-        {
-          "type": "metin",
-          "text": "Başlang~uç ve son~uç",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "🌊\nİlkin düşünce görünür\nKendini diğer düşüncelere bağlar\n\nYani bağ üstüne bağ kurar\nİçinden attığı ağı örer ha örer\n\nÖyle ki bir şeyi ve bazen her şeyi bildim sanır\nSonra titreyerek söner ve o nev'i düşünce kaybolur\n\nZihin 'aynen böyle işler işte...\n\nBir dalga gibi kabarır, köpürür ve kendini deniz sanır.\n\nOysa dalganın kendisi de hareketsiz, hep duran bir şeyin içinde, varlık zemininde belirir ve dalga iki ucundan tutulabilir!\n\nSen olduğun şeyi kim tutar!\nDurduğu yerden, sahilden hiç ayrılmış değil ki..."
-        },
-        {
-          "type": "metin",
-          "text": "Peki bir ömür dolaştığın dünya kadar yer, bütün o gidip gelmeler mi?\nRüyadan filminden dönünce, yatağının hiç soğumadığını görmen içindi...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hayâl içre hayâl..."
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Zihin düşünce demektir<br>Ve her bir düşüncenin iki ucu vardır:<br><strong>Başlang~uç ve son~uç</strong></p><p class=\"mb-4\">🌊<br>İlkin düşünce görünür<br>Kendini diğer düşüncelere bağlar</p><p class=\"mb-4\">Yani bağ üstüne bağ kurar<br>İçinden attığı ağı örer ha örer</p><p class=\"mb-4\">Öyle ki bir şeyi ve bazen her şeyi bildim sanır<br>Sonra titreyerek söner ve o nev'i düşünce kaybolur</p><p class=\"mb-4\">Zihin 'aynen böyle işler işte...</p><p class=\"mb-4\">Bir dalga gibi kabarır, köpürür ve kendini deniz sanır.</p><p class=\"mb-4\">Oysa dalganın kendisi de hareketsiz, hep duran bir şeyin içinde, varlık zemininde belirir ve dalga iki ucundan tutulabilir!</p><p class=\"mb-4\">Sen olduğun şeyi kim tutar!<br>Durduğu yerden, sahilden hiç ayrılmış değil ki...</p><p class=\"mb-4\"><strong>Peki bir ömür dolaştığın dünya kadar yer, bütün o gidip gelmeler mi?<br>Rüyadan filminden dönünce, yatağının hiç soğumadığını görmen içindi...</strong></p><p class=\"mb-4\">Hayâl içre hayâl...</p>"
         },
         {
           "type": "alinti",
@@ -47,12 +28,7 @@
         },
         {
           "type": "metin",
-          "text": "Var olan tek gerçek yolculuk;\nHiçbir yere gitmemiş olmaktı.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hiç kıpırdamadan, bütün evreni içinde taşıdığın o noktada kalmak, oradan b~akmaktı...\n\nHeyhat kimseler bunu durduğu yerde anlayamazdı...\n\nBütün arayışlar, en nihayetinde, aramaya başladığın yere dönüşle son bulur.\nVe o yer, zâten hiç terkedilmemişti.\n\nŞimdi bu cümlenin ardından gelen sessizlik yok mu?\n\n...\n\nBak işte burdasın."
+          "text": "<p class=\"mb-4\"><strong>Var olan tek gerçek yolculuk;<br>Hiçbir yere gitmemiş olmaktı.</strong></p><p class=\"mb-4\">Hiç kıpırdamadan, bütün evreni içinde taşıdığın o noktada kalmak, oradan b~akmaktı...</p><p class=\"mb-4\">Heyhat kimseler bunu durduğu yerde anlayamazdı...</p><p class=\"mb-4\">Bütün arayışlar, en nihayetinde, aramaya başladığın yere dönüşle son bulur.<br>Ve o yer, zâten hiç terkedilmemişti.</p><p class=\"mb-4\">Şimdi bu cümlenin ardından gelen sessizlik yok mu?</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Bak işte burdasın.</p>"
         },
         {
           "type": "spoiler",
@@ -66,7 +42,7 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
