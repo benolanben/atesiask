@@ -19,75 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Safâ-yı sîneme zulmet veren zeng-i mirâtımdır ❞"
-        },
-        {
-          "type": "metin",
-          "text": "Berrak aynada tek bir toz zerresi...\nVe yine de yakından baktığımızda\nHer şeyden önce onu görüyoruz;\nİnsanlar öyle sanıyor...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Cenâb-ı Pîr'in gül-bağçesinden, canlılık fışkıran bir ırmaktan diri sözler duyuldu."
-        },
-        {
-          "type": "metin",
-          "text": "ZİNDEGÂNÎ:\nDirilik, canlılık, hayâtiyet, yaşayış",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Reng-i yâre eyle nazar cânâ\nOrada tek var reng-i zindegânî\nKi yüzüne konmaya cânâ\nZinhâr neng-i zindegânî\n\nVarlığın Sevinci olan sevgilinin rengine bak da hayat rengini bulasın. Yüzüne hayatın utancı, arı konmasın ey can!"
-        },
-        {
-          "type": "metin",
-          "text": "•\nEy yaşayışın ayıbı, utancı,\nSevgilinin rengine bir bak da senin yüzüne de yaşayış rengi gelip konsun.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nHer zerre koşar durur\nTâ ki ölmez hayat bulur\nSende bir zerre bile\nBulunmaz mı âheng-i zindegânî\n\nHer zerre hayat bulmak için koşuşturur. Sense hayatın nağmesinden bir zerre bile taşımıyorsun oysa...\n"
-        },
-        {
-          "type": "metin",
-          "text": "•\nHer zerre hayat bulmak için koşmada, sende zerre kadar yaşama isteği yok mu ya?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nEğer olsa idi hayatın, misâl-i taştan\nNice hoş çeşme aktı ez-seng-i zindegânî\n\nEğer taş misali bir hayatın olsaydı, hayat taşından bile hoş çeşmeler çağlardı."
-        },
-        {
-          "type": "metin",
-          "text": "•\nYaşayışın, bir taş olsaydı meseli, o yaşayış taşından gene de güzelim kaynaklar fışkırır, ırmaklar akardı.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nGördüm aynada bir\nNakş-ı hayâl-i fânî\nDedim: \"Nesin sen?\"\nDedi: Zeng-i zindegânî\n\nAynada \"kendi geçmiş, aksi kalmış\" bir hayâlî resim görünce sordum: \"Sen nesin?\" Dedi: \"Ben hayatın pasıyım.\""
-        },
-        {
-          "type": "metin",
-          "text": "•\nAynada geçip gidici bir hayal gördüm de \"sen nesin?\" diye sordum; cevap verdi de dedi ki: \"Ben yaşayışın pasıyım.\"",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nEnder hayat-ı bâkî\nBir bir yaşananları belki\nBâki kalanlar kimler peki\nDil-teng-i zindegânî\n\nGerçek kalıcı hayatın yani âhiretin içinde bulursun yaşayanları. Burdan kalmış olanlar kimler mi peki? Hayatı dar~alan dertliler."
-        },
-        {
-          "type": "metin",
-          "text": "•\nYaşayanları ebedî hayatta bulursun sen, kimdir burada kalan yaşayanlar? Bu yaşayış âleminde gönülleri dar~alanlar.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nOnlar ki oldular ehl-i sulh\nOradaki yaşayışa geçtiler\nBurada nâkıslar kaldılar\nDer ceng-i zindegânî\n\nBarıştan yana olanlar böylesi hayattan çekti gitti. Bu eksik akıllılar ise hayat savaşında mahsur kaldılar."
-        },
-        {
-          "type": "metin",
-          "text": "•\nBarış ehli olanlar dar~yaşayıştan geçtiler, vazgeçtiler bu hayattan; şu adam olmayanlardır, yaşayış savaşında, hayat kavgasında kalanlar.",
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><em>Safâ-yı sîneme zulmet veren zeng-i mirâtımdır ❞<br><br></em><strong>Berrak aynada tek bir toz zerresi...<br>Ve yine de yakından baktığımızda<br>Her şeyden önce onu görüyoruz;<br>İnsanlar öyle sanıyor...<br></strong><br>Cenâb-ı Pîr'in gül-bağçesinden, canlılık fışkıran bir ırmaktan diri sözler duyuldu.<br><br><strong>ZİNDEGÂNÎ:<br>Dirilik, canlılık, hayâtiyet, yaşayış<br></strong><br>Reng-i yâre eyle nazar cânâ<br>Orada tek var reng-i zindegânî<br>Ki yüzüne konmaya cânâ<br>Zinhâr neng-i zindegânî</p><p class=\"mb-4\"><em>Varlığın Sevinci olan sevgilinin rengine bak da hayat rengini bulasın. Yüzüne hayatın utancı, arı konmasın ey can!</em></p><p class=\"mb-4\"><strong>•<br>Ey yaşayışın ayıbı, utancı,<br>Sevgilinin rengine bir bak da senin yüzüne de yaşayış rengi gelip konsun.</strong></p><p class=\"mb-4\">~<br><br>Her zerre koşar durur<br>Tâ ki ölmez hayat bulur<br>Sende bir zerre bile<br>Bulunmaz mı âheng-i zindegânî</p><p class=\"mb-4\"><em>Her zerre hayat bulmak için koşuşturur. Sense hayatın nağmesinden bir zerre bile taşımıyorsun oysa...<br></em><br><strong>•</strong><br><strong>Her zerre hayat bulmak için koşmada, sende zerre kadar yaşama isteği yok mu ya?<br><br>~</strong></p><p class=\"mb-4\">Eğer olsa idi hayatın, misâl-i taştan<br>Nice hoş çeşme aktı ez-seng-i zindegânî</p><p class=\"mb-4\"><em>Eğer taş misali bir hayatın olsaydı, hayat taşından bile hoş çeşmeler çağlardı.</em></p><p class=\"mb-4\"><strong>•<br>Yaşayışın, bir taş olsaydı meseli, o yaşayış taşından gene de güzelim kaynaklar fışkırır, ırmaklar akardı.</strong></p><p class=\"mb-4\">~<br><br>Gördüm aynada bir<br>Nakş-ı hayâl-i fânî<br>Dedim: \"Nesin sen?\"<br>Dedi: Zeng-i zindegânî</p><p class=\"mb-4\"><em>Aynada \"kendi geçmiş, aksi kalmış\" bir hayâlî resim görünce sordum: \"Sen nesin?\" Dedi: \"Ben hayatın pasıyım.\"</em></p><p class=\"mb-4\"><strong>•<br>Aynada geçip gidici bir hayal gördüm de \"sen nesin?\" diye sordum; cevap verdi de dedi ki: \"Ben yaşayışın pasıyım.\"</strong></p><p class=\"mb-4\">~<br><br>Ender hayat-ı bâkî<br>Bir bir yaşananları belki<br>Bâki kalanlar kimler peki<br>Dil-teng-i zindegânî</p><p class=\"mb-4\"><em>Gerçek kalıcı hayatın yani âhiretin içinde bulursun yaşayanları. Burdan kalmış olanlar kimler mi peki? Hayatı dar~alan dertliler.</em></p><p class=\"mb-4\"><strong>•<br>Yaşayanları ebedî hayatta bulursun sen, kimdir burada kalan yaşayanlar? Bu yaşayış âleminde gönülleri dar~alanlar.</strong></p><p class=\"mb-4\">~<br><br>Onlar ki oldular ehl-i sulh<br>Oradaki yaşayışa geçtiler<br>Burada nâkıslar kaldılar<br>Der ceng-i zindegânî<br><br><em>Barıştan yana olanlar böylesi hayattan çekti gitti. Bu eksik akıllılar ise hayat savaşında mahsur kaldılar.</em></p><p class=\"mb-4\"><strong>•<br>Barış ehli olanlar dar~yaşayıştan geçtiler, vazgeçtiler bu hayattan; şu adam olmayanlardır, yaşayış savaşında, hayat kavgasında kalanlar</strong>.</p>"
         },
         {
           "type": "spoiler",
@@ -101,7 +33,7 @@
         },
         {
           "type": "metin",
-          "text": "Aynayı boş tutmak için, geçmişi geçmişte bırakın, yoksa geleceğiniz geçmiş olur...\n\n~"
+          "text": "<p class=\"mb-4\">Aynayı boş tutmak için, geçmişi geçmişte bırakın, yoksa geleceğiniz geçmiş olur... ~</p>"
         }
       ]
     }
