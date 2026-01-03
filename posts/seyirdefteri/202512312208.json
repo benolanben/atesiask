@@ -19,54 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Uyku, kardeşidir ölümün\n(Çünkü hayat ve rüya aynı annenin karnında)\nEvlerin en zayıfıdır, örümcek-evi\n(Kendi içinden çıkarır ve üzerinde dolaşmaya mahkûm olur)",
-          "author": "tsetest",
-          "is_italic": true,
-          "is_bold": true,
-          "is_colored": false
-        },
-        {
-          "type": "metin",
-          "text": "Varlığın Sevinci'nden bu işâretler okundukça açılanlar açıldı...\n\nNasıl mı?\n\n'Bu' hayatı çok acı verici görürsen, bu acı hissi, kendiliğinden katılaşıp gerçeklik kazanıverir.\nAslında acı verici bir hayat yoktur; zaten 'hayat' süren nesneler kimseler de yoktur.\n\nAma zihnin bu tür varsayımlara olan ciddi bağlılığı, onu cidden çok gerçek hissettirir.\n\nHatta sözde 'gerçeklik' hissi bile, zihnin bir yansıtmasıdır; tıpkı bir rüyada gördüğün ve hissettiğin her şey gibi maddesizdir, kimsesizdir...\n\nÇokları, gerçekliğin kanıtı olarak 'gerçek hissetmeye' bel bağlar."
-        },
-        {
-          "type": "metin",
-          "text": "Dün geceki rüyanda geçen her şey, bir şekilde hayli gerçek hissettirdi, değil mi?",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hissedilene de o kadar ciddiyet verme zira zihin sandığından çok daha kurnazdır.\n\nNasıl mı?\n\n… Bu, tıpkı rüyanda bir araba kullanırken, aynı anda yatağında uyuduğunu da \"hatırlaman\" gibi bir şey; direksiyonu sıkıca tutarsın, virajları bir güzel alırsın hatta belki radyoda bir şarkı mırıldanırsın...\n\nAma o arabanın lastikleri asfalt değil, beyninin karanlık, ıslak labirentlerinde dönüyordur.\n\nVe tam bu labirentlerde kaybolacağını sandığın an, bir anlığına, belki de bir kavşakta beklerken, için derinlerden bir kahkaha yükseliverir:\n"
-        },
-        {
-          "type": "metin",
-          "text": "\"Amma da ciddi meseleler bunlar, birâder!\"",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Peki burada kim kimi nereye götürüyor?"
-        },
-        {
-          "type": "metin",
-          "text": "Bir rüyayı, rüyasız derin uykudan izlemek neye benziyor?",
-          "is_bold": true,
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "••\n••\n•\n\nYazı burda bitti...\n\nŞimdi, ekrana bakıyorsun.\nHarfleri birbirine bağlayarak okuyorsun değil mi?\n\nVe onları anlamlandıran bir 'ben' var gibi.\n\nAma bir an dur.\n\nOkuyan kim?\n\nDur hemen cevap verme.\nCevap veren de zihin olurdu.\n\nSadece bir bak.\nBoş bulunduğun o 'bakış'ın kendisi, işte O.\n\nGerisi, zihnin kendi kendine fısıldadığı, sonra kendi kendine inandığı, sonra kendi kendine ağlayıp güldüğü çok komik, çok hüzünlü, çok muhteşem bir masal.\n\nRüya masalını bırakma, hoş, sen onu bıraksan, o seni...\n\nSâdece masalı anlatanın, sen olduğunu unutma.\n\nVe unut ki...\nUnutmak da senin hikayenin bir parçası olsun."
-        },
-        {
-          "type": "metin",
-          "text": "Hatırlamaya bahânen olsun a güzel!",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\"><strong>Uyku, kardeşidir ölümün<br><em>(Çünkü hayat ve rüya aynı annenin karnında)</em></strong></p><p class=\"mb-4\"><strong>Evlerin en zayıfıdır, örümcek-evi<br><em>(Kendi içinden çıkarır ve üzerinde dolaşmaya mahkûm olur)</em></strong></p><p class=\"mb-4\">Varlığın Sevinci'nden bu işâretler okundukça açılanlar açıldı...<br><br>Nasıl mı?</p><p class=\"mb-4\">'Bu' hayatı çok acı verici görürsen, bu acı hissi, kendiliğinden katılaşıp gerçeklik kazanıverir.<br>Aslında acı verici bir hayat yoktur; zaten 'hayat' süren nesneler kimseler de yoktur.</p><p class=\"mb-4\">Ama zihnin bu tür varsayımlara olan ciddi bağlılığı, onu cidden çok gerçek hissettirir.</p><p class=\"mb-4\">Hatta sözde 'gerçeklik' hissi bile, zihnin bir yansıtmasıdır; tıpkı bir rüyada gördüğün ve hissettiğin her şey gibi maddesizdir, kimsesizdir...<br><br>Çokları, gerçekliğin kanıtı olarak 'gerçek hissetmeye' bel bağlar.<br><strong>Dün geceki rüyanda geçen her şey, bir şekilde hayli gerçek hissettirdi, değil mi?</strong></p><p class=\"mb-4\">Hissedilene de o kadar ciddiyet verme zira zihin sandığından çok daha kurnazdır.<br><br>Nasıl mı?</p><p class=\"mb-4\">… Bu, tıpkı rüyanda bir araba kullanırken, aynı anda yatağında uyuduğunu da \"hatırlaman\" gibi bir şey; direksiyonu sıkıca tutarsın, virajları bir güzel alırsın hatta belki radyoda bir şarkı mırıldanırsın...</p><p class=\"mb-4\">Ama o arabanın lastikleri asfalt değil, beyninin karanlık, ıslak labirentlerinde dönüyordur.</p><p class=\"mb-4\">Ve tam bu labirentlerde kaybolacağını sandığın an, bir anlığına, belki de bir kavşakta beklerken, için derinlerden bir kahkaha yükseliverir:<br><strong>\"Amma da ciddi meseleler bunlar, birâder!\"</strong></p><p class=\"mb-4\">Peki burada kim kimi nereye götürüyor?<br><strong>Bir rüyayı, rüyasız derin uykudan izlemek neye benziyor?</strong></p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Yazı burda bitti...</p><p class=\"mb-4\">Şimdi, ekrana bakıyorsun.<br>Harfleri birbirine bağlayarak okuyorsun değil mi?</p><p class=\"mb-4\">Ve onları anlamlandıran bir 'ben' var gibi.</p><p class=\"mb-4\">Ama bir an dur.</p><p class=\"mb-4\">Okuyan kim?</p><p class=\"mb-4\">Dur hemen cevap verme.<br>Cevap veren de zihin olurdu.</p><p class=\"mb-4\">Sadece bir bak.<br>Boş bulunduğun o 'bakış'ın kendisi, işte O.</p><p class=\"mb-4\">Gerisi, zihnin kendi kendine fısıldadığı, sonra kendi kendine inandığı, sonra kendi kendine ağlayıp güldüğü çok komik, çok hüzünlü, çok muhteşem bir masal.</p><p class=\"mb-4\">Rüya masalını bırakma, hoş, sen onu bıraksan, o seni...</p><p class=\"mb-4\">Sâdece masalı anlatanın, sen olduğunu unutma.</p><p class=\"mb-4\">Ve unut ki...<br>Unutmak da senin hikayenin bir parçası olsun.</p><p class=\"mb-4\"><strong>Hatırlamaya bahânen olsun a güzel!<br></strong><br>~</p>"
         },
         {
           "type": "alinti",
