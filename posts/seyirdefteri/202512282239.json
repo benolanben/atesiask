@@ -19,7 +19,7 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Sonlu bir oyun kazanmak amacıyla oynanır, sonsuz bir oyun ise sâdece oyunu sürdürmek için... Evet, hayat devâm ediyor...\n",
+          "text": "<p class=\"mb-4\">Sonlu bir oyun kazanmak amacıyla oynanır, sonsuz bir oyun ise sâdece oyunu sürdürmek için... Evet, hayat devâm ediyor...</p>",
           "author": "[J. P. Carse'den]"
         },
         {
@@ -29,16 +29,7 @@
         },
         {
           "type": "metin",
-          "text": "\"Mutlu Son\" arama zamanda;\nO-Bir-sonu olmayan mutlu anda!"
-        },
-        {
-          "type": "metin",
-          "text": "- Yani, mutlu bir son arayışı bir şartlanma mı?\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Mutlu bir son arayan her neyse, bir başlangıcı olduğunu var~sayıyor demektir.\n\nYani kendine, \"mutlu son\" dileyen her şey, önce kendini bir başlangıçla vâr eder:\n\nZamana düşer...\nBedeniyle, doğum tarihiyle ve uzun hikâyesiyle...\n\nKendinin hep var olduğunu hayal etsen bile,\nO nev'i varlığından şüphe edersin.\n\nVe derhal bir başlangıç ararsın\nÇünkü korkuyla iki ucundan tutup kavrayarak kendini iyiden iyiye kontrol edebilmek istersin.\n\nİşte o anda bir şey oluverirsin, başlangıcı olan bir şey...\n\nBedenin bir başlangıcı, bir görülme tarihi vardır değil mi?"
+          "text": "<p class=\"mb-4\">\"Mutlu Son\" arama zamanda;<br>O-Bir-sonu olmayan mutlu anda!</p><p class=\"mb-4\"><strong>- Yani, mutlu bir son arayışı bir şartlanma mı?</strong></p><p class=\"mb-4\">Mutlu bir son arayan her neyse, bir başlangıcı olduğunu var~sayıyor demektir.</p><p class=\"mb-4\">Yani kendine, \"mutlu son\" dileyen her şey, önce kendini bir başlangıçla vâr eder:</p><p class=\"mb-4\">Zamana düşer...<br>Bedeniyle, doğum tarihiyle ve uzun hikâyesiyle...</p><p class=\"mb-4\">Kendinin hep var olduğunu hayal etsen bile,<br>O nev'i varlığından şüphe edersin.</p><p class=\"mb-4\">Ve derhal bir başlangıç ararsın<br>Çünkü korkuyla iki ucundan tutup kavrayarak kendini iyiden iyiye kontrol edebilmek istersin.</p><p class=\"mb-4\">İşte o anda bir şey oluverirsin, başlangıcı olan bir şey...</p><p class=\"mb-4\">Bedenin bir başlangıcı, bir görülme tarihi vardır değil mi?</p>"
         },
         {
           "type": "spoiler",
@@ -46,27 +37,7 @@
         },
         {
           "type": "metin",
-          "text": "Ruh ise öyle mi?\n\nBir bedende merkezlendiğini, girip çıktığını kim görmüş?\n\nAslı olan şeylerin iki ucu yok işte...\n\nBaşlang~uç yok\nSon~uç yok\nBundan bir çıkış yok.\n\n~\n\nMutlu sonu göremeyince şöyle bir iç çektin sanki..."
-        },
-        {
-          "type": "metin",
-          "text": "Ölmezden evvel ölmediğin için can çekişmen uzayıp gitti.\n",
-          "is_tight": true,
-          "is_bold": true,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
-        },
-        {
-          "type": "metin",
-          "text": "Bir düşünce doğmadan evvel\nUyumayan bir berraklık vardır\nKendini ona bırakasın;\nSen rüyasına değil...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">Ruh ise öyle mi?</p><p class=\"mb-4\">Bir bedende merkezlendiğini, girip çıktığını kim görmüş?</p><p class=\"mb-4\">Aslı olan şeylerin iki ucu yok işte...<br><br>Başlang~uç yok<br>Son~uç yok<br>Bundan bir çıkış yok.</p><p class=\"mb-4\">~<s><br><br></s>Mutlu sonu göremeyince şöyle bir iç çektin sanki...<s><br></s><strong><s>Ölmezden evvel ölmediğin için can çekişmen uzayıp gitti.<br></s></strong><s><br></s>~<br><s><br></s><strong>Bir düşünce doğmadan evvel<br>Uyumayan bir berraklık vardır<br>Kendini ona bırakasın;<br>Sen rüyasına değil...<s><br></s></strong><s><br></s>~</p>"
         },
         {
           "type": "alinti",
@@ -75,9 +46,10 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-03T20:58:21.075Z"
 }
