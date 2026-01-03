@@ -40,12 +40,7 @@
         },
         {
           "type": "metin",
-          "text": "Allah, insana, insandan tecellî edip durur...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Ve söz bülbülü konacak gül kulağı tanır elbet.\n\nKulaklarının arasındaki kirli bulaşık suyunu dök de bir bak\nAçık olana açıkça tut kulak; doğrudan doğruya bak...\n\nHazır olanlar, bu canlı söyleşinin ilk kaydına şimdi buyursunlar bir bir..."
+          "text": "<p class=\"mb-4\"><strong>Allah, insana, insandan tecellî edip durur...</strong><br><br>Ve söz bülbülü konacak gül kulağı tanır elbet.</p><p class=\"mb-4\">Kulaklarının arasındaki kirli bulaşık suyunu dök de bir bak<br>Açık olana açıkça tut kulak; doğrudan doğruya bak...<br><br>Hazır olanlar, bu canlı söyleşinin ilk kaydına şimdi buyursunlar bir bir...</p>"
         },
         {
           "type": "ses",
@@ -55,15 +50,15 @@
         },
         {
           "type": "metin",
-          "text": "İşte Sabrî dilinden canlı bir nefes:"
+          "text": "<p class=\"mb-4\">İşte Sabrî dilinden canlı bir nefes:</p>"
         },
         {
           "type": "spoiler",
-          "text": "\nÂyâ duydun mu sen rindân-ı Hudâ'nın efgânını\nAnladın mı hem nedir \"Nây-ı Mevlânâ\" esrârını\n\nBildin mi kimdir söyleyen \"İnni enallah\" sırrını\nSezdin mi sen hem nedir \"men 'aref\" irfânını\n\nGeçtin mi gönül hubb-u sivâdan bu aşk ile\nTuttun mu acep uşşâk-ı Hudâ'nın râhını\n\nSırr-ı meclâ hem nedir sırr-ı mahbûb-u Hudâ\nSemi gûş ittin mi sen \"Lâ fetâ\" fermânını\n\nAldın mı haberi semt-i Leylâ'dan bugün\nTerk-i cân ittin de buldun mu Mecnûn hâlini\n\nSorma uşşâka sakın kayd-ı imkân erkânını\nLâ ve illâ'dan geçip bulmuş anlar cânını\n\nGâfil olma râh-ı aşka gel hemân vir cânını\nCâm-ı aşkı nûş idüp bul ehl-i aşk sekrânını\n\nBiz \"Ene'l Hak\" dârının Mansûr'u olduk bî-gümân\nBaşı canı terk idüp geydik aşk ihrâmını\n\nKa'be-i ruhsâr-ı dildâr-ı kıldık çün tavaf\nVech-i yâre düş olup bulduk aşk mihrâbını\n\n\"Semme vechullâh\"ı bildik tâ ezelden zâhidâ\nMinber-i insana çıktık ittik aşk ilânını\n\nŞân-ı \"Levlâk\" kenz-i aşkdır bil Sabrîyâ\nZâhid-i hodbîn ne bilsin ehl-i aşkın kânını;"
+          "text": "<p class=\"mb-4\"><strong><br>Âyâ duydun mu sen rindân-ı Hudâ'nın efgânını<br>Anladın mı hem nedir \"Nây-ı Mevlânâ\" esrârını</strong></p><p class=\"mb-4\">Bildin mi kimdir söyleyen \"İnni enallah\" sırrını<br>Sezdin mi sen hem nedir \"men 'aref\" irfânını</p><p class=\"mb-4\"><strong>Geçtin mi gönül hubb-u sivâdan bu aşk ile<br>Tuttun mu acep uşşâk-ı Hudâ'nın râhını</strong></p><p class=\"mb-4\">Sırr-ı meclâ hem nedir sırr-ı mahbûb-u Hudâ<br>Semi gûş ittin mi sen \"Lâ fetâ\" fermânını</p><p class=\"mb-4\"><strong>Aldın mı haberi semt-i Leylâ'dan bugün<br>Terk-i cân ittin de buldun mu Mecnûn hâlini</strong></p><p class=\"mb-4\">Sorma uşşâka sakın kayd-ı imkân erkânını<br>Lâ ve illâ'dan geçip bulmuş anlar cânını</p><p class=\"mb-4\"><strong>Gâfil olma râh-ı aşka gel hemân vir cânını<br>Câm-ı aşkı nûş idüp bul ehl-i aşk sekrânını</strong></p><p class=\"mb-4\">Biz \"Ene'l Hak\" dârının Mansûr'u olduk bî-gümân<br>Başı canı terk idüp geydik aşk ihrâmını</p><p class=\"mb-4\"><strong>Ka'be-i ruhsâr-ı dildâr-ı kıldık çün tavaf<br>Vech-i yâre düş olup bulduk aşk mihrâbını</strong></p><p class=\"mb-4\">\"Semme vechullâh\"ı bildik tâ ezelden zâhidâ<br>Minber-i insana çıktık ittik aşk ilânını</p><p class=\"mb-4\"><strong>Şân-ı \"Levlâk\" kenz-i aşkdır bil Sabrîyâ<br>Zâhid-i hodbîn ne bilsin ehl-i aşkın kânını;</strong></p>"
         },
         {
           "type": "metin",
-          "text": "\nBu nutk-ı şerîfin izâhı için \"elfakrufahri\" zikriyle böyle buyursunlar;\n\n"
+          "text": "<p class=\"mb-4\">Bu nutk-ı şerîfin izâhı için \"elfakrufahri\" zikriyle böyle buyursunlar;</p>"
         },
         {
           "type": "dis_baglanti",
@@ -72,7 +67,7 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
