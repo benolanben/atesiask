@@ -24,40 +24,7 @@
         },
         {
           "type": "metin",
-          "text": "Hamd u senâlar, hamd u senâlar\nYâr ile bayram kıldı bu gönlüm❞\n\nElhamdulillah\nElhamdulillah\nElhamdulillah",
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "Şükran-ı nimet ile dolmak\nBir şey için değil\nBirine değil\nHak elhamdulillah\n\nHiçbir şeyin ayrı olmadığını görmek demek..."
-        },
-        {
-          "type": "metin",
-          "text": "Hamd etmek değil H~M~D olmak\nBir cebinden aldığını diğer cebine koymak",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Her açık avuç,\nAynı hayatın kendisiyle buluşmasıdır.\n\nYani kalbin son~uç noktasıysa eğer eller\nVe kalp iki değilse eğer, eller hep bir-birine değer...\n\n~\n\n\"Ben\" diye sahiplenen zenginle,\n\"Ben\" diye yoksun düşen fakir kaybolunca,\n\nGeriye kalan şudur:\n—Sahipsiz bir alış~veriş~in sessizliği,\n\nAl gülüm~ver gülüm\nHer şeyi besleyen bir hiçlik.\n\n~\n\nRezzâk-ı âlem olan\nHem rabbu'l-âlemîn\n\"Âlemlere rahmet\" nasıl bir incelik...\n\n\n••\n••\n•\n\nEllerim, artık karıncalanana dek açık kaldı\nVe unutana dek orda olduğumu, alnım secdede kaldı\nEriyorum sana...\n\nYine de ne olduysa\nNe ben seccadenin üzerindeyken oldu\nNe de takvimler kutsal bir mevsimi gösterirken...\n\nBilmem sabahlardan hangi sabah, belki de bugün, bu sabah...\nEn basit şey olup dururken...\n\nYavaşladığın bir anda fark edilir\n\nBelki de şu diş fırçasını tutarken:\n\nFırça da sensin\nDiş de sen\nMacundaki nanenin esrik ferahlığı da...\n\nDiş minelerini köpürten o gel~gitler de...\n\nB~aktığın ayna, sanki senden bir parça çalıp\nDönüp sana geri vermiş gibi;\n\nSu, kendi sonsuz devrini mırıldanarak lavabonun gider aynasına akar.\n\nKim akıyor?\nKim fırçalıyor?\nKim izliyor?\n\nİki boşluk birbirini selamlıyor,\nVe selam, selamı yutan bir yankıdan ibaret oluyor\n\n•\n\nTelefondaki bildirim sesi gibi zihninde beliren endişe\nBir sokak kedisinin bakışındaki kadîm sükûnete değince\n\nBir evdekileri, diğerine taşıyan hamal yorgunluğu ha gayret\nTrafikte kornaya basan adamın öfkesi ki hayret…\n\nHepsi aynı nehrin üzerinde yüzen yapraklar gibi nihâyet\nKimseler adını sormasa da biteviye akan bu nehrin adı:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Ol~annn\"",
-          "is_bold": true,
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Bakışın yapışınca sen, yaprak olduğunu sanırken\nAslında nehrin yaprağını taşıyan suyusun...\n\nHem öyle canlı bir su ki\nBardağa sığmaz, haritada bulunmaz, yerinde durmaz...\n\nGüzel âşıkın gözünden\nBuhar olup göğe ağar\nBulutlarla sevdâsı var\n\nYağmur olup yere yağar\nAynı güzelin saçlarını sular\n\nVe oradan da ironinin zirvesine damlar:\n\nKendine hasret çeken sensin\nVe aynı zamanda her nefes kavuşan n'emsin\n\n•\n\nBurada nefesim kesilirken artık...\nKeskin bıçağın sessiz kenarına değesin:\n\nÖyleyse şimdi bu satırlarla canına okunurken senin benim,\nOkuma eyleminin kendisi sâfi bir dua olsun sevgilim,\n\nKlavyenin tuşları, parmak uçlarının tesbih taneleri.\nEkran, senin gerçek yüzünün parladığı bir ayna gibi\n\nVe şimdi, işte bu cümlenin sonu yuttuğunda tuttuğunu\nHadi bir nefes al ve hatırla unuttuğunu...\n\n••\n••\n•"
-        },
-        {
-          "type": "metin",
-          "text": "İçeri çektiğin hava,\nEv~☼~renin sana verdiği bir sadaka.\n\nDışarı verdiğinse,\nSenin ev~☼~rene sadakan\n\nBu alışverişte kim kaybetti?\nKim kazandı o zaman?\n\nSadece kapı gıcırdadı; içeri ve dışarı aynı rüzgar esiyor...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Kapıyı açık bırak.\nZaten hiç kapanmamıştı.\n\n~\n\nNe mi oldu şimdi?\nNefhâ-i Rahmân şöyle bir üfledi...\n\n"
+          "text": "<p class=\"mb-4\"><em>Hamd u senâlar, hamd u senâlar<br>Yâr ile bayram kıldı bu gönlüm❞<br><br>Elhamdulillah<br>Elhamdulillah<br>Elhamdulillah</em></p><p class=\"mb-4\">Şükran-ı nimet ile dolmak<br>Bir şey için değil<br>Birine değil<br>Hak elhamdulillah</p><p class=\"mb-4\">Hiçbir şeyin ayrı olmadığını görmek demek...</p><p class=\"mb-4\"><strong>Hamd etmek değil H~M~D olmak<br>Bir cebinden aldığını diğer cebine koymak</strong></p><p class=\"mb-4\">Her açık avuç,<br>Aynı hayatın kendisiyle buluşmasıdır.</p><p class=\"mb-4\">Yani kalbin son~uç noktasıysa eğer eller<br>Ve kalp iki değilse eğer, eller hep bir-birine değer...</p><p class=\"mb-4\">~<br><br>\"Ben\" diye sahiplenen zenginle,<br>\"Ben\" diye yoksun düşen fakir kaybolunca,</p><p class=\"mb-4\">Geriye kalan şudur:<br>—Sahipsiz bir alış~veriş~in sessizliği,</p><p class=\"mb-4\">Al gülüm~ver gülüm<br>Her şeyi besleyen bir hiçlik.<br><br>~</p><p class=\"mb-4\">Rezzâk-ı âlem olan<br>Hem rabbu'l-âlemîn<br>\"Âlemlere rahmet\" nasıl bir incelik...</p><p class=\"mb-4\"><strong><br>••<br>••<br>•<br></strong></p><p class=\"mb-4\">Ellerim, artık karıncalanana dek açık kaldı<br>Ve unutana dek orda olduğumu, alnım secdede kaldı<br>Eriyorum sana...</p><p class=\"mb-4\">Yine de ne olduysa<br>Ne ben seccadenin üzerindeyken oldu<br>Ne de takvimler kutsal bir mevsimi gösterirken...</p><p class=\"mb-4\">Bilmem sabahlardan hangi sabah, belki de bugün, bu sabah...<br>En basit şey olup dururken...</p><p class=\"mb-4\">Yavaşladığın bir anda fark edilir</p><p class=\"mb-4\">Belki de şu diş fırçasını tutarken:</p><p class=\"mb-4\">Fırça da sensin<br>Diş de sen<br>Macundaki nanenin esrik ferahlığı da...</p><p class=\"mb-4\">Diş minelerini köpürten o gel~gitler de...</p><p class=\"mb-4\">B~aktığın ayna, sanki senden bir parça çalıp<br>Dönüp sana geri vermiş gibi;</p><p class=\"mb-4\">Su, kendi sonsuz devrini mırıldanarak lavabonun gider aynasına akar.</p><p class=\"mb-4\">Kim akıyor?<br>Kim fırçalıyor?<br>Kim izliyor?</p><p class=\"mb-4\">İki boşluk birbirini selamlıyor,<br>Ve selam, selamı yutan bir yankıdan ibaret oluyor</p><p class=\"mb-4\"><strong>•<br></strong><br>Telefondaki bildirim sesi gibi zihninde beliren endişe<br>Bir sokak kedisinin bakışındaki kadîm sükûnete değince<br><br>Bir evdekileri, diğerine taşıyan hamal yorgunluğu ha gayret<br>Trafikte kornaya basan adamın öfkesi ki hayret…</p><p class=\"mb-4\">Hepsi aynı nehrin üzerinde yüzen yapraklar gibi nihâyet<br>Kimseler adını sormasa da biteviye akan bu nehrin adı:<br><strong>\"Ol~annn\"</strong></p><p class=\"mb-4\">Bakışın yapışınca sen, yaprak olduğunu sanırken<br>Aslında nehrin yaprağını taşıyan suyusun...</p><p class=\"mb-4\">Hem öyle canlı bir su ki<br>Bardağa sığmaz, haritada bulunmaz, yerinde durmaz...</p><p class=\"mb-4\">Güzel âşıkın gözünden<br>Buhar olup göğe ağar<br>Bulutlarla sevdâsı var</p><p class=\"mb-4\">Yağmur olup yere yağar<br>Aynı güzelin saçlarını sular</p><p class=\"mb-4\">Ve oradan da ironinin zirvesine damlar:</p><p class=\"mb-4\">Kendine hasret çeken sensin<br>Ve aynı zamanda her nefes kavuşan n'emsin</p><p class=\"mb-4\"><strong>•<br></strong><br>Burada nefesim kesilirken artık...<br>Keskin bıçağın sessiz kenarına değesin:</p><p class=\"mb-4\">Öyleyse şimdi bu satırlarla canına okunurken senin benim,<br>Okuma eyleminin kendisi sâfi bir dua olsun sevgilim,</p><p class=\"mb-4\">Klavyenin tuşları, parmak uçlarının tesbih taneleri.<br>Ekran, senin gerçek yüzünün parladığı bir ayna gibi</p><p class=\"mb-4\">Ve şimdi, işte bu cümlenin sonu yuttuğunda tuttuğunu<br>Hadi bir nefes al ve hatırla unuttuğunu...<br><br>••<br>••<br>•</p><p class=\"mb-4\"><strong>İçeri çektiğin hava,<br>Ev~☼~renin sana verdiği bir sadaka.</strong></p><p class=\"mb-4\"><strong>Dışarı verdiğinse,<br>Senin ev~☼~rene sadakan</strong></p><p class=\"mb-4\"><strong>Bu alışverişte kim kaybetti?<br>Kim kazandı o zaman?</strong></p><p class=\"mb-4\"><strong>Sadece kapı gıcırdadı; içeri ve dışarı aynı rüzgar esiyor...</strong></p><p class=\"mb-4\">Kapıyı açık bırak.<br>Zaten hiç kapanmamıştı.</p><p class=\"mb-4\">~<br><br>Ne mi oldu şimdi?<br>Nefhâ-i Rahmân şöyle bir üfledi...</p>"
         },
         {
           "type": "ses",
@@ -67,8 +34,7 @@
         },
         {
           "type": "metin",
-          "text": "Geldi geçti ömrüm benim şol yel esip geçmiş gibi\nHele bana şöyle geldi şol göz yumup açmış gibi\n\n~",
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><strong>Geldi geçti ömrüm benim şol yel esip geçmiş gibi<br>Hele bana şöyle geldi şol göz yumup açmış gibi<br><br>~</strong></p>"
         }
       ]
     }
