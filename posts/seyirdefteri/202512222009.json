@@ -34,56 +34,15 @@
         },
         {
           "type": "metin",
-          "text": "Varlığın Sevinci'nin güzeller güzeli hatırlatma cümlesi nasıldı:"
+          "text": "<p class=\"mb-4\">Varlığın Sevinci'nin güzeller güzeli hatırlatma cümlesi nasıldı:</p><p class=\"mb-4\"><strong>Dün geceki kişiyi öldürdükten sonra<br>Bu sabah yeniden, yeni biri olarak diriltene<br>Elhamdulillah, elhamdulillah, elhamdulillah</strong><br><br>~</p><p class=\"mb-4\">Her gün aynı kişi olarak uyanıyorsan, aslında hiç uyanmamışsın olabilirsiniz...<br><br>Zira<br>Aynı günde<br>Aynı kişiye<br>İki kere rastlayamazsınız<br>Hatta aynı kişide bile</p><p class=\"mb-4\"><br><br>Her nefes, her adım, her göz kırpma yani her dem yeni bir başlangıçtır<br>— Geçmiş geçmişi işin içine sürüklemediğiniz sürece...<br><br>Önemli olan şu ki, önceki bir andan hiçbir şey aslında şu an kim veya ne olduğunuzu tanımlamaz.<br><br>Zaman içinde aynı kişi olduğumuzu düşünürüz<br>— Ama bu süreklilik sadece hafıza ve düşüncedir, gerçeklik değil.<br><br>Bunu kendiniz de doğrudan görebilirsiniz:<br><br>— Duyumların, düşüncelerin ve hislerin sürekli nasıl değiştiğini fark edin<br>— Hafızaya başvurmadan sorun bakalım:<br><br><strong>Şu anda ben kimim?<br></strong><br>— \"Ben\"in sadece şimdi ortaya çıkan ve sonra kaybolan bir düşünce olduğunu fark edin<br><br>—Hikayeden etkilenmemiş bu ânın açık genişliğini hissedin.</p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\">[Rahmân:29'dan]<br>O, her an yeni bir oluşla tâze bir görünüşte<br>Geçende kalmış olma<strong>~</strong>san <strong>yeni~bir~de~sen<br></strong>Yeni gözlerle bakana O hep yeni bir şe'nnn;<br>Yok artık ne dünkü ben, ne de sen...</p>"
         },
         {
           "type": "metin",
-          "text": "Dün geceki kişiyi öldürdükten sonra\nBu sabah yeniden, yeni biri olarak diriltene\nElhamdulillah, elhamdulillah, elhamdulillah",
-          "is_bold": true,
-          "is_tight": false
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nHer gün aynı kişi olarak uyanıyorsan, aslında hiç uyanmamışsın olabilirsiniz...\n\nZira\nAynı günde\nAynı kişiye\nİki kere rastlayamazsınız\nHatta aynı kişide bile\n\n\n\nHer nefes, her adım, her göz kırpma yani her dem yeni bir başlangıçtır\n— Geçmiş geçmişi işin içine sürüklemediğiniz sürece...\n\nÖnemli olan şu ki, önceki bir andan hiçbir şey aslında şu an kim veya ne olduğunuzu tanımlamaz.\n\nZaman içinde aynı kişi olduğumuzu düşünürüz\n— Ama bu süreklilik sadece hafıza ve düşüncedir, gerçeklik değil.\n\nBunu kendiniz de doğrudan görebilirsiniz:\n\n— Duyumların, düşüncelerin ve hislerin sürekli nasıl değiştiğini fark edin\n— Hafızaya başvurmadan sorun bakalım:"
-        },
-        {
-          "type": "metin",
-          "text": "Şu anda ben kimim?\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "— \"Ben\"in sadece şimdi ortaya çıkan ve sonra kaybolan bir düşünce olduğunu fark edin\n\n—Hikayeden etkilenmemiş bu ânın açık genişliğini hissedin.",
-          "is_tight": false,
-          "is_colored": false
-        },
-        {
-          "type": "metin",
-          "text": "[Rahmân:29'dan]\n"
-        },
-        {
-          "type": "metin",
-          "text": "O, her an yeni bir oluşla tâze bir görünüşte\n",
-          "is_tight": true
-        },
-        {
-          "type": "metin_inline",
-          "text": "Geçende kalmış olma~san "
-        },
-        {
-          "type": "metin_inline",
-          "text": "yeni~bir~de~sen\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Yeni gözlerle bakana O hep yeni bir şe'nnn;\nYok artık ne dünkü ben, ne de sen...",
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Her şey her zaman tazecikten olarak ortaya çıkar.\n\nHer şeyin aktığı bu seyirde, sabit bir düşünceden başka hiçbir şeye bağlanamazsınız.\n\nDünya asla bayat ve eskimiş yani aynı değildir, sadece kavramlarımız, onu öyle sanmamız onu öyle gösterebilir.\n\nAslında bu durum, hafızanın bu kadar güçlü bir etkiye sahip olmadığı gece rüyalarımızı göz önüne alırsak daha net görülür.\n\nGece rüyasında geçen kimlik, ortamlar değiştikçe akar ve dönüşür, ancak olayların gerçekliğine olan inanç asla kaybolmaz.\n\nİki dünyayı birbirinden ayıran tek şey hafızanın sürekliliğidir.\nKi ona da pek güven olmaz."
+          "text": "<p class=\"mb-4\">Her şey her zaman tazecikten olarak ortaya çıkar.<br><br>Her şeyin aktığı bu seyirde, sabit bir düşünceden başka hiçbir şeye bağlanamazsınız.<br><br>Dünya asla bayat ve eskimiş yani aynı değildir, sadece kavramlarımız, onu öyle sanmamız onu öyle gösterebilir.<br><br>Aslında bu durum, hafızanın bu kadar güçlü bir etkiye sahip olmadığı gece rüyalarımızı göz önüne alırsak daha net görülür.<br><br>Gece rüyasında geçen kimlik, ortamlar değiştikçe akar ve dönüşür, ancak olayların gerçekliğine olan inanç asla kaybolmaz.<br><br>İki dünyayı birbirinden ayıran tek şey hafızanın sürekliliğidir.<br>Ki ona da pek güven olmaz.</p>"
         },
         {
           "type": "alinti",
@@ -92,7 +51,7 @@
         },
         {
           "type": "metin",
-          "text": "Hâsılı devir bâkiyesi olan sabit bir \"ben\" fikrini bıraktığınızda, akışkanlık, yaratıcılık ve huzur kendiliğinden bulunur.\n\nAsla bağlı değilsiniz.\n\nTaşınacak hiçbir şey yok,\nVarılacak hiçbir yer yok\nKanıtlanacak hiçbir şey yok,\nSizi aşağı çeken hiçbir ivme yok.\n\nBir günlük, bir nefeslik ömründe sen geçmişi kurcalamazsan\nGeçmiş de seni kurcalamaz vesselâm."
+          "text": "<p class=\"mb-4\">Hâsılı devir bâkiyesi olan sabit bir \"ben\" fikrini bıraktığınızda, akışkanlık, yaratıcılık ve huzur kendiliğinden bulunur.<br><br>Asla bağlı değilsiniz.<br><br>Taşınacak hiçbir şey yok,<br>Varılacak hiçbir yer yok<br>Kanıtlanacak hiçbir şey yok,<br>Sizi aşağı çeken hiçbir ivme yok.<br><br>Bir günlük, bir nefeslik ömründe sen geçmişi kurcalamazsan<br>Geçmiş de seni kurcalamaz vesselâm.<br><br></p>"
         },
         {
           "type": "ses",
@@ -102,7 +61,7 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
