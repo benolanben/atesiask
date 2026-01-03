@@ -19,7 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Oluyorsa olur a...\n\nSiz böyle bir hedefe koşmayın\nKendinizi parçalamayın\n\nBen►im en iyi versiyonuma varacağım diye\nKendinizi geliştirmeye çalışmayın.\n\nBen►im en kötü versiyonumdan uzak duracağım diye\nKendinizi kınamayın.\n\nHer bir sahte \"ben\"i açıkça görün;\nVe geçenleri Ben►im-semeyin yeter\n\nİşte o vakit öğlen-cuma-cem vakti bir gölge gibi kaçıp gidecektir.\nSâhibine dönecektir.\n\n~\n\nRabbinin işini görmedin mi?\nNasıl da gölgeyi uzattı, dileseydi onu sakin eder, uzatıp kısaltmazdı;\nElbette, sonra güneşi, delil ettik gölgeye\n...\nSonra onu (uzayan gölgeyi) yavaş yavaş kendimize çektik (kısalttık).\n[Furkan:44-46'dan]\n\nBir an için gözden geçiver\nŞu kara-deliğe düşüver"
+          "text": "<p class=\"mb-4\">Oluyorsa olur a...</p><p class=\"mb-4\">Siz böyle bir hedefe koşmayın<br>Kendinizi parçalamayın</p><p class=\"mb-4\">Ben►im en iyi versiyonuma varacağım diye<br>Kendinizi geliştirmeye çalışmayın.</p><p class=\"mb-4\">Ben►im en kötü versiyonumdan uzak duracağım diye<br>Kendinizi kınamayın.</p><p class=\"mb-4\">Her bir sahte \"ben\"i açıkça görün;<br>Ve geçenleri Ben►im-semeyin yeter</p><p class=\"mb-4\">İşte o vakit öğlen-cuma-cem vakti bir gölge gibi kaçıp gidecektir.<br>Sâhibine dönecektir.</p><p class=\"mb-4\">~<br><br>Rabbinin işini görmedin mi?<br>Nasıl da gölgeyi uzattı, dileseydi onu sakin eder, uzatıp kısaltmazdı;<br>Elbette, sonra güneşi, delil ettik gölgeye<br>...<br>Sonra onu (uzayan gölgeyi) yavaş yavaş kendimize çektik (kısalttık).<br>[Furkan:44-46'dan]<br><br>Bir an için gözden geçiver<br>Şu kara-deliğe düşüver</p>"
         },
         {
           "type": "alinti",
@@ -28,12 +28,7 @@
         },
         {
           "type": "metin",
-          "text": "\"Gölgeyi kendimize çektik\"…",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Geçtik elhamdulillah\n\n"
+          "text": "<p class=\"mb-4\"><strong>\"Gölgeyi kendimize çektik\"…<br></strong><br>Geçtik elhamdulillah</p>"
         },
         {
           "type": "ses",
@@ -43,7 +38,7 @@
         },
         {
           "type": "metin",
-          "text": "Şimdi bir güzel d~uyulur elbet...\n"
+          "text": "<p class=\"mb-4\">Şimdi bir güzel d~uyulur elbet...</p>"
         }
       ]
     }
