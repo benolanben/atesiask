@@ -67,22 +67,7 @@
         },
         {
           "type": "metin",
-          "text": "~\n\nVarlığın büsbütün akışı olan hayat\n"
-        },
-        {
-          "type": "metin",
-          "text": "\"AMEL-İ SÂLİH\"\n",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Tam bir nizam, tek bir düzen ve âheng içinde...",
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "İnsanlık imkânını işleten\nKendi varlığında hüküm süren bir insan\nİşte bu âhengi\nBütün kâinâta nakleder\nNefes nefes uyumu nakşeder\n\nHalifetullâh olan Cenâb-ı Davud'un zikrine, dağların, taşların, kuşların, çiçeklerin eşliği, işte böylesi bir uyumun resmiydi...\n\nVe Varlığın Sevinci'nin bir sözü, bir ömre bedel değil mi?"
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Varlığın büsbütün akışı olan hayat<br><strong>\"AMEL-İ SÂLİH\"<br></strong>Tam bir nizam, tek bir düzen ve âheng içinde...<br><br>İnsanlık imkânını işleten<br>Kendi varlığında hüküm süren bir insan<br>İşte bu âhengi<br>Bütün kâinâta nakleder<br>Nefes nefes uyumu nakşeder<br><br>Halifetullâh olan Cenâb-ı Davud'un zikrine, dağların, taşların, kuşların, çiçeklerin eşliği, işte böylesi bir uyumun resmiydi...<br><br>Ve Varlığın Sevinci'nin bir sözü, bir ömre bedel değil mi?</p>"
         },
         {
           "type": "spoiler",
@@ -90,14 +75,16 @@
         },
         {
           "type": "metin",
-          "text": "Rağbetin kabul edilmiş bir duaya olsun:\nBir göz açıp kapayıncaya BEN~i bir önceki BEN~le baş~başa bırakma; öyle buyruldu, böyle duyuldu, böyle olsun",
-          "is_bold": true,
-          "is_italic": true,
-          "is_colored": true
+          "text": "<p class=\"mb-4\"><strong>Rağbetin kabul edilmiş bir duaya olsun:<br>Bir göz açıp kapayıncaya BEN~i bir önceki BEN~le baş~başa bırakma; öyle buyruldu, böyle duyuldu, böyle olsun</strong></p><p class=\"mb-4\"><br>~<br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Uyum, zıtlıklar arasında yaratılmaz;<br>Onları ayıran kişi, ses~siz kaldığında fark edilir.<br>Ritmi bozarsan acı hissedersin, tekrar <strong>uyuma dön<br></strong>Ve evren seninle, sen olarak yeniden dans edecek.<br></p>",
+          "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "\n~\n\nUyum, zıtlıklar arasında yaratılmaz;\nOnları ayıran kişi, ses~siz kaldığında fark edilir.\nRitmi bozarsan acı hissedersin, tekrar uyuma dön\nVe evren seninle, sen olarak yeniden dans edecek.\n[A. Kadrî]\n\n~\n\n"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
