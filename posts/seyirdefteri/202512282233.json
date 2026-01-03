@@ -19,51 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Kimliğin gevşediği ve yaşamın kaldığı yer\nVAR~OLUŞUN SES~SİZ DÂİMÎ UZANIMI\n\n\"Bahar yüreğimdedir\"\nDeseydi kış,\nKim inanırdı ki ona...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "İçsel Arayış,\nEvvele Yolculuk,\nKayıp Cennet'e Dönüş'ün\n\nBüyük bir kısmı,\nİçten, acil ve can~alıcı bir soruyla başlar:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Gerçekte ben kimim?\"\n\"Aslında ben neyim?\"",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Zihin,\nYeterince gayret ederse, özenle veya azimle çözebileceği bir bilmece gibi görür bunu...\n\nNe var ki bu soru bir cevaba doğru ilerlemez.\n\nDüştüğü zeminde, içeriye, daha içeriye doğru hareket eder, sonra soranın köklerine sessizce baltalar.\n\nBu sorunun amacı\nSoruyu taşıyan kimliği netleştirmek değil\nOnu seyreltmektir...\n\nKad efleha men zekkâhâ\n[Şems:9'dan]\nOnu arındırlar kurtulanlardır\nBiraz da bu demektir"
-        },
-        {
-          "type": "metin",
-          "text": "•\nBir~Tek Yaşam, Bir~Çok Form\n•",
-          "is_bold": true,
-          "is_italic": false,
-          "is_colored": false
-        },
-        {
-          "type": "metin",
-          "text": "Aynı gerçeğe işaret eden farklı diller ve geleneklerin altında basit bir sezgi ısrarla parlamaktadır:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Yaşam bölünmüş değildir\"",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Dînî ve lâ-dînî,\nKutsal ve sıradan,\nDünyevî ve uhrevî\nYüksek ve alçak diye ayrı ayrı alanlar, başka başka âlemler yoktur.\n\nTek bir yaşam,\n(El-Hayy)\n\nTek bir kudret\n(El-Kâdir)\n\nTek bir zekâ vardır\n(Akl-ı küll)\n\nBirçok formda ortaya çıkararak kendi kendinin türlü yüzlerinden tezâhürünü izleyen...\n\nDeğişen öz değil, aynı özün şeffaflığı, geçirgenliği, letâfetidir.\nAman Yâ Latîf...\n\nTaşta ve suda yaşam, yansıma olmadan hareket eder.\nCanlı bedenlerde hisseder ve cevap verir.\n\nİnsan imkânıyla açılan deneyiminde, gayet incelikli bir şey mümkün hale gelir:"
-        },
-        {
-          "type": "metin",
-          "text": "Farkındalık kendi üzerine dönebilir.\n\"Nûrun alâ nûr\" olabilir",
-          "is_bold": true,
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Ev~☼~ren, var olduğunu fark etme,\nHer bir ifâdesinde kendini tanıma kapasitesini kazanır.\n\nBir başarı olarak değil.\nBir ödül olarak değil.\nSadece bir formun\nİNSAN'ın\nDoğal bir işlevi olarak.\n\nHazret-i İnsan\nHalifetullah\nEn güzel kıvam olanın\n\nUyanışı, hayata sonradan eklenen bir şey değildir.\n\nVarlığın büsbütün akışı olan\nHAYAT'ın\nKendini,\nBir anlığına,\nFiltrelenmemiş bir şekilde tanıması,\n\nDoğmadan önceki yüzünü\nHATIRLAMASI'dır\n\nEvet, \"Zikrullah\" kabule edilmiş bir duadır."
+          "text": "<p class=\"mb-4\"><strong>Kimliğin gevşediği ve yaşamın kaldığı yer<br>VAR~OLUŞUN SES~SİZ DÂİMÎ UZANIMI<br><br>\"Bahar yüreğimdedir\"<br>Deseydi kış,<br>Kim inanırdı ki ona...</strong></p><p class=\"mb-4\">İçsel Arayış,<br>Evvele Yolculuk,<br>Kayıp Cennet'e Dönüş'ün<br><br>Büyük bir kısmı,<br>İçten, acil ve can~alıcı bir soruyla başlar:</p><p class=\"mb-4\"><strong>\"Gerçekte ben kimim?\"<br>\"Aslında ben neyim?\"</strong></p><p class=\"mb-4\"><br>Zihin,<br>Yeterince gayret ederse, özenle veya azimle çözebileceği bir bilmece gibi görür bunu...</p><p class=\"mb-4\">Ne var ki bu soru bir cevaba doğru ilerlemez.</p><p class=\"mb-4\">Düştüğü zeminde, içeriye, daha içeriye doğru hareket eder, sonra soranın köklerine sessizce baltalar.</p><p class=\"mb-4\">Bu sorunun amacı<br>Soruyu taşıyan kimliği netleştirmek değil<br>Onu seyreltmektir...</p><p class=\"mb-4\"><em>Kad efleha men zekkâhâ<br></em>[Şems:9'dan]<br>Onu arındırlar kurtulanlardır<br>Biraz da bu demektir</p><p class=\"mb-4\"><strong>•<br>Bir~Tek Yaşam, Bir~Çok Form<br>•</strong></p><p class=\"mb-4\">Aynı gerçeğe işaret eden farklı diller ve geleneklerin altında basit bir sezgi ısrarla parlamaktadır:</p><p class=\"mb-4\"><strong>\"Yaşam bölünmüş değildir\"</strong></p><p class=\"mb-4\">Dînî ve lâ-dînî,<br>Kutsal ve sıradan,<br>Dünyevî ve uhrevî<br>Yüksek ve alçak diye ayrı ayrı alanlar, başka başka âlemler yoktur.</p><p class=\"mb-4\">Tek bir yaşam,<br>(El-Hayy)</p><p class=\"mb-4\">Tek bir kudret<br>(El-Kâdir)</p><p class=\"mb-4\">Tek bir zekâ vardır<br>(Akl-ı küll)</p><p class=\"mb-4\">Birçok formda ortaya çıkararak kendi kendinin türlü yüzlerinden tezâhürünü izleyen...</p><p class=\"mb-4\">Değişen öz değil, aynı özün şeffaflığı, geçirgenliği, letâfetidir.<br><em>Aman Yâ Latîf...</em></p><p class=\"mb-4\">Taşta ve suda yaşam, yansıma olmadan hareket eder.<br>Canlı bedenlerde hisseder ve cevap verir.</p><p class=\"mb-4\">İnsan imkânıyla açılan deneyiminde, gayet incelikli bir şey mümkün hale gelir:<br><strong>Farkındalık kendi üzerine dönebilir.<br>\"Nûrun alâ nûr\" olabilir</strong></p><p class=\"mb-4\">Ev~☼~ren, var olduğunu fark etme,<br>Her bir ifâdesinde kendini tanıma kapasitesini kazanır.</p><p class=\"mb-4\">Bir başarı olarak değil.<br>Bir ödül olarak değil.<br>Sadece bir formun<br>İNSAN'ın<br>Doğal bir işlevi olarak.</p><p class=\"mb-4\">Hazret-i İnsan<br>Halifetullah<br>En güzel kıvam olanın</p><p class=\"mb-4\">Uyanışı, hayata sonradan eklenen bir şey değildir.</p><p class=\"mb-4\">Varlığın büsbütün akışı olan<br>HAYAT'ın<br>Kendini,<br>Bir anlığına,<br>Filtrelenmemiş bir şekilde tanıması,</p><p class=\"mb-4\">Doğmadan önceki yüzünü<br>HATIRLAMASI'dır</p><p class=\"mb-4\">Evet, \"Zikrullah\" kabule edilmiş bir duadır.</p>"
         },
         {
           "type": "alinti",
@@ -72,63 +28,7 @@
         },
         {
           "type": "metin",
-          "text": "•\nMerkezi Çözen Sual\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "KİMLİK sorgulaması olgunlaştıkça, alışkanlığa karşı yönde dönen bir akış başlar.\n\nDikkat, deneyimin merkezinde sabit durduğu var~sanılan sözde \"o kişiyi\" arar.\nBu hayatı yaşıyor, kontol ediyor ve ölüyor gibi görünen kişiyi...\n\nDüşünceler ortaya çıkar.\nDuyumlar belirir.\nHisler hareket eder ve değişir.\n\nAncak deneyimin sahibi aynı şekilde bulunamaz;\nBir düşüncenin, düşünceye tepkisi olmasa neredeyse yok gibidir.\n\nBu arayış, net bir öz-imgenin, kendilik imajının bulunmasıyla sonlanmaz aslâ!\nSessiz bir yoklukta sona erer.\n\nDramatik bir kayıp değildir bu,\nBelki bir zamanlar kesinliğin bulunduğu yerde incecikten bir öz~yoksunluğu...\n\nÇözülen şey farkındalık değildir.\nFarkındalığın birine ait olduğu var~sayımıdır.\nVaroluşun saf huzuru kalır;\n\nAçık~boş~hazır,\nDolaysız, sınırsız."
-        },
-        {
-          "type": "metin",
-          "text": "•\nKim Kırılır, Ne Kırılmaz?\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hayal kırıkları\nKalp kırıkları\nÜmit~sizlik çığlıkları...\n\nHayatın, neden kolay incinen, kırılgan hissettirdiği böylece daha bir netleşmeye başlıyor...\nOysa daha derinlerde bir şey asla bozulmaz,\nHiç kırılmaz, ne olsa dokunulmaz olarak kalır.\n\nTaşıdığımız ve artık ağırlığı altında ezildiğimiz psikolojik kimlik, hafıza, alışkanlık ve hikâyeden oluşur.\n\nTamam, uygun sahnelerde işlev görür ancak bir kararda duramaz, yerini yurdunu bilemez yani istikrarsızdır.\n\nKoşullar değiştiğinde gerilir\nKurduğu anlam ağı çöktüğünde parçalanır.\n\nYine de derin bir kargaşa anlarında bile, bozulmadan kalan sağlam bir şey vardır.\n\nDeneyim akışı devam eder.\nÖyle sandığı kimlik parçalansa da farkındalık parçalanmaz.\n\nÖlüm gibi bir şey olsa da farkındalık dâim ölmez diridir.\n\nAcı, ortaya çıkabilir.\nYönelim bozukluğu, şiddetlenebilir.\nAncak bunların ortaya çıktığı alan, içinden geçen şeylerden zarar görmeden kalır.\n\nBu, bunu duyanlara hareketlerinden güven vermek için söylenmiş bir \"inanç\" değildir.\nBu, sükûnette mevcut olanın, basit ve doğrudan bir gözlemidir.\n\nBizler, deneyimin içindeki bir nesne değiliz fakat deneyimin açığa çıktığı, belirdiği açıklığız.\n\nÖzünde hiçbir şey, içinden geçenle değişmez.\n\nAyna, kendi yansımasından,\nPerde, kendi filminden,\nGökyüzü kendindeki buluttan,\nOkyanus, bağrından çıkan bir dalgadan rahatsız olmaz, hasar görmez.."
-        },
-        {
-          "type": "metin",
-          "text": "•\nBir noktaya varış değil, hep olanı tanıma...\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Zihin, uyanışı gelecekteki bir durum olarak hayal eder;\nİstikrarlı bir hâl, yücelmiş bir makam, tamamlanmış mutlu son\n\nOysa bu beklenti, henüz bütünleşmemiş, arayış içindeki eksik kişinin! varlığını sessizce muhafaza eder.\n\nAncak\nMarifetu'n-nefs\nMarifetullah\nKendini tanınma ile\n\nBir şeyler biriktirmez, çoğaltmaz\nBilakis azaltır.\n\nAynadaki bir yansıma ile aynîleşme\nÖz~deşleşme düğümü gevşedikçe\n\nFarkındalık artık savunmaya ihtiyaç duyan bir merkezce filtrelenmez olur.\n\nHayat yine devam eder\n– İş, ilişki, faaliyet, zorluk –\nAncak daha az sürtünmeyle yaşanır.\n\nTepkiler daha az hesaplamayla ortaya çıkar.\nDuygular daha az hikâyeyle hareket eder.\n\nDuruma, yorum\nOlana, olağanüstü hiçbir şey eklenmez.\n\nGereksiz bir şey ortadan kalkar.\nCümlede anlatım bozukluğu kalmaz."
-        },
-        {
-          "type": "metin",
-          "text": "•\nHer şeyi bir arada tuttuğu sanılan\nBenlik yükü olmadan yaşamak\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hayalî merkez gevşediğinde, beklenmedik bir şekilde insânî bir şey belirir.\n\nNe mi olur?\n\nDinleme, derinleşir.\nŞefkat, daha az çaba gerektirir.\nOlduğunda zorluk bile daha az dirençle karşılanır\n\nZira artık kişinin kimliğine dair bir tehdit olarak çerçevelenmez.\n\nBireysellik kalır.\nKişilik kalır.\n\nÇözülen şey, bunların var~oluşun özünü tanımladığına dair bir inançtır.\nÖyleyse varsa ölüm, ölümcül bir düşüncenin ölümüdür.\n\nBunlar, daha büyük bir alan içindeki doğal hareketlerdir; alanın kendisi değil!\n\nHayat, artık bir benliğin senliğin başına gelmiyor\nBana bir şey olmuyor.\nSadece oluyor.\n\nBasitçe olan bu...\n"
-        },
-        {
-          "type": "metin",
-          "text": "•\nSıradan Özgürlük\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Belki de bu biricik görüşün en radikal yönü, sıradanlığıdır.\n\nGünlük hayattan kaçmaya gerek yok.\nİnsanlık hâlini aşmaya gerek yok.\nHiçbir ön~şartı, yapılacak şeyler listesi yok."
-        },
-        {
-          "type": "metin",
-          "text": "VARsın\nOLsun\nHepsi bu",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Bu sözleri okuyan farkındalık, her zaman hazır bulunanla aynı farkındalıktır\n— Anlamadan önce, kafa karışıklığından önce, arayıştan önce var olan.\n\nYani bu tanıma, sonradan olma bir hadise değildir, sessiz bir içtenliktir.\n\nNe olduğumuzun,\nKendimiz hakkında anlatılan hikayelerde\nAsla bulunmadığını görmeye dair can atan bir gönüllülüktür\n\nTıpkı son gördüğümüz rüyaya verdiğimiz önem ve ciddiyetin çözülüşü gibi...\n\nBütün bu hikayeler gevşedikçe geriye kalan şey, kasvetli bir boşluk değil,\nBasit, canlı, dinamik bir berraklıktır.\n\nÖzünde hiçbir şey kaybolmaz.\nDüşen şey, asla göründüğü kadar sağlam ve katı değildi.\n\nGeriye kalanınsa korunmaya ihtiyacı yoktur!\nVe tâ böylece, nazik bir özgürlük kendini gösterir\n\"Sıradan, içte ve yeterli\"\n\n••\n\n••\n\n•\n\nÖyleyse soru\n\"Ben kimim?\"\nDeğil de\n\"Bu yazıyı kim okuyor?\"\n\nOlabilir mi?\n\nVe cevap, sayfadan sana bakan boşluktur.\n\nSelam verir.\nSen de selam verirsin.\nSelâm // \\\\ selâm olur\n\nİki ayna, sonsuzluğu bir ilâhi bir latîfe gibi paylaşır...\n\nVe her şey, hiçbir şey olmadan, olduğu gibi kalır.\nİşte bu, en büyük şakadır.\n\nVe sensin sen a güzel,\nŞakanın ta kendisi,\nHem buradan anlatıcısı\nHem de oradan tek dinleyicisi.\n\n~\n"
-        },
-        {
-          "type": "metin",
-          "text": "Peki Ben mi?\nGözlerin bende kalmış; aynalarda seni gördüm...\n\n",
-          "is_bold": true,
-          "is_colored": true
+          "text": "<p class=\"mb-4\"><strong>•<br>Merkezi Çözen Sual<br>•</strong></p><p class=\"mb-4\">KİMLİK sorgulaması olgunlaştıkça, alışkanlığa karşı yönde dönen bir akış başlar.</p><p class=\"mb-4\">Dikkat, deneyimin merkezinde sabit durduğu var~sanılan sözde \"o kişiyi\" arar.<br>Bu hayatı yaşıyor, kontol ediyor ve ölüyor gibi görünen kişiyi...</p><p class=\"mb-4\">Düşünceler ortaya çıkar.<br>Duyumlar belirir.<br>Hisler hareket eder ve değişir.</p><p class=\"mb-4\">Ancak deneyimin sahibi aynı şekilde bulunamaz;<br>Bir düşüncenin, düşünceye tepkisi olmasa neredeyse yok gibidir.</p><p class=\"mb-4\">Bu arayış, net bir öz-imgenin, kendilik imajının bulunmasıyla sonlanmaz aslâ!<br>Sessiz bir yoklukta sona erer.</p><p class=\"mb-4\">Dramatik bir kayıp değildir bu,<br>Belki bir zamanlar kesinliğin bulunduğu yerde incecikten bir öz~yoksunluğu...</p><p class=\"mb-4\">Çözülen şey farkındalık değildir.<br>Farkındalığın birine ait olduğu var~sayımıdır.<br>Varoluşun saf huzuru kalır;</p><p class=\"mb-4\">Açık~boş~hazır,<br>Dolaysız, sınırsız.</p><p class=\"mb-4\"><strong>•<br>Kim Kırılır, Ne Kırılmaz?<br>•</strong></p><p class=\"mb-4\">Hayal kırıkları<br>Kalp kırıkları<br>Ümit~sizlik çığlıkları...</p><p class=\"mb-4\">Hayatın, neden kolay incinen, kırılgan hissettirdiği böylece daha bir netleşmeye başlıyor...<br>Oysa daha derinlerde bir şey asla bozulmaz,<br>Hiç kırılmaz, ne olsa dokunulmaz olarak kalır.</p><p class=\"mb-4\">Taşıdığımız ve artık ağırlığı altında ezildiğimiz psikolojik kimlik, hafıza, alışkanlık ve hikâyeden oluşur.</p><p class=\"mb-4\">Tamam, uygun sahnelerde işlev görür ancak bir kararda duramaz, yerini yurdunu bilemez yani istikrarsızdır.</p><p class=\"mb-4\">Koşullar değiştiğinde gerilir<br>Kurduğu anlam ağı çöktüğünde parçalanır.<br><br>Yine de derin bir kargaşa anlarında bile, bozulmadan kalan sağlam bir şey vardır.</p><p class=\"mb-4\">Deneyim akışı devam eder.<br>Öyle sandığı kimlik parçalansa da farkındalık parçalanmaz.</p><p class=\"mb-4\">Ölüm gibi bir şey olsa da farkındalık dâim ölmez diridir.</p><p class=\"mb-4\">Acı, ortaya çıkabilir.<br>Yönelim bozukluğu, şiddetlenebilir.<br>Ancak bunların ortaya çıktığı alan, içinden geçen şeylerden zarar görmeden kalır.</p><p class=\"mb-4\">Bu, bunu duyanlara hareketlerinden güven vermek için söylenmiş bir \"inanç\" değildir.<br>Bu, sükûnette mevcut olanın, basit ve doğrudan bir gözlemidir.</p><p class=\"mb-4\">Bizler, deneyimin içindeki bir nesne değiliz fakat deneyimin açığa çıktığı, belirdiği açıklığız.</p><p class=\"mb-4\">Özünde hiçbir şey, içinden geçenle değişmez.</p><p class=\"mb-4\">Ayna, kendi yansımasından,<br>Perde, kendi filminden,<br>Gökyüzü kendindeki buluttan,<br>Okyanus, bağrından çıkan bir dalgadan rahatsız olmaz, hasar görmez..</p><p class=\"mb-4\"><strong>•<br>Bir noktaya varış değil, hep olanı tanıma...<br>•</strong></p><p class=\"mb-4\">Zihin, uyanışı gelecekteki bir durum olarak hayal eder;<br>İstikrarlı bir hâl, yücelmiş bir makam, tamamlanmış mutlu son</p><p class=\"mb-4\">Oysa bu beklenti, henüz bütünleşmemiş, arayış içindeki eksik kişinin! varlığını sessizce muhafaza eder.</p><p class=\"mb-4\">Ancak<br>Marifetu'n-nefs<br>Marifetullah<br>Kendini tanınma ile</p><p class=\"mb-4\">Bir şeyler biriktirmez, çoğaltmaz<br>Bilakis azaltır.</p><p class=\"mb-4\">Aynadaki bir yansıma ile aynîleşme<br>Öz~deşleşme düğümü gevşedikçe</p><p class=\"mb-4\">Farkındalık artık savunmaya ihtiyaç duyan bir merkezce filtrelenmez olur.</p><p class=\"mb-4\">Hayat yine devam eder<br>– İş, ilişki, faaliyet, zorluk –<br>Ancak daha az sürtünmeyle yaşanır.</p><p class=\"mb-4\">Tepkiler daha az hesaplamayla ortaya çıkar.<br>Duygular daha az hikâyeyle hareket eder.</p><p class=\"mb-4\">Duruma, yorum<br>Olana, olağanüstü hiçbir şey eklenmez.</p><p class=\"mb-4\">Gereksiz bir şey ortadan kalkar.<br>Cümlede anlatım bozukluğu kalmaz.</p><p class=\"mb-4\"><strong><br>•<br>Her şeyi bir arada tuttuğu sanılan<br>Benlik yükü olmadan yaşamak<br>•</strong></p><p class=\"mb-4\">Hayalî merkez gevşediğinde, beklenmedik bir şekilde insânî bir şey belirir.</p><p class=\"mb-4\">Ne mi olur?<br><br>Dinleme, derinleşir.<br>Şefkat, daha az çaba gerektirir.<br>Olduğunda zorluk bile daha az dirençle karşılanır</p><p class=\"mb-4\">Zira artık kişinin kimliğine dair bir tehdit olarak çerçevelenmez.</p><p class=\"mb-4\">Bireysellik kalır.<br>Kişilik kalır.</p><p class=\"mb-4\">Çözülen şey, bunların var~oluşun özünü tanımladığına dair bir inançtır.<br>Öyleyse varsa ölüm, ölümcül bir düşüncenin ölümüdür.</p><p class=\"mb-4\">Bunlar, daha büyük bir alan içindeki doğal hareketlerdir; alanın kendisi değil!</p><p class=\"mb-4\">Hayat, artık bir benliğin senliğin başına gelmiyor<br>Bana bir şey olmuyor.<br>Sadece oluyor.</p><p class=\"mb-4\">Basitçe olan bu...</p><p class=\"mb-4\"><strong><br>•<br>Sıradan Özgürlük<br>•</strong></p><p class=\"mb-4\">Belki de bu biricik görüşün en radikal yönü, sıradanlığıdır.</p><p class=\"mb-4\">Günlük hayattan kaçmaya gerek yok.<br>İnsanlık hâlini aşmaya gerek yok.<br>Hiçbir ön~şartı, yapılacak şeyler listesi yok.</p><p class=\"mb-4\"><strong>VARsın<br>OLsun<br>Hepsi bu</strong></p><p class=\"mb-4\">Bu sözleri okuyan farkındalık, her zaman hazır bulunanla aynı farkındalıktır<br>— Anlamadan önce, kafa karışıklığından önce, arayıştan önce var olan.</p><p class=\"mb-4\">Yani bu tanıma, sonradan olma bir hadise değildir, sessiz bir içtenliktir.<br><br>Ne olduğumuzun,<br>Kendimiz hakkında anlatılan hikayelerde<br>Asla bulunmadığını görmeye dair can atan bir gönüllülüktür</p><p class=\"mb-4\">Tıpkı son gördüğümüz rüyaya verdiğimiz önem ve ciddiyetin çözülüşü gibi...</p><p class=\"mb-4\">Bütün bu hikayeler gevşedikçe geriye kalan şey, kasvetli bir boşluk değil,<br>Basit, canlı, dinamik bir berraklıktır.</p><p class=\"mb-4\">Özünde hiçbir şey kaybolmaz.<br>Düşen şey, asla göründüğü kadar sağlam ve katı değildi.</p><p class=\"mb-4\">Geriye kalanınsa korunmaya ihtiyacı yoktur!<br>Ve tâ böylece, nazik bir özgürlük kendini gösterir<br>\"Sıradan, içte ve yeterli\"</p><p class=\"mb-4\">••</p><p class=\"mb-4\">••</p><p class=\"mb-4\">•</p><p class=\"mb-4\">Öyleyse soru<br>\"Ben kimim?\"<br>Değil de<br>\"Bu yazıyı kim okuyor?\"</p><p class=\"mb-4\">Olabilir mi?</p><p class=\"mb-4\">Ve cevap, sayfadan sana bakan boşluktur.</p><p class=\"mb-4\">Selam verir.<br>Sen de selam verirsin.<br>Selâm // \\\\ selâm olur</p><p class=\"mb-4\">İki ayna, sonsuzluğu bir ilâhi bir latîfe gibi paylaşır...</p><p class=\"mb-4\">Ve her şey, hiçbir şey olmadan, olduğu gibi kalır.<br>İşte bu, en büyük şakadır.</p><p class=\"mb-4\">Ve sensin sen a güzel,<br>Şakanın ta kendisi,<br>Hem buradan anlatıcısı<br>Hem de oradan tek dinleyicisi.<br><br>~</p><p class=\"mb-4\"><strong>Peki Ben mi?<br><span class=\"colored\">Gözlerin bende kalmış; aynalarda seni gördüm...</span></strong></p>"
         },
         {
           "type": "alinti",
