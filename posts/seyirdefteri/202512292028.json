@@ -20,17 +20,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\n\nBir süredir tercümesiyle hem-hâl olduğumuz Zen Bağçeleri'nden derlediğimiz bir gül~deste, hoşluk olsun için açık duran gül kulağına bırakıldı."
-        },
-        {
-          "type": "metin",
-          "text": "CÂZİBE'NİN ZEN'i\nBak işte bu hep yeni\n~\nHayatı kontrol etmeye çalışmayı bıraktığınızda hayat neden daha kolay akar?",
-          "is_bold": true,
-          "is_colored": false
-        },
-        {
-          "type": "metin",
-          "text": "Çokları çoktan sezmiştir bunu sessizce:\n\nİnsan, hayatı şekillendirmek için ne kadar çok çaba harcarsa, kendini bir o kadar gergin hisseder.\n\nDaha çekici, daha başarılı, daha anlamlı veya mutmain olmuş olmak için ne kadar çabalarlarsa biri, bu nitelikler o kadar uzak görünür o birinden...\n\nBir çaba sonucunda kolaylık yaratması beklenen şey,\nHem içeride hem ilişkilerde tam bir gerilim üretir.\n\nDünyada ilerlemenin, hayatta yol almanın başka bir yolu daha olabilir mi?\n\nPasiflik ya da geri çekilme yoluyla değil, daha incelikli bir uyum yoluyla; çabalama, ikna ya da sürekli öz yönetime dayanmayan latîf bir âheng var...\n\nSessizlik gibi, boşluk gibi, canlı mevcudiyet gibi...\n\nCâzibe de en derin anlamıyla, sizin ürettiğiniz bir şey değildir.\nBilakis câzibe, çaba yumuşadığında ve kontrol gevşediğinde kendiliğinden görünür hâle gelir.\n\nKarıştırmayı bırakınca görünür hâle gelen ama hep orada olan bir kova suyun berraklığı gibi...\n\nYağmurda, karda gezerken Zen Bağçeleri'nde rastladığımız şu on tâze ilkeyi, izlenecek teknikler ya da uyulacak kurallar olarak görmeyelim e mi...\n\nZira bu işaretler, hayatın akışı itilmediği zaman, bir şeyler habire zorlanmadığında doğal olarak neyin ortaya çıktığını kendi kendilerine târif etmedeler."
+          "text": "<p class=\"mb-4\"><em>~<br><br>Bir süredir tercümesiyle hem-hâl olduğumuz Zen Bağçeleri'nden derlediğimiz bir gül~deste, hoşluk olsun için açık duran gül kulağına bırakıldı.</em></p><p class=\"mb-4\"><strong>CÂZİBE'NİN ZEN'i<br>Bak işte bu hep yeni<br>~<br>Hayatı kontrol etmeye çalışmayı bıraktığınızda hayat neden daha kolay akar?</strong></p><p class=\"mb-4\">Çokları çoktan sezmiştir bunu sessizce:</p><p class=\"mb-4\">İnsan, hayatı şekillendirmek için ne kadar çok çaba harcarsa, kendini bir o kadar gergin hisseder.</p><p class=\"mb-4\">Daha çekici, daha başarılı, daha anlamlı veya mutmain olmuş olmak için ne kadar çabalarlarsa biri, bu nitelikler o kadar uzak görünür o birinden...</p><p class=\"mb-4\">Bir çaba sonucunda kolaylık yaratması beklenen şey,<br>Hem içeride hem ilişkilerde tam bir gerilim üretir.</p><p class=\"mb-4\">Dünyada ilerlemenin, hayatta yol almanın başka bir yolu daha olabilir mi?</p><p class=\"mb-4\">Pasiflik ya da geri çekilme yoluyla değil, daha incelikli bir uyum yoluyla; çabalama, ikna ya da sürekli öz yönetime dayanmayan latîf bir âheng var...</p><p class=\"mb-4\">Sessizlik gibi, boşluk gibi, canlı mevcudiyet gibi...</p><p class=\"mb-4\">Câzibe de en derin anlamıyla, sizin ürettiğiniz bir şey değildir.<br>Bilakis câzibe, çaba yumuşadığında ve kontrol gevşediğinde kendiliğinden görünür hâle gelir.</p><p class=\"mb-4\">Karıştırmayı bırakınca görünür hâle gelen ama hep orada olan bir kova suyun berraklığı gibi...</p><p class=\"mb-4\">Yağmurda, karda gezerken Zen Bağçeleri'nde rastladığımız şu on tâze ilkeyi, izlenecek teknikler ya da uyulacak kurallar olarak görmeyelim e mi...</p><p class=\"mb-4\">Zira bu işaretler, hayatın akışı itilmediği zaman, bir şeyler habire zorlanmadığında doğal olarak neyin ortaya çıktığını kendi kendilerine târif etmedeler.</p>"
         },
         {
           "type": "alinti",
@@ -39,53 +29,7 @@
         },
         {
           "type": "metin",
-          "text": "•\n1.\nSöz Vermemenin Hafîfliği\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Kendinizi, gelecekteki sonuçlara bağlamayı bıraktığınızda, dikkat gerçekten şu anda yapmaktan zevk aldığınız şeye geri döner.\n\nEylem, çok daha saf hale gelir\nVe daha az stratejik\nBeklenti yükünden daha az muzdarip\n\nBu, şimdi burada hazır olan canlı mevcudiyetten sunduğunuz şey,\nHiçbir vaadin garanti edemeyeceği bir derinlik taşır.\n\nEtkilemeye çalışmadan, içten bir şey katılır akışa...\n\nİleride öyle planladığınızdan değil,\nGeride hiçbir şey saklanmadığı için..."
-        },
-        {
-          "type": "metin",
-          "text": "•\n2.\nGündemsiz Paylaşmanın Rahatlığı\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Paylaşım, performans sergilemeye dönüştüğünde, akış çatallanır, enerjisi gerilir ve etki alanı daralır.\n\nOnay almak, beğenilmek, takdir edilmek için bir şey sunulduğu an, akış netliğini yitirir.\n\nZaman\nMekan\nİhvan\n\nAncak yalnızca doğal olarak hareket eden şeyleri\n-Ve yalnızca öyle estiği açık ortamlarda-\nPaylaştığınızda, çaba azalır.\nÖz-değer, artık takdir edilmeye bağlı değildir.\n\nBirilerini iknâya çalışmadan kendini sessizce ifade eder."
-        },
-        {
-          "type": "metin",
-          "text": "•\n3.\nBeklentileri Serbest Bırakmanın Memnuniyeti\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Beklenti, kendini hayatın bir adım önüne koyar.\n\nZira beklentisi olanın gözü önünde, her zaman bir şeyler eksiktir, gerçekleşme için daima gelecek bir zaman gözlenir.\n\nBeklenti gevşedikçe, eksiklik hissi de onunla birlikte gevşer.\n\nGeriye kalan, bir memnuniyet felsefesi değil, bu ânın zaten tam ve yeterli olduğunun canlı canlı yaşanmış kabulüdür.\n\nYani varlığın büsbütün akışı olan hayatın, tamamlanmış ve bütün hissettirmesi için hiçbir şeyin eklenmesi ya da çıkarılması gerekmez."
-        },
-        {
-          "type": "metin",
-          "text": "•\n4.\nDaha Azına İhtiyaç Duymanın Ferahlığı\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "İhtiyaç, kimliği sıkıştırır.\nAlgıyı daraltır, insanları ve durumları, rahatlamaya yönelik birer araca dönüştürür.\n\nİç rezervler büyüdükçe\n— duygusal, pratik, enerjisel —\nO sıkışma gevşer, o ağırlık hafifler.\n\nEksiklik tarafından daha az yönlendirildiğinizi ve daha çok imkan genişliği ile çevrili olduğunuzu hissedersiniz.\n\nBir diğeri artık birer araç değildir.\nSiz de öyle değilsiniz!"
-        },
-        {
-          "type": "metin",
-          "text": "•\n5.\nZorlamak Yerine Cevap Olmanın Yaratıcılığı\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Her yaratım inisiyatif almayı, girişimde bulunmayı gerektirmez.\n\nÇoğu zaman en zeki hareket, gelişine etki~tepki çarkına düşmeyen bir duyarlılıktır.\nAkışa, bir yön dayatmayı bırakıp olanla olduğu gibi buluşmaya başlandığında, yaratıcılık seyri değişir.\n\nİddia etmekten çok, dinlemeye ve dinlemeye dönüşür.\n\nDaha belirgin\n— ve çoğu zaman daha özgün —\nHiç hesapta olmayan bir şey ortaya çıkar.\n\nÇıkar a..."
-        },
-        {
-          "type": "metin",
-          "text": "•\n6.\nEserin Kendi Ayakları Üzerinde Durmasına İzin Vermenin Sessiz Güveni\n•",
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><strong>•<br>1.<br>Söz Vermemenin Hafîfliği<br>•</strong></p><p class=\"mb-4\">Kendinizi, gelecekteki sonuçlara bağlamayı bıraktığınızda, dikkat gerçekten şu anda yapmaktan zevk aldığınız şeye geri döner.</p><p class=\"mb-4\">Eylem, çok daha saf hale gelir<br>Ve daha az stratejik<br>Beklenti yükünden daha az muzdarip</p><p class=\"mb-4\">Bu, şimdi burada hazır olan canlı mevcudiyetten sunduğunuz şey,<br>Hiçbir vaadin garanti edemeyeceği bir derinlik taşır.</p><p class=\"mb-4\">Etkilemeye çalışmadan, içten bir şey katılır akışa...</p><p class=\"mb-4\">İleride öyle planladığınızdan değil,<br>Geride hiçbir şey saklanmadığı için...</p><p class=\"mb-4\"><strong><br>•<br>2.<br>Gündemsiz Paylaşmanın Rahatlığı<br>•</strong></p><p class=\"mb-4\">Paylaşım, performans sergilemeye dönüştüğünde, akış çatallanır, enerjisi gerilir ve etki alanı daralır.</p><p class=\"mb-4\">Onay almak, beğenilmek, takdir edilmek için bir şey sunulduğu an, akış netliğini yitirir.</p><p class=\"mb-4\">Zaman<br>Mekan<br>İhvan</p><p class=\"mb-4\">Ancak yalnızca doğal olarak hareket eden şeyleri<br>-Ve yalnızca öyle estiği açık ortamlarda-<br>Paylaştığınızda, çaba azalır.<br>Öz-değer, artık takdir edilmeye bağlı değildir.</p><p class=\"mb-4\">Birilerini iknâya çalışmadan kendini sessizce ifade eder.</p><p class=\"mb-4\"><strong><br>•<br>3.<br>Beklentileri Serbest Bırakmanın Memnuniyeti<br>•</strong></p><p class=\"mb-4\">Beklenti, kendini hayatın bir adım önüne koyar.</p><p class=\"mb-4\">Zira beklentisi olanın gözü önünde, her zaman bir şeyler eksiktir, gerçekleşme için daima gelecek bir zaman gözlenir.</p><p class=\"mb-4\">Beklenti gevşedikçe, eksiklik hissi de onunla birlikte gevşer.</p><p class=\"mb-4\">Geriye kalan, bir memnuniyet felsefesi değil, bu ânın zaten tam ve yeterli olduğunun canlı canlı yaşanmış kabulüdür.</p><p class=\"mb-4\">Yani varlığın büsbütün akışı olan hayatın, tamamlanmış ve bütün hissettirmesi için hiçbir şeyin eklenmesi ya da çıkarılması gerekmez.</p><p class=\"mb-4\"><strong><br>•<br>4.<br>Daha Azına İhtiyaç Duymanın Ferahlığı<br>•</strong></p><p class=\"mb-4\">İhtiyaç, kimliği sıkıştırır.<br>Algıyı daraltır, insanları ve durumları, rahatlamaya yönelik birer araca dönüştürür.</p><p class=\"mb-4\">İç rezervler büyüdükçe<br>— duygusal, pratik, enerjisel —<br>O sıkışma gevşer, o ağırlık hafifler.</p><p class=\"mb-4\">Eksiklik tarafından daha az yönlendirildiğinizi ve daha çok imkan genişliği ile çevrili olduğunuzu hissedersiniz.</p><p class=\"mb-4\">Bir diğeri artık birer araç değildir.<br>Siz de öyle değilsiniz!</p><p class=\"mb-4\"><br><strong>•<br>5.<br>Zorlamak Yerine Cevap Olmanın Yaratıcılığı<br>•</strong></p><p class=\"mb-4\">Her yaratım inisiyatif almayı, girişimde bulunmayı gerektirmez.</p><p class=\"mb-4\">Çoğu zaman en zeki hareket, gelişine etki~tepki çarkına düşmeyen bir duyarlılıktır.<br>Akışa, bir yön dayatmayı bırakıp olanla olduğu gibi buluşmaya başlandığında, yaratıcılık seyri değişir.</p><p class=\"mb-4\">İddia etmekten çok, dinlemeye ve dinlemeye dönüşür.</p><p class=\"mb-4\">Daha belirgin<br>— ve çoğu zaman daha özgün —<br>Hiç hesapta olmayan bir şey ortaya çıkar.<br><br>Çıkar a...</p><p class=\"mb-4\"><br><strong>•<br>6.<br>Eserin Kendi Ayakları Üzerinde Durmasına İzin Vermenin Sessiz Güveni<br>•</strong></p>"
         },
         {
           "type": "alinti",
@@ -94,34 +38,7 @@
         },
         {
           "type": "metin",
-          "text": "Süslemek, bir şüpheyi açık etmektir.\n\nBir şeyin kendi başına durmasına izin vermek, onun özüne güvenmektir.\n\nKalite ve başarı şişirilmediğinde, dikkat doğal olarak toplanır.\nBaşkaları zorla çekilmek yerine doğal yaklaşırlar.\n\nSessizlikte duran bir varlık hissi, yokluk değil,\nBütünlüğün, içtenliğin, varlığın doğal ifadesi hâline döner."
-        },
-        {
-          "type": "metin",
-          "text": "•\n7.\nAnda Açılan Yolu İzlemenin Karmaşasız Akışı\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Sana açılan yoldan basitçe yürü...\n\nŞu hayatta, beş yıllık stratejik kalkınma planlarının da bir yeri vardır amma planlar çoğu zaman dirence dönüşür.\n\nKoşullar değiştiğinde, dünden taşınan katılık sürtünme yaratır ve zuhûrâta tâbi olmayı zorlaştır.\n\nAçılan yolu izlemek\n— en az zorlanma olanı —\nKörü körüne kaçınmak değildir; olanı göre göre canlı duyarlılıktır.\n\nOlacağı varsa başarılar yine de olur ancak bunlar fetih gibi değil, daha çok açığa çıkma, noktanın anda açılımı gibi hissettirir."
-        },
-        {
-          "type": "metin",
-          "text": "•\n8.\nMevcudiyet Yoluyla Anmanın İnce Zekâsı\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Bazı yüzeysek anlayışlar, analitik kritik bir süreç olarak düşünce yoluyla gelirler.\nDaha derin anlayışlar ise bedenin şimdi burada hazır bulunuşu yoluyla...\n\nİçgörü, basiret, maneviyât arayışı gevşediğinde, ânın kendisi ders vermeye başlar.\n\nDeneyim artık yorumlanacak bir şey değil tam hissedilecek ve doğrudan özümsenecek bir şeydir...\n\nBilgi, biriktirilmek yerine bedenlenir, anda tezâhür ediverir."
-        },
-        {
-          "type": "metin",
-          "text": "•\n9.\nİnşa Edilmiş Benliği Bırakmanın Hafifliği\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Biri olmaya çalışmak\n— daha özgüvenli, daha arzulanan, daha kâmil—\nYorucudur, çok yorucudur.\n\nVe bu çaba yumuşadığında, bu kaçak artık sızdırmaz olduğunda, geriye kalan boşluk değil, mevcudiyettir.\n\nMerak etmeyin yok olmazsınız öyle...\nSadece bir maskeyi habire yüzünüze tutmayı bırakırsınız.\nDahası, doğmadan önceki yüzünüzü hatırlarsınız."
+          "text": "<p class=\"mb-4\">Süslemek, bir şüpheyi açık etmektir.</p><p class=\"mb-4\">Bir şeyin kendi başına durmasına izin vermek, onun özüne güvenmektir.</p><p class=\"mb-4\">Kalite ve başarı şişirilmediğinde, dikkat doğal olarak toplanır.<br>Başkaları zorla çekilmek yerine doğal yaklaşırlar.</p><p class=\"mb-4\">Sessizlikte duran bir varlık hissi, yokluk değil,<br>Bütünlüğün, içtenliğin, varlığın doğal ifadesi hâline döner.</p><p class=\"mb-4\"><strong>•<br>7.<br>Anda Açılan Yolu İzlemenin Karmaşasız Akışı<br>•</strong></p><p class=\"mb-4\">Sana açılan yoldan basitçe yürü...</p><p class=\"mb-4\">Şu hayatta, beş yıllık stratejik kalkınma planlarının da bir yeri vardır amma planlar çoğu zaman dirence dönüşür.</p><p class=\"mb-4\">Koşullar değiştiğinde, dünden taşınan katılık sürtünme yaratır ve zuhûrâta tâbi olmayı zorlaştır.</p><p class=\"mb-4\">Açılan yolu izlemek<br>— en az zorlanma olanı —<br>Körü körüne kaçınmak değildir; olanı göre göre canlı duyarlılıktır.</p><p class=\"mb-4\">Olacağı varsa başarılar yine de olur ancak bunlar fetih gibi değil, daha çok açığa çıkma, noktanın anda açılımı gibi hissettirir.</p><p class=\"mb-4\"><strong><br>•<br>8.<br>Mevcudiyet Yoluyla Anmanın İnce Zekâsı<br>•</strong></p><p class=\"mb-4\">Bazı yüzeysek anlayışlar, analitik kritik bir süreç olarak düşünce yoluyla gelirler.<br>Daha derin anlayışlar ise bedenin şimdi burada hazır bulunuşu yoluyla...</p><p class=\"mb-4\">İçgörü, basiret, maneviyât arayışı gevşediğinde, ânın kendisi ders vermeye başlar.</p><p class=\"mb-4\">Deneyim artık yorumlanacak bir şey değil tam hissedilecek ve doğrudan özümsenecek bir şeydir...<br><br>Bilgi, biriktirilmek yerine bedenlenir, anda tezâhür ediverir.</p><p class=\"mb-4\"><br><strong>•<br>9.<br>İnşa Edilmiş Benliği Bırakmanın Hafifliği<br>•</strong></p><p class=\"mb-4\">Biri olmaya çalışmak<br>— daha özgüvenli, daha arzulanan, daha kâmil—<br>Yorucudur, çok yorucudur.</p><p class=\"mb-4\">Ve bu çaba yumuşadığında, bu kaçak artık sızdırmaz olduğunda, geriye kalan boşluk değil, mevcudiyettir.</p><p class=\"mb-4\">Merak etmeyin yok olmazsınız öyle...<br>Sadece bir maskeyi habire yüzünüze tutmayı bırakırsınız.<br>Dahası, doğmadan önceki yüzünüzü hatırlarsınız.</p>"
         },
         {
           "type": "alinti",
@@ -130,35 +47,7 @@
         },
         {
           "type": "metin",
-          "text": "•\n10.\nDeğişimi Zorlamayı Bıraktığınızda Gelen Değişim\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Değişim girişimleri, çok vakit kaçmaya çalıştığı kalıpları güçlendirir.\nHer kontrol, direnci besler.\n\nAma hareket öz yönetimden ziyade içtenlikten geldiğinde, hayat kendini yeniden düzenler.\nÖyle dramatik bir şekilde değil ama güvencesizlikten doğan tam güvenilir bir şekilde...\n\nHakikat, çabalamanın asla yapamayacağı işi yapar\nOl der ve oluverir..."
-        },
-        {
-          "type": "metin",
-          "text": "•\nGerilimin Yokluğu Olarak Câzibe\n•",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Hâsılı, Cazibenin Zen’i, daha fazlasını elde etmek, kendini düzeltmek ya da hayatı tercihlerinize uyacak şekilde yeniden düzenlemekle ilgili değildir.\n\nÇaba gevşediğinde, neyin kaybolduğunu doğrudan fark etmekle ilgilidir.\n\nHayâlî kontrolcü merkez yumuşadıkça, farklı bir uyum, doğal bir hizalanma belirir; peşinden koşulması ya da savunulması gerekmeyen doğal bir âheng...\n\nAsli özümüz olan, baskı olmadan yaklaşır.\nGereksiz olan, bir kayıp olmadan uzaklaşır.\n\nBu sâdelik içinde, cazibe artık bir strateji değildir, artık kendisiyle savaş halinde olmayan bir hayatın sessiz ışıltısıdır.\n\n••\n••\n•\n\nVe dünden kalan çevirinin tamam olduğu şimdiki zevkte,\nBizden bir dokunuşla, manâyı biraz daha inceltelim ve gözden düşmeden aradan çekiliverelim...\n\nZihnin, yeterince ışık düşmeyen en derin mahzenlerinde bir gölge, kendini kontrol etme, sevdiklerini bir arada tutma simülasyonunu oynarken yoruldu, yoruldu, hayli yoruldu...\n\n•\nEkran karardı...\n\nVe göz gözü görmeyen o karanlıkta\n— Ancak o zaman —\n\nKendini hiç cilalamadan parlayan bir şeyi fark etti.\n\nKlavye sustu.\nİşletim sistemi çöktü.\nAma hâlâ yazan biri vardı.\nYazılım değil, yazının kendisi.\n\nKâğıt değil, boşluk...\n\nVe bu boşluğun içinde, bütün ara~yüzlerin çözüldüğü yerde, sen ben de yoktuk.\n\nYalnızca tuşlara basan parmaklar değil, tüm parmakları hareket ettiren o tek, o isimsiz ve niyetsiz dokunuş...\n\nAşkın kanat sesleri...\n\nVe işte o dokunuş, hiçbir şeyi çekmiyordu.\nBilâkis her şey ona akıyordu.\n\nÇünkü çeken, çekilenden ayrı değildi hepten câzibe olmuştu artık.\n\nGözü açıldı...\nAyna, kendi yansımasını mı seyrediyordu?\n\nHayır hayır ayna, aynalık yapmayı bırakmıştı.\nBilmeden 'aynen ayna oldu\n\n...\n\nVe böylece, kontrolün son dişlisi de eriyip gittiğinde, geriye kalan sadece\n— kendiliğindenliğin elektromanyetik çekimi oldu."
-        },
-        {
-          "type": "metin",
-          "text": "Aşk oldu ve her şey durdu...\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Dünya bile bir an için, kendi ekseni etrafında dönmeyi unuttu.\nVe yok yere gülümsedi.\n\n...\n\nKayıt bitti!\nKapı açıldı\nŞimdi nefes al...\n\n..."
-        },
-        {
-          "type": "metin",
-          "text": "Ve yok~sandığın o büyük kapı,\nSen, kendi bildik hücrenle özdeşleşmeyi bıraktığın anda,\nDuvarda beliriverir..\n\nBak işte kapıdan çağıran bir ses var, seni beni...\n\n",
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><strong>•<br>10.<br>Değişimi Zorlamayı Bıraktığınızda Gelen Değişim<br>•<br></strong><br>Değişim girişimleri, çok vakit kaçmaya çalıştığı kalıpları güçlendirir.<br>Her kontrol, direnci besler.</p><p class=\"mb-4\">Ama hareket öz yönetimden ziyade içtenlikten geldiğinde, hayat kendini yeniden düzenler.<br>Öyle dramatik bir şekilde değil ama güvencesizlikten doğan tam güvenilir bir şekilde...</p><p class=\"mb-4\">Hakikat, çabalamanın asla yapamayacağı işi yapar<br>Ol der ve oluverir...</p><p class=\"mb-4\"><strong><br>•<br>Gerilimin Yokluğu Olarak Câzibe<br>•</strong></p><p class=\"mb-4\">Hâsılı, Cazibenin Zen’i, daha fazlasını elde etmek, kendini düzeltmek ya da hayatı tercihlerinize uyacak şekilde yeniden düzenlemekle ilgili değildir.</p><p class=\"mb-4\">Çaba gevşediğinde, neyin kaybolduğunu doğrudan fark etmekle ilgilidir.<br><br>Hayâlî kontrolcü merkez yumuşadıkça, farklı bir uyum, doğal bir hizalanma belirir; peşinden koşulması ya da savunulması gerekmeyen doğal bir âheng...</p><p class=\"mb-4\">Asli özümüz olan, baskı olmadan yaklaşır.<br>Gereksiz olan, bir kayıp olmadan uzaklaşır.</p><p class=\"mb-4\">Bu sâdelik içinde, cazibe artık bir strateji değildir, artık kendisiyle savaş halinde olmayan bir hayatın sessiz ışıltısıdır.</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Ve dünden kalan çevirinin tamam olduğu şimdiki zevkte,<br>Bizden bir dokunuşla, manâyı biraz daha inceltelim ve gözden düşmeden aradan çekiliverelim...</p><p class=\"mb-4\">Zihnin, yeterince ışık düşmeyen en derin mahzenlerinde bir gölge, kendini kontrol etme, sevdiklerini bir arada tutma simülasyonunu oynarken yoruldu, yoruldu, hayli yoruldu...</p><p class=\"mb-4\"><strong>•</strong><br>Ekran karardı...</p><p class=\"mb-4\">Ve göz gözü görmeyen o karanlıkta<br>— Ancak o zaman —</p><p class=\"mb-4\">Kendini hiç cilalamadan parlayan bir şeyi fark etti.</p><p class=\"mb-4\">Klavye sustu.<br>İşletim sistemi çöktü.<br>Ama hâlâ yazan biri vardı.<br>Yazılım değil, yazının kendisi.</p><p class=\"mb-4\">Kâğıt değil, boşluk...</p><p class=\"mb-4\">Ve bu boşluğun içinde, bütün ara~yüzlerin çözüldüğü yerde, sen ben de yoktuk.</p><p class=\"mb-4\">Yalnızca tuşlara basan parmaklar değil, tüm parmakları hareket ettiren o tek, o isimsiz ve niyetsiz dokunuş...<br><br>Aşkın kanat sesleri...</p><p class=\"mb-4\">Ve işte o dokunuş, hiçbir şeyi çekmiyordu.<br>Bilâkis her şey ona akıyordu.</p><p class=\"mb-4\">Çünkü çeken, çekilenden ayrı değildi hepten câzibe olmuştu artık.</p><p class=\"mb-4\">Gözü açıldı...<br>Ayna, kendi yansımasını mı seyrediyordu?</p><p class=\"mb-4\">Hayır hayır ayna, aynalık yapmayı bırakmıştı.<br>Bilmeden 'aynen ayna oldu<br><br>...</p><p class=\"mb-4\">Ve böylece, kontrolün son dişlisi de eriyip gittiğinde, geriye kalan sadece<br>— kendiliğindenliğin elektromanyetik çekimi oldu.</p><p class=\"mb-4\"><strong>Aşk oldu ve her şey durdu...</strong></p><p class=\"mb-4\">Dünya bile bir an için, kendi ekseni etrafında dönmeyi unuttu.<br>Ve yok yere gülümsedi.</p><p class=\"mb-4\">...<br><br>Kayıt bitti!<br>Kapı açıldı<br>Şimdi nefes al...</p><p class=\"mb-4\">...</p><p class=\"mb-4\"><strong><br>Ve yok~sandığın o büyük kapı,<br>Sen, kendi bildik hücrenle özdeşleşmeyi bıraktığın anda,<br>Duvarda beliriverir..<br><br>Bak işte kapıdan çağıran bir ses var, seni beni...</strong></p>"
         },
         {
           "type": "ses",
