@@ -18,65 +18,46 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "~\nDinler size Tanrı'dan korkmanızı söyler.\nAma ben size Tanrı'nın, korkunun yokluğu olduğunu söylüyorum\nZira korku hep bir başkasındandır.\n[Zen Bahçeleri'nden]\n\nKutsalın, manâ manâ örüldüğü sembol ilmeği, canlı canlı çözülmezse din, efsaneye, dinidar yaşayan insan da ölüye döner.\n[YÜZ SÖZ'den]\n\nİnsanlarda korku , açgözlülük, utanç, nefret veya kıskançlık uyandıran hiçbir şey din değildir, din görünümlü kirli siyasettir.\n[V. Pelevin'den]"
-        },
-        {
-          "type": "metin",
-          "text": "~\nKorku, kontrolün para birimidir; hür ol, korkma!\nKorkuya dayalı inançları kabul etme, utanç döngülerine devam etme!\n~",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "İnsanlar ibadetlere, dini ritüellere, manevi uygulamalara Allah rızası için ya hakikat aşkına filan başlamazlar."
-        },
-        {
-          "type": "metin",
-          "text": "Korku, suçluluk, kafa karışıklığı...",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Körü körüne inanırlar çünkü ölümden korkarlar\nİtaat ederler çünkü cezalandırılmak istemezler\nDogmatik tapınma ritüellerine devam ederler çünkü sonunda onlara rahatlık, ferahlık ve sonsuz bir cennet yurdu vaat edilmektedir.\n\nHer manevi geleneğin, mucizelerle başlaması biraz da bundandır.\n\nBebeklerin et değil, süte ihtiyacı vardır.\n\nRuh, erken dönemde yani ben~sandığının emri altındaki mevsimde, ham olan gerçekliği, olduğu gibi sindiremez.\n\nAtalet ve korkuyu aşmak için tatlılığa, ödüle ve umuda muhtaçtır.\n\nBöylece \"aydınlanma\", pazara sonsuz mutluluk etiketiyle sürülür.\nCennet, gökyüzünde bir dizi köşk ve içlerinde nice güzel yüzlüler olarak resmedilir.\nSimya, altın, bozulmadan kalıcılık ve ölümsüzlük diye pazarlanır..\n\nKelimenin tam anlamıyla ele alındığında, bunlar çarpıtmalardır… ama işte işe yararlar.\n\nİnsanları mahcubiyetle oturmaya, soğuk nefeslerle dua kelimelerini ezbere tekrar etmeye, fantezinin altında gerçek bir şeyin filizlenmeye başlaması için yeterince uzun süren bir disipline katlanmaya teşvik ederler.\n\nYe aşı\nKıl beşi\nKurtar başı\nDiye diye bir gün gelir, zihnin büluğ çağı çatar.\n\nBelirli bir olgunlukta, mitler çöker.\nBu ihanet değil, başarıdır.\n\nKendine yolcu, gerçeğin her zaman daha sessiz ve daha talepkar olduğunu keşfeder:\n\nAydınlanma kaçış değil, açıklıktır;\nCennet bir mekân değil, uyumdur;\nVe ölümsüzlük, sonsuz zaman değil, psikolojik ölümden kurtuluştur.\n—Türlü ben~in sürekli tekrarlanan ölümünden—\n\nAma bu çıplak hakikat başlangıçta verilemezdi; anlamsız görünür, boş gelirdi.\n\nMucizeler, kerametler asla varış noktası değildi.\nBunlar asıl sürüş için takılan birer destek tekerleği gibiydiler.\n\nVe bunlar düştüğünde geriye kalan hayal kırıklığı değil, olağan bir hayatı direnmeden yaşayabilme yeteneğidir.\n\nKimbilir belki de olağan hayatı direnmeden yaşama yeteneğinin ardında olağanüstü bir hazîne gizlidir...\n\n~\n\nYüreğinin imbiğinden sızan, yazının son kelimesi ile birlikte, masanın üstündeki çay bardağından son yudumu da insana buyur etti.\n\nVe sonra uzun uzun baktı, elinde tuttuğu cam güzeline...\n\nBardağın içinde yansıyan yüz, artık bir yüz değil, sadece bir ışık oyunuydu.\n\nNeden sonra seslere dikkat kesildi...\nSokaktan gelen bir korna sesi, bir çocuk kahkahası, bir kuş cıvıltısı…\nHepsi aynı yerden geliyor, aynı yere gidiyordu.\n\nFark edildikleri açık alanda\nAralarında hiçbir ayrım yoktu.\n\nO an anlar gibi oldu...\n\n\"Uzun hikayem\" dediği bu dolambaçlı yol, tüm bu çile, tüm bu dualar, şüpheler, korkular, azaplar onu asla “başka bir yere” götürmemişti.\n\nSadece tam olarak bulunduğu yere getirmişti.\nArtık olmasını beklediği hiçbir şey kalmamıştı.\n\nİşte işte \"Tam burası\" cennetti.\n\"Şu an\" ölümsüzlüktü.\nVaroluşun kendisi, hiçbir şeyin eksik olmadığı, hiçbir şeyin fazla olmadığı o mükemmel ahenkti.\n\nKimbilir belki de \"olağan\" hayatı direnmeden yaşama yeteneği, \"insan imkânı\" asıl hazine, bu demekti...\n\nBelki de hazine, bir insan kendinde olanı aramayı bıraktığı anda, avucunun içinde hissettiği her şey olabilecek o boşluğun ta kendisi idi\n\nSon bir muz kabuğu kaldı\nBir adım daha atsa olacaktı\nCennetin kapısını çalmadı\nZaten hep açıktı\n\nErtelemeyene\nHer ihtimale AÇIK\nDünden ve yarından BOŞ\nOlacaklara HAZIR\nOLAN BİRİ~NE\n\n~\n\n"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br>Dinler size Tanrı'dan korkmanızı söyler.<br>Ama ben size Tanrı'nın, korkunun yokluğu olduğunu söylüyorum<br>Zira korku hep bir başkasındandır.<br></p>",
+          "author": "[Zen Bahçeleri'nden]"
         },
         {
           "type": "alinti",
-          "text": "Gerçek din, sabit bir yapı değil, her an yeniden doğan bir anlayıştır.\nPaketlenemez, öğretilemez veya ezberlenemez.\n",
+          "text": "<p class=\"mb-4\">Kutsalın, manâ manâ örüldüğü sembol ilmeği, canlı canlı çözülmezse din, efsaneye, dinidar yaşayan insan da ölüye döner.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İnsanlarda korku , açgözlülük, utanç, nefret veya kıskançlık uyandıran hiçbir şey din değildir, din görünümlü kirli siyasettir.<br></p>",
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Ne şeriat ne tarikat ne hakikat ne türe<br>Süremez hükmünü bunlar yaşadıkça bu küre<br></em><strong><em>Câhilin korku kokan defterini Tanrı düre!<br></em></strong><em>Marifet mahkemesinde verilen hükme göre<br>Cennet iflâs eder, efsâne-i Âdem de geçer.<br></em></p>",
+          "author": "[N. Tevfik'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>~<br>Korku, kontrolün para birimidir; hür ol, korkma!<br>Korkuya dayalı inançları kabul etme, utanç döngülerine devam etme!<br>~</strong></p><p class=\"mb-4\">İnsanlar ibadetlere, dini ritüellere, manevi uygulamalara Allah rızası için ya hakikat aşkına filan başlamazlar.<br><br><strong><em>Korku, suçluluk, kafa karışıklığı...</em></strong></p><p class=\"mb-4\">Körü körüne inanırlar çünkü ölümden korkarlar<br>İtaat ederler çünkü cezalandırılmak istemezler<br>Dogmatik tapınma ritüellerine devam ederler çünkü sonunda onlara rahatlık, ferahlık ve sonsuz bir cennet yurdu vaat edilmektedir.</p><p class=\"mb-4\">Her manevi geleneğin, mucizelerle başlaması biraz da bundandır.</p><p class=\"mb-4\">Bebeklerin et değil, süte ihtiyacı vardır.</p><p class=\"mb-4\">Ruh, erken dönemde yani ben~sandığının emri altındaki mevsimde, ham olan gerçekliği, olduğu gibi sindiremez.</p><p class=\"mb-4\">Atalet ve korkuyu aşmak için tatlılığa, ödüle ve umuda muhtaçtır.</p><p class=\"mb-4\">Böylece \"aydınlanma\", pazara sonsuz mutluluk etiketiyle sürülür.<br>Cennet, gökyüzünde bir dizi köşk ve içlerinde nice güzel yüzlüler olarak resmedilir.<br>Simya, altın, bozulmadan kalıcılık ve ölümsüzlük diye pazarlanır..</p><p class=\"mb-4\">Kelimenin tam anlamıyla ele alındığında, bunlar çarpıtmalardır… ama işte işe yararlar.</p><p class=\"mb-4\">İnsanları mahcubiyetle oturmaya, soğuk nefeslerle dua kelimelerini ezbere tekrar etmeye, fantezinin altında gerçek bir şeyin filizlenmeye başlaması için yeterince uzun süren bir disipline katlanmaya teşvik ederler.</p><p class=\"mb-4\">Ye aşı<br>Kıl beşi<br>Kurtar başı<br>Diye diye bir gün gelir, zihnin büluğ çağı çatar.</p><p class=\"mb-4\">Belirli bir olgunlukta, mitler çöker.<br>Bu ihanet değil, başarıdır.</p><p class=\"mb-4\">Kendine yolcu, gerçeğin her zaman daha sessiz ve daha talepkar olduğunu keşfeder:</p><p class=\"mb-4\">Aydınlanma kaçış değil, açıklıktır;<br>Cennet bir mekân değil, uyumdur;<br>Ve ölümsüzlük, sonsuz zaman değil, psikolojik ölümden kurtuluştur.<br>—Türlü ben~in sürekli tekrarlanan ölümünden—</p><p class=\"mb-4\">Ama bu çıplak hakikat başlangıçta verilemezdi; anlamsız görünür, boş gelirdi.</p><p class=\"mb-4\">Mucizeler, kerametler asla varış noktası değildi.<br>Bunlar asıl sürüş için takılan birer destek tekerleği gibiydiler.</p><p class=\"mb-4\">Ve bunlar düştüğünde geriye kalan hayal kırıklığı değil, olağan bir hayatı direnmeden yaşayabilme yeteneğidir.</p><p class=\"mb-4\">Kimbilir belki de olağan hayatı direnmeden yaşama yeteneğinin ardında olağanüstü bir hazîne gizlidir...</p><p class=\"mb-4\">~<br><br>Yüreğinin imbiğinden sızan, yazının son kelimesi ile birlikte, masanın üstündeki çay bardağından son yudumu da insana buyur etti.<br><br>Ve sonra uzun uzun baktı, elinde tuttuğu cam güzeline...</p><p class=\"mb-4\">Bardağın içinde yansıyan yüz, artık bir yüz değil, sadece bir ışık oyunuydu.</p><p class=\"mb-4\">Neden sonra seslere dikkat kesildi...<br>Sokaktan gelen bir korna sesi, bir çocuk kahkahası, bir kuş cıvıltısı…<br>Hepsi aynı yerden geliyor, aynı yere gidiyordu.</p><p class=\"mb-4\">Fark edildikleri açık alanda<br>Aralarında hiçbir ayrım yoktu.</p><p class=\"mb-4\">O an anlar gibi oldu...</p><p class=\"mb-4\">\"Uzun hikayem\" dediği bu dolambaçlı yol, tüm bu çile, tüm bu dualar, şüpheler, korkular, azaplar onu asla “başka bir yere” götürmemişti.</p><p class=\"mb-4\">Sadece tam olarak bulunduğu yere getirmişti.<br>Artık olmasını beklediği hiçbir şey kalmamıştı.</p><p class=\"mb-4\">İşte işte \"Tam burası\" cennetti.<br>\"Şu an\" ölümsüzlüktü.<br>Varoluşun kendisi, hiçbir şeyin eksik olmadığı, hiçbir şeyin fazla olmadığı o mükemmel ahenkti.</p><p class=\"mb-4\">Kimbilir belki de \"olağan\" hayatı direnmeden yaşama yeteneği, \"insan imkânı\" asıl hazine, bu demekti...</p><p class=\"mb-4\">Belki de hazine, bir insan kendinde olanı aramayı bıraktığı anda, avucunun içinde hissettiği her şey olabilecek o boşluğun ta kendisi idi</p><p class=\"mb-4\">Son bir muz kabuğu kaldı<br>Bir adım daha atsa olacaktı<br>Cennetin kapısını çalmadı<br>Zaten hep açıktı</p><p class=\"mb-4\">Ertelemeyene<br>Her ihtimale AÇIK<br>Dünden ve yarından BOŞ<br>Olacaklara HAZIR<br>OLAN BİRİ~NE<br><br>~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gerçek din, sabit bir yapı değil, her an yeniden doğan bir anlayıştır.<br>Paketlenemez, öğretilemez veya ezberlenemez.<br></p>",
           "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
         },
         {
           "type": "metin",
-          "text": "Habîbullâh kıldı gerçek namaz yalnız kendi özüne\n"
-        },
-        {
-          "type": "metin_inline",
-          "text": "Uydu ",
-          "is_colored": false,
-          "is_bold": false
-        },
-        {
-          "type": "metin_inline",
-          "text": "\"Yüzünü ortaksız dîn~e dön\"",
-          "is_bold": true
-        },
-        {
-          "type": "metin_inline",
-          "text": " sözüne"
-        },
-        {
-          "type": "metin",
-          "text": "Gerçek tevhîd! O senin fıtratındaki dindir!\nSaklı rûhunu çıkar! Ortak koşmayı dindir!\n\nKâbe'de HAK DOST'un yaptığı gibi, sen de!\nİçinde ve dışında, her putu kırıp indir!\n",
-          "is_tight": true
+          "text": "<p class=\"mb-4\">Habîbullâh kıldı gerçek namaz yalnız kendi özüne<br>Uydu <strong>\"Yüzünü ortaksız dîn~e dön\"</strong> sözüne<br><br>Gerçek tevhîd! O senin fıtratındaki dindir!<br>Saklı rûhunu çıkar! Ortak koşmayı dindir!<br><br>Kâbe'de HAK DOST'un yaptığı gibi, sen de!<br>İçinde ve dışında, her putu kırıp indir!</p>"
         },
         {
           "type": "alinti",
-          "text": "Vechini hanîf olarak\n\n(Ayrı bir tanrıya tapınmaksızın, Allah’a şirk koşmaksızın)\n\nO tek dîn~e doğrult!\n",
+          "text": "<p class=\"mb-4\"><strong>Vechini hanîf olarak<br>(Ayrı bir tanrıya tapınmaksızın, Allah’a şirk koşmaksızın)<br>O tek dîn~e doğrult!</strong><br></p>",
           "author": "[Rûm:30'dan]"
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\"><br>~</p>"
         }
       ]
     }
