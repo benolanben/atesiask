@@ -19,26 +19,17 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Varoluş, nihai süper~pozisyondur; ontolojik bir anda her değişkeni hesaplamak için, onu kavrayabilmek adına evreni zihninizde yeniden yaratmanız gerekir. Biz bilgiye değil, deneyime mahkum edildik.\n",
+          "text": "<p class=\"mb-4\">Varoluş, nihai süper~pozisyondur; ontolojik bir anda her değişkeni hesaplamak için, onu kavrayabilmek adına evreni zihninizde yeniden yaratmanız gerekir. Biz bilgiye değil, deneyime mahkum edildik.</p>",
           "author": "[A. Watts'dan]"
         },
         {
           "type": "alinti",
-          "text": "Hiçbir şey, kendini her şey olarak deneyimliyor;\nBütün yönleriyle, renkleriyle, sesleriyle, kendinin tüm yelpazesinde...\nKime ne!\n",
+          "text": "<p class=\"mb-4\">Hiçbir şey, kendini her şey olarak deneyimliyor; Bütün yönleriyle, renkleriyle, sesleriyle, kendinin tüm yelpazesinde... Kime ne!</p>",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "Teleskoplarımızla ne kadar uzağa bakarsak\nBir o kadar büyük\nVe mikroskoplarımızla ne kadar derine bakarsak\nBir o kadar küçük hâle gelir\nPeki neden\nİncelenmekten kaçınmak için Ev~İ~ren,\n~\nZira biz evrenin kendisine bakan evreniz.\n\n~\n\nVe sonunda, aletleri bırakıp sadece nefes alırken geliyor idrak:\n\nKaçan bir şey yok.\nSadece bir oyun bu..."
-        },
-        {
-          "type": "metin",
-          "text": "Bütün kuytularını bul diye oynandı hayatının saklambacı...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Evrenin, kendi sonsuz yüzünü bulmak için kendiyle saklambaç oynayışı.\n\nBiz de o bir yüzüz işte..\n\nHem delicesine arayan\nHem de delirmeyelim diye saklanan..."
+          "text": "<p class=\"mb-4\">Teleskoplarımızla ne kadar uzağa bakarsak<br>Bir o kadar büyük<br>Ve mikroskoplarımızla ne kadar derine bakarsak<br>Bir o kadar küçük hâle gelir<br>Peki neden<br>İncelenmekten kaçınmak için Ev~İ~ren,<br>~<br>Zira biz evrenin kendisine bakan evreniz.</p><p class=\"mb-4\"></p><p class=\"mb-4\">~</p><p class=\"mb-4\">Ve sonunda, aletleri bırakıp sadece nefes alırken geliyor idrak:</p><p class=\"mb-4\">Kaçan bir şey yok.<br>Sadece bir oyun bu...<br><br><strong>Bütün kuytularını bul diye oynandı hayatının saklambacı...</strong></p><p class=\"mb-4\">Evrenin, kendi sonsuz yüzünü bulmak için kendiyle saklambaç oynayışı.</p><p class=\"mb-4\">Biz de o bir yüzüz işte..</p><p class=\"mb-4\">Hem delicesine arayan<br>Hem de delirmeyelim diye saklanan...</p>"
         },
         {
           "type": "alinti",
@@ -47,16 +38,7 @@
         },
         {
           "type": "metin",
-          "text": "~\n\nNihayet sonradan olma ışıklar sönüp ses kesilince bir gülümseme beliriyor yüzünde:\n\nAradığın sensin.\nBaktığın da sen.\nKaçan da sen.\n\nDur artık ey yolcu,\nEy kendi peşinde koşan kâinat,\nVe içinde kaybolduğun bu hikâyeye bir bak"
-        },
-        {
-          "type": "metin",
-          "text": "İşte o an, her şey yerine oturur ve hiçbir şey hareket etmez!",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~<br><br>Nihayet sonradan olma ışıklar sönüp ses kesilince bir gülümseme beliriyor yüzünde:</p><p class=\"mb-4\">Aradığın sensin.<br>Baktığın da sen.<br>Kaçan da sen.</p><p class=\"mb-4\">Dur artık ey yolcu,<br>Ey kendi peşinde koşan kâinat,<br>Ve içinde kaybolduğun bu hikâyeye bir bak</p><p class=\"mb-4\"><strong>İşte o an, her şey yerine oturur ve hiçbir şey hareket etmez!<br></strong><br>~</p>"
         },
         {
           "type": "alinti",
@@ -65,7 +47,7 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         },
         {
           "type": "alinti",
@@ -74,7 +56,7 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
