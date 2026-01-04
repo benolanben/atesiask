@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yeni yüzüyle yüzleşmek",
+      "id": 202601042210,
+      "category": "posts/seyirdefteri/202601042210"
+    },
+    {
       "text": {
         "sira_no": 1468,
         "parca_adi": "Rast güzeli",
@@ -64,11 +69,6 @@
       "text": "Örtünen kim",
       "id": 202601022125,
       "category": "posts/seyirdefteri/202601022125"
-    },
-    {
-      "text": "Ters~yüz",
-      "id": 202601021625,
-      "category": "posts/seyirdefteri/202601021625"
     }
   ]
 }
