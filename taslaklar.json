@@ -1,44 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 1767556722210,
-      "title": "Pluribus",
-      "category": "seyirzevki",
-      "content": {
-        "id": 1767556722210,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-01-04T19:58:32.232Z",
-        "created_at": "2026-01-04T19:58:32.232Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601042307-1767557258279.jpg",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              "garip~sen"
-            ],
-            "title": "Pluribus",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": "<p class=\"mb-4\"><strong>Hayat ne garip...</strong><br>Kuyudan çıkmak için ilkin içine düşmeniz gerekir.<br><br><strong>Hayat ne garip...</strong><br>İnsanlar ölümden korkarlar çünkü mallarını kaybetmekten korkarlar; uyuduklarında ise hiç öyle bir korku duymazlar.<br><br><strong>Hayat ne garip...</strong><br>Bir şeyi kelimelerle ifade etmeye çalıştığımız anda, garip bir şekilde onu küçültüyoruz.<br><br><strong><em><span class=\"colored\">Bilinmezin lezzeti ne garip...</span></em></strong><br><br></p>"
-              },
-              {
-                "type": "spoiler",
-                "text": "<p class=\"mb-4\"><br>Fe-tubâ li'l-gurebâ...<br><br></p>"
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-01-04T19:58:42.210Z",
-      "updated_at": "2026-01-04T20:06:41.510Z"
-    },
-    {
       "id": 1767553845152,
       "title": "Ay~ışığında aşk",
       "category": "seyirdefteri",
