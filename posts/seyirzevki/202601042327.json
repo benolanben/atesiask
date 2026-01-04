@@ -1,0 +1,36 @@
+{
+  "id": 202601042327,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-04T19:58:32.232Z",
+  "created_at": "2026-01-04T20:27:34.680Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601042307-1767557258279.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "garip~sen"
+      ],
+      "title": "PLUR1BUS",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><strong>E Pluribus Unum. </strong><br><br>\"Çokluktan Tekliğe\"<br><strong>Kesret'ten Vahdet'e</strong></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Dizinin evreninde, insanlığın geri kalanı bir \"ortak bilinç\" (hive mind) haline gelmiş ve herkes mutlak bir mutluluk ve uyum içinde yaşamaktadır. Bu durum, bireysellik, özgür irade, mutluluk ve toplum gibi kavramları yeniden sorgulatır.<br><br><strong>Mutluluk, özgürlükten daha mı değerli?</strong><br><br><strong>Tek bir bilinçte birleşmek kurtuluş mu, tutsaklık mı?</strong><br><br><strong>Dünyanın en perişan insanı, dünyayı koşulsuz mutluluktan kurtarabilir mi?</strong><br><br><br></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><strong>Hayat ne garip...</strong><br><strong><em><span class=\"colored\">Bilinmezin lezzeti ne garip...</span></em></strong><br><br>Fe-tubâ li'l-gurebâ...<br><br></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-04T20:27:34.680Z"
+}
