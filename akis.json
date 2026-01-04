@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1466,
+        "parca_adi": "Dil hânesi",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/df578mww0reopek/dilhanesi_p.mp3"
+      },
+      "id": 202601041146,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "İstanbul Ansiklopedisi",
       "id": 202601022307,
       "category": "posts/seyirzevki/202601022307"
@@ -49,11 +59,6 @@
       "text": "Aşk kendine çevirmen",
       "id": 202512312204,
       "category": "posts/seyirdefteri/202512312204"
-    },
-    {
-      "text": "Kendini parçalama",
-      "id": 202512312158,
-      "category": "posts/seyirdefteri/202512312158"
     }
   ]
 }
