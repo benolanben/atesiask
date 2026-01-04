@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1467,
+        "parca_adi": "Uyandı bâtın çerâğı",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/trrwenems89xr85/uyandi.mp3"
+      },
+      "id": 202601041309,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1466,
         "parca_adi": "Dil hânesi",
         "seslendiren": "A. Aşk",
@@ -54,11 +64,6 @@
       "text": "Kendini gerçekleştiren döngü",
       "id": 202512312208,
       "category": "posts/seyirdefteri/202512312208"
-    },
-    {
-      "text": "Aşk kendine çevirmen",
-      "id": 202512312204,
-      "category": "posts/seyirdefteri/202512312204"
     }
   ]
 }
