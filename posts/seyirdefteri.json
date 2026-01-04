@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601042210,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601042210-1767553822461.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "abdal kadri",
+            "naz",
+            "vechullah",
+            "yeni",
+            "yüz söz"
+          ],
+          "title": "Yeni yüzüyle yüzleşmek",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601042115,
       "article": {
         "header": {
