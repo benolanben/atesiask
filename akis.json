@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "PLUR1BUS",
+      "id": 202601042327,
+      "category": "posts/seyirzevki/202601042327"
+    },
+    {
       "text": "Yeni yüzüyle yüzleşmek",
       "id": 202601042210,
       "category": "posts/seyirdefteri/202601042210"
@@ -64,11 +69,6 @@
       },
       "id": 202601011753,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Örtünen kim",
-      "id": 202601022125,
-      "category": "posts/seyirdefteri/202601022125"
     }
   ]
 }
