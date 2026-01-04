@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yakan yanmaktadır",
+      "id": 202601042115,
+      "category": "posts/seyirdefteri/202601042115"
+    },
+    {
       "text": {
         "sira_no": 1467,
         "parca_adi": "Uyandı bâtın çerâğı",
@@ -59,11 +64,6 @@
       "text": "Boya küpü",
       "id": 202601021500,
       "category": "posts/seyirdefteri/202601021500"
-    },
-    {
-      "text": "Kendini gerçekleştiren döngü",
-      "id": 202512312208,
-      "category": "posts/seyirdefteri/202512312208"
     }
   ]
 }
