@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1468,
+        "parca_adi": "Rast güzeli",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/sr3gn5l1ioelr6e/rast_guzeli.mp3"
+      },
+      "id": 202601042117,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Yakan yanmaktadır",
       "id": 202601042115,
       "category": "posts/seyirdefteri/202601042115"
@@ -59,11 +69,6 @@
       "text": "Ters~yüz",
       "id": 202601021625,
       "category": "posts/seyirdefteri/202601021625"
-    },
-    {
-      "text": "Boya küpü",
-      "id": 202601021500,
-      "category": "posts/seyirdefteri/202601021500"
     }
   ]
 }
