@@ -1,3 +1,39 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1767553845152,
+      "title": "Ay~ışığında aşk",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1767553845152,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-04T18:08:02.831Z",
+        "created_at": "2026-01-04T18:08:02.831Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601042254-1767556442674.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "ay",
+              "aşk"
+            ],
+            "title": "Ay~ışığında aşk",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-04T19:10:45.152Z",
+      "updated_at": "2026-01-04T19:11:02.784Z"
+    }
+  ]
 }
