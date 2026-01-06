@@ -19,17 +19,28 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "Aşkım gâlîb geldi yüreğim harlar\nÂşık olan arı namusu n'eyler\nBehey Yûnus sana söyleme derler\nYa ben öleyim mi söylemeyince...\n[Y. Emre'den]\n\nSâdece içimde susmak istemeyen bir ses olduğu için yazıyorum...\n[S. Plath'dan]\n\n~\n\nKendimi açığa vurmak istiyorum.\nİçimde hiçbir şey gizli kalmasın...\nÇünkü nerede gerçekten gizli kalırsam\nOrada sahte olurum.\n\nArap saçına döndüm, çözülmek istiyorum\nİçimdeki suyun düğümünü çözmek istiyorum,\n\nYüzümü göstermek\nYok~yere duranlarımın\nVarlığa gölgesini düşürmek istiyorum...\n\nBunu istiyorum çünkü gölgede kalan her parçam, orada, ışığın yokluğunda bir kabuk, sahte bir ben doğuruyor.\n\nO sahte ben ki...\n\nBir mum alevinin arkasında titreyen ve kendini asıl sanan gölgeler gibi...\nOnu besleyen, ona hayat veren, saklandığı o duvar.\n\nGözden uzak kalması, söze düşmemesidir...\nÖyleyse duvarı yok etmeli, gölgeyi değil;\nO vakit tüm benliğin, o sonsuz ânın içinde süzülür."
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Aşkım gâlîb geldi yüreğim harlar<br>Âşık olan arı namusu n'eyler<br>Behey Yûnus sana söyleme derler<br>Ya ben öleyim mi söylemeyince...<br></p>",
+          "is_colored": true,
+          "author": "[Y. Emre'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Sâdece içimde susmak istemeyen bir ses olduğu için yazıyorum...<br><br></p>",
+          "is_colored": true,
+          "author": "[S. Plath'dan]"
         },
         {
           "type": "metin",
-          "text": "Mahv-ı vücûd iden\nİder kendini mahz-ı nur-ı aşk\nArada hâil olmasa\nSâye~de âfitâb olur ❞",
-          "is_colored": true
+          "text": "<p class=\"mb-4\">~<br><br>Kendimi açığa vurmak istiyorum.<br>İçimde hiçbir şey gizli kalmasın...<br>Çünkü nerede gerçekten gizli kalırsam<br>Orada sahte olurum.</p><p class=\"mb-4\">Arap saçına döndüm, çözülmek istiyorum<br>İçimdeki suyun düğümünü çözmek istiyorum,<br><br>Yüzümü göstermek<br>Yok~yere duranlarımın<br>Varlığa gölgesini düşürmek istiyorum...</p><p class=\"mb-4\">Bunu istiyorum çünkü gölgede kalan her parçam, orada, ışığın yokluğunda bir kabuk, sahte bir ben doğuruyor.</p><p class=\"mb-4\">O sahte ben ki...</p><p class=\"mb-4\">Bir mum alevinin arkasında titreyen ve kendini asıl sanan gölgeler gibi...<br>Onu besleyen, ona hayat veren, saklandığı o duvar.</p><p class=\"mb-4\">Gözden uzak kalması, söze düşmemesidir...<br>Öyleyse duvarı yok etmeli, gölgeyi değil;<br>O vakit tüm benliğin, o sonsuz ânın içinde süzülür.</p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><em>Mahv-ı vücûd iden<br>İder kendini mahz-ı nur-ı aşk<br>Arada hâil olmasa<br>Sâye~de âfitâb olur</em> ❞</p>"
         },
         {
           "type": "metin",
-          "text": "Ve içimdeki geceyi dökmek istiyorum,\nBir testiden su yerine karanlık akana dek...\n\nZira her saklanan düşünce, her bastırılan duygu, her gizlenen korku, teneke bir kutunun içinde tiksinç bir böceğe dönüşüyor.\n\nVe sen, o kutuyu göğsünde, kalbinin üstünde taşırsın.\n\nAğırlığı seni ezer, sesi seni kemirir.\n\nHayır, kutuyu aç.\nIşığı sok içeri.\nBöceğin, ışığa çıktığında, altın tozundan kanatları olan bir peridir aslında.\n\nYa da hiçtir.\nBence ne farkı var...\n\nZen bahçelerindeki tırmık izleri gibiydi düşüncelerim...\n\nDüz çizgiler, kusursuz düzen.\n\nAma görünen yüzün altında, taşların ve kumun birleştiği yerde, kaos yatar.\nGerçek düzen, o kaosun içindeki bütünlükte var.\nOnu saklamak, yüzeydeki izlere tapınmak...\n\nKumu dağıt, taşı ortaya çıkar.\nTaş senin hammadden.\nSessiz, değişmez, hiçbir şeyi saklamayan.\nÜzerinde hiçbir şey büyümez çünkü olan her şey odur zaten.\n\nŞimdi bu toprakların irfân ocakları aynasında bakıyorum kendime...\n\nBuğulanmış aynada, silüetim bulanık.\nSilmek istiyorum camı,\nKi yansıma ile kaynak bir olsun.\n\n\"Ene'l-Hak\" diyebilenin erenlerin cesâretiyle yaklaşıyorum aynaya.\n\nHer gizli kalmış köşe, aynada bir buğu gibi...\n\nDurma durula onları.\nÖyle bir sil ki\nAyna seni değil, sen aynayı yansıtır hâle gel.\n\nAynayı aynaya tutmuş gibi,\nNe var ki iki değil...\n\n~\n\nO zaman anlarsın ki\nSaklanan hiçbir şey yoktu;\nSadece bakmayı bilmeyen bir göz vardı...\n\nAma giyinmişim kat kat üstüne\nDevam ediyorum bu soyma, soyunma işine\n\nKemiklerimi, iliğine kadar soyuyorum.\nRuhumun en karanlık mahzenlerine iniyorum, el fenerim olmadan.\nKorkum yok çünkü karanlık da benim\nİçimdeki ‘öteki’ ile kucaklaşıyorum\n\nBütün yüzlerimi tanıyorum bir bir...\n\nPnu dışarda bıraktığım her an, kapıda bir dilenci, bir hayalet gibi sızlanıyor zira...\n\nİçeri aldım onu.\nOturttum karşıma.\nBir çay koydum önüne.\nBir güzel döktü içini\n\nAnlaşıldık ya...\nŞimdi ikimiz de yokuz.\n\nSadece soğuk odaya imzasını bırakan çay buharının sessiz dansı var ortada.\n\n~\n\nVe ölümden önceki son nefesim bir patlama değil, bir sönüş gibi dökülsün:\n\nŞimdi, sessizliğin ortasında duruyorum.\nİçim bomboş.\nSakladığım hiçbir şey kalmadı.\n\nGizli hiçbir köşe....\n\nVe bu mutlak şeffaflık içinde, bir an için dehşete kapılıyorum:\n‘Ben’ diye gösterebileceğim bir şey kalmadı.\n\nArdından, o dehşetin içinden süzülen bir sükûnet...\n\nÇünkü anlıyorum; asıl sahtelik, ‘ben’ dediğim kabuğun ta kendisiydi.\n\nOnu altını doldurmak için sakladığım her şey, onu besliyordu sadece.\n\nKabuk çatladı.\nİçindekiler dağıldı.\n\nGeriye, tüm evrenin hiçbir engel olmaksızın içinden aktığı bir boşluk kaldı.\nİşte burada, nihayet, hayâlim gerçek oldum.\n\nÇünkü ayrı ‘olmak’ diye bir şey kalmadı.\n\nOlan o oldu....\n\n~"
+          "text": "<p class=\"mb-4\">Ve içimdeki geceyi dökmek istiyorum,<br>Bir testiden su yerine karanlık akana dek...</p><p class=\"mb-4\">Zira her saklanan düşünce, her bastırılan duygu, her gizlenen korku, teneke bir kutunun içinde tiksinç bir böceğe dönüşüyor.</p><p class=\"mb-4\">Ve sen, o kutuyu göğsünde, kalbinin üstünde taşırsın.</p><p class=\"mb-4\">Ağırlığı seni ezer, sesi seni kemirir.</p><p class=\"mb-4\">Hayır, kutuyu aç.<br>Işığı sok içeri.<br>Böceğin, ışığa çıktığında, altın tozundan kanatları olan bir peridir aslında.</p><p class=\"mb-4\">Ya da hiçtir.<br>Bence ne farkı var...</p><p class=\"mb-4\">Zen bahçelerindeki tırmık izleri gibiydi düşüncelerim...</p><p class=\"mb-4\">Düz çizgiler, kusursuz düzen.</p><p class=\"mb-4\">Ama görünen yüzün altında, taşların ve kumun birleştiği yerde, kaos yatar.<br>Gerçek düzen, o kaosun içindeki bütünlükte var.<br>Onu saklamak, yüzeydeki izlere tapınmak...</p><p class=\"mb-4\">Kumu dağıt, taşı ortaya çıkar.<br>Taş senin hammadden.<br>Sessiz, değişmez, hiçbir şeyi saklamayan.<br>Üzerinde hiçbir şey büyümez çünkü olan her şey odur zaten.</p><p class=\"mb-4\">Şimdi bu toprakların irfân ocakları aynasında bakıyorum kendime...</p><p class=\"mb-4\">Buğulanmış aynada, silüetim bulanık.<br>Silmek istiyorum camı,<br>Ki yansıma ile kaynak bir olsun.</p><p class=\"mb-4\">\"Ene'l-Hak\" diyebilenin erenlerin cesâretiyle yaklaşıyorum aynaya.</p><p class=\"mb-4\">Her gizli kalmış köşe, aynada bir buğu gibi...</p><p class=\"mb-4\">Durma durula onları.<br>Öyle bir sil ki<br>Ayna seni değil, sen aynayı yansıtır hâle gel.</p><p class=\"mb-4\">Aynayı aynaya tutmuş gibi,<br>Ne var ki iki değil...</p><p class=\"mb-4\">~<br><br>O zaman anlarsın ki<br>Saklanan hiçbir şey yoktu;<br>Sadece bakmayı bilmeyen bir göz vardı...</p><p class=\"mb-4\">Ama giyinmişim kat kat üstüne<br>Devam ediyorum bu soyma, soyunma işine</p><p class=\"mb-4\">Kemiklerimi, iliğine kadar soyuyorum.<br>Ruhumun en karanlık mahzenlerine iniyorum, el fenerim olmadan.<br>Korkum yok çünkü karanlık da benim<br>İçimdeki ‘öteki’ ile kucaklaşıyorum<br><br>Bütün yüzlerimi tanıyorum bir bir...</p><p class=\"mb-4\">Onu dışarda bıraktığım her an, kapıda bir dilenci, bir hayalet gibi sızlanıyor zira...</p><p class=\"mb-4\">İçeri aldım onu.<br>Oturttum karşıma.<br>Bir çay koydum önüne.<br>Bir güzel döktü içini</p><p class=\"mb-4\">Anlaşıldık ya...<br>Şimdi ikimiz de yokuz.</p><p class=\"mb-4\">Sadece soğuk odaya imzasını bırakan çay buharının sessiz dansı var ortada.</p><p class=\"mb-4\">~<br><br>Ve ölümden önceki son nefesim bir patlama değil, bir sönüş gibi dökülsün:</p><p class=\"mb-4\">Şimdi, sessizliğin ortasında duruyorum.<br>İçim bomboş.<br>Sakladığım hiçbir şey kalmadı.</p><p class=\"mb-4\">Gizli hiçbir köşe....</p><p class=\"mb-4\">Ve bu mutlak şeffaflık içinde, bir an için dehşete kapılıyorum:<br>‘Ben’ diye gösterebileceğim bir şey kalmadı.</p><p class=\"mb-4\">Ardından, o dehşetin içinden süzülen bir sükûnet...</p><p class=\"mb-4\">Çünkü anlıyorum; asıl sahtelik, ‘ben’ dediğim kabuğun ta kendisiydi.</p><p class=\"mb-4\">Onu altını doldurmak için sakladığım her şey, onu besliyordu sadece.</p><p class=\"mb-4\">Kabuk çatladı.<br>İçindekiler dağıldı.</p><p class=\"mb-4\">Geriye, tüm evrenin hiçbir engel olmaksızın içinden aktığı bir boşluk kaldı.<br>İşte burada, nihayet, hayâlim gerçek oldum.</p><p class=\"mb-4\">Çünkü ayrı ‘olmak’ diye bir şey kalmadı.</p><p class=\"mb-4\">Olan o oldu....<br><br>~</p>"
         },
         {
           "type": "ses",
@@ -38,19 +49,12 @@
           "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192332-1766176379251.jpg"
         },
         {
-          "type": "metin",
-          "text": "\n~\n\nGizlemek, bir şeyi “ben”den ayırmak değil midir?"
-        },
-        {
-          "type": "metin",
-          "text": "Kendime ayırmak değil midir?\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Oysa ayıracak ne var?\nPerdenin arkasında sandığım şey,\nPerdenin kendisi de dâhil\nOLAN'dan başka nedir ki?\n~\nSaklayacak bir ‘sen’ kalmadığında,\nSaklanacak bir ‘şey’ de kalmaz.\nİşte o an, kapı çarpar ve gerçek ses duyulur:\nİçeride 'kimse' yok.\n[YÜZ SÖZ'den]\n\n~"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Gizlemek, bir şeyi “ben”den ayırmak değil midir?<br><strong>Kendime ayırmak değil midir?</strong><br>Oysa ayıracak ne var?<br>Perdenin arkasında sandığım şey,<br>Perdenin kendisi de dâhil<br>OLAN'dan başka nedir ki?<br>~<br>Saklayacak bir ‘sen’ kalmadığında,<br>Saklanacak bir ‘şey’ de kalmaz.<br>İşte o an, kapı çarpar ve gerçek ses duyulur:<br>İçeride 'kimse' yok.<br><br>~</p>",
+          "author": "[YÜZ SÖZ'den]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T17:35:41.253Z"
 }
