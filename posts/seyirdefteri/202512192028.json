@@ -34,40 +34,20 @@
         },
         {
           "type": "spoiler",
-          "text": "~\n\nAcı çektiğimi sanacaksın...\nÖlüyormuşum gibi gelecek...\nBırakılmış eski bir deniz kabuğu gibi görünecek ten kalıbım...\n\nİyi ama eski deniz kabuklarına acınmaz ki...\n\n...\n...\n...\n\nVe bir ağaç gibi tek başına ve usulca devrildi.\nSanma düşerken bir ses duyuldu...\nHer yan kumdu...\nKendi-kendi-ne kondu\n\n~"
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Acı çektiğimi sanacaksın...<br>Ölüyormuşum gibi gelecek...<br>Bırakılmış eski bir deniz kabuğu gibi görünecek ten kalıbım...</p><p class=\"mb-4\">İyi ama eski deniz kabuklarına acınmaz ki...</p><p class=\"mb-4\">...<br>...<br>...</p><p class=\"mb-4\">Ve bir ağaç gibi tek başına ve usulca devrildi.<br>Sanma düşerken bir ses duyuldu...<br>Her yan kumdu...<br>Kendi-kendi-ne kondu</p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "metin",
-          "text": ""
-        },
-        {
-          "type": "metin",
-          "text": "Bak işte şuracıkta sol yanımda, manâ inceldikçe inceldi..."
-        },
-        {
-          "type": "metin",
-          "text": "Yücelerdeniz, yücelere gidiyoruz biz\nVe bir denizdeniz, denize gidiyoruz biz\n\nHak yolu, iğne deliğinden inceyse de\nTek iplik gibi tekleşerek gidiyoruz biz.",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Bilirsin işte bir iplik, en ufak bir lifi bile dışarı çıkmışsa iğne deliğinden geçemez ya..."
+          "text": "<p class=\"mb-4\">Bak işte şuracıkta sol yanımda, manâ inceldikçe inceldi...</p><p class=\"mb-4\"><strong>Yücelerdeniz, yücelere gidiyoruz biz<br>Ve bir denizdeniz, denize gidiyoruz biz<br><br>Hak yolu, iğne deliğinden inceyse de<br>Tek iplik gibi tekleşerek gidiyoruz biz.</strong></p><p class=\"mb-4\">Bilirsin işte bir iplik, en ufak bir lifi bile dışarı çıkmışsa iğne deliğinden geçemez ya...</p>"
         },
         {
           "type": "alinti",
-          "text": "A söz, hâmûş ol da gelme artık benimle\nGör ki \"bensizlik\" özlemiyle bizsiz gidiyoruz biz.\n",
+          "text": "<p class=\"mb-4\"><strong>A söz, hâmûş ol da gelme artık benimle<br>Gör ki \"bensizlik\" özlemiyle bizsiz gidiyoruz biz.</strong></p>",
           "author": "[Cenâb-ı Mevlevî'den]"
         },
         {
           "type": "metin",
-          "text": "~\n\nKucağımda düştün\nKollarımdan düşmüş oldun\nGözünü yumdun\nHâmûş oldun\nSus~pus oldun\nSesin kumlara karışmış oldu.\n\nVe kumlar, rüzgârla birlikte...\nSanki hiç konuşmamış gibi esmeye devam etti.\n\n~\n\nHayır hayır, bu şarkı burada bitmemeli...\n\nHani sabahları seversin ya sen ey sevgili...\nTamam hadi buradan yürümeli\n\n~\n\nBilmem sabahlardan hangi sabahtı,\nO eskimeyen deniz kabuğunun içinde,\nDaha önce hiç duyulmamış bir ses vardı:\n\nDalgaların gelip geri çekilmesi gibi, her yeni doğanın kendi kendine mırıldanması gibi…\n\nAma görünür de bir dalga da yoktu hani..."
-        },
-        {
-          "type": "metin",
-          "text": "Sadece “gel” vardı ve “git”\nVe “gel” ile “git” arasında,\nBir an bile durmayan,\nHep akan bir hiç.\n\nİşte o hiç,\nSenin adın oldu.\n\nVe sen,\nAdını ilk kez duymuş gibi,\nGülümsedin.",
-          "is_colored": true,
-          "is_bold": true,
-          "is_italic": true
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Kucağımda düştün<br>Kollarımdan düşmüş oldun<br>Gözünü yumdun<br>Hâmûş oldun<br>Sus~pus oldun<br>Sesin kumlara karışmış oldu.</p><p class=\"mb-4\">Ve kumlar, rüzgârla birlikte...<br>Sanki hiç konuşmamış gibi esmeye devam etti.</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Hayır hayır, bu şarkı burada bitmemeli...</p><p class=\"mb-4\">Hani sabahları seversin ya sen ey sevgili...<br>Tamam hadi buradan yürümeli</p><p class=\"mb-4\">~<br><br>Bilmem sabahlardan hangi sabahtı,<br>O eskimeyen deniz kabuğunun içinde,<br>Daha önce hiç duyulmamış bir ses vardı:</p><p class=\"mb-4\">Dalgaların gelip geri çekilmesi gibi, her yeni doğanın kendi kendine mırıldanması gibi…</p><p class=\"mb-4\">Ama görünür de bir dalga da yoktu hani...</p><p class=\"mb-4\"><strong>Sadece “gel” vardı ve “git”<br>Ve “gel” ile “git” arasında,<br>Bir an bile durmayan,<br>Hep akan bir hiç.</strong></p><p class=\"mb-4\"><strong>İşte o hiç,<br>Senin adın oldu.</strong></p><p class=\"mb-4\"><strong>Ve sen,<br>Adını ilk kez duymuş gibi,<br>Gülümsedin.</strong></p>"
         },
         {
           "type": "ses",
@@ -77,10 +57,11 @@
         },
         {
           "type": "metin",
-          "text": "Ne güzel gülüyorsun ey sevgili...\n\n~",
+          "text": "<p class=\"mb-4\">Ne güzel gülüyorsun ey sevgili...<br><br>~</p>",
           "is_italic": true
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:37:50.663Z"
 }
