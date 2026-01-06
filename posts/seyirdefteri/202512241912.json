@@ -26,115 +26,41 @@
           "author": "[Tilopa'dan]"
         },
         {
-          "type": "metin",
-          "text": "Be still and know that I am God\n[Mezmurlar:46-10]\n\nBuradan akan kelimeler...\n\nZihnin sonsuz arayışının ötesine,\nKategorize etme ve etiketleme ihtiyacının ötesine,\nVarlığın basit gerçeğinde dinlenmeye\n\nAçık bir davet olsun diye geldiler dile..."
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Be still and know that I am God<br></p>",
+          "author": "[Mezmurlar:46-10]"
         },
         {
           "type": "metin",
-          "text": "Bu, bir talimat değil, imkânsız gibi görünen bir teslimiyet çağrısı...\nNe yapsan başaramazsın; zaten olduğun şey olamazsın; olduğun şeyden çıkamazsın...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Bu işaret o kadar basit ki karmaşayı seven zihin kaçıracaktır.\nGerçek dinginlikte bulunur, zihinse harekettir.\n\nBir kova çamurlu suyu karıştırarak\nZihni hareket ettirerek, dinginliği asla gerçekleştiremezsin.\n\nBuradan akanları, bir şey yapmak için adım adım talimatlar sanma...\n\nİmkansızı başar ve zaten olduğun gibi ol\nYapanı teslim et, yapmayanı da...\n\nZihin ve onun patolojik arayış, direnişiyle ve yapıp yapmamalaryla özdeşleşmeyi bırak.\n\nYapmaya o kadar alışkınız ki zihin aceleyle, dingin olma davetini kaçırabilir.\n\nŞimdi dikkatle dinle. ..\n\nGerçek doğana doğrudan işaretler vereceğim.\nBu bir talimat-nâme değil, zihnin için yeni bilgiler değil.\n\nZihnine bir şey daha yaptırma yönergesi değil.\nZihni dinlendirmeye, tüm yapıp etmeleri bırakmaya\nZaten burada olan Varlığı fark etmeye davet.\n\nDüşüncesiz bir anda\nVaroluşun zemini burada ve şimdi mevcut\n\nBunun için düşünmemeye çalışmana da gerek yok!\n\n\"Düşünmemeliyim\" diye çalışırsan ya da inanırsan, bu başka düşünce.\n\nDinlen.\nRahatla.\nBurada şimdi ol.\nHem başka nerde olabilirsin ki?\n\nZihin bilmenin ve bir şey yapmanın büyük yükünü bırakabilir.\n\nHiçbir şey yapmadan enerji serbestçe aktığında, dolaştığında fark et.\nKoşullu zihin kontrol etmeye, seçmeye, düşünmeye çalıştığında fark et.\nO vakit bedende kasılmalarla huzur hissi kaybolur.\n\nZihin talimatlarımı takip etmeye çalışıyor mu fark et.\n\nTalimat vermiyorum.\n\nKimse basitçe OLMAYA dair talimatlar veremez\nOL emri verilemez.\n\nTalimat yok.\nZaten VARSIN.\nZaten kendinin FARKINDASIN\n\nSadece varlığı fark et\nHer zaman zaten mevcut benliksiz o açık alanı fark et.\nHoş, bir fark eden olmadan da farkında"
-        },
-        {
-          "type": "metin",
-          "text": "\"Dingin ol ve bil\"\n...\nEn saf işaret, bütün sesler dindiğinde sezilir...",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "\"Harephu ud'u ki anokhi Elohim\"\nBunun için çabalamayın, kendinizi (güvenle) bırakın ve (yaşayarak) tanıyın, canlı canlı görerek hatırlayın ki Ben aradığınız Tanrı’yım.\n\nArayışın ve direnişin dindiği yerde....\n\nYeni yeni bir şey doğar.\n\nDüşünceler, düşünensiz, düşüncesiz boşluktan doğar.\nHareket, hareket edensiz, hareketsiz boşluktan doğar.\n\nBu düşünce ve hareket formu dünyada pek bilinmez.\nPek çok insanın orijinal düşüncesi olmamıştır hiç.\n\nGeçmiş koşullanmadan yansıyan bir tepki değil,\nTek Bir Kaynak'tan doğrudan,"
-        },
-        {
-          "type": "metin",
-          "text": "Şimdi'de doğan düşünce:\n\"Bikr-i fikr…\"",
-          "is_bold": true,
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Zihin makinesi hala tam açık, tam devrede, enerji dolu\nAma hayali operatör, yönetici kayboldu.\n\n\"Ben~im\" düşüncesi sadece düşünceydi, kör bir inanç, bitmeyen bir rüya, uzun hikâye bu ya...\n\nİkilik~siz, gerçek doğamızın doğrudan gerçekleşmesi.\nKavram değil, \"bensiz\" fikri değil, yaşanan bu; ikilik~siz gerçek.\n\nForm, boşluk olarak deneyimlenir.\nBoşluk, formdan ayrılmış değil."
+          "text": "<p class=\"mb-4\">Buradan akan kelimeler...<br><br>Zihnin sonsuz arayışının ötesine,<br>Kategorize etme ve etiketleme ihtiyacının ötesine,<br>Varlığın basit gerçeğinde dinlenmeye<br><br>Açık bir davet olsun diye geldiler dile...</p><p class=\"mb-4\"><strong>Bu, bir talimat değil, imkânsız gibi görünen bir teslimiyet çağrısı...<br>Ne yapsan başaramazsın; zaten olduğun şey olamazsın; olduğun şeyden çıkamazsın...</strong></p><p class=\"mb-4\">Bu işaret o kadar basit ki karmaşayı seven zihin kaçıracaktır.<br>Gerçek dinginlikte bulunur, zihinse harekettir.</p><p class=\"mb-4\">Bir kova çamurlu suyu karıştırarak<br>Zihni hareket ettirerek, dinginliği asla gerçekleştiremezsin.</p><p class=\"mb-4\">Buradan akanları, bir şey yapmak için adım adım talimatlar sanma...</p><p class=\"mb-4\">İmkansızı başar ve zaten olduğun gibi ol<br>Yapanı teslim et, yapmayanı da...<br><br>Zihin ve onun patolojik arayış, direnişiyle ve yapıp yapmamalaryla özdeşleşmeyi bırak.</p><p class=\"mb-4\">Yapmaya o kadar alışkınız ki zihin aceleyle, dingin olma davetini kaçırabilir.</p><p class=\"mb-4\"><em>Şimdi dikkatle dinle. ..</em></p><p class=\"mb-4\">Gerçek doğana doğrudan işaretler vereceğim.<br>Bu bir talimat-nâme değil, zihnin için yeni bilgiler değil.</p><p class=\"mb-4\">Zihnine bir şey daha yaptırma yönergesi değil.<br>Zihni dinlendirmeye, tüm yapıp etmeleri bırakmaya<br>Zaten burada olan Varlığı fark etmeye davet.</p><p class=\"mb-4\">Düşüncesiz bir anda<br>Varoluşun zemini burada ve şimdi mevcut</p><p class=\"mb-4\">Bunun için düşünmemeye çalışmana da gerek yok!</p><p class=\"mb-4\">\"Düşünmemeliyim\" diye çalışırsan ya da inanırsan, bu başka düşünce.</p><p class=\"mb-4\">Dinlen.<br>Rahatla.<br>Burada şimdi ol.<br>Hem başka nerde olabilirsin ki?</p><p class=\"mb-4\">Zihin bilmenin ve bir şey yapmanın büyük yükünü bırakabilir.</p><p class=\"mb-4\">Hiçbir şey yapmadan enerji serbestçe aktığında, dolaştığında fark et.<br>Koşullu zihin kontrol etmeye, seçmeye, düşünmeye çalıştığında fark et.<br>O vakit bedende kasılmalarla huzur hissi kaybolur.</p><p class=\"mb-4\">Zihin talimatlarımı takip etmeye çalışıyor mu fark et.</p><p class=\"mb-4\">Talimat vermiyorum.</p><p class=\"mb-4\">Kimse basitçe OLMAYA dair talimatlar veremez<br>OL emri verilemez.<br><br>Talimat yok.<br>Zaten VARSIN.<br>Zaten kendinin FARKINDASIN</p><p class=\"mb-4\">Sadece varlığı fark et<br>Her zaman zaten mevcut benliksiz o açık alanı fark et.<br>Hoş, bir fark eden olmadan da farkında</p><p class=\"mb-4\"><strong><br>\"Dingin ol ve bil\"<br>...<br>En saf işaret, bütün sesler dindiğinde sezilir...</strong></p><p class=\"mb-4\"><em>\"Harephu ud'u ki anokhi Elohim\"<br></em>Bunun için çabalamayın, kendinizi (güvenle) bırakın ve (yaşayarak) tanıyın, canlı canlı görerek hatırlayın ki Ben aradığınız Tanrı’yım.</p><p class=\"mb-4\">Arayışın ve direnişin dindiği yerde....</p><p class=\"mb-4\">Yeni yeni bir şey doğar.<br><br>Düşünceler, düşünensiz, düşüncesiz boşluktan doğar.<br>Hareket, hareket edensiz, hareketsiz boşluktan doğar.</p><p class=\"mb-4\">Bu düşünce ve hareket formu dünyada pek bilinmez.<br>Pek çok insanın orijinal düşüncesi olmamıştır hiç.</p><p class=\"mb-4\">Geçmiş koşullanmadan yansıyan bir tepki değil,<br>Tek Bir Kaynak'tan doğrudan,<br><strong>Şimdi'de doğan düşünce:<br>\"Bikr-i fikr…\"<br></strong></p><p class=\"mb-4\">Zihin makinesi hala tam açık, tam devrede, enerji dolu<br>Ama hayali operatör, yönetici kayboldu.</p><p class=\"mb-4\">\"Ben~im\" düşüncesi sadece düşünceydi, kör bir inanç, bitmeyen bir rüya, uzun hikâye bu ya...</p><p class=\"mb-4\">İkilik~siz, gerçek doğamızın doğrudan gerçekleşmesi.<br>Kavram değil, \"bensiz\" fikri değil, yaşanan bu; ikilik~siz gerçek.</p><p class=\"mb-4\">Form, boşluk olarak deneyimlenir.<br>Boşluk, formdan ayrılmış değil.</p>"
         },
         {
           "type": "spoiler",
-          "text": "Atom-altı fiziği şimdi fark etti ki:\n\nGözlemlenene dek parçacık süper~pozisyon hâlinde var.\nMecaz değil; Fizik!\n\nElektron bir yerde değil, kendini bir şey sanan gözlemci sahneye girene dek tüm olası yerlerde.\n\nDevreden eski 'ben' düşüncesinden önce, hafıza ve isimden önce, \"varlık potansiyeli\" olarak varsın. Zihin tezgâhına düşmeden önce, kimlik bilinmeden süper~pozisyonda kalırsın.\n\nNe bu ne şu...\nHem bu hem şu..."
+          "text": "<p class=\"mb-4\">Atom-altı fiziği şimdi fark etti ki:</p><p class=\"mb-4\">Gözlemlenene dek parçacık süper~pozisyon hâlinde var.<br>Mecaz değil; Fizik!</p><p class=\"mb-4\">Elektron bir yerde değil, kendini bir şey sanan gözlemci sahneye girene dek tüm olası yerlerde.</p><p class=\"mb-4\">Devreden eski 'ben' düşüncesinden önce, hafıza ve isimden önce, \"varlık potansiyeli\" olarak varsın. Zihin tezgâhına düşmeden önce, kimlik bilinmeden süper~pozisyonda kalırsın.</p><p class=\"mb-4\">Ne bu ne şu...<br>Hem bu hem şu...</p>"
         },
         {
           "type": "metin",
-          "text": "Kendini bilmeyince\nHer şey mümkün doğrusu\n\nBir forma çöküş öncesi farkındalık.\nKavramsal değil, gerçek bir şey.\n— El-evvel\n\nİlksel farkındalığın uyanışı...\nZihin ve beden ya gözlemci düştüğünde geriye kalan\n— El-âhir\n\nHoş yine de...\n\nGerçeğe gerçekten uyanış gerçekleşene dek, ince ikilik sürer...\n\nSessizliği, gürültüye,\nDinginliği, harekete tercih."
-        },
-        {
-          "type": "metin",
-          "text": "\"Dingin ol ve bil\"\nTamam ama bu sadece eşik.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Dingin ol ve bil,\nHem harekette ol ve bil.\n\nHayat akımından uyanıştan sonra, dinginliği hayata geri getiririz.\n\nBu ve şu arasında ayrım kalmadığında, hem dinginlik hem hareket düşer, büyük gerçek açığa çıkar.\n\nBoş huzur hâline de yapışma.\n\nHuzurumu bozuyor diye düşüncelere direnirsen, o direnç \"ben\" düşüncesinin kendisi.\n\n"
-        },
-        {
-          "type": "metin",
-          "text": "Sonsuz bir döngüde şu oyunu oynarsın:\n\"Anladım. Uyanığım\" VS \"Şimdi kaybettim\"",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Uyanıklığın sadece tekkede, türbede, sohbette, huzur anlarında ya da belirli durumlarda varsa, gerçek doğa gerçekleşmesi bu değildir.\n\nGelip giden deneyimse, ilksel farkındalık, sıfır noktası bu değil.\n\nBir noktada daha derin bir şey çağırır.\n\nKendini tanık sanıp izlediğin sandığın nehir, Sensin o sen!.\n\nHayatın kendisi...\n\nBırakırsın.\n\nTanık perdesindeki kavrayışını salıverirsin.\nKıyıya yapışmayı bırakır, kesintisiz akışa karışırsın.\n\nBu düşüş, yanılsamaya geri dönüş değil, dünyaya kapılış değil.\nNehir olarak uyanmak.\n\nZen Bahçeleri'ni \"Rigpa\" dediği, bozulmamış farkındalık, gözlemci ve gözlemlenen ötesi.\n\n\nBaşta rüyadaki karakterden uyanırsın.\n(Fenâfillah)\n\nAma ikiliksiz hâlin derinleşmesi\n'Ben de O'yum' gerçekleşmesinde\n(Bekâbillâh)\n\n\nİzlediğin sandığının başka bir düşünce olduğunu fark edersin.\nGözlemci ve gözlemlenen ayrılığı ya da ikiliğiydi.\nGürültüden sessizliği yeğleyen ince bir tercih vardı.\n\nO tercih ki \"ben\" düşüncesinin son sığınağı.\n\nTanık nerede? Bulabilir misin?\n\nTanık başka inanç, başka düşünce.\nZihnin başka hareketi.\nKendisi koşullu zihnin bir parçası...\n\nBulmaya çalış, o zihin kuyruğunu kovalayan yılan gibi.\n\nGerçek Benlik öyle bir köşeye çekilip ayrı durmaz.\n\nAkış, akış içindeki dinginlik, nehrin kendini harekete olarak ifade ettiği boşluk\n\nHer şeye izin verilir.\n\nDüşünceler ve kelimeler bile Bir'in anlık ifadesi olur.\nSessizlikte bir kesinti değil.\nSessizliğin konuşması mümkün, boşluğun dans etmesi.\n\nAslında hep dans ediyor.\nHer dalga, her form kendi ifaden."
+          "text": "<p class=\"mb-4\">Kendini bilmeyince<br>Her şey mümkün doğrusu</p><p class=\"mb-4\">Bir forma çöküş öncesi farkındalık.<br>Kavramsal değil, gerçek bir şey.<br>— El-evvel</p><p class=\"mb-4\">İlksel farkındalığın uyanışı...<br>Zihin ve beden ya gözlemci düştüğünde geriye kalan<br>— El-âhir</p><p class=\"mb-4\">Hoş yine de...</p><p class=\"mb-4\">Gerçeğe gerçekten uyanış gerçekleşene dek, ince ikilik sürer...</p><p class=\"mb-4\">Sessizliği, gürültüye,<br>Dinginliği, harekete tercih.</p><p class=\"mb-4\"><strong>\"Dingin ol ve bil\"<br>Tamam ama bu sadece eşik.</strong></p><p class=\"mb-4\">Dingin ol ve bil,<br>Hem harekette ol ve bil.</p><p class=\"mb-4\">Hayat akımından uyanıştan sonra, dinginliği hayata geri getiririz.</p><p class=\"mb-4\">Bu ve şu arasında ayrım kalmadığında, hem dinginlik hem hareket düşer, büyük gerçek açığa çıkar.</p><p class=\"mb-4\">Boş huzur hâline de yapışma.</p><p class=\"mb-4\">Huzurumu bozuyor diye düşüncelere direnirsen, o direnç \"ben\" düşüncesinin kendisi.</p><p class=\"mb-4\"><br><strong>Sonsuz bir döngüde şu oyunu oynarsın:<br>\"Anladım. Uyanığım\" VS \"Şimdi kaybettim\"<br></strong></p><p class=\"mb-4\">Uyanıklığın sadece tekkede, türbede, sohbette, huzur anlarında ya da belirli durumlarda varsa, gerçek doğa gerçekleşmesi bu değildir.</p><p class=\"mb-4\">Gelip giden deneyimse, ilksel farkındalık, sıfır noktası bu değil.</p><p class=\"mb-4\">Bir noktada daha derin bir şey çağırır.</p><p class=\"mb-4\">Kendini tanık sanıp izlediğin sandığın nehir, Sensin o sen!.</p><p class=\"mb-4\">Hayatın kendisi...</p><p class=\"mb-4\">Bırakırsın.</p><p class=\"mb-4\">Tanık perdesindeki kavrayışını salıverirsin.<br>Kıyıya yapışmayı bırakır, kesintisiz akışa karışırsın.</p><p class=\"mb-4\">Bu düşüş, yanılsamaya geri dönüş değil, dünyaya kapılış değil.<br>Nehir olarak uyanmak.</p><p class=\"mb-4\">Zen Bahçeleri'ni \"Rigpa\" dediği, bozulmamış farkındalık, gözlemci ve gözlemlenen ötesi.</p><p class=\"mb-4\"><br>Başta rüyadaki karakterden uyanırsın.<br>(Fenâfillah)</p><p class=\"mb-4\">Ama ikiliksiz hâlin derinleşmesi<br>'Ben de O'yum' gerçekleşmesinde<br>(Bekâbillâh)</p><p class=\"mb-4\"><br>İzlediğin sandığının başka bir düşünce olduğunu fark edersin.<br>Gözlemci ve gözlemlenen ayrılığı ya da ikiliğiydi.<br>Gürültüden sessizliği yeğleyen ince bir tercih vardı.</p><p class=\"mb-4\">O tercih ki \"ben\" düşüncesinin son sığınağı.</p><p class=\"mb-4\">Tanık nerede? Bulabilir misin?<br><br>Tanık başka inanç, başka düşünce.<br>Zihnin başka hareketi.<br>Kendisi koşullu zihnin bir parçası...</p><p class=\"mb-4\">Bulmaya çalış, o zihin kuyruğunu kovalayan yılan gibi.</p><p class=\"mb-4\">Gerçek Benlik öyle bir köşeye çekilip ayrı durmaz.</p><p class=\"mb-4\">Akış, akış içindeki dinginlik, nehrin kendini harekete olarak ifade ettiği boşluk</p><p class=\"mb-4\">Her şeye izin verilir.</p><p class=\"mb-4\">Düşünceler ve kelimeler bile Bir'in anlık ifadesi olur.<br>Sessizlikte bir kesinti değil.<br>Sessizliğin konuşması mümkün, boşluğun dans etmesi.</p><p class=\"mb-4\">Aslında hep dans ediyor.<br>Her dalga, her form kendi ifaden.</p>"
         },
         {
           "type": "spoiler",
-          "text": "Cenâbı Mevlevî bu zevkten söyler:\n\nİlkin dolarsın sonra boş kadeh olursun, sonra şarap, sonra sarhoşluğun kendisi...\nKim kanmış sana..."
+          "text": "<p class=\"mb-4\">Cenâbı Mevlevî bu zevkten söyler:<strong><br>İlkin dolarsın sonra boş kadeh olursun, sonra şarap, sonra sarhoşluğun kendisi...<br></strong>Kim kanmış sana...</p>"
         },
         {
           "type": "metin",
-          "text": "Gerçeğin dili bu\nParadoks bu.\n\nTanık gerekli ama son değil.\nUyanmak nehri gözlemlemek değil.\nNehre karışmak\n\nÂkıbet marifet, hepsi varken nehir, kıyı, tanık... hiç olmadığını keşfetmek...\n\nVarsa yoksa\nVarlığın tarif edilemez akışı,\nKendini, bir nice sonlu forma döken sonsuzluk."
+          "text": "<p class=\"mb-4\">Gerçeğin dili bu Paradoks bu. Tanık gerekli ama son değil. Uyanmak nehri gözlemlemek değil. Nehre karışmak Âkıbet marifet, hepsi varken nehir, kıyı, tanık... hiç olmadığını keşfetmek... Varsa yoksa Varlığın tarif edilemez akışı, Kendini, bir nice sonlu forma döken sonsuzluk.</p>"
         },
         {
           "type": "metin",
-          "text": "— Nasıl olur?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Süperpozisyonda kal\nMevcudiyet hissine dal\nİsimsiz-sıfatsız\nSadece Var olarak.\n\nBir şey yapmak isteyen, seçmek isteyenin kim ya da ne olduğunu fark et."
-        },
-        {
-          "type": "metin",
-          "text": "Hafıza kaydıyla tepki değil,\nŞimdi'nin netliğiyle hazır bulunuş\nKimya burada bozulur\nSimya burada olur..",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Aynada yansıma varken yansıma sensin\nAyna boş kaldığında\n"
-        },
-        {
-          "type": "metin",
-          "text": "Ayrı bir merkezsiz, öznesiz, hikayesiz, seçim~siz farkındalık...",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Suyun düğümü burada çözülür birden\nRüya artık tam katılımla merkezsiz izlenir hepten"
-        },
-        {
-          "type": "metin",
-          "text": "Âh, bu ne güzel koku böyle...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Daha önce duyulmamış\nVe bir daha tekrarlanmayacak"
+          "text": "<p class=\"mb-4\">Gerçeğin dili bu<br>Paradoks bu.</p><p class=\"mb-4\">Tanık gerekli ama son değil.<br>Uyanmak nehri gözlemlemek değil.<br>Nehre karışmak</p><p class=\"mb-4\">Âkıbet marifet, hepsi varken nehir, kıyı, tanık... hiç olmadığını keşfetmek...</p><p class=\"mb-4\">Varsa yoksa<br>Varlığın tarif edilemez akışı,<br>Kendini, bir nice sonlu forma döken sonsuzluk.</p><p class=\"mb-4\"><strong>— Nasıl olur?</strong></p><p class=\"mb-4\">Süperpozisyonda kal<br>Mevcudiyet hissine dal<br>İsimsiz-sıfatsız<br>Sadece Var olarak.</p><p class=\"mb-4\">Bir şey yapmak isteyen, seçmek isteyenin kim ya da ne olduğunu fark et.<br><br><strong>Hafıza kaydıyla tepki değil,<br>Şimdi'nin netliğiyle hazır bulunuş<br>Kimya burada bozulur<br>Simya burada olur..<br></strong><br>Aynada yansıma varken yansıma sensin<br>Ayna boş kaldığında<br><strong>Ayrı bir merkezsiz, öznesiz, hikayesiz, seçim~siz farkındalık...</strong></p><p class=\"mb-4\">Suyun düğümü burada çözülür birden<br>Rüya artık tam katılımla merkezsiz izlenir hepten</p><p class=\"mb-4\"><strong>Âh, bu ne güzel koku böyle...</strong></p><p class=\"mb-4\">Daha önce duyulmamış<br>Ve bir daha tekrarlanmayacak</p>"
         },
         {
           "type": "alinti",
-          "text": "\n~\n\nEn büyük hata, tek hata, koşullu zihinle uyanmaya çalışmak.\nAyrımcı zihin düştüğünde, hem dinginlik hem hareket kaybolur,\nSâdece hayatın doğrudan deneyimi kalır.\nGözlerinizden bakan saf bilince verilen başka ad ne:\n\"TANRI\"\nBu sadece \"benlik~sizlik\" için bir başka kelime.\nKelîmullâh olana vahy edilen ne:\n\"Ben olan Ben'im\" işte...\n\n~\n\n",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">En büyük hata, tek hata, koşullu zihinle uyanmaya çalışmak.<br>Ayrımcı zihin düştüğünde, hem dinginlik hem hareket kaybolur,<br>Sâdece hayatın doğrudan deneyimi kalır.<br>Gözlerinizden bakan saf bilince verilen başka ad ne:<br>\"TANRI\"<br>Bu sadece \"benlik~sizlik\" için bir başka kelime.<br>Kelîmullâh olana vahy edilen ne:<br>\"Ben olan Ben'im\" işte...<br><br>~</p>",
           "author": "[YÜZ SÖZ'den]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:42:55.067Z"
 }
