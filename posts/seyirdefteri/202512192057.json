@@ -19,26 +19,20 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Şimdi’nin boşluğunda bedenin iyi bildiğini yap; suyu iç, camı aç, o sözü söyle... Geçmişi bir kahramanlık ya kurban hikâyesine dönüştürüp sırtında ceset gibi taşıma çünkü bıraktığını sandığın o şehir, zaten şu an soluduğun havanın kendisidir.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Bir insanın gücü, onun kendine özgü kişisel kimliğinde değil, içinden bir şeylerin akabildiği belli belirsiz o boşluğundadır.\n[A. Kadrî'nin Kayıp Defteri'nden düşen not]"
-        },
-        {
-          "type": "metin",
-          "text": "O anda\nŞu anda\nBu anda\nTam şimdi\nYapılması gerekeni neyse\nSahnesinde açık~boş~hazır bulunarak\nDoğru eylemin\nBu beden adresinden\nKolaylıkla akmasına izin verin...\n\nSonra da kendinizi bir hikaye gibi taşımayın!\n\nÂnında canlanın\nDoğrudan, şimdi.\nHâlihazırda burada.\n\nAma şimdi sen a güzel,\nParmağını havaya kaldırıp\nDünden devrenden hikâyeni ballandıra ballandıra\nO olmazsa olmaz tek \"doğru\" eylemi bulmaya çalışma.\n\nBu zaten seni beni yakan zihnin, acıklı bir illüzyonu; aldanma...\n\nSadece kalk ve suyu iç.\nPencereyi aç.\nİçinde tuttuğun o sözü söyle.\n\nBeden zaten bilir.\nÖğrenilmiş olarak değil\nDoğal olarak bilir\n\nO sahnede kurulmuş gibi hazır bulunur kendini...\n\nSen, \"bilen\" olarak devre dışı kal.\n\nBoş bir oda gibi, kapı ve pencereleri ardına kadar açık ol.\nRüzgar ne getirirse, o girer, o çıkar...\n\nO zaman her bir şey;\n– Çaydanlığın ıslığı, klavyenin tik takı, dilinden dökülecek o birikmiş söz –\nHepsi bu boşluktan geçip, kusursuz, nedensiz, iz bırakmadan akar gider.\n\nSonra mı?\n\nAh, sonra işte felaket kurgu başlıyor.\n\n\"Sonra\" dediğin şey, hafızanın yarattığı uğultulu bir film stüdyosu.\nAz önce olanı alıp ondan bir başrol, bir kurban, bir kahraman yaratıyorsun.\n\nBüyük ikramiye gibi mübarek...\nSürekli devreden ve bir sonraki sezonu bekleyen bir hikâye.\n\nVe o hikâyeyi, bu kırılgan et ve kemik yığınına yüklüyorsun; sırtında bir ceset gibi taşıyorsun.\n\n\"Ben\" dediğin şey, işte bu her şeyi bir arada tutmanın yükü ile taşınan ceset değil mi zâten?\n\nNefes alan bir biyografi mezarlığı sanki...\n\nÖlüm mü?\nÖyle korkunç bir şey değil aslında.\n\nBir bitmeyecek zevk verirken taşıdığın o hikâye, hayat damarı olan bir telin, en olmadık yerde \"birden\" kopması sâdece...\n\nSenaryonun âniden yırtılması ve taşınan hikâyenin sürekliliğinin bozulması...\nYâni önceki hikâye çizgisinin izlenemez hâle gelmesidir.\n\nİnsanlığın Sevinci'nin müjdesini duydun mu?\n\"Mûtû kable en-temûtû\""
-        },
-        {
-          "type": "metin",
-          "text": "Ölmeden önce ölmek ne demek?\nGerçekten yaşayana dönmek",
-          "is_colored": true,
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><strong>Şimdi’nin boşluğunda bedenin iyi bildiğini yap; suyu iç, camı aç, o sözü söyle... Geçmişi bir kahramanlık ya kurban hikâyesine dönüştürüp sırtında ceset gibi taşıma çünkü bıraktığını sandığın o şehir, zaten şu an soluduğun havanın kendisidir.</strong></p>"
         },
         {
           "type": "alinti",
-          "text": "Mûtû kable en temûtu\" sırrını fehm eyleyen\nHaşr u neşri gördü bunda nefha-i sûr olmadan\n",
+          "text": "<p class=\"mb-4\">Bir insanın gücü, onun kendine özgü kişisel kimliğinde değil, içinden bir şeylerin akabildiği belli belirsiz o boşluğundadır.<br></p>",
+          "author": "[A. Kadrî'nin Kayıp Defteri'nden düşen not]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">O anda<br>Şu anda<br>Bu anda<br>Tam şimdi<br>Yapılması gerekeni neyse<br>Sahnesinde açık~boş~hazır bulunarak<br>Doğru eylemin<br>Bu beden adresinden<br>Kolaylıkla akmasına izin verin...</p><p class=\"mb-4\">Sonra da kendinizi bir hikaye gibi taşımayın!</p><p class=\"mb-4\">Ânında canlanın<br>Doğrudan, şimdi.<br>Hâlihazırda burada.</p><p class=\"mb-4\">Ama şimdi sen a güzel,<br>Parmağını havaya kaldırıp<br>Dünden devrenden hikâyeni ballandıra ballandıra<br>O olmazsa olmaz tek \"doğru\" eylemi bulmaya çalışma.</p><p class=\"mb-4\">Bu zaten seni beni yakan zihnin, acıklı bir illüzyonu; aldanma...</p><p class=\"mb-4\">Sadece kalk ve suyu iç.<br>Pencereyi aç.<br>İçinde tuttuğun o sözü söyle.<br><br>Beden zaten bilir.<br>Öğrenilmiş olarak değil<br>Doğal olarak bilir</p><p class=\"mb-4\">O sahnede kurulmuş gibi hazır bulunur kendini...</p><p class=\"mb-4\">Sen, \"bilen\" olarak devre dışı kal.<br><br>Boş bir oda gibi, kapı ve pencereleri ardına kadar açık ol.<br>Rüzgar ne getirirse, o girer, o çıkar...</p><p class=\"mb-4\">O zaman her bir şey;<br>– Çaydanlığın ıslığı, klavyenin tik takı, dilinden dökülecek o birikmiş söz –<br>Hepsi bu boşluktan geçip, kusursuz, nedensiz, iz bırakmadan akar gider.</p><p class=\"mb-4\">Sonra mı?</p><p class=\"mb-4\">Ah, sonra işte felaket kurgu başlıyor.</p><p class=\"mb-4\">\"Sonra\" dediğin şey, hafızanın yarattığı uğultulu bir film stüdyosu.<br>Az önce olanı alıp ondan bir başrol, bir kurban, bir kahraman yaratıyorsun.</p><p class=\"mb-4\">Büyük ikramiye gibi mübarek...<br>Sürekli devreden ve bir sonraki sezonu bekleyen bir hikâye.</p><p class=\"mb-4\">Ve o hikâyeyi, bu kırılgan et ve kemik yığınına yüklüyorsun; sırtında bir ceset gibi taşıyorsun.</p><p class=\"mb-4\">\"Ben\" dediğin şey, işte bu her şeyi bir arada tutmanın yükü ile taşınan ceset değil mi zâten?</p><p class=\"mb-4\">Nefes alan bir biyografi mezarlığı sanki...</p><p class=\"mb-4\">Ölüm mü?<br>Öyle korkunç bir şey değil aslında.<br><br>Bir bitmeyecek zevk verirken taşıdığın o hikâye, hayat damarı olan bir telin, en olmadık yerde \"birden\" kopması sâdece...</p><p class=\"mb-4\">Senaryonun âniden yırtılması ve taşınan hikâyenin sürekliliğinin bozulması...<br>Yâni önceki hikâye çizgisinin izlenemez hâle gelmesidir.</p><p class=\"mb-4\">İnsanlığın Sevinci'nin müjdesini duydun mu?<br>\"Mûtû kable en-temûtû\"</p><p class=\"mb-4\"><strong>Ölmeden önce ölmek ne demek?<br>Gerçekten yaşayana dönmek</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Mûtû kable en temûtu\" sırrını fehm eyleyen<br>Haşr u neşri gördü bunda nefha-i sûr olmadan</em></p>",
           "author": "[Şemsî dilinden]"
         },
         {
@@ -49,9 +43,10 @@
         },
         {
           "type": "metin",
-          "text": "Yâni, mahşer ve dirilişi, kıyamet borusu üfürülmeden, şimdi ve burada hazır görürsün.\n\nÖyle bir son beklentin filan kalmaz...\n\nDeğil mi ki her final, bir başlangıç\nSona varmak, başa dönmek değil midir?\nHer gecenin sonu heman yeni bir sabah değil midir?\n\nPeki ya şimdi?\n\nKalk ve suyu iç.\nSuyu içerken, suyun seni içtiğini fark et.\n\nKapıyı aç.\nKapıyı kendine açtığını gör.\n\nBeklenen o sözü söyle.\nDön ve muhatabın kulağından dinle.\n\nVe sonra...\n\nİşte o çarpıcı final:\nArkanı dönüp bakma!\n\nÇünkü baktığın her şey, geride bıraktığını sandığın o 'şehir', aslında senin şu an içinde durduğun odanın duvar kağıdıdır.\n\nBütün o geçmiş diye dokuduğun kumaş, şu an nefes alıp veren bu bedenin üzerindeki gömlektir.\n\nOnu a çıkarıp atmaya çalışma çünkü çıplaklık da bir kostümdür.\n\nSadece, gömleğin kumaşının teninde nasıl durduğunu, rüzgarda nasıl dalgalandığını; olan, olduğunda bir güzel seyreyle...\n\nHareket ettiğinde, o da hareket ediyor ve durduğunda, o da sâkin işte..\nSen, her ân zuhurdaki hareketin ta kendisisin.\nGeride kalan o bakış değil.\n\n~\n\nVe o şehir, hiç var olmadı!\n\nYok bu şehr içre senin vasfettiğin dilber nedîym;\nBir perî-sûret görünmüş, bir hayâl olmuş sana ❞\n\nYok bişi a güzel,\nBana öyle gelmiş,\nGeçip gittim işte...\n\n~"
+          "text": "<p class=\"mb-4\">Yâni, mahşer ve dirilişi, kıyamet borusu üfürülmeden, şimdi ve burada hazır görürsün.</p><p class=\"mb-4\">Öyle bir son beklentin filan kalmaz...</p><p class=\"mb-4\">Değil mi ki her final, bir başlangıç<br>Sona varmak, başa dönmek değil midir?<br>Her gecenin sonu heman yeni bir sabah değil midir?</p><p class=\"mb-4\">Peki ya şimdi?</p><p class=\"mb-4\">Kalk ve suyu iç.<br>Suyu içerken, suyun seni içtiğini fark et.</p><p class=\"mb-4\">Kapıyı aç.<br>Kapıyı kendine açtığını gör.</p><p class=\"mb-4\">Beklenen o sözü söyle.<br>Dön ve muhatabın kulağından dinle.</p><p class=\"mb-4\">Ve sonra...</p><p class=\"mb-4\">İşte o çarpıcı final:<br>Arkanı dönüp bakma!</p><p class=\"mb-4\">Çünkü baktığın her şey, geride bıraktığını sandığın o 'şehir', aslında senin şu an içinde durduğun odanın duvar kağıdıdır.</p><p class=\"mb-4\">Bütün o geçmiş diye dokuduğun kumaş, şu an nefes alıp veren bu bedenin üzerindeki gömlektir.</p><p class=\"mb-4\">Onu a çıkarıp atmaya çalışma çünkü çıplaklık da bir kostümdür.</p><p class=\"mb-4\">Sadece, gömleğin kumaşının teninde nasıl durduğunu, rüzgarda nasıl dalgalandığını; olan, olduğunda bir güzel seyreyle...</p><p class=\"mb-4\">Hareket ettiğinde, o da hareket ediyor ve durduğunda, o da sâkin işte..<br>Sen, her ân zuhurdaki hareketin ta kendisisin.<br>Geride kalan o bakış değil.</p><p class=\"mb-4\">~<br><br>Ve o şehir, hiç var olmadı!</p><p class=\"mb-4\"><em>Yok bu şehr içre senin vasfettiğin dilber nedîym;<br>Bir perî-sûret görünmüş, bir hayâl olmuş sana</em> ❞</p><p class=\"mb-4\">Yok bişi a güzel,<br>Bana öyle gelmiş,<br>Geçip gittim işte...<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:26:19.555Z"
 }
