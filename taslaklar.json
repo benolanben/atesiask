@@ -1,3 +1,38 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1767705613761,
+      "title": "Çınnlayan bedeni dinnle",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1767705613761,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-06T12:50:11.842Z",
+        "created_at": "2026-01-06T12:50:11.842Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061620-1767705636134.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Çınnlayan bedeni dinnle",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-06T13:20:13.761Z",
+      "updated_at": "2026-01-06T13:20:19.068Z"
+    }
+  ]
 }
