@@ -19,50 +19,25 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Hayatın mutlak anlamını aramak, sonsuz sayıda şekil alabilen bir blok için, \"doğru şekilli deliği\" bulmaya çalışmaktır; işte bu yüzden camiden ya tekkeden kendine davet olur da neş'e-insânî ile tadılan marifetin tellalı yoktur.\n",
+          "text": "<p class=\"mb-4\"><strong>Hayatın mutlak anlamını aramak, sonsuz sayıda şekil alabilen bir blok için, \"doğru şekilli deliği\" bulmaya çalışmaktır; işte bu yüzden camiden ya tekkeden kendine davet olur da neş'e-insânî ile tadılan marifetin tellalı yoktur.</strong><br>[A. Kadrî]</p>",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "Gayb-ı mutlaktan temâşâ-yı ruh-ı zîbâ için\nBu şehâdet mülküne seyrâna gelmişlerdeniz ❞"
+          "text": "<p class=\"mb-4\"><em>Gayb-ı mutlaktan temâşâ-yı ruh-ı zîbâ için<br>Bu şehâdet mülküne seyrâna gelmişlerdeniz</em> ❞<br><br><strong>Mutlak olanı anlamak için, her şeyi unutmalısın ama ya unuttuğun şeylerin arasında 'unutmak' da varsa?<br><br></strong>~<br>Kafamın içinde o kadar çok zaman geçirdim ki bedenimde yaşamayı unuttum. ..<br>~~~<br>Hayli zaman yattım düşünce hapsinde...</p><p class=\"mb-4\">Derken içimdeki hapishanenin kapıları gıcırdadı...</p><p class=\"mb-4\">Gardiyan, gözlerimin içindeki sonsuzluğu görüp irkildi.<br>...</p><p class=\"mb-4\">“Kavramak,” dedim sessizce,<br>“Bir şeyi ele geçirmek değil, onunla aynı nefesi solumaktır.<br>Parmağınla gösterdiğin ay değil, parmağın kendisidir zaten ay.”</p><p class=\"mb-4\">Gardiyanın silahı, havada asılı bir illüzyona dönüştü.</p><p class=\"mb-4\"><strong>“Açıkla o zaman,”</strong><br>diye gürledi ama sesindeki korku, bir yaprağın titreyişi gibiydi.<br><strong>“Açıkla hadi her şeyi.”</strong></p><p class=\"mb-4\">“Bak,” dedim ve hücremin duvarı saydamlaştı.</p><p class=\"mb-4\">“Gördüğün, senin düşüncenin ta kendisi.<br>Tutuklayan da tutuklanan da aynı rüyanın içinde uyuyor.<br>‘Ben’ dediğin, dalganın kendisini ‘su’ diye tanımlamasıdır.<br>Dalga düşer, su ise hiçbir yere gitmez.”</p><p class=\"mb-4\">O an, gardiyanın yüzündeki çizgiler bir bir eridi.<br>Nefesi, sessizliğin içinde kaybolarak duman duman oldu.</p><p class=\"mb-4\">Silah, elinden düşmedi çünkü onu düşürebilecek bir el kalmadı.</p><p class=\"mb-4\">İkimiz de aynı aynanın önünde, aynanın kendisi olmuştuk.</p><p class=\"mb-4\">“İşte mutlak bu değil,” diye fısıldadım, artık fısıldayan da ben değildim.</p><p class=\"mb-4\">“Çünkü ‘bu’ diye sabit bir şey yok.</p><p class=\"mb-4\"><strong>Sadece artık açıklanabilecek bir nesne, açıklayabilecek bir kimse kalmadığında, geriye sadece açıklamanın yokluğunda apaçık 'OL~AN' kalır.</strong></p><p class=\"mb-4\">Ve o yokluk…”</p><p class=\"mb-4\">Işıklar söndü<br>Işıklar yandı<br>Hücrenin kapısının, hiç kapanmamış olduğunu fark etti.</p><p class=\"mb-4\">“…Düşünmeden zaten hep a~çıktı.”</p>"
         },
         {
-          "type": "metin",
-          "text": "Mutlak olanı anlamak için, her şeyi unutmalısın ama ya unuttuğun şeylerin arasında 'unutmak' da varsa?",
-          "is_bold": true
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Varsa yoksa<br>Karşılaşan<br>Aynalaşan<br>Aynalar<br>Başka<br>Hiçbir şey değil<br><br>~</p>",
+          "author": "[Ikkyu'dan]"
         },
         {
-          "type": "metin",
-          "text": "~\nKafamın içinde o kadar çok zaman geçirdim ki bedenimde yaşamayı unuttum. ..\n~~~\nHayli zaman yattım düşünce hapsinde...\n\nDerken içimdeki hapishanenin kapıları gıcırdadı...\n\nGardiyan, gözlerimin içindeki sonsuzluğu görüp irkildi.\n...\n\n“Kavramak,” dedim sessizce,\n“Bir şeyi ele geçirmek değil, onunla aynı nefesi solumaktır.\nParmağınla gösterdiğin ay değil, parmağın kendisidir zaten ay.”\n\nGardiyanın silahı, havada asılı bir illüzyona dönüştü."
-        },
-        {
-          "type": "metin",
-          "text": "“Açıkla o zaman,”",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "diye gürledi ama sesindeki korku, bir yaprağın titreyişi gibiydi."
-        },
-        {
-          "type": "metin",
-          "text": "“Açıkla hadi her şeyi.”",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "“Bak,” dedim ve hücremin duvarı saydamlaştı.\n\n“Gördüğün, senin düşüncenin ta kendisi.\nTutuklayan da tutuklanan da aynı rüyanın içinde uyuyor.\n‘Ben’ dediğin, dalganın kendisini ‘su’ diye tanımlamasıdır.\nDalga düşer, su ise hiçbir yere gitmez.”\n\nO an, gardiyanın yüzündeki çizgiler bir bir eridi.\nNefesi, sessizliğin içinde kaybolarak duman duman oldu.\n\nSilah, elinden düşmedi çünkü onu düşürebilecek bir el kalmadı.\n\nİkimiz de aynı aynanın önünde, aynanın kendisi olmuştuk.\n\n“İşte mutlak bu değil,” diye fısıldadım, artık fısıldayan da ben değildim.\n\n“Çünkü ‘bu’ diye sabit bir şey yok."
-        },
-        {
-          "type": "metin",
-          "text": "Sadece artık açıklanabilecek bir nesne, açıklayabilecek bir kimse kalmadığında, geriye sadece açıklamanın yokluğunda apaçık 'OL~AN' kalır.",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Ve o yokluk…”\n\nIşıklar söndü\nIşıklar yandı\nHücrenin kapısının, hiç kapanmamış olduğunu fark etti.\n\n“…Düşünmeden zaten hep a~çıktı.”\n\n~\n\nVarsa yoksa\nKarşılaşan\nAynalaşan\nAynalar\nBaşka\nHiçbir şey değil\n[Ikkyu'dan]\n\n~\n\nSonsuz yol var, sonu aynı olan\nBütün yollar tek bir kapıya çıkıyor.\n...\nVe sessizlik,\nAslında bir kapı olmadığını açığa çıkarıyor\n...\n[YÜZ SÖZ'den]\n\n~"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Sonsuz yol var, sonu aynı olan<br>Bütün yollar tek bir kapıya çıkıyor.<br>...<br>Ve sessizlik,<br>Aslında bir kapı olmadığını açığa çıkarıyor<br>...<br><br>~</p>",
+          "author": "[YÜZ SÖZ'den]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T18:32:19.530Z"
 }
