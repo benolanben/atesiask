@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dalga motor",
+      "id": 202601061558,
+      "category": "posts/seyirdefteri/202601061558"
+    },
+    {
       "text": "Gözleme ânı",
       "id": 202601061555,
       "category": "posts/seyirdefteri/202601061555"
@@ -59,11 +64,6 @@
       },
       "id": 202601041146,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "İstanbul Ansiklopedisi",
-      "id": 202601022307,
-      "category": "posts/seyirzevki/202601022307"
     }
   ]
 }
