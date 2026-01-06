@@ -19,30 +19,16 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Nîce yıldır misâfirsin bu tende\nCehâlettir ânı bilmez isen sende"
-        },
-        {
-          "type": "metin",
-          "text": "Çünkü bu duvar-ı ten âgâhtır\nHâne hayy'dır ki içinde Şâh'tır",
-          "is_bold": true
+          "text": "<p class=\"mb-4\">Nîce yıldır misâfirsin bu tende<br>Cehâlettir ânı bilmez isen sende<strong><br>Çünkü bu duvar-ı ten âgâhtır<br>Hâne hayy'dır ki içinde Şâh'tır</strong></p>"
         },
         {
           "type": "alinti",
-          "text": "Aslının üstünde bir~çok kat boyası olan şirin bir şey gibiyiz\nBoyalarımız kavramlardan ve anılardan oluşuyor.\nGerçek kimliğimizse son kat boyanın altında gizli duruyor.\n",
+          "text": "<p class=\"mb-4\">Aslının üstünde bir~çok kat boyası olan şirin bir şey gibiyiz<br>Boyalarımız kavramlardan ve anılardan oluşuyor.<br>Gerçek kimliğimizse son kat boyanın altında gizli duruyor.</p>",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "Bu beden nasıl da müsâit bir mahzen\nÇerâğ-ı dilden uyandırılacak bir şemmm\nİlahi ışığın enerjik bir kanalı olmak için\nYa Nur~a kandil ol diye var görünüyor~san~sen\n\nÖyleyse onu anılar deposu olarak kullanmaktan vazgeç...\n\nArtık var olmayan~a\nŞimdi burada olmayan şey'e\nYapışmaktan vazgeç!\n\nBir hayâle tutunma artık istersen\nBoşluğuyla iş~gören bir kamışa bu kadar yüklenme...\n\nGerçekliği geçicilikle doldurmaktan vazgeç.\n\nBoş olan~ı\nBoş bırak\nHoş olan~ı\nHoş\n\nGeçmiş yok.\nKimlik yok.\nBağlanma yok.\nDirenç yok.\nArayış yok"
-        },
-        {
-          "type": "metin",
-          "text": "Saf\nİlâhî\n'Işk",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">Bu beden nasıl da müsâit bir mahzen<br>Çerâğ-ı dilden uyandırılacak bir şemmm<br>İlahi ışığın enerjik bir kanalı olmak için<br>Ya Nur~a kandil ol diye var görünüyor~san~sen</p><p class=\"mb-4\">Öyleyse onu anılar deposu olarak kullanmaktan vazgeç...</p><p class=\"mb-4\">Artık var olmayan~a<br>Şimdi burada olmayan şey'e<br>Yapışmaktan vazgeç!</p><p class=\"mb-4\">Bir hayâle tutunma artık istersen<br>Boşluğuyla iş~gören bir kamışa bu kadar yüklenme...</p><p class=\"mb-4\">Gerçekliği geçicilikle doldurmaktan vazgeç.</p><p class=\"mb-4\">Boş olan~ı<br>Boş bırak<br>Hoş olan~ı<br>Hoş</p><p class=\"mb-4\">Geçmiş yok.<br>Kimlik yok.<br>Bağlanma yok.<br>Direnç yok.<br>Arayış yok</p><p class=\"mb-4\"><strong>Saf<br>İlâhî<br>'Işk</strong></p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "alinti",
@@ -60,16 +46,7 @@
         },
         {
           "type": "metin",
-          "text": "Bülbül ki kalır gül ile tenhâ gecelerde\nUşşâka olur başka temâşâ gecelerde\nYanan aşk ile göçer yarına gecelerde\nDil~dârına vuslat ile tenhâ gecelerde ❞\n\n~\n\nAy büyürken câzibesiyle\nHalk-ı cihân kaptırıp kendini\n\"Dön~gel\" emrine\nÇekilmişlerken uykuya"
-        },
-        {
-          "type": "metin",
-          "text": "Sen~uyuma~ya~gör\nAç gözlerini\nAşk gözlerini",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Ve işte şimdi önünde bir bardak su...\nİçinden ayın yansımasını izliyorsun.\n\nNasıl mı?\n\nSuyu çalkalıyorsun, ay parçalanıyor.\nSuyu döküyorsun, ay yok oluyor.\n\nPeki ay gitti mi?\nO hiç gökten yere indi mi?\n\nİşte beden o bardak!\n\nVe sen, o ıslaklığı hisseden el değilsin,\nGökteki aysın sen a güzel...\n\nBardak kırılacak.\nSu kuruyacak.\nAy kalacak.\n\n~\n\nGördüm bir ayna, kendine bakarken gördüğü şeye “ben” diye haykırıyor; sonra o görüntü nefesinden buğulanınca, “Âh amân ölüyorum” diye ağlıyor.\n\nNe komik trajedi, ne hüzünlü komedi...\n\nGeçti artık geçti...\nHepsi geçti..."
+          "text": "<p class=\"mb-4\"><em>Bülbül ki kalır gül ile tenhâ gecelerde<br>Uşşâka olur başka temâşâ gecelerde<br>Yanan aşk ile göçer yarına gecelerde<br>Dil~dârına vuslat ile tenhâ gecelerde</em> ❞</p><p class=\"mb-4\">~<br><br>Ay büyürken câzibesiyle<br>Halk-ı cihân kaptırıp kendini<br>\"Dön~gel\" emrine<br>Çekilmişlerken uykuya</p><p class=\"mb-4\"><strong>Sen~uyuma~ya~gör<br>Aç gözlerini<br>Aşk gözlerini</strong></p><p class=\"mb-4\">Ve işte şimdi önünde bir bardak su...<br>İçinden ayın yansımasını izliyorsun.<br><br>Nasıl mı?<br><br>Suyu çalkalıyorsun, ay parçalanıyor.<br>Suyu döküyorsun, ay yok oluyor.</p><p class=\"mb-4\">Peki ay gitti mi?<br>O hiç gökten yere indi mi?</p><p class=\"mb-4\">İşte beden o bardak!</p><p class=\"mb-4\">Ve sen, o ıslaklığı hisseden el değilsin,<br>Gökteki aysın sen a güzel...</p><p class=\"mb-4\">Bardak kırılacak.<br>Su kuruyacak.<br>Ay kalacak.</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Gördüm bir ayna, kendine bakarken gördüğü şeye “ben” diye haykırıyor; sonra o görüntü nefesinden buğulanınca, “Âh amân ölüyorum” diye ağlıyor.</p><p class=\"mb-4\">Ne komik trajedi, ne hüzünlü komedi...<br><br>Geçti artık geçti...<br>Hepsi geçti...</p>"
         },
         {
           "type": "ses",
@@ -79,9 +56,10 @@
         },
         {
           "type": "metin",
-          "text": "\nOnun nakş u hayâlinden\nCihân bir zerre olmuştur\nNazar etsen o zerreden\nGörünmez lâkin illâ hû\n\n~"
+          "text": "<p class=\"mb-4\"><em>Onun nakş u hayâlinden</em><br><em>Cihân bir zerre olmuştur</em><br>Nazar etsen o zerreden<br>Görünmez lâkin illâ hû<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:29:54.942Z"
 }
