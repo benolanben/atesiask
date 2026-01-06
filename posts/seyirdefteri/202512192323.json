@@ -19,66 +19,16 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Sordu~O~na:"
+          "text": "<p class=\"mb-4\">Sordu~O~na:<br><strong>- Senin için daha önce hiç yapılmamış ne yapabilirim ki?</strong></p><p class=\"mb-4\">Kadın, gözlerinde iki sessiz çöl taşıyormuş gibi cevap verdi:<br><strong>- Kal</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Kuşun konmasına da<br>Uçup gitmesine de<br>Güzellikle imkân tanıyan<br>Bir ağacı fikredelim bir kere…</p><p class=\"mb-4\">Onu kalmaya, daha kalmaya davet etmeden ya da artık gitmesini istemeden<br>Şâyet kalbiniz olabilirse böyle<br>Yakın olursun YOL~a böyle</p><p class=\"mb-4\">~</p>",
+          "author": "[Zen Bahçeleri'nden]"
         },
         {
           "type": "metin",
-          "text": "- Senin için daha önce hiç yapılmamış ne yapabilirim ki?",
-          "is_colored": false,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Kadın, gözlerinde iki sessiz çöl taşıyormuş gibi cevap verdi:\n"
-        },
-        {
-          "type": "metin",
-          "text": "- Kal\n",
-          "is_bold": true
-        },
-        {
-          "type": "spoiler",
-          "text": "~\n\nKuşun konmasına da\nUçup gitmesine de\nGüzellikle imkân tanıyan\nBir ağacı fikredelim bir kere…\n\nOnu kalmaya, daha kalmaya davet etmeden ya da artık gitmesini istemeden\nŞâyet kalbiniz olabilirse böyle\nYakın olursun YOL~a böyle\n[Zen Bahçeleri'nden]\n\n~"
-        },
-        {
-          "type": "metin",
-          "text": "Bir ağacın açık kabulüyle...\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nBu kadarı yeterdi süzülmüş âşıklara gerçi...\nAma laf da uzamadan edemedi, gerisini dedi:\n\n~\n\nVe o an, anlar gibi oldum:\n\"Kalmak\" denen şey, yoksa hiçbir yere ait olmama cesâreti miydi?\n\nBir koltuğa değil,\nBir fikre değil\nHatta durduğu gibi duran bir \"BEN\"e değil.\n\nSadece burada,\nTam da burada...\nNe oluyorsa\nO\nNasıl oluyorsa\nÖylece\n\nAma bu \"BURADA\"nın bile\nHaritasız olduğu,\nÖnceden bilinmediği,\nHazırlık yapılamadığı yerde...\n\n~\n\nNeden sonra kadın gülümsedi\n— Belki de hiç gülümsemedi,\nSâdece yüzümdeki anlamsız gerilim eridi.\n\n...\n\nBen mi?\nÇoktan gitmiştim bile...\n\nDuramamıştım işte\nKalamam ben bir yerde uzun süre\n\nAma aynı anda hiç gitmemiştim işte...\n\nİçimdeki kuş, hem konmuştu dallara hem de hiç inmemişti yere.\n\nNasıl estiyse öyle uçmuştu...\n\nBelki de bütün mesele buydu:"
-        },
-        {
-          "type": "metin",
-          "text": "O’na bir şey eklemek,\nO'ndan bir şey eksiltmek imkânsızdı,\nÇünkü O zaten olduğunda olanın ta kendisiydi.\nOlmadığında olmayanın!",
-          "is_bold": true,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "Sadece durmak,\nKalbin bir ağaç olduğunu hatırlaması gibi\nAnlamadan, anlamlandırmadan dur~an"
-        },
-        {
-          "type": "metin",
-          "text": "Bir ağaçtır bu âlem; meyvesi olmuş sen ben... ❞\n",
-          "is_bold": false,
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Ve o zaman belki sen de anlarsın ki\n\nSen zaten o kuşsun,\nO dallar,\nO uçuş ve geride kalan o büyük boşluk…\nNe hoşsun\n\nHepsi bir,\nHepsi hiç.\nHepsi hepsi...\n\nGitmesine dayanamamak\n\"Kal\" demek...\nİşte bu hiçliğin kendisine davetiye çıkarmakmış.\nVe ben, davetiyeyi yırtıp havasını yuttum; geriye sadece tadı kaldı:"
-        },
-        {
-          "type": "spoiler",
-          "text": "\"Adı konmamış, şekli bilinmeyen, saf bir varlık lezzeti.\"\n\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Vâr olmanın dayanılmaz hafifliği...\n\nDuyulur elbet ses kesilince sesi:"
+          "text": "<p class=\"mb-4\"><strong>Bir ağacın açık kabulüyle...<br></strong><br>~<br><br>Bu kadarı yeterdi süzülmüş âşıklara gerçi...<br>Ama laf da uzamadan edemedi, gerisini dedi:</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Ve o an, anlar gibi oldum:<br>\"Kalmak\" denen şey, yoksa hiçbir yere ait olmama cesâreti miydi?</p><p class=\"mb-4\">Bir koltuğa değil,<br>Bir fikre değil<br>Hatta durduğu gibi duran bir \"BEN\"e değil.<br><br>Sadece burada,<br>Tam da burada...<br>Ne oluyorsa<br>O<br>Nasıl oluyorsa<br>Öylece</p><p class=\"mb-4\">Ama bu \"BURADA\"nın bile<br>Haritasız olduğu,<br>Önceden bilinmediği,<br>Hazırlık yapılamadığı yerde...</p><p class=\"mb-4\">~<br><br>Neden sonra kadın gülümsedi<br>— <em>Belki de hiç gülümsemedi,<br></em>Sâdece yüzümdeki anlamsız gerilim eridi.</p><p class=\"mb-4\">...<br><br>Ben mi?<br>Çoktan gitmiştim bile...<br><br>Duramamıştım işte<br>Kalamam ben bir yerde uzun süre</p><p class=\"mb-4\">Ama aynı anda hiç gitmemiştim işte...</p><p class=\"mb-4\">İçimdeki kuş, hem konmuştu dallara hem de hiç inmemişti yere.</p><p class=\"mb-4\">Nasıl estiyse öyle uçmuştu...<br><br>Belki de bütün mesele buydu:<br><br><strong>O’na bir şey eklemek,<br>O'ndan bir şey eksiltmek imkânsızdı,<br>Çünkü O zaten olduğunda olanın ta kendisiydi.<br>Olmadığında olmayanın!</strong></p><p class=\"mb-4\">Sadece durmak,<br>Kalbin bir ağaç olduğunu hatırlaması gibi<br>Anlamadan, anlamlandırmadan dur~an</p><p class=\"mb-4\"><strong>Bir ağaçtır bu âlem; meyvesi olmuş sen ben... ❞</strong></p><p class=\"mb-4\">Ve o zaman belki sen de anlarsın ki</p><p class=\"mb-4\">Sen zaten o kuşsun,<br>O dallar,<br>O uçuş ve geride kalan o büyük boşluk…<br>Ne hoşsun</p><p class=\"mb-4\"><strong>Hepsi bir,<br>Hepsi hiç.<br>Hepsi hepsi...</strong></p><p class=\"mb-4\">Gitmesine dayanamamak<br>\"Kal\" demek...<br>İşte bu hiçliğin kendisine davetiye çıkarmakmış.<br>Ve ben, davetiyeyi yırtıp havasını yuttum; geriye sadece tadı kaldı:</p><p class=\"mb-4\"><strong><span class=\"colored\">\"Adı konmamış, şekli bilinmeyen, saf bir varlık lezzeti.\"</span></strong></p><p class=\"mb-4\">Vâr olmanın dayanılmaz hafifliği...<br><br>Duyulur elbet ses kesilince sesi:</p>"
         },
         {
           "type": "ses",
@@ -87,14 +37,11 @@
           "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192323-1766175781790.jpg"
         },
         {
-          "type": "metin",
-          "text": "~"
-        },
-        {
           "type": "spoiler",
-          "text": "~\n\n\n\nAşk olsun ey sevgili, ben hiç gitmedim ki...\n\n\n\n~\n\n"
+          "text": "<p class=\"mb-4\">~ <br><br><strong><em><span class=\"colored\">Aşk olsun ey sevgili, ben hiç gitmedim ki...</span></em></strong><em><br><br>~</em></p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T17:51:48.611Z"
 }
