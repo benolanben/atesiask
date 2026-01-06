@@ -19,45 +19,21 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Sanal gerçeklik gözlüğü\n\"VR\" benzetmesi"
-        },
-        {
-          "type": "metin",
-          "text": "Varlığın büsbütün akışı olan hayatın büyük bir kısmı, olduğumuz gerçek mucizenin farkına varmak yerine, düşünce ve yargılara kurgulanmış sanal gerçeklik olarak geçip gidiyor...",
-          "is_bold": true
+          "text": "<p class=\"mb-4\">Sanal gerçeklik gözlüğü<br>\"VR\" benzetmesi</p><p class=\"mb-4\"><strong>Varlığın büsbütün akışı olan hayatın büyük bir kısmı, olduğumuz gerçek mucizenin farkına varmak yerine, düşünce ve yargılara kurgulanmış sanal gerçeklik olarak geçip gidiyor...</strong></p>"
         },
         {
           "type": "alinti",
-          "text": "Bir noktayı uzattığınız bütün hayatınız \"yapay zeka ile artırılmış sanal bir gerçekliktir\" çünkü onu yalnızca zihninizde olduğu şekilde görüyorsunuz ve size özel yayını, sizin gibi gören de yok...\n",
+          "text": "<p class=\"mb-4\">Bir noktayı uzattığınız bütün hayatınız <strong>\"yapay zeka ile artırılmış sanal bir gerçekliktir\"</strong> çünkü onu yalnızca zihninizde olduğu şekilde görüyorsunuz ve size özel yayını, sizin gibi gören de yok...</p>",
           "author": "[A. Kadrî]"
         },
         {
-          "type": "spoiler",
-          "text": "\nVe nüfiha fi's-sûr... fe-izâhüm mine'l-ecdâsi ilâ eabbihim yensilûn;\n\nSur’a nefholunmuştur... Bir de bakarsın ki onlar cedeslerinden (koza, oda, kabir, beden) çıkmış kendilerini ve oyunu evirip çeviren Rablerine (tercihleri, alternatifleri, kişisel akılları söz konusu olmaksızın) koşuyorlar, kendi gerçeklerini fark etme aşamasına...\n[Yâ-sin:51'den]"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Ve nüfiha fi's-sûr... fe-izâhüm mine'l-ecdâsi ilâ eabbihim yensilûn;</em><br><br>Sur’a nefholunmuştur... Bir de bakarsın ki onlar cedeslerinden (koza, oda, kabir, beden) çıkmış kendilerini ve oyunu evirip çeviren Rablerine (tercihleri, alternatifleri, kişisel akılları söz konusu olmaksızın) koşuyorlar, kendi gerçeklerini fark etme aşamasına...<br></p>",
+          "author": "[Yâ-sin:51'den]"
         },
         {
           "type": "metin",
-          "text": "VR dünyada o kadar uzun süre kaldın ki simülasyon olduğunu unuttun.\n\nNasıl uyanırsın?\n\nGözlüğü gözünde unuttun\nKulaklığı kulağında unuttun\nİçinde olduğun odayı unuttun\n\nKendinin bir avatar olduğunu sanıyorsun...\n\nProfil resmi, oyun aynasında görünen karakter olduğunu sanıyorsun; yaşlanan, büyüyen, değişen.\n\nKarakter, belirli konumda yaşıyor, belirli aileye doğmuş, kişisel hayatını sürüyor...\n\nVe nasılsa bu karakter, verilen senaryonun bütününe sahip.\n\nDrama, komedi, trajediye tamamen kapılmışsın.\n\nLevel atladığını, geliştiğini, evrildiğini, en iyi versiyonunu bulduğunu filan sanıyorsun.\n\nHasar alıyorsun.\nİyileşiyorsun.\nMeditasyon yapıyorsun,\nKendini ibadetlere veriyorsun.\nGünlük tutuyorsun.\nTerapi alıyorsun.\n\"Uyanış\" diye bir şey duyuyorsun\nVe oyunda zikir yapmaya başlıyorsun."
-        },
-        {
-          "type": "metin",
-          "text": "Vâr olmayan hayâlî bir karaktere, fenâ hâlde kafayı takmış durumdasın...\n\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Avatar nefes çalışması öğrenir.\nOruç tutar, eğilir, dua eder, gölge çalışması yapar, yapar ve bir şey dank! eder.\n\nYani bir şey eksik, yanlış, ters hissettirir.\n\nÇünkü avatar bir uçta ne kadar tapınırsa tapınsın,\nDiğer uçta ne kadar çılgınlık yaparsa yapsın özgür olmaz.\n\nKozmik şaka bu.\n\nYola girip kulluk eden\nYa yoldan çıkıp isyana düşen\nSen değilsin hiç, sen...\n\nArayan rüyanın bir sezonu.\nÇabalayan döngünün parçası, yok sonu\n\nManevi kimlik demek\nDaha rafine bir ego demek\n\nPeki nasıl mı uyanırsın?\n\nAvatarı yükseltmekle değil, pratikleri mükemmelleştirmekle hiç değil, bütün şeyi...\nOyunu, oyuncuyu, hikayeyi, çabayı sen olarak görmemekle."
-        },
-        {
-          "type": "metin",
-          "text": "\"Aynîleşmemekle\"\n\n",
-          "is_tight": true,
-          "is_bold": true,
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Şartlanmış programlamanın, karakterin izlediği senaryonun...\nSen olmadığını fark etmekle.\n\nKarakter uyanmaz.\nUyanamaz.\nSEN Karakter'den uyanırsın."
+          "text": "<p class=\"mb-4\">VR dünyada o kadar uzun süre kaldın ki simülasyon olduğunu unuttun.</p><p class=\"mb-4\">Nasıl uyanırsın?</p><p class=\"mb-4\">Gözlüğü gözünde unuttun<br>Kulaklığı kulağında unuttun<br>İçinde olduğun odayı unuttun</p><p class=\"mb-4\">Kendinin bir avatar olduğunu sanıyorsun...<br><br>Profil resmi, oyun aynasında görünen karakter olduğunu sanıyorsun; yaşlanan, büyüyen, değişen.</p><p class=\"mb-4\">Karakter, belirli konumda yaşıyor, belirli aileye doğmuş, kişisel hayatını sürüyor...</p><p class=\"mb-4\">Ve nasılsa bu karakter, verilen senaryonun bütününe sahip.<br><br>Drama, komedi, trajediye tamamen kapılmışsın.</p><p class=\"mb-4\">Level atladığını, geliştiğini, evrildiğini, en iyi versiyonunu bulduğunu filan sanıyorsun.</p><p class=\"mb-4\">Hasar alıyorsun.<br>İyileşiyorsun.<br>Meditasyon yapıyorsun,<br>Kendini ibadetlere veriyorsun.<br>Günlük tutuyorsun.<br>Terapi alıyorsun.<br>\"Uyanış\" diye bir şey duyuyorsun<br>Ve oyunda zikir yapmaya başlıyorsun.<br><br><strong><em>Vâr olmayan hayâlî bir karaktere, fenâ hâlde kafayı takmış durumdasın...</em></strong></p><p class=\"mb-4\">Avatar nefes çalışması öğrenir.<br>Oruç tutar, eğilir, dua eder, gölge çalışması yapar, yapar ve bir şey dank! eder.<br><br>Yani bir şey eksik, yanlış, ters hissettirir.</p><p class=\"mb-4\">Çünkü avatar bir uçta ne kadar tapınırsa tapınsın,<br>Diğer uçta ne kadar çılgınlık yaparsa yapsın özgür olmaz.</p><p class=\"mb-4\">Kozmik şaka bu.</p><p class=\"mb-4\">Yola girip kulluk eden<br>Ya yoldan çıkıp isyana düşen<br>Sen değilsin hiç, sen...</p><p class=\"mb-4\">Arayan rüyanın bir sezonu.<br>Çabalayan döngünün parçası, yok sonu</p><p class=\"mb-4\">Manevi kimlik demek<br>Daha rafine bir ego demek</p><p class=\"mb-4\">Peki nasıl mı uyanırsın?</p><p class=\"mb-4\">Avatarı yükseltmekle değil, pratikleri mükemmelleştirmekle hiç değil, bütün şeyi...<br>Oyunu, oyuncuyu, hikayeyi, çabayı sen olarak görmemekle.<br><strong>\"Aynîleşmemekle\"</strong></p><p class=\"mb-4\">Şartlanmış programlamanın, karakterin izlediği senaryonun...<br>Sen olmadığını fark etmekle.</p><p class=\"mb-4\">Karakter uyanmaz.<br>Uyanamaz.<br>SEN Karakter'den uyanırsın.</p>"
         },
         {
           "type": "alinti",
@@ -66,29 +42,15 @@
         },
         {
           "type": "metin",
-          "text": "Gerçek uyanışın anahtar cümlesi belki de bu.\nOyun, olduğu gibi kalır.\nAvatar, birey olduğu gibi.\n\nPeki düşen ne?\nÖzdeşleşme.\n\n\"Ben~im\" düşüncesi, SEN'in o karakter olduğu yanılsaması.\nBirey ya da avatar şimdi uyanmış bilincin aracı olur.\nKarakter senaryoya yapışmadığında, beden-zihin gizemin doğrudan ifadesi olur.\n\n\"Tek Bir'in kutsal ifadesi.\"\nAllahuekber duyulur\n\n\nİşte bu gerçekte kal, bu gerçekleşmede...\nSEN basitçe farkındasın.\n\nOyunu hack etmenin yollarından biri bu.\nEn azından bu karakterin geçtiği yol bu...\n\nAslında hiç içinde olmadığını keşfederek...\n\nSonunda olduğun bilinç uyanır.\nKozmik şaka ifşa olur.\n\n\"Yeşil Perde\" mi?\nPerdenin arkasında kimse yok, sadece oyunun kendisi var...\n\nYaşam oyununu oynamaktan zevk alırsın çünkü bireysel oyuncuların olmadığı fark edilmiştir bir kere...\n\nYani şâyet varsa bir uyanış, bu oyunu oynamaya devam ederken, oyuna gelmeden, oyunu bozmadan, oyunun tadını çıkararak gülümseyebilmekte..."
-        },
-        {
-          "type": "metin",
-          "text": "Tıpkı çocuklar gibi...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Çocuk kim olduğunu sormaz.\nSadece oynar.\nBelki de bilgelik budur.\nYeniden çocuk olmakla hatırlanır\n\n~\n"
-        },
-        {
-          "type": "metin",
-          "text": "Derken derken rüyalar daha uyanık olur.\nUyanık dünya daha rüya gibi...",
-          "is_bold": true
+          "text": "<p class=\"mb-4\">Gerçek uyanışın anahtar cümlesi belki de bu.<br>Oyun, olduğu gibi kalır.<br>Avatar, birey olduğu gibi.</p><p class=\"mb-4\">Peki düşen ne?<br>Özdeşleşme.</p><p class=\"mb-4\">\"Ben~im\" düşüncesi, SEN'in o karakter olduğu yanılsaması.<br>Birey ya da avatar şimdi uyanmış bilincin aracı olur.<br>Karakter senaryoya yapışmadığında, beden-zihin gizemin doğrudan ifadesi olur.</p><p class=\"mb-4\">\"Tek Bir'in kutsal ifadesi.\"<br>Allahuekber duyulur</p><p class=\"mb-4\"><br>İşte bu gerçekte kal, bu gerçekleşmede...<br>SEN basitçe farkındasın.</p><p class=\"mb-4\">Oyunu hack etmenin yollarından biri bu.<br>En azından bu karakterin geçtiği yol bu...</p><p class=\"mb-4\">Aslında hiç içinde olmadığını keşfederek...<br><br>Sonunda olduğun bilinç uyanır.<br>Kozmik şaka ifşa olur.<br><br>\"Yeşil Perde\" mi?<br>Perdenin arkasında kimse yok, sadece oyunun kendisi var...<br><br>Yaşam oyununu oynamaktan zevk alırsın çünkü bireysel oyuncuların olmadığı fark edilmiştir bir kere...<br><br>Yani şâyet varsa bir uyanış, bu oyunu oynamaya devam ederken, oyuna gelmeden, oyunu bozmadan, oyunun tadını çıkararak gülümseyebilmekte...<br><br><strong>Tıpkı çocuklar gibi...<br></strong><br>Çocuk kim olduğunu sormaz.<br>Sadece oynar.<br>Belki de bilgelik budur.<br>Yeniden çocuk olmakla hatırlanır</p><p class=\"mb-4\">~<br><br><strong>Derken derken rüyalar daha uyanık olur.<br>Uyanık dünya daha rüya gibi...</strong></p>"
         },
         {
           "type": "spoiler",
-          "text": "\nSÜRPRİZ FİNAL:\nAdı, soyadı, doğduğu yer, sevdiği yemek, korktuğu şeyler…\nHepsi birer dosya, birer karakter profili.\nBu dosyaların sahibi kimdi peki?\nDosyayı okuyan biri mi, yoksa dosyalayanın kendisi mi?\nİşte tam da bu sorunun ortasında, ekran karardı.\nAma kapanmadan önce, son bir mesaj titredi:\n\nSIMULATION_OVERRIDE:\nHata bulundu.\nAna kullanıcı, kontrollü bir uyanışa hazırlanıyor."
+          "text": "<p class=\"mb-4\">SÜRPRİZ FİNAL:<br>Adı, soyadı, doğduğu yer, sevdiği yemek, korktuğu şeyler…<br>Hepsi birer dosya, birer karakter profili.<br>Bu dosyaların sahibi kimdi peki?<br>Dosyayı okuyan biri mi, yoksa dosyalayanın kendisi mi?<br>İşte tam da bu sorunun ortasında, ekran karardı.<br>Ama kapanmadan önce, son bir mesaj titredi:</p><p class=\"mb-4\"><strong>SIMULATION_OVERRIDE:</strong><br>Hata bulundu.<br>Ana kullanıcı, kontrollü bir uyanışa hazırlanıyor.</p>"
         },
         {
           "type": "alinti",
-          "text": "\nAkıl kendi kendine takılır\nKendi çalar kendi oynar\nİnananı oyununa katar\nBu oyunu ancak\nFişin takılı olmadığını anlayan bozar!",
+          "text": "<p class=\"mb-4\">Akıl kendi kendine takılır<br>Kendi çalar kendi oynar<br>İnananı oyununa katar<br>Bu oyunu ancak<br>Fişin takılı olmadığını anlayan bozar!</p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
@@ -97,5 +59,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:46:14.679Z"
 }
