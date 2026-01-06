@@ -18,39 +18,13 @@
     "main_article": {
       "quotes": [
         {
-          "type": "spoiler",
-          "text": "Bir garip yolcuyum hayat yolunda\nYolumu kaybetmiş perişânım ben\nMecnûn misâli gurbet ellerde\nÜmit~siz~sevginin kurbânıyım ben\n[Muhayyer~kürdi Fantezi'den]"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Bir garip yolcuyum hayat yolunda<br></em><strong><em>Yolumu kaybetmiş perişânım ben<br></em></strong><em>Mecnûn misâli gurbet ellerde<br>Ümit~siz~sevginin kurbânıyım ben</em><br></p>",
+          "author": "[Muhayyer~kürdi Fantezi'den]"
         },
         {
           "type": "metin",
-          "text": "~\n\n— Benim evim, benim yerim neresi?\nBenim gerçeğim, benim bildiğim ne ki?"
-        },
-        {
-          "type": "metin",
-          "text": "Yerin terk edenin yoktur mekânı, hakîkat ehlinin olmaz nişânı...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Bir yere âit olma arzusudur, seni beni böyle yersiz yurtsuz bırakan.\nÂidiyet arayışını bıraktığında her yer senin olur da kendine yer bulamaz olursun.\n\n— İşte tam da bu korkutuyor beni...\n\nBilinmeyenden neden korkarsın?\n\nÇünkü egonun tek görevi:"
-        },
-        {
-          "type": "metin",
-          "text": "BEN~i 'güvende' tutmaktır.\n",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "İllâ bir şeye tutunması gerekir\nVe bilinmeyenin tutunacak bir yeri yoktur.\n\n~\n\nGerçeği arayan biri olmak,\nÇok zaman\nYönsüz,\nYersiz,\nYurtsuz hissettirir…\n\nAslında bu çok anlamlıdır zira eğer sabit bir gerçek yoksa, gerçeği kucaklamak, bilinmeyeni kucaklamaktır.\n\nÖyleyse\nŞahsen durduğunu sanarak\nHer an değişip duranı\nSabit bir anlam çerçevesine sığdırmaya çalışmayı bırakasın.\n\nAnlayım diye çabalamayı da...\n\nBir sonraki sahnede nasıl hareket edeceğini belirlemeye çalışmayı da...\n\nKalemi dilinden bırak\nYazıp durma!\n\nBilinmeyen gizli hazineden\nBir nefes al\nVe aldığın yeri kucakla\nYani bilmemeyi...\n\nSessizce farkında ol.\nOlan, sadece oluyor.\nOlmayan, yok.\n\nHepsi bu kadar.\n\nBırak gizem, kendi irâdesiyle, kendi saatinde ortaya çıksın…\n\n~\n\nGizem demişken..."
-        },
-        {
-          "type": "metin",
-          "text": "İki el bir araya geldiğinde bir ses çıkar ya...\nPeki nedir tek elin sesi?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "...\n\nKadim zamanların koanı\nZihni tuzağa düşürmek için bir mantık mayını.\n\nAma tuzak boş!\n\nCevap, daha soruyu sormadan\nZaten hazırdır orada...\n\n...\n\nSessizlik, cevaptır."
+          "text": "<p class=\"mb-4\">~<br><br>— Benim evim, benim yerim neresi?<br>Benim gerçeğim, benim bildiğim ne ki?<br><br><strong>Yerin terk edenin yoktur mekânı, hakîkat ehlinin olmaz nişânı...<br><br></strong>Bir yere âit olma arzusudur, seni beni böyle yersiz yurtsuz bırakan.<br>Âidiyet arayışını bıraktığında her yer senin olur da kendine yer bulamaz olursun.<br><br>— İşte tam da bu korkutuyor beni...<br><br>Bilinmeyenden neden korkarsın?<br><br>Çünkü egonun tek görevi:<br><strong>BEN~i 'güvende' tutmaktır.</strong><br>İllâ bir şeye tutunması gerekir<br>Ve bilinmeyenin tutunacak bir yeri yoktur.<br><br>~<br><br>Gerçeği arayan biri olmak,<br>Çok zaman<br>Yönsüz,<br>Yersiz,<br>Yurtsuz hissettirir…</p><p class=\"mb-4\">Aslında bu çok anlamlıdır zira eğer sabit bir gerçek yoksa, gerçeği kucaklamak, bilinmeyeni kucaklamaktır.</p><p class=\"mb-4\">Öyleyse<br>Şahsen durduğunu sanarak<br>Her an değişip duranı<br>Sabit bir anlam çerçevesine sığdırmaya çalışmayı bırakasın.<br><br>Anlayım diye çabalamayı da...</p><p class=\"mb-4\">Bir sonraki sahnede nasıl hareket edeceğini belirlemeye çalışmayı da...<br><br>Kalemi dilinden bırak<br>Yazıp durma!</p><p class=\"mb-4\">Bilinmeyen gizli hazineden<br>Bir nefes al<br>Ve aldığın yeri kucakla<br>Yani bilmemeyi...</p><p class=\"mb-4\">Sessizce farkında ol.<br>Olan, sadece oluyor.<br>Olmayan, yok.</p><p class=\"mb-4\">Hepsi bu kadar.</p><p class=\"mb-4\">Bırak gizem, kendi irâdesiyle, kendi saatinde ortaya çıksın…<br><br>~<br><br>Gizem demişken...</p><p class=\"mb-4\"><strong>İki el bir araya geldiğinde bir ses çıkar ya...<br>Peki nedir tek elin sesi?</strong></p><p class=\"mb-4\">...</p><p class=\"mb-4\">Kadim zamanların koanı<br>Zihni tuzağa düşürmek için bir mantık mayını.</p><p class=\"mb-4\">Ama tuzak boş!</p><p class=\"mb-4\">Cevap, daha soruyu sormadan<br>Zaten hazırdır orada...</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Sessizlik, cevaptır.</p>"
         },
         {
           "type": "fotograf",
@@ -58,10 +32,17 @@
           "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192248-1766173687568.jpg"
         },
         {
-          "type": "metin",
-          "text": "Bilinen en az doğrudur.\nBilinmeyen daha doğrudur.\nBilmekten ve bilmemekten önceki durum\nHakîkat'in ta kendisidir.\n[Zen Bahçeleri'nden]\n\n~\n\nHiçbir şeyin katı veya kalıcı olmadığını gördüğünüzde,\nBilinmeyende kendinizi evinizde hissetmeye başlarsınız.\n[YÜZ SÖZ'den]\n\n~"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Bilinen en az doğrudur.<br>Bilinmeyen daha doğrudur.<br>Bilmekten ve bilmemekten önceki durum<br>Hakîkat'in ta kendisidir.<br></em></p>",
+          "author": "[Zen Bahçeleri'nden]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br><em>Hiçbir şeyin katı veya kalıcı olmadığını gördüğünüzde,<br>Bilinmeyende kendinizi evinizde hissetmeye başlarsınız.</em><br><br>~</p>",
+          "author": "[YÜZ SÖZ'den]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T18:30:36.705Z"
 }
