@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202601061558,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061558-1767704284911.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "dalga",
+            "deniz",
+            "şaka"
+          ],
+          "title": "Dalga motor",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601061555,
       "article": {
         "header": {
