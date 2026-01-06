@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hakikatin tersi~ne",
+      "id": 202601061620,
+      "category": "posts/seyirdefteri/202601061620"
+    },
+    {
       "text": "Kulluktan sultanlığa",
       "id": 202601061608,
       "category": "posts/seyirdefteri/202601061608"
@@ -49,16 +54,6 @@
       "text": "Yakan yanmaktadır",
       "id": 202601042115,
       "category": "posts/seyirdefteri/202601042115"
-    },
-    {
-      "text": {
-        "sira_no": 1467,
-        "parca_adi": "Uyandı bâtın çerâğı",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/trrwenems89xr85/uyandi.mp3"
-      },
-      "id": 202601041309,
-      "category": "kaynak/baska"
     }
   ]
 }
