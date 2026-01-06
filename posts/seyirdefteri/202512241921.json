@@ -10,7 +10,10 @@
       "date_value": "",
       "mini_title": "",
       "tags": [
-        ""
+        "Cem",
+        "Meryem",
+        "SÖYLEŞİ KAYITLARI",
+        "İsa"
       ],
       "title": "Noel gelmiş neyime",
       "subtitle": ""
@@ -19,161 +22,39 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "\"Milad Bayramı\"\n\"Yılbaşı Tatili\"\n\nOluyor mu?\n\nBir şey oluyorsa var demektir!\n\n\"Noel\" var mı yok mu ?\n\nBunu tartışmak abesle iştigal...\n\nVar işte...\nYokluğunu konuşmak bile varlığının ispâtı.\n\nVar da\nBiz kendi zevkimizce bakalım ne olarak var...\n\nKitapta ismi geçen yegane cins-i latîf olarak bu kapı mühim...\n\nCenâb-ı Meryem'in farkındalığına bakalım mı birlikte?"
+          "text": "<p class=\"mb-4\">\"Milad Bayramı\"<br>\"Yılbaşı Tatili\"</p><p class=\"mb-4\">Oluyor mu?</p><p class=\"mb-4\">Bir şey oluyorsa var demektir!</p><p class=\"mb-4\">\"Noel\" var mı yok mu ?</p><p class=\"mb-4\">Bunu tartışmak abesle iştigal...</p><p class=\"mb-4\">Var işte...<br>Yokluğunu konuşmak bile varlığının ispâtı.</p><p class=\"mb-4\">Var da<br>Biz kendi zevkimizce bakalım ne olarak var...</p><p class=\"mb-4\">Kitapta ismi geçen yegane cins-i latîf olarak bu kapı mühim...</p><p class=\"mb-4\">Cenâb-ı Meryem'in farkındalığına bakalım mı birlikte?</p>"
         },
         {
-          "type": "spoiler",
-          "text": "İşitecek kulağı olanlar, Ruhullah olandan şöyle işitti:\n\nEğer benim öğrencim olmak istiyorsanız, kıyasla herkesi yani babanızı, annenizi, karınızı, çocuklarınızı, kardeşlerinizi, hatta kendi canınızı bile öyle sevmeyin. Aksi takdirde, benim öğrencim olamazsınız ve benim yolumda çarmıhını yüklenmeyen, beni izlemeyen de bana lâyık değildir. [Luka 14:26-27'den]"
-        },
-        {
-          "type": "metin",
-          "text": "— Burada haç, neye işarettir?",
-          "is_bold": true
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İşitecek kulağı olanlar, Ruhullah olandan şöyle işitti:</p><p class=\"mb-4\">Eğer benim öğrencim olmak istiyorsanız, kıyasla herkesi yani babanızı, annenizi, karınızı, çocuklarınızı, kardeşlerinizi, hatta kendi canınızı bile öyle sevmeyin. Aksi takdirde, benim öğrencim olamazsınız ve benim yolumda çarmıhını yüklenmeyen, beni izlemeyen de bana lâyık değildir.</p>",
+          "author": "[Luka 14:26-27'den]"
         },
         {
           "type": "metin",
-          "text": "Çarmıh, her tarafından sabitlenmiş, haç içinden çıkılmaz bir hâlin, çıkmazın sembolüdür.\nYatay çizgi zamanı, dikey çizgi ise Ruh'u temsil eder. Merkezde, kesişme noktasında, mutlak bilinç tezâhürü yani farkındalık vardır."
+          "text": "<p class=\"mb-4\"><strong>— Burada haç, neye işarettir?</strong></p><p class=\"mb-4\">Çarmıh, her tarafından sabitlenmiş, haç içinden çıkılmaz bir hâlin, çıkmazın sembolüdür.<br>Yatay çizgi zamanı, dikey çizgi ise Ruh'u temsil eder. Merkezde, kesişme noktasında, mutlak bilinç tezâhürü yani farkındalık vardır.</p><p class=\"mb-4\"><strong>— Çarmıha gerilmek ne demek?</strong></p><p class=\"mb-4\"><br>Olduğunda O olmak demek<br><br>Olandan kaçış yok, bunda huzur var.<br>Çarmıh, huzurun, barışın sembolüdür.</p><p class=\"mb-4\"><strong>Burada ve şimdi olan şey, olduğunuz şeyden kaçabileceğiniz fikrinin çarmıha gerilmesidir bir anlamda....</strong></p><p class=\"mb-4\">Çarmıha gerilme burada ve şimdi gerçekleşiyor, şükürler olsun!</p><p class=\"mb-4\">Halleluyah!<br>Elhamdulillah</p><p class=\"mb-4\">Semboller şifre gibidir, hangi pass-word, geçiş kelimesini girerseniz, size ona uygun bir bilinç diyarına geçirir.</p><p class=\"mb-4\">Şimdilik çarmıhla en alakalı sembol olarak bunu böyle görüyorum.</p><p class=\"mb-4\">Zira din hapsediyorsa veya sınırlıyorsa, örgütlü hale gelir ve bir yuvaya ihtiyaç duyar. O zaman Tanrı dogmatikleşir. Ve böyle böyle hâşâ kendini mutlak bilinçte tutmak için sürekli kendinin farkında olması gereken bir bekçi köpeği rolüne bürünür.</p><p class=\"mb-4\">Vipassana<br>Her nefes farkındalık<br>Zikr-i daim<br>Salat-ı daim<br>Her gördüğümü dost yüzü bileyim<br>Ah aman ya tanıyamazsam, bilemezsem...<br><br>Hareket eden her şeye karşı mutlak uyanıklık.<br>Biz otururken bile kafalarımızda koştururken buluyoruz kendimizi ya hu....</p><p class=\"mb-4\">En tanrısız din olan,<br><strong>— </strong>Din mi onu da bilmem <strong>—<br></strong>Budizm bile dogmatiktir.</p><p class=\"mb-4\">Eğer Buda bugün hayatta olsaydı, tüm manastırları yok ederdi.<br>Toptan \"Tabula rasa\" yapardı.</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Yıkılmadıkça bu medreseler, bu minareler<br>Kalenderlik gelişemez hiç bir zaman<br>İman küfür olmadıkça küfürde iman<br>Olamaz bir tanrı kulu gerçek Müslüman</p>",
+          "author": "[Y. Emre'den] "
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gönlün gönlünde olan hep küfürden<br>İmân ve yakîn hâsıldır hep küfürden<br>Küfrün de küfrünü bulursan sen<br>Müminler sâfında kâmilsin sen<br></p>",
+          "author": "[S. Yahya Dedem]"
         },
         {
           "type": "metin",
-          "text": "— Çarmıha gerilmek ne demek?",
-          "is_bold": true
+          "text": "<p class=\"mb-4\">Bir kâmil, bir mürşit, bir insan güzeli, bir guru, 'ışkı aksettiren, aydınlatan biridir ama bir bakıma da Lucifer'dir.</p><p class=\"mb-4\">Sizi aydınlatmak, size yardım etmek isteyen biri...</p><p class=\"mb-4\"><strong><br>— Lucifer aslında Büyük Kurtarıcıdır, bizi kurtarmaya gelir, imdadımıza yetişir değil mi?<br></strong></p><p class=\"mb-4\"><strong><span class=\"colored\">\"Beni takip edin, size ışığı getireceğim, kendinizi evinizde hissedeceğiniz yerin sözünü veriyorum.\"</span></strong></p><p class=\"mb-4\">Size ışığı uzatır: bu havuçtur, aydınlanma havucu.</p><p class=\"mb-4\">Ama şeytan kendinizden çıkar çünkü sizinle şeytan arasında bir fark, ışıkla gölge arasında hiçbir ayrım yoktur; vücuda bitişiktir!</p><p class=\"mb-4\">Böylece biz kendi şeytanımız, kendi baştan çıkarıcımızız ve kendimizden başka kimseyi suçlayamayız. Bu katıksız bir narsisizmdir.</p><p class=\"mb-4\"><strong><br>— Havucun peşinden koştuktan sonra zopayı yiyoruz.</strong></p><p class=\"mb-4\">Evet affedersiniz ama bizde biraz varsa eşeklik, her zaman diğer eşekler tarafından yönlendiriliriz ki onlar da seni toynaklarıyla teperler.</p><p class=\"mb-4\"><strong>— Peki ya Meryem'in Bekâreti?</strong></p><p class=\"mb-4\">Evet, Cenâbı Meryem'den de bahsedelim, o da çok ilginç.</p><p class=\"mb-4\">Bakire Meryem'in bekâretinin, bozulmamış saflığının anlamı nedir?</p><p class=\"mb-4\">Bana kalırsa bu söz, Meryem'in idrakini, uyanışını anlatıyor:</p><p class=\"mb-4\">Meryem, oğlu sandığının çarmıhta can verişini gördüğünde, onun çarmıha gerilişi aracılığıyla asla bir oğlu olmadığını ve asla bir annenin kızı olmadığını fark etti.</p><p class=\"mb-4\">O anda birden kendi bekâretini keşfetti.</p><p class=\"mb-4\">Kutsal Ruh içine girip İsa'ya hamile kaldığı için değil.<br>Hayır, bu kilisenin anlattığı peri masallarından biridir.</p><p class=\"mb-4\">Çünkü bu hâliyle numune temsil etmez, insanlar için yol olmaz...</p><p class=\"mb-4\">Aslında bu, Meryem'in uyanışıdır, doğmamış Olan'ın idrakidir.</p><p class=\"mb-4\">O'nun annelik kalbi kırıldığında, Meryem Kara Madonna, siyah nur, Doğmamış Olan oldu; zâten öyle olduğunu anladı.</p><p class=\"mb-4\"><strong>— Ama İncillerin metinleri tanıklık etmek için orada ve bunlar…</strong></p><p class=\"mb-4\">Her zaman farklı bir şekilde yorumlanmıştır.</p><p class=\"mb-4\"><strong><br>— </strong>İncillerde başmelek Cebrail'in hiçbir erkekle birlikte olmamış genç bir kadını görmeye gittiği yazıyor. Öyle bekâret kaybından filan bahsedilmiyor, sadece onun bakireyken Ruh'un içine girdiği söyleniyor.</p><p class=\"mb-4\">...<br>Demek öyle esiyor.</p><p class=\"mb-4\">Benim şimdiki zevkimde, Meryem'in Bekâreti sembolü, Meryem'in uyanışıdır, göreceli sevginin teslimiyetidir.</p><p class=\"mb-4\">Meryem, annelik rolünden özgürleşir.</p><p class=\"mb-4\">Bu en olgun aşktır zira annelik sevgisi yanıltıcı bir sevgidir ve KALB'in var olması için illâ kırılması gerekir!</p><p class=\"mb-4\">Bir annenin kalbi kırılmadan, asla sahip olmadığı bir çocuğa duyduğu sevgiyi kolayca kaybetmesi düşünülemez.</p><p class=\"mb-4\">Benim şimdiki anlayışıma göre Meryem, aslında hiç sahibi olmadığı oğlunu kaybettiğinde kalbi kırılan bir annenin durumunun sembolüdür.</p><p class=\"mb-4\"><strong><br>— Ama bu bekâret miti Akdeniz havzasında dolaşıp duruyordu; türlü Yunan kahramanlarının babası bir tanrıydı. Dolayısıyla, bekâret zaten kendiliğinden anlaşılırdı.</strong></p><p class=\"mb-4\">Evet, bunların hepsini Tarihin bir parçası olarak açıklayabiliriz, yine de, Tanrı'nın izniyle, lütf u kereminden, her annenin anneliğini ve her babanın babalık kimliğini kaybetmesini güzel buluyorum.</p><p class=\"mb-4\">Bunu her zaman Tanrı'nın lütfunun iyi bir işareti olarak görüyorum ve etrafta dolaşan hikayeleri pek de umursamıyorum.</p><p class=\"mb-4\"><strong>— İlginç gelecek ama bu söylediklerinizin de kitapta yeri var:</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kalabalığın içinden bir kadın ona dedi ki:<br><br>Seni doğuran rahim ne mutlu,<br>Ve seni besleyen göğüsler ne mutlu!</p><p class=\"mb-4\">İsa ona dedi ki:</p><p class=\"mb-4\">Babanın kelâmını işitenlere ne mutlu,<br>Ve ona gerçekten uyanlara ne mutlu!</p><p class=\"mb-4\">Çünkü öyle günler olacak ve siz diyeceksiniz ki:</p><p class=\"mb-4\">Hamile kalmayan rahime ne mutlu,<br>Ve süt vermemiş göğüslere ne mutlu!<br></p>",
+          "author": "[Tomas:79'dan]"
         },
         {
           "type": "metin",
-          "text": "Olduğunda O olmak demek\n\nOlandan kaçış yok, bunda huzur var.\nÇarmıh, huzurun, barışın sembolüdür."
-        },
-        {
-          "type": "metin",
-          "text": "Burada ve şimdi olan şey, olduğunuz şeyden kaçabileceğiniz fikrinin çarmıha gerilmesidir bir anlamda....",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Çarmıha gerilme burada ve şimdi gerçekleşiyor, şükürler olsun!\n\nHalleluyah!\nElhamdulillah\n\nSemboller şifre gibidir, hangi pass-word, geçiş kelimesini girerseniz, size ona uygun bir bilinç diyarına geçirir.\n\nŞimdilik çarmıhla en alakalı sembol olarak bunu böyle görüyorum.\n\nZira din hapsediyorsa veya sınırlıyorsa, örgütlü hale gelir ve bir yuvaya ihtiyaç duyar. O zaman Tanrı dogmatikleşir. Ve böyle böyle hâşâ kendini mutlak bilinçte tutmak için sürekli kendinin farkında olması gereken bir bekçi köpeği rolüne bürünür.\n\nVipassana\nHer nefes farkındalık\nZikr-i daim\nSalat-ı daim\nHer gördüğümü dost yüzü bileyim\nAh aman ya tanıyamazsam, bilemezsem...\n\nHareket eden her şeye karşı mutlak uyanıklık.\nBiz otururken bile kafalarımızda koştururken buluyoruz kendimizi ya hu....\n\nEn tanrısız din olan,\n— Din mi onu da bilmem —\nBudizm bile dogmatiktir.\n\nEğer Buda bugün hayatta olsaydı, tüm manastırları yok ederdi.\nToptan \"Tabula rasa\" yapardı."
-        },
-        {
-          "type": "spoiler",
-          "text": "Yıkılmadıkça bu medreseler, bu minareler\nKalenderlik gelişemez hiç bir zaman\nİman küfür olmadıkça küfürde iman\nOlamaz bir tanrı kulu gerçek Müslüman\n[Y. Emre'den]\n\nGönlün gönlünde olan hep küfürden\nİmân ve yakîn hâsıldır hep küfürden\nKüfrün de küfrünü bulursan sen\nMüminler sâfında kâmilsin sen\n[S. Yahya Dedem]"
-        },
-        {
-          "type": "metin",
-          "text": "Bir kâmil, bir mürşit, bir insan güzeli, bir guru, 'ışkı aksettiren, aydınlatan biridir ama bir bakıma da Lucifer'dir.\n\nSizi aydınlatmak, size yardım etmek isteyen biri..."
-        },
-        {
-          "type": "metin",
-          "text": "— Lucifer aslında Büyük Kurtarıcıdır, bizi kurtarmaya gelir, imdadımıza yetişir değil mi?\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "\"Beni takip edin, size ışığı getireceğim, kendinizi evinizde hissedeceğiniz yerin sözünü veriyorum.\"",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Size ışığı uzatır: bu havuçtur, aydınlanma havucu.\n\nAma şeytan kendinizden çıkar çünkü sizinle şeytan arasında bir fark, ışıkla gölge arasında hiçbir ayrım yoktur; vücuda bitişiktir!\n\nBöylece biz kendi şeytanımız, kendi baştan çıkarıcımızız ve kendimizden başka kimseyi suçlayamayız. Bu katıksız bir narsisizmdir."
-        },
-        {
-          "type": "metin",
-          "text": "— Havucun peşinden koştuktan sonra zopayı yiyoruz.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Evet affedersiniz ama bizde biraz varsa eşeklik, her zaman diğer eşekler tarafından yönlendiriliriz ki onlar da seni toynaklarıyla teperler."
-        },
-        {
-          "type": "metin",
-          "text": "— Peki ya Meryem'in Bekâreti?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Evet, Cenâbı Meryem'den de bahsedelim, o da çok ilginç.\n\nBakire Meryem'in bekâretinin, bozulmamış saflığının anlamı nedir?\n\nBana kalırsa bu söz, Meryem'in idrakini, uyanışını anlatıyor:\n\nMeryem, oğlu sandığının çarmıhta can verişini gördüğünde, onun çarmıha gerilişi aracılığıyla asla bir oğlu olmadığını ve asla bir annenin kızı olmadığını fark etti.\n\nO anda birden kendi bekâretini keşfetti.\n\nKutsal Ruh içine girip İsa'ya hamile kaldığı için değil.\nHayır, bu kilisenin anlattığı peri masallarından biridir.\n\nÇünkü bu hâliyle numune temsil etmez, insanlar için yol olmaz...\n\nAslında bu, Meryem'in uyanışıdır, doğmamış Olan'ın idrakidir.\n\nO'nun annelik kalbi kırıldığında, Meryem Kara Madonna, siyah nur, Doğmamış Olan oldu; zâten öyle olduğunu anladı."
-        },
-        {
-          "type": "metin",
-          "text": "— Ama İncillerin metinleri tanıklık etmek için orada ve bunlar…",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Her zaman farklı bir şekilde yorumlanmıştır.\n\n\n— İncillerde başmelek Cebrail'in hiçbir erkekle birlikte olmamış genç bir kadını görmeye gittiği yazıyor. Öyle bekâret kaybından filan bahsedilmiyor, sadece onun bakireyken Ruh'un içine girdiği söyleniyor.\n\n...\nDemek öyle esiyor.\n\nBenim şimdiki zevkimde, Meryem'in Bekâreti sembolü, Meryem'in uyanışıdır, göreceli sevginin teslimiyetidir.\n\nMeryem, annelik rolünden özgürleşir.\n\nBu en olgun aşktır zira annelik sevgisi yanıltıcı bir sevgidir ve KALB'in var olması için illâ kırılması gerekir!\n\nBir annenin kalbi kırılmadan, asla sahip olmadığı bir çocuğa duyduğu sevgiyi kolayca kaybetmesi düşünülemez.\n\nBenim şimdiki anlayışıma göre Meryem, aslında hiç sahibi olmadığı oğlunu kaybettiğinde kalbi kırılan bir annenin durumunun sembolüdür."
-        },
-        {
-          "type": "metin",
-          "text": "— Ama bu bekâret miti Akdeniz havzasında dolaşıp duruyordu; türlü Yunan kahramanlarının babası bir tanrıydı. Dolayısıyla, bekâret zaten kendiliğinden anlaşılırdı.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Evet, bunların hepsini Tarihin bir parçası olarak açıklayabiliriz, yine de, Tanrı'nın izniyle, lütf u kereminden, her annenin anneliğini ve her babanın babalık kimliğini kaybetmesini güzel buluyorum.\n\nBunu her zaman Tanrı'nın lütfunun iyi bir işareti olarak görüyorum ve etrafta dolaşan hikayeleri pek de umursamıyorum."
-        },
-        {
-          "type": "metin",
-          "text": "— İlginç gelecek ama bu söylediklerinizin de kitapta yeri var:",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Kalabalığın içinden bir kadın ona dedi ki:\n\nSeni doğuran rahim ne mutlu,\nVe seni besleyen göğüsler ne mutlu!\n\nİsa ona dedi ki:\n\nBabanın kelâmını işitenlere ne mutlu,\nVe ona gerçekten uyanlara ne mutlu!\n\nÇünkü öyle günler olacak ve siz diyeceksiniz ki:\n\nHamile kalmayan rahime ne mutlu,\nVe süt vermemiş göğüslere ne mutlu!\n[Tomas:79'dan]\n\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Olur a...\n\n"
-        },
-        {
-          "type": "metin",
-          "text": "~ ~ ~\nUykudan önce anlatılan bir masal gibi dinledi bütün bunları...",
-          "is_bold": true,
-          "is_colored": true,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "Gölgeler uzuyordu odada, mum ışığı gözlerimde iki karanlık pınar gibi titreşiyordu.\nSessizlik, söylenen son sözün üzerine bir tül gibi çöktü.\nDışarıda, Noel arifesinin karı, dünyayı sahte bir saflıkla örtüyordu.\nİçerideyse, kelimelerden arta kalan, gerçeğin çıplak iskeleti sallanıyordu havada.\n\n\"Demek ki,\" diye mırıldandı soru soran seslerden biri, artık öyle bir kişi profili değil de sâdece sorgulayan bir titreşim gibi:\n"
-        },
-        {
-          "type": "metin",
-          "text": "\"Mübarek olan, hiç doğurmamış olan rahimmiş.\"",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Her şeyi duyan, dudaklarında belli belirsiz, acı bir bilgelik gülümsemesiyle, başını salladı.\n\n\"Doğurmamak ya da doğurmamak değil asıl mesele.\nDoğurduğunu sanıp da o sandığın şeyin asla var olmadığını anlamak.\nO an, işte o kırılma anı, bekâret geri gelir.\nÇünkü hiçbir şey dokunmamıştır sana.\nHiçbir şey seni delip geçmemiştir.\nAynaya, yansımalarında bir şey olmaz a!\nSen, delik deşik olmuş bir hayaletin, acılı bir ânının bekaretisin.\nEn saf hâlinle, hiçliğin.\"\n\nOrada hazır bulunan bir diğeri, sesinde bir ümitsizlik hıçkırığıyla sordu:\n\"Peki bu çarmıh? Onu her gün nasıl yükleniriz?\"\n\nKaldıran, parmağını havaya kaldırdı, tam mum alevinin ortasında, dumanın ince bir sarmala dönüştüğü yeri işaret eder gibiydi.\n\n\"A benim güzelim,\" dedi, sesi bir bıçak kadar keskin ve ipekten yumuşaktı,\n\n\"Sen zaten çarmıha gerilmişsin. Düşünce zamanının yatay kirişi ile farkındalığının dikey direği, tam kalbinde kesişiyor. Ve sen, zavallı ben diyen, ikisinin de üzerinde asılı kalmış, 'aman kaçayım' diye debelenip duruyorsun.\n\nÇarmıha gerilmek, kaçmanın imkansız olduğunu kabul etmektir.\nTeslimiyet değil. Teslim olmanın da ötesi.\nÇünkü teslim olacak bir 'sen' yok ki ortada.\nSadece çivi, tahta ve sonsuz bir gökyüzü var.\n\nHuzur da budur zaten:\nKaçacak kimsenin kalmadığı yerde patlayan sessiz zafer.\n\nOdaya düşen kar gölgesi, yavaş yavaş siyah bir kadın siluetine benzemeye başladı."
-        },
-        {
-          "type": "metin",
-          "text": "\"BLACK MA~DONNA\"",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Kırılmış bir kalpten doğan, hiçliğin rahminden süzülen siyah nur.\n\nİsa'ya çarmıhtaki son bakışı, oğlunu değil, kendi aslını, Doğmamış olanı görmüştü belki de...\nVe o bakış, anneliği paramparça etmişti.\n\n\"Lucifer,\" diye devam etti söz sahibi, şeytanla sanki en sevdiği arkadaşıyla sohbet ediyormuş gibi rahat:\n\n\"O büyük İllüzyonist, bize sonsuz bir 'cennet evi' vaat ediyor.\nAydınlanma evi, güvenli liman, nirvana kulübesi veya Darusselâm…\n\nO havuç, senin kendi zihninin yarattığı en lezzetli halüsinasyon.\nPeşinden koştukça, seni kendi çarmıhına çiviliyor.\n\nAslında en cilvelisinden şefkatli bir eylem bu...\nKendi kendine acıyor ve seni, senden kurtarmak için böyle yapıyor.\n\nTa ki sen, kurtarıcının da kurtarılacak olanın da o havuçtaki tadın da sen olduğunu anlayana dek...\n\nO zaman Lucifer söner, gölge aslına döner.\nGeriye sadece, çarmıhın ortasındaki o boşluk kalır.\n\nİşte Tanrı orada.\nHiçlikle dolu.\n\n~\n\nSoru soracak kimse kalmamıştı artık.\nSorular da, soranlar da, erimişti odanın derin sessizliğinde.\nSadece titreyen mumun kendine yanışı ve dışarıdaki havanın kar mûsikisi vardı.\n\nAyaktan duran, koltuğuna yaslandı ve pencereden, karanlık gökyüzüne, tek bir yıldızın parlamadığı o büyük siyah boşluğa b~aktı...\n\nİçinden bir şeyler aktı.\nSözleri, odada son bir kez, bir tütsü buğusu gibi dolandı:\n\n\"İşte Noel zevki budur.\nDoğan, Doğmamış Olan'ın hatırlatıcısıdır sadece.\nYemyeşil çam ağaçları, ışıltılı süsler, hepsi bu kara rahmin üzerine serpilmiş parıltılı yalanlar."
-        },
-        {
-          "type": "metin",
-          "text": "Hakiki hediye, paketlenemez olanı bulmaktır:\nAnnesiz, babasız, oğulsuz, düşüncesiz, hatta 'sen'siz olanı.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Meryem, oğlunu kaybettiğinde buldu onu.\nİsa, her şeyini kaybettiğinde buldu.\n\nVe sen, şu an, burada her şey tamam olduğu hâlde,\nBu soruyu sorduğun için kaybetmeye başladığını anladığın an, bulacaksın onu!\n...\nZira her sual bir eksiklikten doğar.\n\n~~~\n\nSönmek için rüzgar gözeten mum, son nefesini verdi.\nOda, pencereden sızan karın soluk ışığıyla aydınlandı.\n\nHer şey tam siyah ve tam beyazdı artık.\nİki uç birbirine değdi, hiçliğin tek noktalık resminde buluşmuştu.\nVe o kesişim noktasında...\n\nOdada yalnız kalanın yüzünde, çarmıha gerilmiş her şeyin ifâde~siz huzuru vardı.\n\n"
-        },
-        {
-          "type": "metin",
-          "text": "Bu bir son bu değildi, sâdece bir b~aşka sessizliğin başlangıcıydı...",
-          "is_bold": true,
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">Olur a...</p><p class=\"mb-4\"><strong>~ ~ ~</strong></p><p class=\"mb-4\"><strong>Uykudan önce anlatılan bir masal gibi dinledi bütün bunları...</strong></p><p class=\"mb-4\">Gölgeler uzuyordu odada, mum ışığı gözlerimde iki karanlık pınar gibi titreşiyordu.<br>Sessizlik, söylenen son sözün üzerine bir tül gibi çöktü.<br>Dışarıda, Noel arifesinin karı, dünyayı sahte bir saflıkla örtüyordu.<br>İçerideyse, kelimelerden arta kalan, gerçeğin çıplak iskeleti sallanıyordu havada.</p><p class=\"mb-4\">\"Demek ki,\" diye mırıldandı soru soran seslerden biri, artık öyle bir kişi profili değil de sâdece sorgulayan bir titreşim gibi:<br><strong>\"Mübarek olan, hiç doğurmamış olan rahimmiş.\"</strong></p><p class=\"mb-4\">Her şeyi duyan, dudaklarında belli belirsiz, acı bir bilgelik gülümsemesiyle, başını salladı.<br><br>\"Doğurmamak ya da doğurmamak değil asıl mesele.<br>Doğurduğunu sanıp da o sandığın şeyin asla var olmadığını anlamak.<br>O an, işte o kırılma anı, bekâret geri gelir.<br>Çünkü hiçbir şey dokunmamıştır sana.<br>Hiçbir şey seni delip geçmemiştir.<br>Aynaya, yansımalarında bir şey olmaz a!<br>Sen, delik deşik olmuş bir hayaletin, acılı bir ânının bekaretisin.<br>En saf hâlinle, hiçliğin.\"</p><p class=\"mb-4\">Orada hazır bulunan bir diğeri, sesinde bir ümitsizlik hıçkırığıyla sordu:<br>\"Peki bu çarmıh? Onu her gün nasıl yükleniriz?\"</p><p class=\"mb-4\">Kaldıran, parmağını havaya kaldırdı, tam mum alevinin ortasında, dumanın ince bir sarmala dönüştüğü yeri işaret eder gibiydi.</p><p class=\"mb-4\">\"A benim güzelim,\" dedi, sesi bir bıçak kadar keskin ve ipekten yumuşaktı,</p><p class=\"mb-4\">\"Sen zaten çarmıha gerilmişsin. Düşünce zamanının yatay kirişi ile farkındalığının dikey direği, tam kalbinde kesişiyor. Ve sen, zavallı ben diyen, ikisinin de üzerinde asılı kalmış, 'aman kaçayım' diye debelenip duruyorsun.</p><p class=\"mb-4\">Çarmıha gerilmek, kaçmanın imkansız olduğunu kabul etmektir.<br>Teslimiyet değil. Teslim olmanın da ötesi.<br>Çünkü teslim olacak bir 'sen' yok ki ortada.<br>Sadece çivi, tahta ve sonsuz bir gökyüzü var.</p><p class=\"mb-4\">Huzur da budur zaten:<br>Kaçacak kimsenin kalmadığı yerde patlayan sessiz zafer.</p><p class=\"mb-4\">Odaya düşen kar gölgesi, yavaş yavaş siyah bir kadın siluetine benzemeye başladı.</p><p class=\"mb-4\"><strong>\"BLACK MA~DONNA\"</strong></p><p class=\"mb-4\">Kırılmış bir kalpten doğan, hiçliğin rahminden süzülen siyah nur.<br><br>İsa'ya çarmıhtaki son bakışı, oğlunu değil, kendi aslını, Doğmamış olanı görmüştü belki de...<br>Ve o bakış, anneliği paramparça etmişti.</p><p class=\"mb-4\">\"Lucifer,\" diye devam etti söz sahibi, şeytanla sanki en sevdiği arkadaşıyla sohbet ediyormuş gibi rahat:</p><p class=\"mb-4\">\"O büyük İllüzyonist, bize sonsuz bir 'cennet evi' vaat ediyor.<br>Aydınlanma evi, güvenli liman, nirvana kulübesi veya Darusselâm…</p><p class=\"mb-4\">O havuç, senin kendi zihninin yarattığı en lezzetli halüsinasyon.<br>Peşinden koştukça, seni kendi çarmıhına çiviliyor.</p><p class=\"mb-4\">Aslında en cilvelisinden şefkatli bir eylem bu...<br>Kendi kendine acıyor ve seni, senden kurtarmak için böyle yapıyor.</p><p class=\"mb-4\">Ta ki sen, kurtarıcının da kurtarılacak olanın da o havuçtaki tadın da sen olduğunu anlayana dek...</p><p class=\"mb-4\">O zaman Lucifer söner, gölge aslına döner.<br>Geriye sadece, çarmıhın ortasındaki o boşluk kalır.</p><p class=\"mb-4\">İşte Tanrı orada.<br>Hiçlikle dolu.</p><p class=\"mb-4\">~<br><br>Soru soracak kimse kalmamıştı artık.<br>Sorular da, soranlar da, erimişti odanın derin sessizliğinde.<br>Sadece titreyen mumun kendine yanışı ve dışarıdaki havanın kar mûsikisi vardı.</p><p class=\"mb-4\">Ayaktan duran, koltuğuna yaslandı ve pencereden, karanlık gökyüzüne, tek bir yıldızın parlamadığı o büyük siyah boşluğa b~aktı...</p><p class=\"mb-4\">İçinden bir şeyler aktı.<br>Sözleri, odada son bir kez, bir tütsü buğusu gibi dolandı:</p><p class=\"mb-4\">\"İşte Noel zevki budur.<br>Doğan, Doğmamış Olan'ın hatırlatıcısıdır sadece.<br>Yemyeşil çam ağaçları, ışıltılı süsler, hepsi bu kara rahmin üzerine serpilmiş parıltılı yalanlar.</p><p class=\"mb-4\"><strong>Hakiki hediye, paketlenemez olanı bulmaktır:<br>Annesiz, babasız, oğulsuz, düşüncesiz, hatta 'sen'siz olanı.</strong></p><p class=\"mb-4\">Meryem, oğlunu kaybettiğinde buldu onu.<br>İsa, her şeyini kaybettiğinde buldu.</p><p class=\"mb-4\">Ve sen, şu an, burada her şey tamam olduğu hâlde,<br>Bu soruyu sorduğun için kaybetmeye başladığını anladığın an, bulacaksın onu!<br>...<br>Zira her sual bir eksiklikten doğar.</p><p class=\"mb-4\">~~~</p><p class=\"mb-4\">Sönmek için rüzgar gözeten mum, son nefesini verdi.<br>Oda, pencereden sızan karın soluk ışığıyla aydınlandı.</p><p class=\"mb-4\">Her şey tam siyah ve tam beyazdı artık.<br>İki uç birbirine değdi, hiçliğin tek noktalık resminde buluşmuştu.<br>Ve o kesişim noktasında...</p><p class=\"mb-4\">Odada yalnız kalanın yüzünde, çarmıha gerilmiş her şeyin ifâde~siz huzuru vardı.</p><p class=\"mb-4\"><strong>Bu bir son bu değildi, sâdece bir b~aşka sessizliğin başlangıcıydı...<br><br>~</strong></p>"
         },
         {
           "type": "ses",
@@ -183,9 +64,10 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:27:00.757Z"
 }
