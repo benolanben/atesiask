@@ -19,53 +19,35 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Ey yolcu,\nAyak izlerin yolun kendisidir,\nBaşka bir yol var değildir"
-        },
-        {
-          "type": "metin",
-          "text": "Ey kendi~ne yolcu,",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Yol yoktur; yol yürüdükçe oluşur.\nÖyleyse yol yoktur; yürümek vardır...\n[YÜZ SÖZ'den]"
-        },
-        {
-          "type": "metin",
-          "text": "- Sana yoldan yana sual ederler...\nVarlık dağının her cânibi yol olmamış birinden alma bir haber!\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Maneviyat yolunda temel kural:\n\"YOL diye bir şey yoktur\"\n\nİkilikte geçen şu dünya rüyası, rüyada hiç görünmeyen bir şeyle görünür ve dünyada~n o şeye giden bir YOL yoktur.\n\nZira ikilik ancak zihin~düşüncelerin rüyasında doğru yolu biliyor oysa ki rüyaya yatan, yerinden oynamış değil...\n\n( 1977 — 2027 )\nMezar taşına bile müdahale eden\nZihin, hep iki nokta arasında çizer YOLu:\nBulunduğun yer ve varmak istediğin yer.\n\nYol boyunca her adımda, her nefeste, sana senden yakın olan var..."
-        },
-        {
-          "type": "metin",
-          "text": "Zihnin sen~i şaşırtmasına izin verme; aşk bilir yolu...\n",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "~\nVe sakın korkma ey yolcu,\nAkışa direnmek de akışa dahil,\nYoldan çıkmak da yola dahil...\nDeğil mi ki?\nY~OL içinde OL var\n~"
+          "text": "<p class=\"mb-4\"><strong>Ey yolcu,<br></strong>Ayak izlerin yolun kendisidir,<br>Başka bir yol var değildir</p>"
         },
         {
           "type": "alinti",
-          "text": "Sonsuz YOL var, sonu aynı olan\n'İnnâ ileyhi râcîun' böyle de olur inan",
+          "text": "<p class=\"mb-4\"><strong>Ey kendi~ne yolcu,<br></strong>Yol yoktur; yol yürüdükçe oluşur.<br>Öyleyse yol yoktur; yürümek vardır...<br></p>",
+          "is_colored": true,
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>- Sana yoldan yana sual ederler...<br>Varlık dağının her cânibi yol olmamış birinden alma bir haber!</strong></p><p class=\"mb-4\">Maneviyat yolunda temel kural:<br>\"YOL diye bir şey yoktur\"</p><p class=\"mb-4\">İkilikte geçen şu dünya rüyası, rüyada hiç görünmeyen bir şeyle görünür ve dünyada~n o şeye giden bir YOL yoktur.</p><p class=\"mb-4\">Zira ikilik ancak zihin~düşüncelerin rüyasında doğru yolu biliyor oysa ki rüyaya yatan, yerinden oynamış değil...<br><br><strong>( 1977 — 2027 )<br></strong>Mezar taşına bile müdahale eden<br>Zihin, hep iki nokta arasında çizer YOLu:<br>Bulunduğun yer ve varmak istediğin yer.</p><p class=\"mb-4\">Yol boyunca her adımda, her nefeste, sana senden yakın olan var...</p><p class=\"mb-4\"><strong>Zihnin sen~i şaşırtmasına izin verme; aşk bilir yolu...</strong><br><br>~<br>Ve sakın korkma ey yolcu,<br>Akışa direnmek de akışa dahil,<br>Yoldan çıkmak da yola dahil...<br>Değil mi ki?<br>Y~OL içinde OL var<br>~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Sonsuz YOL var, sonu aynı olan<br>'İnnâ ileyhi râcîun' böyle de olur inan</strong></p>",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "~\nKayıp dedin, oyun oldu.\nAradın, YOL oldu.\nBuldun sandın, sevinç oldu\nAma bir de dönüp bakınca aynaya\nHatırladın mı?\nOLan\n'O' oldu...\n~"
+          "text": "<p class=\"mb-4\">~<br>Kayıp dedin, oyun oldu.<br>Aradın, YOL oldu.<br>Buldun sandın, sevinç oldu<br>Ama bir de dönüp bakınca aynaya<br>Hatırladın mı?<br>OLan<br>'O' oldu...<br>~</p>"
         },
         {
           "type": "alinti",
-          "text": "\nBizim yolumuzun esâsı,\nAllah’tan gafil olmamak\nVe bir cânı incitmemektir.\n",
+          "text": "<p class=\"mb-4\">Bizim yolumuzun esâsı,<br>Allah’tan gafil olmamak<br>Ve bir cânı incitmemektir.</p>",
           "author": "[Türbedâr Dedem'den]"
         },
         {
           "type": "metin",
-          "text": "Pes bir dem yoldan çekilelim\nYol olmuşa kulak verelim:"
+          "text": "<p class=\"mb-4\">Pes bir dem yoldan çekilelim<br>Yol olmuşa kulak verelim:</p>"
         },
         {
           "type": "ses",
@@ -75,9 +57,10 @@
         },
         {
           "type": "metin",
-          "text": "\n\n~"
+          "text": "<p class=\"mb-4\"><br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T21:02:58.283Z"
 }
