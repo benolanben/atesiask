@@ -10,7 +10,9 @@
       "date_value": "",
       "mini_title": "",
       "tags": [
-        ""
+        "cehennem",
+        "cennet",
+        "yeni"
       ],
       "title": "Sabah neş'esi ~2",
       "subtitle": ""
@@ -19,45 +21,31 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Anla hemân bir söz durur\nYokuş değil düz durur\n",
+          "text": "<p class=\"mb-4\"><strong>Anla hemân bir söz durur<br>Yokuş değil düz durur</strong></p>",
           "author": "[N. Mısrî'den]"
         },
         {
           "type": "metin",
-          "text": "Basit anlatımlar, çıplak sözler, düğüm çözmeye alışmış, her şeyi karmaşık görmek için tasarlanan akıl için, akıl almazdır."
-        },
-        {
-          "type": "metin",
-          "text": "Oysa gerçek o kadar yalın, o kadar basittir ki...\nAma akıl, onu anlayamayacak kadar \"akıllıdır!\"...",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Haydi şimdi geçmişe, geçmiş olsun diyelim mi?\n\nGeçmiş tutulmadığında\nGelecek umulmadığında,\nHer şey doğal olarak yenilenir.\n\nHer göz kırpmada, hayal perdesi, hayatın nefesi bir güzel tâzelenir\n\nŞimdi~de şimdi~den yeni~den doğarız."
+          "text": "<p class=\"mb-4\">Basit anlatımlar, çıplak sözler, düğüm çözmeye alışmış, her şeyi karmaşık görmek için tasarlanan akıl için, akıl almazdır.</p><p class=\"mb-4\"><strong>Oysa gerçek o kadar yalın, o kadar basittir ki...<br>Ama akıl, onu anlayamayacak kadar \"akıllıdır!\"...</strong></p><p class=\"mb-4\">Haydi şimdi geçmişe, geçmiş olsun diyelim mi?</p><p class=\"mb-4\">Geçmiş tutulmadığında<br>Gelecek umulmadığında,<br>Her şey doğal olarak yenilenir.</p><p class=\"mb-4\">Her göz kırpmada, hayal perdesi, hayatın nefesi bir güzel tâzelenir</p><p class=\"mb-4\">Şimdi~de şimdi~den yeni~den doğarız.</p>"
         },
         {
           "type": "spoiler",
-          "text": "İncil-i Şerîf'de geçtiği gibi:\n\n\"Küçük çocuklar gibi değişmezseniz, cennetin krallığına giremezsiniz.\"\n\n\"Eğer biri Mesih'teyse, her an yeni bir yaradılıştır.\"\n\n\"Eski gitti, yeni geldi. \"\n\nVahiy'de Ruhullah'dan böyle işitir, işitecek kulağı boş olanlar:\n\"Bak işte şimdi her şeyi yeni yapıyorum.\""
+          "text": "<p class=\"mb-4\">İncil-i Şerîf'de geçtiği gibi:</p><p class=\"mb-4\">\"Küçük çocuklar gibi değişmezseniz, cennetin krallığına giremezsiniz.\"</p><p class=\"mb-4\">\"Eğer biri Mesih'teyse, her an yeni bir yaradılıştır.\"</p><p class=\"mb-4\">\"Eski gitti, yeni geldi. \"</p><p class=\"mb-4\">Vahiy'de Ruhullah'dan böyle işitir, işitecek kulağı boş olanlar:<br><strong>\"Bak işte şimdi her şeyi yeni yapıyorum.\"</strong></p>"
         },
         {
           "type": "metin",
-          "text": "Güneş var\nGözler açılıyor,\nSular donmadan akıyor,\nGölgeler dağılıyor,\nYıldızlar parlıyor,\nAdım adım yürüyüş\nNefes nefes\nO'ndan\nO'nun ile\nO'na\nDönüş",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Cennet mi?\nCennet, yeni gözlerle, böyle ilk defa yüz göstereni, böylece ilk defa görmek demek..\n\nCehennemse sabit, donmuş, \"bildiğin\" gözlerle bakıp, bildiğini okumaktan ibâret.\n\nŞimdi geçtik elhamdülillah...\n\nCennet, cehennem üstüne basit, canlı, heyecanlı okumalar...\n\nYetti mi?\nYetmez diyenler şöyle buyursunlar;\n\n~~~\n\n\"Yeni gözler\" dedik ya...\n\nGözlerin asla yenilenemez.\nHiç eskimez ki onlar\nKara deliğin dolduğu nerde görülmüş\n\nAslında \"yenilenmek\" isteyen, gözler değil, gören'dir."
+          "text": "<p class=\"mb-4\"><strong>Güneş var<br>Gözler açılıyor,<br>Sular donmadan akıyor,<br>Gölgeler dağılıyor,<br>Yıldızlar parlıyor,<br>Adım adım yürüyüş<br>Nefes nefes<br>O'ndan<br>O'nun ile<br>O'na<br>Dönüş</strong><br><br>Cennet mi?<br>Cennet, yeni gözlerle, böyle ilk defa yüz göstereni, böylece ilk defa görmek demek..<br><br>Cehennemse sabit, donmuş, \"bildiğin\" gözlerle bakıp, bildiğini okumaktan ibâret.</p><p class=\"mb-4\">Şimdi geçtik elhamdülillah...</p><p class=\"mb-4\">Cennet, cehennem üstüne basit, canlı, heyecanlı okumalar...<br><br>Yetti mi?<br>Yetmez diyenler şöyle buyursunlar;<br><br>~~~<br><br>\"Yeni gözler\" dedik ya...<br><br>Gözlerin asla yenilenemez.<br>Hiç eskimez ki onlar<br>Kara deliğin dolduğu nerde görülmüş<br><br>Aslında \"yenilenmek\" isteyen, gözler değil, gören'dir.</p>"
         },
         {
           "type": "spoiler",
-          "text": "Vallahu semiul basîr\nO'dur kemâliyle işiten, yeniyi yeni gören..."
+          "text": "<p class=\"mb-4\">Vallahu semiul basîr<br>O'dur kemâliyle işiten, yeniyi yeni gören...</p>"
         },
         {
           "type": "metin",
-          "text": "Ve o, hiç eskimedi ki?\nO, hep Şimdi'dedir.\n\nGeçmiş bir hayalse geçmiş\nGelecek bir projeksiyonsa gelmemiş\n...\nGeriye ne kalır?\nSadece bu.\nSadece olan\nSadece şimdi\n\nOkuduğun kelimelerin arasındaki boşluk.\nNefes alışınla verişin arasındaki sessizlik.\nEkranın mavi ışığının, göz bebeklerinde bıraktığı o anlık iz...\n\nİşte tam burası.\n\n~\n\nBu yazının kahramanı da tam burada, cebinden bir \"sanal gerçeklik gözlüğü\" çıkarır, takar ve görünen sahnede ne varsa hepsinin aslında üç boyutlu bir hologram olduğunu ve her göz kırpmada sahnenin yenilendiğini görür, gözlüğü çıkarıp camlarını sildikten sonra yeniden takar...\n\nAma sonra gözlüğü de sahneyi de kendisini de tasarlayan kodun aynı programda geçtiğini fark eder ve basar kahkahayı...\n\n~\n\nGeçmiş bırakıldığında her şey yenilenir mi?\n\nDaha da ilginci:\nGeçmiş hiç var oldu mu ki?\nDün geceki rüyadan farkı ne ki?\n\nSadece Şimdi'nin bir düşünceyle boyanmış hâliydi.\nOnu bırakmak demek, düşünceyi bırakmak demek.\n\nVe düşünmezsen ne kalır geriye?\nİşte o kalan, \"yeni gözlerle\" bakılan değil, \"bir bakışın\" ta kendisidir.\n\nGören ile görünen bir olduğunda,\nYokuş da düzdür, düz de yokuş...\n\nKelimeler düğüm olmaktan çıkar,\nGümbür gümbür akan sen olur.\nAkar, akar, akar...\n\n~"
+          "text": "<p class=\"mb-4\">Ve o, hiç eskimedi ki?<br>O, hep Şimdi'dedir.<br><br>Geçmiş bir hayalse geçmiş<br>Gelecek bir projeksiyonsa gelmemiş<br>...<br>Geriye ne kalır?<br>Sadece bu.<br>Sadece olan<br>Sadece şimdi<br><br>Okuduğun kelimelerin arasındaki boşluk.<br>Nefes alışınla verişin arasındaki sessizlik.<br>Ekranın mavi ışığının, göz bebeklerinde bıraktığı o anlık iz...<br><br>İşte tam burası.<br><br>~<br><br>Bu yazının kahramanı da tam burada, cebinden bir \"sanal gerçeklik gözlüğü\" çıkarır, takar ve görünen sahnede ne varsa hepsinin aslında üç boyutlu bir hologram olduğunu ve her göz kırpmada sahnenin yenilendiğini görür, gözlüğü çıkarıp camlarını sildikten sonra yeniden takar...<br><br>Ama sonra gözlüğü de sahneyi de kendisini de tasarlayan kodun aynı programda geçtiğini fark eder ve basar kahkahayı...<br><br>~<br><br>Geçmiş bırakıldığında her şey yenilenir mi?<br><br>Daha da ilginci:<br>Geçmiş hiç var oldu mu ki?<br>Dün geceki rüyadan farkı ne ki?<br><br>Sadece Şimdi'nin bir düşünceyle boyanmış hâliydi.<br>Onu bırakmak demek, düşünceyi bırakmak demek.<br><br>Ve düşünmezsen ne kalır geriye?<br>İşte o kalan, \"yeni gözlerle\" bakılan değil, \"bir bakışın\" ta kendisidir.<br><br>Gören ile görünen bir olduğunda,<br>Yokuş da düzdür, düz de yokuş...<br><br>Kelimeler düğüm olmaktan çıkar,<br>Gümbür gümbür akan sen olur.<br>Akar, akar, akar...<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:48:58.545Z"
 }
