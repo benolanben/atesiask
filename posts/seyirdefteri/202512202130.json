@@ -24,35 +24,7 @@
         },
         {
           "type": "metin",
-          "text": "Düşüncelerimizin sahipleri miyiz yoksa konukları mı?\nBu soru belirdi birden zihnimde, tıpkı gece vakti ansızın çalan bir kapı gibi..."
-        },
-        {
-          "type": "metin",
-          "text": "- Bu düşünce de nerden çıktı şimdi?\n- Bilmem, birden aklıma öyle geldi",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Düşüncelerin kaynağı\nBir beden-zihin adresi değil\n\nVe sana, bunun aksini düşündüren\nSeni bu oyunda, ayrı oyuncu olarak oynamak isteyendir\n\nYani düşünceler yerel (local) değildir,\nEvrensel bir alandan (non-local) an~be~an yayılmaktadır."
-        },
-        {
-          "type": "metin",
-          "text": "Bu yüzden evrenin de aynı şeyi düşünmesini istemiyorsanız\nO şeyi öyle düşünmeyin.",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Düşünmezsen düşer...\n\nYoksa ne mi olur?\nAklınıza gelen, başınıza gelir\n\n♪\nKendim ettim, kendim buldum...\n♫"
-        },
-        {
-          "type": "metin",
-          "text": "\"Belki de 'kader' diye~bildiğimiz şey\" dedi, nakarat düşkünü, \"En çok dinlediğimiz şarkının sözleridir...\"",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">Düşüncelerimizin sahipleri miyiz yoksa konukları mı?<br>Bu soru belirdi birden zihnimde, tıpkı gece vakti ansızın çalan bir kapı gibi...</p><p class=\"mb-4\"><strong>- Bu düşünce de nerden çıktı şimdi?<br>- Bilmem, birden aklıma öyle geldi</strong></p><p class=\"mb-4\">Düşüncelerin kaynağı<br>Bir beden-zihin adresi değil</p><p class=\"mb-4\">Ve sana, bunun aksini düşündüren<br>Seni bu oyunda, ayrı oyuncu olarak oynamak isteyendir</p><p class=\"mb-4\">Yani düşünceler yerel (local) değildir,<br>Evrensel bir alandan (non-local) an~be~an yayılmaktadır.</p><p class=\"mb-4\"><strong>Bu yüzden evrenin de aynı şeyi düşünmesini istemiyorsanız<br>O şeyi öyle düşünmeyin.</strong></p><p class=\"mb-4\">Düşünmezsen düşer...<br><br>Yoksa ne mi olur?<br>Aklınıza gelen, başınıza gelir</p><p class=\"mb-4\">♪<br><em>Kendim ettim, kendim buldum...</em><br>♫</p><p class=\"mb-4\"><strong>\"Belki de 'kader' diye~bildiğimiz şey\" dedi, nakarat düşkünü, \"En çok dinlediğimiz şarkının sözleridir...\"<br><br></strong>~</p>"
         },
         {
           "type": "ses",
@@ -62,9 +34,10 @@
         },
         {
           "type": "metin",
-          "text": "~\n\nBir günlük ömründe\n– ki bu bir metafor değil, gerçeğin ta kendisidir –\n\nSen geçmişi kurcalamazsan, geçmiş de seni kurcalamaz.\n\nÇünkü geçmiş dediğin, şu anda düşündüğün bir düşünceden ibarettir.\nGelen hiçbir düşünceyi tutmayıver.\nŞu ânın biricik tazeliğinde, geçmiş de gelecek de bir bulut gibi dağılır gider.\n\n[YÜZ SÖZ'ün labirentlerinde kaybolmuş bir dervişin ism-i zâtını mırıldanışıyla...]\n\n~"
+          "text": "<p class=\"mb-4\">~<br><br>Bir günlük ömründe<br>– ki bu bir metafor değil, gerçeğin ta kendisidir –</p><p class=\"mb-4\">Sen geçmişi kurcalamazsan, geçmiş de seni kurcalamaz.</p><p class=\"mb-4\">Çünkü geçmiş dediğin, şu anda düşündüğün bir düşünceden ibarettir.<br>Gelen hiçbir düşünceyi tutmayıver.<br>Şu ânın biricik tazeliğinde, geçmiş de gelecek de bir bulut gibi dağılır gider.</p><p class=\"mb-4\">[YÜZ SÖZ'ün labirentlerinde kaybolmuş bir dervişin ism-i zâtını mırıldanışıyla...]<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T16:01:59.061Z"
 }
