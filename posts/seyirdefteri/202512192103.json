@@ -20,11 +20,11 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Sana bir cennetin dört ırmağından sual eden olursa, de ki:\n\nGözsüzlere susayınca su içtiğin görülse de...\n\nAşkın, süt ırmağı\nKendinden geçişin, şarap,\nAşk ile insanlıktan aldığın tat, bal olur bal\n\nÖyleyse bir nefesçik ömrün kalsa,\nKoku almadan geçme bu bağçeden\nSen hemân aşka düş a güzel,\n\nZira kim~de aşk varsa koku alan odur!"
+          "text": "<p class=\"mb-4\">Sana bir cennetin dört ırmağından sual eden olursa, de ki:<br><br>Gözsüzlere susayınca su içtiğin görülse de...</p><p class=\"mb-4\">Aşkın, süt ırmağı<br>Kendinden geçişin, şarap,<br>Aşk ile insanlıktan aldığın tat, bal olur bal</p><p class=\"mb-4\">Öyleyse bir nefesçik ömrün kalsa,<br>Koku almadan geçme bu bağçeden<br>Sen hemân aşka düş a güzel,</p><p class=\"mb-4\">Zira kim~de aşk varsa koku alan odur!</p>"
         },
         {
           "type": "alinti",
-          "text": "🌹\nÂdem aşk ile yâni nazar-ı teveccühle yakın oldu\nİblis kuru ibâdet ile uzak oldu\nHüt~hüt Süleyman’a baka baka yaklaştı\n\n🌹\nAkıl sahiplerinin umut kırıklığı çâresizliktendir.\nAşıklarsa isteyerek kırılırlar.\n\nAkıl sahipleri O’nun zorla bağlanmış köleleridir.\nÂşıklarsa güle oynaya...\n\nAkıl sahiplerinin yuları “istemeyerek gelin”,\nÂşıkların baharıysa “isteyerek gelin”dir.\n",
+          "text": "<p class=\"mb-4\">🌹<br>Âdem aşk ile yâni nazar-ı teveccühle yakın oldu<br>İblis kuru ibâdet ile uzak oldu<br>Hüt~hüt Süleyman’a baka baka yaklaştı<br><br>🌹<br>Akıl sahiplerinin umut kırıklığı çâresizliktendir.<br>Aşıklarsa isteyerek kırılırlar.</p><p class=\"mb-4\">Akıl sahipleri O’nun zorla bağlanmış köleleridir.<br>Âşıklarsa güle oynaya...</p><p class=\"mb-4\">Akıl sahiplerinin yuları “istemeyerek gelin”,<br>Âşıkların baharıysa “isteyerek gelin”dir.</p>",
           "author": "[Cenâb-ı Mevlevî'den]"
         },
         {
@@ -34,14 +34,7 @@
         },
         {
           "type": "metin",
-          "text": "Ka'be-i ruhsâr-ı dildâr-ı kıldık çün tavaf\nVech-i yâre düş olup bulduk aşk mihrâbını\n\n\"Semme vechullâh\"ı bildik tâ ezelden a cânım\nMinber-i insana çıktık ittik aşk ilânını",
-          "is_colored": true,
-          "is_bold": false,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "Hadi şimdi kendini aşkta kaybet bence..."
+          "text": "<p class=\"mb-4\"><strong>Ka'be-i ruhsâr-ı dildâr-ı kıldık çün tavaf</strong><br><strong>Vech-i yâre düş olup bulduk aşk mihrâbını<br><br>\"Semme vechullâh\"ı bildik tâ ezelden a cânım</strong><br><strong>Minber-i insana çıktık ittik aşk ilânını<br></strong><br>Hadi şimdi kendini aşkta kaybet bence...</p>"
         },
         {
           "type": "ses",
@@ -51,5 +44,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:23:49.887Z"
 }
