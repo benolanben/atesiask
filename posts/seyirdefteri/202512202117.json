@@ -20,22 +20,33 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "Tanya bunu anaokulundan beri biliyordu; insanlar meta değeri taşıyordu ve en fedakâr dostluklar bile karşılıklı bir kiralama ilişkisinden ibaretti; bâzen faydalı bir şeyle, bâzen de bizzât kendileriyle ödeme yapıyorlardı.\n[V. Pelevin'den]\n\nMüsrifliğin en büyüğü insan imkânını harcamaktır, hassaten kendini harcamak.\n[Kelâm-ı Azîz-i Melâmîye'den]\n\nBedenin enerjisi daha yüksek bir şeye bağlı değilse, daha düşük bir şey tarafından harcanacaktır.\n[A. Kadrî]\n\n~\n\nİnsanı, yapıp yapamadığı hikâyesinden ibâret bir kişiye\nKişiyi de sınırları belirli bir profile indirgersen\nEr geç harcanır...\n\nNe var ki bu bile film icâbıdır yâni her sahne, yerli yerincedir zira bedeni ve evreni evirip çeviren tek bir kudrettir:"
-        },
-        {
-          "type": "metin",
-          "text": "Ve O kudret, O ezel zekâsıyla\nEvirir çevirir, tohumu harcar, ağacı getirir\nYüzeyde görünen şahsî nefsi harcar\nMerkezdeki özü, belirgin hâle getir",
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Tanya bunu anaokulundan beri biliyordu; insanlar meta değeri taşıyordu ve en fedakâr dostluklar bile karşılıklı bir kiralama ilişkisinden ibaretti; bâzen faydalı bir şeyle, bâzen de bizzât kendileriyle ödeme yapıyorlardı.<br></p>",
           "is_colored": true,
-          "is_bold": true
+          "is_bold": true,
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Müsrifliğin en büyüğü insan imkânını harcamaktır, hassaten kendini harcamak.<br></p>",
+          "is_colored": true,
+          "is_bold": true,
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Bedenin enerjisi daha yüksek bir şeye bağlı değilse, daha düşük bir şey tarafından harcanacaktır.<br></p>",
+          "is_colored": true,
+          "is_bold": true,
+          "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "~\nVe Tanya, son ilişkisinden de bir enkâz yığını olarak çıkınca artık anladı ki:\n\nHarcanmak denen şey, aslında yok olmak değil, biçim değiştirmektir.\nParanın geçersiz bir kâğıda, kâğıdın ışığa, ışığın bakışa dönüşmesi gibi...\n\nHer kayıp, bir kazançtır; her ödenen bedel, görünmez bir hesaba yatırılan bir mevduat...\n\nVe asıl müsriflik, bu döngüye direnip hiçbir şey olmamakta ısrar etmektir.\n\nÇünkü güneşin altında her şey eninde sonunda harcanır; mesele, senin paranın hangi pazarda geçerli olduğunu bilmendir...\n\nO pazar ki, raflarında yalnızca aynalar sergilenir.\n\nVe sen, orada ancak harcandığın kadar varsın..."
+          "text": "<p class=\"mb-4\">~<br><br>İnsanı, yapıp yapamadığı hikâyesinden ibâret bir kişiye<br>Kişiyi de sınırları belirli bir profile indirgersen<br>Er geç harcanır...<br><br>Ne var ki bu bile film icâbıdır yâni her sahne, yerli yerincedir zira bedeni ve evreni evirip çeviren tek bir kudrettir:</p><p class=\"mb-4\"><strong>Ve O kudret, O ezel zekâsıyla<br>Evirir çevirir, tohumu harcar, ağacı getirir<br>Yüzeyde görünen şahsî nefsi harcar<br>Merkezdeki özü, belirgin hâle getir</strong></p><p class=\"mb-4\"><strong>~</strong></p><p class=\"mb-4\">Ve Tanya, son ilişkisinden de bir enkâz yığını olarak çıkınca artık anladı ki:</p><p class=\"mb-4\">Harcanmak denen şey, aslında yok olmak değil, biçim değiştirmektir.<br>Paranın geçersiz bir kâğıda, kâğıdın ışığa, ışığın bakışa dönüşmesi gibi...</p><p class=\"mb-4\">Her kayıp, bir kazançtır; her ödenen bedel, görünmez bir hesaba yatırılan bir mevduat...</p><p class=\"mb-4\">Ve asıl müsriflik, bu döngüye direnip hiçbir şey olmamakta ısrar etmektir.</p><p class=\"mb-4\">Çünkü güneşin altında her şey eninde sonunda harcanır; mesele, senin paranın hangi pazarda geçerli olduğunu bilmendir...</p><p class=\"mb-4\">O pazar ki, raflarında yalnızca aynalar sergilenir.</p><p class=\"mb-4\">Ve sen, orada ancak harcandığın kadar varsın...</p>"
         },
         {
           "type": "spoiler",
-          "text": "Ol ganîyem ki bu bâzâr-ı fenâda feleğe\nMetelik vermek için bende bozukluk yoktur"
+          "text": "<p class=\"mb-4\"><em>Ol ganîyem ki bu bâzâr-ı fenâda feleğe<br>Metelik vermek için bende bozukluk yoktur</em></p>"
         },
         {
           "type": "ses",
@@ -45,12 +56,10 @@
         },
         {
           "type": "metin",
-          "text": "\n\nÂşık oldur kim kılar cânın fedâ cânânına\nMeyl-i cânân etmesin her kim ki kıymaz cânına\n\nCanını cânâna vermektir kemâli âşıkın\nVermeyen cân itirâf etmek gerek noksânına",
-          "is_colored": true,
-          "is_bold": true,
-          "is_italic": true
+          "text": "<p class=\"mb-4\">Âşık oldur kim kılar cânın fedâ cânânına<br>Meyl-i cânân etmesin her kim ki kıymaz cânına</p><p class=\"mb-4\"><strong>Canını cânâna vermektir kemâli âşıkın<br>Vermeyen cân itirâf etmek gerek noksânına<br></strong><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T16:06:16.139Z"
 }
