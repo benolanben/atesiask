@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kulluktan sultanlığa",
+      "id": 202601061608,
+      "category": "posts/seyirdefteri/202601061608"
+    },
+    {
       "text": "Dalga motor",
       "id": 202601061558,
       "category": "posts/seyirdefteri/202601061558"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/trrwenems89xr85/uyandi.mp3"
       },
       "id": 202601041309,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1466,
-        "parca_adi": "Dil hânesi",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/df578mww0reopek/dilhanesi_p.mp3"
-      },
-      "id": 202601041146,
       "category": "kaynak/baska"
     }
   ]
