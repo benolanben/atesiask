@@ -19,76 +19,32 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Şimdi\nBurada\nMevcut vâr~oluşun basitçe farkına varmak,\nTek ve gerçek doğrulamadır.\nVe bu, bir çeşit nihâî imzadır;\nHiçbir mürekkepe banmadan\nHiçbir kâğıt kullanmadan\nNefes nefes havaya k~atılmış.\n",
+          "text": "<p class=\"mb-4\">Şimdi<br>Burada<br>Mevcut vâr~oluşun basitçe farkına varmak,<br>Tek ve gerçek doğrulamadır.<br>Ve bu, bir çeşit nihâî imzadır;<br>Hiçbir mürekkebe banmadan<br>Hiçbir kâğıt kullanmadan<br>Nefes nefes havaya k~atılmış.</p>",
           "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "— Bu ânın farkında olmak ne demek?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "O anda bedenimizde ne akıyorsa onu tam hissetmek demek.\n",
+          "text": "<p class=\"mb-4\"><strong><em>— </em>Bu ânın farkında olmak ne demek?<br></strong>O anda bedenimizde ne akıyorsa onu tam hissetmek demek.</p><p class=\"mb-4\"><strong><em>— </em>Peki düşüncelere dalmak ne demek?<br></strong>Bedenimizden uzaklaşarak duygularımızdan kaçmak demek.</p><p class=\"mb-4\">Yâni biteviye akan bu nehirden, aklın dar kovasıyla su çalıp onu ev yapımı bir işkence âletine dönüştürmek bu demek; öyleyse bu sâdece bir kaçış değil biraz da ihânet demek...</p><p class=\"mb-4\">Zira düşünceler, seni beni içine çekerek bu ânın gerçekliğini çarpıtma potansiyeline sâhiptir.</p><p class=\"mb-4\">Ve her düşünce eninde sonunda birilerini, hiç olmadı kendini suçlayacaktır.</p><p class=\"mb-4\">...<br><br><strong>— Yok mu bu hayâsızca akının sonu?</strong><br><br>İlgi ~ dikkat ~ enerjini zihindeki düşünce girdabından çekersen karışan sular durulacaktır.</p><p class=\"mb-4\">Çok geçmeden zihin sâkinleştiğinde, öz farkındalık yeniden ortaya çıkar.<br>Aslında hiç kaybolmamıştı; güneş göz, yumduğu bulutuyla perdelenmişti...</p><p class=\"mb-4\">~<br><br>İşin ilginci...</p><p class=\"mb-4\">Yargıç düşünür durmasa da..<br>Hiç kimse bu ânın, şu anki hâlinden sorumlu tutulamaz, suçlanamaz.</p><p class=\"mb-4\"><strong><em>— </em>Bu ânın sorumlusu kim?<br></strong>Böyle bir sual önerme, esen yele noter tasdiki aldırmaya çalışmak kadar saçmadır.</p><p class=\"mb-4\">Bu görüntü, şimdi ortaya çıktı.<br>Bu sesler, şimdi patladı.<br>Bu duygular, şimdi filizlendi.</p><p class=\"mb-4\">Düşünceler, gerçeği suçlayabilir ama bunun hiçbir anlamı yok zira öncesi sonrası yok a güzel...</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Bak işte ne varsa geçiyor<br>Ve geçip giden her şey, yeni bir şeye dönüşüyor.<br><strong>Bu 'yeni şey' gerçekliktir.</strong><br>Yeniyi, yeni gözlerle izleyiş<br>Bitmeyecek zevk, bu zevktir</p><p class=\"mb-4\">~</p>",
           "is_tight": true
         },
         {
-          "type": "metin",
-          "text": "— Peki düşüncelere dalmak ne demek?",
-          "is_bold": true
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">O, her an yeni bir oluşla tâze bir görünüşte<br>Geçende kalmış olma<strong>~</strong>san <strong>yeni~bir~de~sen<br></strong>Yeni gözlerle bakana O hep yeni bir şe'nnn;<br>Yok artık ne dünkü ben, ne de sen...</p>",
+          "author": "[Rahmân:29'dan]"
         },
         {
           "type": "metin",
-          "text": "Bedenimizden uzaklaşarak duygularımızdan kaçmak demek."
+          "text": "<p class=\"mb-4\">~<br><br><em>Âhh ki ne âh...</em></p><p class=\"mb-4\"><em>Bu satırlara pencereden dışarı b~akarken başlandı.<br>O hâlde çok uzatmadan öylece sonlansın;</em></p><p class=\"mb-4\">Şu anda açılan bu pencerede ne varsa, o vardır.<br>Dışarı çıkıp bu havayı, bu manzarayı değiştirmek imkânsızdır.</p><p class=\"mb-4\">Bu, evrenin anlık açtığı canlı bir tablo...<br>Sadece hayranlıkla izleyebiliriz aboo...</p><p class=\"mb-4\">İçimizde muzip bir gülümsemeyle...</p><p class=\"mb-4\">Sanki<br>Bir anlığına<br>Bir şeyin farkına varmışçasına<br><br>Çok da üstünü açmadan...</p><p class=\"mb-4\">Öylecee...</p><p class=\"mb-4\">~<br><br>Hayalllahımm burada<br>Pencerenin camı yok aslında...<br>Dışarının içerden farkı da...</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061858-1767715103170.mp3",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061858-1767715107942.jpg"
         },
         {
           "type": "metin",
-          "text": "Yâni biteviye akan bu nehirden, aklın dar kovasıyla su çalıp onu ev yapımı bir işkence âletine dönüştürmek bu demek; öyleyse bu sâdece bir kaçış değil biraz da ihânet demek...\n\nZira düşünceler, seni beni içine çekerek bu ânın gerçekliğini çarpıtma potansiyeline sâhiptir.\n\nVe her düşünce eninde sonunda birilerini, hiç olmadı kendini suçlayacaktır.\n\n...\n"
-        },
-        {
-          "type": "metin",
-          "text": "— Yok mu bu hayâsızca akının sonu?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "İlgi ~ dikkat ~ enerjini zihindeki düşünce girdabından çekersen karışan sular durulacaktır.\n\nÇok geçmeden zihin sâkinleştiğinde, öz farkındalık yeniden ortaya çıkar.\nAslında hiç kaybolmamıştı; güneş göz, yumduğu bulutuyla perdelenmişti...\n\n~\n\nİşin ilginci...\n\nYargıç düşünür durmasa da..\nHiç kimse bu ânın, şu anki hâlinden sorumlu tutulamaz, suçlanamaz."
-        },
-        {
-          "type": "metin",
-          "text": "— Bu ânın sorumlusu kim?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Böyle bir sual önerme, esen yele noter tasdiki aldırmaya çalışmak kadar saçmadır.\n\nBu görüntü, şimdi ortaya çıktı.\nBu sesler, şimdi patladı.\nBu duygular, şimdi filizlendi.\n\nDüşünceler, gerçeği suçlayabilir ama bunun hiçbir anlamı yok zira öncesi sonrası yok a güzel...\n\n...\n\nBak işte ne varsa geçiyor\nVe geçip giden her şey, yeni bir şeye dönüşüyor.\n",
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Bu 'yeni şey' gerçekliktir.\n",
-          "is_bold": true,
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "Yeniyi, yeni gözlerle izleyiş\nBitmeyecek zevk, bu zevktir\n\n~",
-          "is_tight": true
-        },
-        {
-          "type": "metin",
-          "text": "[Rahmân:29'dan]\nO, her an yeni bir oluşla tâze bir görünüşte\nGeçende kalmış olma~san yeni~bir~de~sen\nYeni gözlerle bakana O hep yeni bir şe'nnn;\nYok artık ne dünkü ben, ne de sen...\n\n~\n\nÂhh ki ne âh...\n\nBu satırlara pencereden dışarı b~akarken başlandı.\nO hâlde çok uzatmadan öylece sonlansın;\n\nŞu anda açılan bu pencerede ne varsa, o vardır.\nDışarı çıkıp bu havayı, bu manzarayı değiştirmek imkânsızdır.\n\nBu, evrenin anlık açtığı canlı bir tablo...\nSadece hayranlıkla izleyebiliriz aboo...\n\nİçimizde muzip bir gülümsemeyle...\n\nSanki\nBir anlığına\nBir şeyin farkına varmışçasına\nÇok da üstünü açmadan...\n\nÖylecee...\n\n~\n\nHayalllahımm burada\nPencerenin camı yok aslında...\nDışarının içerden farkı da...\n\n..."
-        },
-        {
-          "type": "metin",
-          "text": "Vardım, evimdeyim\nVe bir ömür pencereden baktığımın bilincindeyim...",
-          "is_colored": true,
-          "is_tight": false,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">...</p><p class=\"mb-4\"><strong>Vardım, evimdeyim<br>Ve bir ömür pencereden baktığımın bilincindeyim...<br><br>~</strong></p>"
         },
         {
           "type": "fotograf",
@@ -97,5 +53,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:58:24.636Z"
 }
