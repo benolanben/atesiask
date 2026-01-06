@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gözleme ânı",
+      "id": 202601061555,
+      "category": "posts/seyirdefteri/202601061555"
+    },
+    {
       "text": "Sana, \nArşın altından, \nCennet hazinelerinden bir söze delâlet edeyim mi? \nŞöyle dersin: \n\"Lâ havle ve lâ kuvvete illa b...",
       "id": 202601051359,
       "category": "varliginsevinci"
@@ -59,11 +64,6 @@
       "text": "İstanbul Ansiklopedisi",
       "id": 202601022307,
       "category": "posts/seyirzevki/202601022307"
-    },
-    {
-      "text": "Korkma yalnız değilsin",
-      "id": 202601022144,
-      "category": "posts/seyirdefteri/202601022144"
     }
   ]
 }
