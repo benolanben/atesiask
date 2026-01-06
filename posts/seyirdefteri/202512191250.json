@@ -19,41 +19,16 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Ten hapsindeki canın, gündelik rüyâsına bir tâbir denemesi...",
-          "is_bold": true,
-          "is_italic": true
+          "text": "<p class=\"mb-4\"><strong><em>Ten hapsindeki canın, gündelik rüyâsına bir tâbir denemesi...</em></strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Tıpkı balın tatlılık olmaması gibi, bu sözler de gerçeklik değildir ama bu sözlerle geçirilen zaman, yağmurun ardından gelen zamana benzer; zamanla, anlayış filizlenecek ve kişinin kontrolü dışında bir hızda meyve verecektir.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "metin",
-          "text": "Tıpkı balın tatlılık olmaması gibi, bu sözler de gerçeklik değildir ama bu sözlerle geçirilen zaman, yağmurun ardından gelen zamana benzer; zamanla, anlayış filizlenecek ve kişinin kontrolü dışında bir hızda meyve verecektir.\n[YÜZ SÖZ'den]\n\nBir nicemiz, yanılsamanın kendi renginden örülmüş, zar zor seçilebilen zar kadar ince bir perdenin bizi, nihai hakikatten ayırdığını hiç fark etmeden gelip geçeriz koca bir ömrün içinden...\n\nOysa gerçeklik olarak deneyimlediğimiz şey, gerçekte var olanın en soluk yankısından ibârettir...\n\nGözlerimiz ışığın ancak bir fısıltısını, kulaklarımız sesin bir kırıntısını algılar; zihin ise bu cılız ipliklerden eksiksiz ve inandırıcı bir günlük rüya dokusu örer.\n~\n\nÇokluğa aldanan bizlerse, bir rüyanın içinde yaşar ve bir rüyanın içinde ölürüz.\n\nDuyularımızın açık pencereler değil, sonsuzluğu erişemeyeceğimiz bir mesafede tutan hassas, görünmez parmaklıklar olduğundan hiç şüphelenmeyiz.\n\nBeden, bu rüyayı sorgusuz sualsiz kabullenir.\n\nZihin, onu hikâyelerle, arzularla, korkularla ve kimliklerle renklendirir, ta ki zindan bize \"benim evim\" gibi gelene kadar. ..\n\nHücre duvarlarını ilişkilerle, başarılarla, inançlarla döşer, sonra döner bu dar-alan odanın içinde yaşlanırız; kapının aslında hiç kilitli olmadığını, dahası kapı olmadığını hiç fark etmeden...\n\nGerçek inisiyasyon, tek bir sessiz başkaldırıyla başlar:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Artık bu rüyaya güvenmeyi reddetmek. \"",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Her gördüğümüzü, hissettiğimizi ve düşündüğümüzü sorgulamaya cesaret ettikçe derinleşir.\n\nHer içe dönüşümüzde, öyle olduğuna inandığımız her kesinliğin, perdenin bir başka ipliği olduğunu keşfederiz:\n\nBedenin arzuları, zihnin hikayeleri, inancın hayâlleri ve cephe gerisini savunmamız gerektiği öğretilmiş \"ayrı bir ben\" illüzyonu.\n\nKendimizi nasıl daralttığımızı bir kez anlayınca\nOnları teker teker serbest bırakır ve genişleriz.\n\nHer katman düştükçe, perde incelmeye başlar...\n\nSon yanılsama bağı çözüldüğünde artık aşılacak bir sınır, aranandan ayrı bir arayan ve perde kalmaz."
-        },
-        {
-          "type": "metin",
-          "text": "Varsa yoksa\nÇıplak bir bakışla\nAn ben an olmakta olan",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Geriye yalnızca sınırsız bir farkındalık kalır:\n\nSessiz,\nUyanık,\nVe her zaman olduğu o enginliğin içinde\nTam anlamıyla evinde.\n\nŞimdi bütün bunlar sana deli saçması gibi mi geldi?\nSor istersen doğrudan kendine:\n\nDün gece rüyanızda varlığını hissettiğiniz, hikâyesini izlediğiniz bir 'ben' gerçekten var mıydı, yok muydu?\n\n~~~\n\nÖyleyse a benim canım,\nCan alıcı sual şu değildir:\n\"Perdeyi nasıl kaldırabilirim?\"\n\nAsıl soru:\n\"Perdeyi dokuyan kim?\"\n\nCevabı aradığın an, iğneyi tutan elin kendinden başkası olmadığını görürsün.\nVe gülümsersin...\n\nÇünkü bütün oyun buymuş meğer:\nKendini, kendinde saklamak.\nSonsuzluk, kendini sonlu bir rüyada seyretmeye koyulmuş;\nSen de biricik seyrin ta kendisi.\n\nTıpkı dün geceki son rüyânda olduğu gibi...\n\nKapı yoktu.\nHapis yoktu.\nSadece hep evdeydin.\n\nVe şimdi, kapının hiç var olmadığını bilmek, nihai özgürlüktür.\n\nNe yani şimdi bütün rüya bitti mi?\n\nRüyanın bir mevsimi de böyle geçer ama hiçbir şey bitmez.\nZira ancak başlangıcı olan şeyler sona erebilir\nRüya bitmez çünkü başlangıcı yoktu!\n\nÖnümüze ön yok\nSonumuza son yok\nVe rüyanın dışında bir şey yok!\n\n~\n\nDemeyi çok sevenler,\nRüyada iken,\nRüyada olduğunu bilerek,\nRüya görmeye ne diyorlardı?"
-        },
-        {
-          "type": "metin",
-          "text": "\"Rüya gibi hayat...\"\n",
-          "is_bold": true,
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Varsa yoksa ne varmış?\nSadece hep orda olan,\nKendine dönüp bir an için:\n“Ben kimim?” diye fısıldayan bir ayna varmış.\n\nVe ayna, cevap vermek yerine, gülümsedi...\n\nŞimdi duyulur belki:"
+          "text": "<p class=\"mb-4\">Bir nicemiz, yanılsamanın kendi renginden örülmüş, zar zor seçilebilen zar kadar ince bir perdenin bizi, nihai hakikatten ayırdığını hiç fark etmeden gelip geçeriz koca bir ömrün içinden...</p><p class=\"mb-4\">Oysa gerçeklik olarak deneyimlediğimiz şey, gerçekte var olanın en soluk yankısından ibârettir...</p><p class=\"mb-4\">Gözlerimiz ışığın ancak bir fısıltısını, kulaklarımız sesin bir kırıntısını algılar; zihin ise bu cılız ipliklerden eksiksiz ve inandırıcı bir günlük rüya dokusu örer.<br>~</p><p class=\"mb-4\">Çokluğa aldanan bizlerse, bir rüyanın içinde yaşar ve bir rüyanın içinde ölürüz.</p><p class=\"mb-4\">Duyularımızın açık pencereler değil, sonsuzluğu erişemeyeceğimiz bir mesafede tutan hassas, görünmez parmaklıklar olduğundan hiç şüphelenmeyiz.</p><p class=\"mb-4\">Beden, bu rüyayı sorgusuz sualsiz kabullenir.</p><p class=\"mb-4\">Zihin, onu hikâyelerle, arzularla, korkularla ve kimliklerle renklendirir, ta ki zindan bize \"benim evim\" gibi gelene kadar. ..</p><p class=\"mb-4\">Hücre duvarlarını ilişkilerle, başarılarla, inançlarla döşer, sonra döner bu dar-alan odanın içinde yaşlanırız; kapının aslında hiç kilitli olmadığını, dahası kapı olmadığını hiç fark etmeden...</p><p class=\"mb-4\">Gerçek inisiyasyon, tek bir sessiz başkaldırıyla başlar:<br><strong>\"Artık bu rüyaya güvenmeyi reddetmek. \"</strong></p><p class=\"mb-4\">Her gördüğümüzü, hissettiğimizi ve düşündüğümüzü sorgulamaya cesaret ettikçe derinleşir.</p><p class=\"mb-4\">Her içe dönüşümüzde, öyle olduğuna inandığımız her kesinliğin, perdenin bir başka ipliği olduğunu keşfederiz:<br><br>Bedenin arzuları, zihnin hikayeleri, inancın hayâlleri ve cephe gerisini savunmamız gerektiği öğretilmiş \"ayrı bir ben\" illüzyonu.</p><p class=\"mb-4\">Kendimizi nasıl daralttığımızı bir kez anlayınca<br>Onları teker teker serbest bırakır ve genişleriz.</p><p class=\"mb-4\">Her katman düştükçe, perde incelmeye başlar...</p><p class=\"mb-4\">Son yanılsama bağı çözüldüğünde artık aşılacak bir sınır, aranandan ayrı bir arayan ve perde kalmaz.</p><p class=\"mb-4\"><strong>Varsa yoksa<br>Çıplak bir bakışla<br>An ben an olmakta olan</strong></p><p class=\"mb-4\">Geriye yalnızca sınırsız bir farkındalık kalır:</p><p class=\"mb-4\">Sessiz,<br>Uyanık,<br>Ve her zaman olduğu o enginliğin içinde<br>Tam anlamıyla evinde.<br><br>Şimdi bütün bunlar sana deli saçması gibi mi geldi?<br>Sor istersen doğrudan kendine:<br><br>Dün gece rüyanızda varlığını hissettiğiniz, hikâyesini izlediğiniz bir 'ben' gerçekten var mıydı, yok muydu?</p><p class=\"mb-4\">~~~</p><p class=\"mb-4\">Öyleyse a benim canım,<br>Can alıcı sual şu değildir:<br>\"Perdeyi nasıl kaldırabilirim?\"<br><br>Asıl soru:<br>\"Perdeyi dokuyan kim?\"<br><br>Cevabı aradığın an, iğneyi tutan elin kendinden başkası olmadığını görürsün.<br>Ve gülümsersin...<br><br>Çünkü bütün oyun buymuş meğer:<br>Kendini, kendinde saklamak.<br>Sonsuzluk, kendini sonlu bir rüyada seyretmeye koyulmuş;<br>Sen de biricik seyrin ta kendisi.<br><br>Tıpkı dün geceki son rüyânda olduğu gibi...</p><p class=\"mb-4\">Kapı yoktu.<br>Hapis yoktu.<br>Sadece hep evdeydin.<br><br>Ve şimdi, kapının hiç var olmadığını bilmek, nihai özgürlüktür.</p><p class=\"mb-4\">Ne yani şimdi bütün rüya bitti mi?</p><p class=\"mb-4\">Rüyanın bir mevsimi de böyle geçer ama hiçbir şey bitmez.<br>Zira ancak başlangıcı olan şeyler sona erebilir<br>Rüya bitmez çünkü başlangıcı yoktu!</p><p class=\"mb-4\">Önümüze ön yok<br>Sonumuza son yok<br>Ve rüyanın dışında bir şey yok!<br><br>~</p><p class=\"mb-4\">Demeyi çok sevenler,<br>Rüyada iken,<br>Rüyada olduğunu bilerek,<br>Rüya görmeye ne diyorlardı?<br><strong>\"Rüya gibi hayat...\"</strong></p><p class=\"mb-4\"><br>Varsa yoksa ne varmış?<br>Sadece hep orda olan,<br>Kendine dönüp bir an için:<br>“Ben kimim?” diye fısıldayan bir ayna varmış.</p><p class=\"mb-4\">Ve ayna, cevap vermek yerine, gülümsedi...</p><p class=\"mb-4\">Şimdi duyulur belki:</p>"
         },
         {
           "type": "ses",
@@ -62,9 +37,10 @@
         },
         {
           "type": "metin",
-          "text": "~\n\n"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:51:56.117Z"
 }
