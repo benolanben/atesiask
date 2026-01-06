@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202601061555,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061555-1767704113805.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "gözlem",
+            "gözlemci",
+            "gözlemlenen"
+          ],
+          "title": "Gözleme ânı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601050930,
       "article": {
         "header": {
