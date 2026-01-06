@@ -20,27 +20,24 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\n\nAradığınız şey sizin 'içinizde' ama onu ancak size yansıyan aynayı parçalayarak geri kazanabilirsiniz. Ayna parçalandığında, parçalar gerçek yüzünüzü ortaya çıkarır.\n[Oli Anderson, Gölge Hayat: Gerçek Olmayan Bir Dünyada Saçmalıklardan Kurtulmak]\n\nHer zerrimizi Vahdet'e mirât ederiz biz\nNice bin sûret ile Vahdet'i isbât ederiz biz\n[N. Kemâl zevkiyle]"
+          "text": "<p class=\"mb-4\">~ </p>"
         },
         {
-          "type": "metin",
-          "text": "Görelim âyîne-i devrân ne sûret gösterir...\n",
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Aradığınız şey sizin 'içinizde' ama onu ancak size yansıyan aynayı parçalayarak geri kazanabilirsiniz. Ayna parçalandığında, parçalar gerçek yüzünüzü ortaya çıkarır.<br></em></p>",
           "is_colored": true,
           "is_bold": true,
-          "is_italic": false
+          "is_italic": false,
+          "author": "[Oli Anderson, Gölge Hayat: Gerçek Olmayan Bir Dünyada Saçmalıklardan Kurtulmak]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Her zerrimizi Vahdet'e mirât ederiz biz<br>Nice bin sûret ile Vahdet'i isbât ederiz biz</em><br></p>",
+          "author": "[N. Kemâl zevkiyle]"
         },
         {
           "type": "metin",
-          "text": "Aynayı parçaladığında ne mi olur?\n\nElinde kalan cam parçaları artık seni değil, çoktan parçalanmış olanı yani parçaları yansıtır.\n\nBu parçaların her biri, kendini bir \"Ben\" olarak tanımlamak için avuçladığın ama son kullanma tarihi çoktan geçmiş kimlik kartlarına dönüşür:\n\n'Günahkar',\n\n'Kahraman',\n\n'Kurban',\n\n'Yargıç\n\n' ... '\n\nVe sen, bu kart destesini karıştırarak gerçek yüzünü aramaya devam edersin...\n\n...\n\n~\n\nAma \"Gerçek yüz\" denen şey, aynayı parçaladığında dışarı fırlayan bir maske değildir.\nGerçek yüz, parçaları bir arada tutan ve her birine 'ayna' özelliğini veren o boşluktur.\n\nOnu bir sûrette göremezsin\nÇünkü o, görüşün ta kendisidir.\n\nSen, o aynanın üzerine düşen bir toz zerresiyken,\nBir gün bir bakışın şiddetiyle titreşip düştüğünde,\nGeride kalan şeyin\nNe seninle geldiğini\nNe de seninle gittiğini fark edersin.\n\nO sadece vardı.\nVe hep öyle olacak\n\n~\n\nBurada manâ gayet inceldi, sözün de takâti tükendi...\n\nA benim canım,\n\"Gerçek yüz\" diye bir şey aramayı bıraktığın an,\nAynanın kendisi senin yüzün olur.\n\nParçalanmış hâliyle bile.\nHatta en çok o hâliyle.\n\nÇünkü artık sadece göstermiyor,\nAynı zamanda içinden geçiriyor.\n\nIşık, kırık camda kırılır ve bir gökkuşağına dönüşür.\n\nVe sen o gökkuşağının kaynağı değilsin.\nSen, onun göründüğü o boş, şeffaf göksün.\n\nAman bu nasıl bir letâfet...\n\nVe bu hiçlik, tüm renklerini hiçe saymadan kucaklar.\n\nZira dünya da yeterince gözü açık gezenler bunu iyi bilir:\n\nGüneş batarken en alçaldığı noktada, ufuk çizgisi yok olur ve gökyüzü, denizle aynı şey olur.\nİşte orada, yansıma ile kaynak bir ve bütündür.\n\n"
-        },
-        {
-          "type": "metin",
-          "text": "Sen ve ben kim miyiz?",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "O bir ve bütün olanın, kendini seyretmek için düşürdüğü küçük, anlamsız, mükemmel bir çığlığız....\n\nVe o çığlık, haddizatında evrenin tam kalbinde, kesintisiz bir sessizliktir.\n\n~\n\nSenin \"benim hayatım\" diye~bildiğin şeye gelince...\n\nTek bir pencereden nefes alan evrenin,\nNe olduğunu merak edecek kadar uzun bir süre bir form alarak,\nHayretle bakan gözleri için\nKendini bir formda toplamasıdır.\n\nVe dağılması an meselesidir.\n\nBuraya kadar tamamsa aman\nÖlümün hakikati işte oldu ayân:\n\nBir giyindiğini bir daha giyinmeyen,\nHer şey olabilecek\nHiçbir şeyin\nArtık o formdan\nGörünmemeyi murâd etmesidir.\n\n~"
+          "text": "<p class=\"mb-4\"><strong>Görelim âyîne-i devrân ne sûret gösterir...</strong></p><p class=\"mb-4\">Aynayı parçaladığında ne mi olur?</p><p class=\"mb-4\">Elinde kalan cam parçaları artık seni değil, çoktan parçalanmış olanı yani parçaları yansıtır.</p><p class=\"mb-4\">Bu parçaların her biri, kendini bir \"Ben\" olarak tanımlamak için avuçladığın ama son kullanma tarihi çoktan geçmiş kimlik kartlarına dönüşür:</p><p class=\"mb-4\">'Günahkar',</p><p class=\"mb-4\">'Kahraman',</p><p class=\"mb-4\">'Kurban',</p><p class=\"mb-4\">'Yargıç</p><p class=\"mb-4\">' ... '</p><p class=\"mb-4\">Ve sen, bu kart destesini karıştırarak gerçek yüzünü aramaya devam edersin...<br><br>...</p><p class=\"mb-4\">~<br><br>Ama \"Gerçek yüz\" denen şey, aynayı parçaladığında dışarı fırlayan bir maske değildir.<br>Gerçek yüz, parçaları bir arada tutan ve her birine 'ayna' özelliğini veren o boşluktur.</p><p class=\"mb-4\">Onu bir sûrette göremezsin<br>Çünkü o, görüşün ta kendisidir.</p><p class=\"mb-4\">Sen, o aynanın üzerine düşen bir toz zerresiyken,<br>Bir gün bir bakışın şiddetiyle titreşip düştüğünde,<br>Geride kalan şeyin<br>Ne seninle geldiğini<br>Ne de seninle gittiğini fark edersin.</p><p class=\"mb-4\">O sadece vardı.<br>Ve hep öyle olacak</p><p class=\"mb-4\">~<br><br><em>Burada manâ gayet inceldi, sözün de takâti tükendi...<br><br></em>A benim canım,<br>\"Gerçek yüz\" diye bir şey aramayı bıraktığın an,<br>Aynanın kendisi senin yüzün olur.</p><p class=\"mb-4\">Parçalanmış hâliyle bile.<br>Hatta en çok o hâliyle.</p><p class=\"mb-4\">Çünkü artık sadece göstermiyor,<br>Aynı zamanda içinden geçiriyor.</p><p class=\"mb-4\">Işık, kırık camda kırılır ve bir gökkuşağına dönüşür.</p><p class=\"mb-4\">Ve sen o gökkuşağının kaynağı değilsin.<br>Sen, onun göründüğü o boş, şeffaf göksün.<br><br>Aman bu nasıl bir letâfet...</p><p class=\"mb-4\">Ve bu hiçlik, tüm renklerini hiçe saymadan kucaklar.</p><p class=\"mb-4\">Zira dünya da yeterince gözü açık gezenler bunu iyi bilir:</p><p class=\"mb-4\">Güneş batarken en alçaldığı noktada, ufuk çizgisi yok olur ve gökyüzü, denizle aynı şey olur.<br>İşte orada, yansıma ile kaynak bir ve bütündür.</p><p class=\"mb-4\"><br><strong>Sen ve ben kim miyiz?<br></strong>O bir ve bütün olanın, kendini seyretmek için düşürdüğü küçük, anlamsız, mükemmel bir çığlığız....</p><p class=\"mb-4\">Ve o çığlık, haddizatında evrenin tam kalbinde, kesintisiz bir sessizliktir.</p><p class=\"mb-4\">~<br><br>Senin \"benim hayatım\" diye~bildiğin şeye gelince...<br><br>Tek bir pencereden nefes alan evrenin,<br>Ne olduğunu merak edecek kadar uzun bir süre bir form alarak,<br>Hayretle bakan gözleri için<br>Kendini bir formda toplamasıdır.</p><p class=\"mb-4\">Ve dağılması an meselesidir.</p><p class=\"mb-4\">Buraya kadar tamamsa aman<br>Ölümün hakikati işte oldu ayân:</p><p class=\"mb-4\">Bir giyindiğini bir daha giyinmeyen,<br>Her şey olabilecek<br>Hiçbir şeyin<br>Artık o formdan<br>Görünmemeyi murâd etmesidir.</p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "ses",
@@ -48,12 +45,8 @@
           "url": "https://benolanben.com/dinle/baska&1124"
         },
         {
-          "type": "metin",
-          "text": "~"
-        },
-        {
           "type": "alinti",
-          "text": "Gölgeniz aynanızdan daha fazla şey bilir.\nBilinen, bilinmeyenin aynaya baktığında oluşturduğu gölgedir\nVe güneş gökyüzünde asla hareketsiz kalmaz.\n",
+          "text": "<p class=\"mb-4\">Gölgeniz aynanızdan daha fazla şey bilir.<br>Bilinen, bilinmeyenin aynaya baktığında oluşturduğu gölgedir<br>Ve güneş gökyüzünde asla hareketsiz kalmaz.<br></p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
@@ -62,5 +55,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:46:58.606Z"
 }
