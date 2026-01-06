@@ -19,76 +19,25 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Kendi düşümden düş~düğüm bir seyirde\nSahiplik balonu söndüğünde beliren \"o sükûnet ânına\" bir güzelleme...\n",
-          "is_colored": true,
-          "is_italic": true,
-          "is_bold": true
+          "text": "<p class=\"mb-4\"><strong><em>Kendi düşümden düş~düğüm bir seyirde<br>Sahiplik balonu söndüğünde beliren \"o sükûnet ânına\" bir güzelleme...</em></strong></p>"
         },
         {
           "type": "alinti",
-          "text": "Sözde ben~i cennette sonsuz mutluluğa kavuşturacak,\nBütün o manevi uygulamalar yok mu?\nOnları 'yaparak' ya 'yapmayarak'\nKendine 'mutluluk' devşirmeye çalışan\nSözde ben~merkezini eritmek içindir sâdece...",
+          "text": "<p class=\"mb-4\">Sözde ben~i cennette sonsuz mutluluğa kavuşturacak,<br>Bütün o manevi uygulamalar yok mu?<br>Onları 'yaparak' ya 'yapmayarak'<br>Kendine 'mutluluk' devşirmeye çalışan<br>Sözde ben~merkezini eritmek içindir sâdece...</p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "metin",
-          "text": "***\n"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "1. Tahrîfât"
-        },
-        {
-          "type": "metin",
-          "text": "Düğüm Atma Seremonisi\n\nBen kelimesi etrafındaki o küçük dar~alma...\n\nHemen her günün içinde, “ben” hissinin incecikten gerilip bir düğümde toplandığı sessiz bir an illâ ki vardır.\n\nNe bileyim\nBir düşünce, kişisel olarak algılanır.\nBir duygu, sahiplenilir.\nBeden, tanıdık bir anlatının etrafında toplanır.\n\nÖyle pek de dramatik olmadığından pek de önemsemeyiz...\n\nSadece hafif bir daralma, yumuşak bir kasılma, açık farkındalıktan benmerkezci dar-alana doğru yığılan bir geçiş...\n\nZihin durmadan içerden fit veriyor:\n\n\"Bunlar da hep beni buluyor\"\n\"Bu, benim başıma geliyor\"\n\"Bu, bana oluyor.\"\n\nVe canlı canlı sahada var olmayan bir sınır oluşur, zihindeki haritada...\n\nİşte bu, direncin başlangıcıdır:\nKesintisiz, büsbütün bir alanın içinde titreşen hayâlî bir merkez.\nNehirden ayrı durduğuna inanan bir kıpırtı, bir dalgalanma...\n\nVâkıa, tam o kırılmanın başladığı ânı, pek nâdir fark ederiz.\nSadece ondan sebep büyüyen gerilimi fark edebiliriz...\n\n\n***"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "2. Mücâdele"
-        },
-        {
-          "type": "metin",
-          "text": "Çabalama\nİçsel vaziyeti kontrol etme refleksi\n\n“Ben” denen hayâlî kale bir kez dikildi mi, savunma siperleri de kazılır hemen...\n\nYani sınırlı \"Ben\" bir kez belirdi mi, mücadele de hemen peşi sıra gelir...\n\nZihin, tutamayacağı şeyleri idare etmeye çalışır;\nDuyguları, düşünceleri, sonuçları, diğer insanları hatta geleceğin kendisini bile...\n\nPlanlar, prova yapar, savunur, işleri kendince ayarlar...\n\nHer hareket, benliğin daha üst bir versiyonunun, sonunda hayatı daha \"yaşanabilir\" kılacağına dair örtülü bir umut taşır, küçük zavallı umut dünyasında...\n\nNe var ki işleri kontrol etmeye çalışan \"ben\", gerilimi yaratan \"ben\" ile aynıdır.\n\nAnda olan canlı deneyime ne kadar savaş açarsan, savaşçının varlığı o kadar sağlamlaşır, o direniş hattı yüzünden, cephe gerisindeki şey belirgin hâle gelir...\n\nVe dirençten doğan bir benlik, sadece direnebilir.\nKorkudan doğmuş bir benlik, sadece savunabilir.\n\nKorku, 'ben' dediğimiz hayali merkezin tehdit altında olduğu yanılsamasıdır.\nOysa gerçekte korunacak bir merkez yoktur.\n\nİşte seni, beni tüketen döngü de budur:\nDünyanın kendisi değil, onun içinde korumaya çalıştığımız hayâlî merkez.\n\nVe bütün bu yorgunluğun, tükenmişliğin altında, içinizdeki bir şey şunu pekâlâ bilir:\n\"Başka bir yol olmalı!\"\n\n\n***"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "3. Müdahâle~sizlik"
-        },
-        {
-          "type": "metin",
-          "text": "Düğümün kendi kendini yemesi\nMerkezin kendi kendine çözülüşü\n\n"
+          "text": "<p class=\"mb-4\">***<br><strong>1. Tahrîfât<br></strong><em>Düğüm Atma Seremonisi</em></p><p class=\"mb-4\">Ben kelimesi etrafındaki o küçük dar~alma...</p><p class=\"mb-4\">Hemen her günün içinde, “ben” hissinin incecikten gerilip bir düğümde toplandığı sessiz bir an illâ ki vardır.</p><p class=\"mb-4\">Ne bileyim<br>Bir düşünce, kişisel olarak algılanır.<br>Bir duygu, sahiplenilir.<br>Beden, tanıdık bir anlatının etrafında toplanır.</p><p class=\"mb-4\">Öyle pek de dramatik olmadığından pek de önemsemeyiz...</p><p class=\"mb-4\">Sadece hafif bir daralma, yumuşak bir kasılma, açık farkındalıktan benmerkezci dar-alana doğru yığılan bir geçiş...</p><p class=\"mb-4\">Zihin durmadan içerden fit veriyor:<br><br>\"Bunlar da hep beni buluyor\"<br>\"Bu, benim başıma geliyor\"<br>\"Bu, bana oluyor.\"</p><p class=\"mb-4\">Ve canlı canlı sahada var olmayan bir sınır oluşur, zihindeki haritada...</p><p class=\"mb-4\">İşte bu, direncin başlangıcıdır:<br>Kesintisiz, büsbütün bir alanın içinde titreşen hayâlî bir merkez.<br>Nehirden ayrı durduğuna inanan bir kıpırtı, bir dalgalanma...</p><p class=\"mb-4\">Vâkıa, tam o kırılmanın başladığı ânı, pek nâdir fark ederiz.<br>Sadece ondan sebep büyüyen gerilimi fark edebiliriz...</p><p class=\"mb-4\"><strong><br>***<br>2. Mücâdele<br></strong>Çabalama<br><em>İçsel vaziyeti kontrol etme refleksi</em></p><p class=\"mb-4\">“Ben” denen hayâlî kale bir kez dikildi mi, savunma siperleri de kazılır hemen...</p><p class=\"mb-4\">Yani sınırlı \"Ben\" bir kez belirdi mi, mücadele de hemen peşi sıra gelir...</p><p class=\"mb-4\">Zihin, tutamayacağı şeyleri idare etmeye çalışır;<br>Duyguları, düşünceleri, sonuçları, diğer insanları hatta geleceğin kendisini bile...</p><p class=\"mb-4\">Planlar, prova yapar, savunur, işleri kendince ayarlar...</p><p class=\"mb-4\">Her hareket, benliğin daha üst bir versiyonunun, sonunda hayatı daha \"yaşanabilir\" kılacağına dair örtülü bir umut taşır, küçük zavallı umut dünyasında...</p><p class=\"mb-4\">Ne var ki işleri kontrol etmeye çalışan \"ben\", gerilimi yaratan \"ben\" ile aynıdır.</p><p class=\"mb-4\">Anda olan canlı deneyime ne kadar savaş açarsan, savaşçının varlığı o kadar sağlamlaşır, o direniş hattı yüzünden, cephe gerisindeki şey belirgin hâle gelir...</p><p class=\"mb-4\">Ve dirençten doğan bir benlik, sadece direnebilir.<br>Korkudan doğmuş bir benlik, sadece savunabilir.</p><p class=\"mb-4\">Korku, 'ben' dediğimiz hayali merkezin tehdit altında olduğu yanılsamasıdır.<br>Oysa gerçekte korunacak bir merkez yoktur.</p><p class=\"mb-4\">İşte seni, beni tüketen döngü de budur:<br>Dünyanın kendisi değil, onun içinde korumaya çalıştığımız hayâlî merkez.</p><p class=\"mb-4\">Ve bütün bu yorgunluğun, tükenmişliğin altında, içinizdeki bir şey şunu pekâlâ bilir:<br>\"Başka bir yol olmalı!\"</p><p class=\"mb-4\"><br><strong>***<br>3. Müdahâle~sizlik<br></strong><em>Düğümün kendi kendini yemesi<br>Merkezin kendi kendine çözülüşü</em></p>"
         },
         {
           "type": "alinti",
-          "text": "Cehalet yüzünden BEN~lik sonlu gibi görünür.\nCehalet sona erdiğinde, yalnızca BEN kalır.",
+          "text": "<p class=\"mb-4\">Cehalet yüzünden BEN~lik sonlu gibi görünür.<br>Cehalet sona erdiğinde, yalnızca BEN kalır.<br></p>",
           "author": "[Şankara'dan]"
         },
         {
           "type": "metin",
-          "text": "Derken derken, beklenmedik bir şekilde, basit bir şey açılır.\n\nSen sanmadığın yerde\nBir nefes, yumuşar.\nBir düşünce, sahip~siz kalır.\nBir duygu, hikâyesiz olarak yüz gösterir.\n\nVe asılsız bir çabalamayla bağlı kabz hâli olarak görünen \"ben\", hiçbir çaba sarf etmeden gevşeyiverir...\n\nNihayet sen başardığın,\nDoğru bir şey yaptığın için değil,\nHer şeyi bir arada tutma girişimi bir anlığına kaybolduğu için...\n\nDeneyim devam eder ama sahiplik hissi kaybolur.\nHayat, bir merkez olmadan açılır.\n\nAzizlerin işaret ettiği de işte budur:\n\"Ben\"in yok edilmesi gerekmez;\nSadece ona inanmanın bırakılması gerekir.\n\nVe o sessiz salıverilişte farkındalık kendini tanır:\nAçık, sarsılmaz, dokunulmamış.\n\nHoş, bilen o kendi olur...\nNehir, aslında hiçbir zaman kıpırdayan bir dalga olmadığını fark eder...\n\n\n***"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "4. Dönüş"
-        },
-        {
-          "type": "metin",
-          "text": "Ana Rahmindeki Sükûn\n\nBütün deneyimlerin altında yatan o rahatlık..\n\n\"Ben merkezi\" düştüğünde, bir nefeslik bile olsa, tanıdık bir dinginlik geri gelir.\n\nKolaymış be...\n\nNe zirve bir mutluluk\nNe de manevi bir aşkınlık...\nSadece hayatın yaşanmak için bir merkeze ihtiyaç duymadığı doğal gerçek.\n\nDağ gibi düşünceler mi?\nBulut gibi geçer...\n\nFırtınalı duygular mı?\nHava durumu gibi değişir...\n\nSabit koşullar mı?\nSahnedeki dekorlar gibi değişir durur\n\nDeve, iğne deliğinden geçer mi?\nHem de vızır vızır\n(Kendi gözünden pay biç)\n\nAma artık sahne ardında çabalayan, mücadele eden idareci orada değildir...\n\n...\n\nGeriye sadece o kalır:\n\n(Yetişmek için)\nAcele etmeyen\n\n(Kaçırmaktan)\nKorkmayan\n\nOlan bitenden hiç etkilenmeyen\nFarkındalık\nSaf bir izleyiciden öte,\nSahnenin ta kendisi olan bir farkındalık.\n\nEzelde öyle yazılan\n\"Lâ havfun aleyhim\"\nHem okunmuş hem duyulmuş olur...\n\nPeki ne oldu da mı oldu?\n\nHiçbir şey eklenmedi\nHiçbir şey çıkarılmadı\n\nSadece ayrılık yanılsaması, her zaman orada olan dinginliğe karışıyor...\n\nDenizdeki buz küpünün eriyişi gibi\nSuyun düğümünün çözülmesi gibi\n\nBırak bu, yeterli olsun.\n\nVarsın olsun\n\n\n***"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "5. Son Dalga"
-        },
-        {
-          "type": "metin",
-          "text": "Küllerin İçindeki Ayna\n\nA benim canım,\nÖyleyse soru şu olabilir mi?\n\nBir deneyimi “benim” olarak sahiplenmeden hemen önceki o anda orada ne olur?\n\nBırak bu soru, zihninde boş boş dursun...\n\nBir cevap gerektirmeyen bir soru,\nSadece soranı tüketen saatli bir bomba gibi dursun...\n\nKi içinde bir şeyler açsın.\nİçine büyük bir şey açılsın\n\n~\n\nSadece bak.\nMerakla, hayretle, beklentisiz...\n\nBakakal\nKi bakanın da “sen” olmadığını göresin.\n\nBakakal\nKi gözlerin, evrenin kendisini izlediğini fark edesin.\n\nSahip olunan bir “ben” yoktur; yalnızca sahiplik oyununu seyreden bir ayna vardır.\nVe o ayna, bazen dalgalanır, bazen durgunlaşır ama asla kendisi hakkında bir hikaye anlatmaz.\n\nHer nefes açık, boş, hazır kalır...\n\n\n***"
-        },
-        {
-          "type": "alt_baslik",
-          "text": "FİNAL:"
-        },
-        {
-          "type": "metin",
-          "text": "Düğümsüz\nDüğün\n\nDemek ki mesele, düğümü çözmek filan da değilmiş.\n\nÇünkü çözen de bir “ben” olur ve derhal yeni düğüm olurdu.\nZira ister hayr ister şer, ben-merkezi etrafına ne örsen benlik yumağını büyütürsün.\n\nMesele, suyun aslında hep düğümsüz aktığını, düğümün sadece ona bakış açındaki bir katlanma, bakan gözlüğün camındaki bir buğulanma, bir yanılsama olduğunu doğrudan görmekmiş.\n\nO katlanma gevşediğinde, aynadaki o buğu bir nefeste dağıldığında, ne bir ip kalır ne de onu çözen...\n\nSadece dokunulmamış, kıvrımsız bir uzam.\n\nŞimdi bakakalasın.\n\nDüğüm, sen susunca çözülür.\nÇözülmüş olan da zaten sen değilsindir.\n\nPeki aşk nedir ey sevgili?\nGörünüşte ayrı şeyler arasındaki buzdan engellerin çözülmesi ve ikinin birden anlaşılması...\n\nEvet anlaşılmak bir nevi çözülmektir ama çözülmüş bulmacayı kimse umursamaz ki!\nHadi unutup başlayalım mı yeniden?\n\nHer sabah yaptığımız gibi..."
+          "text": "<p class=\"mb-4\">Derken derken, beklenmedik bir şekilde, basit bir şey açılır.</p><p class=\"mb-4\">Sen sanmadığın yerde<br>Bir nefes, yumuşar.<br>Bir düşünce, sahip~siz kalır.<br>Bir duygu, hikâyesiz olarak yüz gösterir.</p><p class=\"mb-4\">Ve asılsız bir çabalamayla bağlı kabz hâli olarak görünen \"ben\", hiçbir çaba sarf etmeden gevşeyiverir...</p><p class=\"mb-4\">Nihayet sen başardığın,<br>Doğru bir şey yaptığın için değil,<br>Her şeyi bir arada tutma girişimi bir anlığına kaybolduğu için...</p><p class=\"mb-4\">Deneyim devam eder ama sahiplik hissi kaybolur.<br>Hayat, bir merkez olmadan açılır.</p><p class=\"mb-4\">Azizlerin işaret ettiği de işte budur:<br>\"Ben\"in yok edilmesi gerekmez;<br>Sadece ona inanmanın bırakılması gerekir.</p><p class=\"mb-4\">Ve o sessiz salıverilişte farkındalık kendini tanır:<br>Açık, sarsılmaz, dokunulmamış.<br><br>Hoş, bilen o kendi olur...<br>Nehir, aslında hiçbir zaman kıpırdayan bir dalga olmadığını fark eder...</p><p class=\"mb-4\"><br><strong>***<br>4. Dönüş<br></strong><em>Ana Rahmindeki Sükûn</em></p><p class=\"mb-4\">Bütün deneyimlerin altında yatan o rahatlık..</p><p class=\"mb-4\">\"Ben merkezi\" düştüğünde, bir nefeslik bile olsa, tanıdık bir dinginlik geri gelir.</p><p class=\"mb-4\">Kolaymış be...</p><p class=\"mb-4\">Ne zirve bir mutluluk<br>Ne de manevi bir aşkınlık...<br>Sadece hayatın yaşanmak için bir merkeze ihtiyaç duymadığı doğal gerçek.</p><p class=\"mb-4\">Dağ gibi düşünceler mi?<br>Bulut gibi geçer...</p><p class=\"mb-4\">Fırtınalı duygular mı?<br>Hava durumu gibi değişir...</p><p class=\"mb-4\">Sabit koşullar mı?<br>Sahnedeki dekorlar gibi değişir durur<br><br>Deve, iğne deliğinden geçer mi?<br>Hem de vızır vızır<br>(Kendi gözünden pay biç)</p><p class=\"mb-4\">Ama artık sahne ardında çabalayan, mücadele eden idareci orada değildir...</p><p class=\"mb-4\">...<br><br>Geriye sadece o kalır:</p><p class=\"mb-4\">(Yetişmek için)<br>Acele etmeyen</p><p class=\"mb-4\">(Kaçırmaktan)<br>Korkmayan</p><p class=\"mb-4\">Olan bitenden hiç etkilenmeyen<br>Farkındalık<br>Saf bir izleyiciden öte,<br>Sahnenin ta kendisi olan bir farkındalık.</p><p class=\"mb-4\">Ezelde öyle yazılan<br>\"Lâ havfun aleyhim\"<br>Hem okunmuş hem duyulmuş olur...</p><p class=\"mb-4\">Peki ne oldu da mı oldu?<br><br>Hiçbir şey eklenmedi<br>Hiçbir şey çıkarılmadı<br><br>Sadece ayrılık yanılsaması, her zaman orada olan dinginliğe karışıyor...</p><p class=\"mb-4\">Denizdeki buz küpünün eriyişi gibi<br>Suyun düğümünün çözülmesi gibi</p><p class=\"mb-4\">Bırak bu, yeterli olsun.</p><p class=\"mb-4\">Varsın olsun</p><p class=\"mb-4\"><br><strong>***<br>5. Son Dalga<br></strong><em>Küllerin İçindeki Ayna</em></p><p class=\"mb-4\">A benim canım,<br>Öyleyse soru şu olabilir mi?</p><p class=\"mb-4\">Bir deneyimi “benim” olarak sahiplenmeden hemen önceki o anda orada ne olur?</p><p class=\"mb-4\">Bırak bu soru, zihninde boş boş dursun...</p><p class=\"mb-4\">Bir cevap gerektirmeyen bir soru,<br>Sadece soranı tüketen saatli bir bomba gibi dursun...</p><p class=\"mb-4\">Ki içinde bir şeyler açsın.<br>İçine büyük bir şey açılsın<br><br>~</p><p class=\"mb-4\">Sadece bak.<br>Merakla, hayretle, beklentisiz...</p><p class=\"mb-4\">Bakakal<br>Ki bakanın da “sen” olmadığını göresin.</p><p class=\"mb-4\">Bakakal<br>Ki gözlerin, evrenin kendisini izlediğini fark edesin.</p><p class=\"mb-4\">Sahip olunan bir “ben” yoktur; yalnızca sahiplik oyununu seyreden bir ayna vardır.<br>Ve o ayna, bazen dalgalanır, bazen durgunlaşır ama asla kendisi hakkında bir hikaye anlatmaz.</p><p class=\"mb-4\">Her nefes açık, boş, hazır kalır...</p><p class=\"mb-4\"><br><strong>***<br>FİNAL:<br></strong><em>Düğümsüz<br>Düğün</em></p><p class=\"mb-4\">Demek ki mesele, düğümü çözmek filan da değilmiş.</p><p class=\"mb-4\">Çünkü çözen de bir “ben” olur ve derhal yeni düğüm olurdu.<br>Zira ister hayr ister şer, ben-merkezi etrafına ne örsen benlik yumağını büyütürsün.</p><p class=\"mb-4\">Mesele, suyun aslında hep düğümsüz aktığını, düğümün sadece ona bakış açındaki bir katlanma, bakan gözlüğün camındaki bir buğulanma, bir yanılsama olduğunu doğrudan görmekmiş.</p><p class=\"mb-4\">O katlanma gevşediğinde, aynadaki o buğu bir nefeste dağıldığında, ne bir ip kalır ne de onu çözen...</p><p class=\"mb-4\">Sadece dokunulmamış, kıvrımsız bir uzam.</p><p class=\"mb-4\">Şimdi bakakalasın.</p><p class=\"mb-4\">Düğüm, sen susunca çözülür.<br>Çözülmüş olan da zaten sen değilsindir.<br><br>Peki aşk nedir ey sevgili?<br>Görünüşte ayrı şeyler arasındaki buzdan engellerin çözülmesi ve ikinin birden anlaşılması...<br><br>Evet anlaşılmak bir nevi çözülmektir ama çözülmüş bulmacayı kimse umursamaz ki!<br>Hadi unutup başlayalım mı yeniden?<br><br>Her sabah yaptığımız gibi...</p>"
         },
         {
           "type": "ses",
@@ -98,18 +47,19 @@
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         },
         {
           "type": "alinti",
-          "text": "\nCehâlet mutlulukmuş o anda bileceksin\nO düş meğer kutsalmış içinde yüzeceksin\n",
+          "text": "<p class=\"mb-4\">Cehâlet mutlulukmuş o anda bileceksin<br>O düş meğer kutsalmış içinde yüzeceksin</p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "metin",
-          "text": "~"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T20:50:05.315Z"
 }
