@@ -38,17 +38,7 @@
         },
         {
           "type": "metin",
-          "text": "~\n\nKimliğin kaygılı hareketleriyle, kendini özgür kılmaya çalışma...\nZâten târif edilemez olduğunu anla yeter\n\nEtiketler kutulardır, bilinçse tanımlanamaz ve sınırsızdır öyleyse neden kendini etiketlemekte ve sabit bir kutuya tıkıştırmaya çalışmakta ısrar ediyorsun a güzel?\n\nBudur işte en sancılı şey:\n\n• Sana kim olduğunu söyleyen düşünceleri tekrar tekrar yaşamak...\n\n• Tanımlanamaz bir şeyi tanımlama çabasının sonsuz döngüsü...\n\n• Sonsuzluğu bir fikre sıkıştırmanın şiddeti...\n\n~\n\nVar işte kitapta böyle bir işâret:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Tanrı, insanı kendi sûretinde yarattı\"",
-          "is_tight": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Varlığın doğası tanımlanamaz olana basitçe bir işâret!\n\n~\n\nHem bir sayı ne kadar büyük olsa da...\nSıfır ile işleme girerse sonucu tanımsız olur değil mi?\n\n~"
+          "text": "<p class=\"mb-4\">~<br><br>Kimliğin kaygılı hareketleriyle, kendini özgür kılmaya çalışma...<br>Zâten târif edilemez olduğunu anla yeter</p><p class=\"mb-4\">Etiketler kutulardır, bilinçse tanımlanamaz ve sınırsızdır öyleyse neden kendini etiketlemekte ve sabit bir kutuya tıkıştırmaya çalışmakta ısrar ediyorsun a güzel?</p><p class=\"mb-4\">Budur işte en sancılı şey:</p><p class=\"mb-4\">Sana kim olduğunu söyleyen düşünceleri tekrar tekrar yaşamak...</p><p class=\"mb-4\">Tanımlanamaz bir şeyi tanımlama çabasının sonsuz döngüsü...</p><p class=\"mb-4\">Sonsuzluğu bir fikre sıkıştırmanın şiddeti...</p><p class=\"mb-4\"></p><p class=\"mb-4\">~<br><br>Var işte kitapta böyle bir işâret:<br><strong>\"Tanrı, insanı kendi sûretinde yarattı\"</strong></p><p class=\"mb-4\">Varlığın doğası tanımlanamaz olana basitçe bir işâret!</p><p class=\"mb-4\">~<br><br>Hem bir sayı ne kadar büyük olsa da...<br>Sıfır ile işleme girerse sonucu tanımsız olur değil mi?<br><br>~</p>"
         },
         {
           "type": "alinti",
@@ -57,22 +47,15 @@
         },
         {
           "type": "metin",
-          "text": "••\n••\n•",
-          "is_bold": false,
-          "is_italic": false,
-          "is_colored": false,
-          "is_tight": false
-        },
-        {
-          "type": "metin",
-          "text": "Ve yazının son cümlesi düştü...\n\nİçindeki kumdan kaleler çöktü\nVe dünyayı olduğu gibi gördü:\n\nTanrı'nın kendine her an \"Ben kimim?\" diye sorduğu bir ayna\nAyna, ayna, göster beni bana...\n\nVe her cevap bir yansıma aynada...\n\nHer yansıma bir ağaç, bir dağ, bir nehir, bir çiçek, bir kahkaha, bir gözyaşı, bir inşâ, bir imhâ ve şu anda bu cümleleri okuyan bu \"ben\" sanrısı da bir yansıma...\n\nSoru bitmez.\nCevap, her an yeniden doğar.\nSen, o meraklı sorunun ta kendisisin.\nDaha çok hayret edebilirsin.\n\nŞimdi tahatla.\nZaten sen hiçbir zaman bir cevap olmadın.\n\nSen, saf SORU'sun.\nVe bu, kutlanacak bir şeydir.\n\nÇünkü cevaplar son bulur\nAma iyi bir soru, sonsuza kadar yankılanır.\n\nMeğer soruyu soran biri kalmayagörsün...\n~\n\n"
+          "text": "<p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\"><br>Ve yazının son cümlesi düştü...</p><p class=\"mb-4\">İçindeki kumdan kaleler çöktü<br>Ve dünyayı olduğu gibi gördü:</p><p class=\"mb-4\">Tanrı'nın kendine her an \"Ben kimim?\" diye sorduğu bir ayna<br>Ayna, ayna, göster beni bana...<br><br>Ve her cevap bir yansıma aynada...<br><br>Her yansıma bir ağaç, bir dağ, bir nehir, bir çiçek, bir kahkaha, bir gözyaşı, bir inşâ, bir imhâ ve şu anda bu cümleleri okuyan bu \"ben\" sanrısı da bir yansıma...</p><p class=\"mb-4\">Soru bitmez.<br>Cevap, her an yeniden doğar.<br>Sen, o meraklı sorunun ta kendisisin.<br>Daha çok hayret edebilirsin.</p><p class=\"mb-4\">Şimdi tahatla.<br>Zaten sen hiçbir zaman bir cevap olmadın.</p><p class=\"mb-4\">Sen, saf SORU'sun.<br>Ve bu, kutlanacak bir şeydir.</p><p class=\"mb-4\">Çünkü cevaplar son bulur<br>Ama iyi bir soru, sonsuza kadar yankılanır.</p><p class=\"mb-4\">Meğer soruyu soran biri kalmayagörsün...<br></p>"
         },
         {
           "type": "alinti",
-          "text": "~\n\nGerçekliğinizin frekansınızın bir yansıması olduğunu unutmayın.\nBu frekansların alabileceği sonsuz sayıda form vardır.\nYüceyi, cüce edense aynanın kendi yansımasına 'ben' demesidir.\nArtık her yansımada kendinizi aramayı bıraktığınızda\nAsla kişisel olmayan bir berraklığı keşfedersiniz.\n\n~",
+          "text": "<p class=\"mb-4\">~<br><br><em>Gerçekliğinizin frekansınızın bir yansıması olduğunu unutmayın.<br>Bu frekansların alabileceği sonsuz sayıda form vardır.<br>Yüceyi, cüce edense aynanın kendi yansımasına 'ben' demesidir.<br>Artık her yansımada kendinizi aramayı bıraktığınızda<br>Asla kişisel olmayan bir berraklığı keşfedersiniz.</em><br><br>~</p>",
           "author": "[V. Pelevin'den]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T15:17:53.322Z"
 }
