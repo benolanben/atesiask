@@ -18,32 +18,13 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "Gerçek doğamız, her bir düşünce ve duygunun altında yatan sessiz farkındalıktır. Düzeltilmeye, geliştirilmeye veya aranmaya ihtiyacı yoktur; zihnin hikâyelerinden etkilenmeden vardır; sâdece vardır.\n[YÜZ SÖZ'den]"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gerçek doğamız, her bir düşünce ve duygunun altında yatan sessiz farkındalıktır. Düzeltilmeye, geliştirilmeye veya aranmaya ihtiyacı yoktur; zihnin hikâyelerinden etkilenmeden vardır; sâdece vardır.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "metin",
-          "text": "Yeterince ses~siz olan her cân,\nPerdenin ardında sönüm~süz yankılanan o saflığı duyabilir\n",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Bir an...",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Sessiz bir anlayış...\n\nBir yanda, soruyu soran biri\nİLE\nBir~diğer yanda, cevabı öğrenilmek istenen şeyin\n\nAynı zihnin hareketi olarak algılanmasıyla başlar.\n\nVe her ikisi de çözülürken, geriye kalan yeni bir şey değildir; ilk soru ortaya çıkmadan önce var olan açık farkındalıktır.\n\nKi odur\nAçık farkındalık,\nHer hareketin altında yatan dinginlik\nHer sesin altında yatan sessizlik\n\nHer zaman buradadır, boş bulunduğun bir anda fark edilmeyi gözler.\n\nAma bu farkındalık, kendini asla, deneyim alanında sınırlı bir nesne olarak gözlemleyemez.\n\nZira\n\"Görülen bir şey\"\n(Nesne)\nHâline geldiği anda,\n\nArtık gören şey\n(Özne)\nOlmaktan çıkar.\n\nYani eğer farkında olduğumun farkındaysam, o zaman bu farkındalık değildir çünkü burada gözlemleyen ile gözlemlenen arasında hâlâ bir ayrım vardır.\n\nOysa olay ânında özne ~ nesne ayrımı kaybolur...\nSözde kendini var sanan,\nOlan bittikten çok sonra bunun farkına varır ya varmaz..."
-        },
-        {
-          "type": "metin",
-          "text": "Evet, kazâ ânında basîret bir güzel bağlanır.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Öyleyse aradığımız şey, ona doğru ilerleyerek değil, ilerleyenin içindeki o ince gerginliği (bu-burada-değil) fark ederek bulur.\n\nO gerginlik yumuşadığında, yakınlık kendini köken olarak açığa vurur durur...\n\nYani eğer gerçekten şimdi burada hiçbir şeyin eksik olmadığını bir an için olsun görürseniz, arayış~direniş eylemi olan kişi hâli, kendiliğinden ortadan kalkar."
+          "text": "<p class=\"mb-4\"><strong>Yeterince ses~siz olan her cân,<br>Perdenin ardında sönüm~süz yankılanan o saflığı duyabilir<br>Bir an...</strong></p><p class=\"mb-4\">Sessiz bir anlayış...</p><p class=\"mb-4\">Bir yanda, soruyu soran biri<br>İLE<br>Bir~diğer yanda, cevabı öğrenilmek istenen şeyin</p><p class=\"mb-4\">Aynı zihnin hareketi olarak algılanmasıyla başlar.</p><p class=\"mb-4\">Ve her ikisi de çözülürken, geriye kalan yeni bir şey değildir; ilk soru ortaya çıkmadan önce var olan açık farkındalıktır.</p><p class=\"mb-4\">Ki odur<br>Açık farkındalık,<br>Her hareketin altında yatan dinginlik<br>Her sesin altında yatan sessizlik</p><p class=\"mb-4\">Her zaman buradadır, boş bulunduğun bir anda fark edilmeyi gözler.</p><p class=\"mb-4\">Ama bu farkındalık, kendini asla, deneyim alanında sınırlı bir nesne olarak gözlemleyemez.</p><p class=\"mb-4\">Zira<br>\"Görülen bir şey\"<br>(Nesne)<br>Hâline geldiği anda,</p><p class=\"mb-4\">Artık gören şey<br>(Özne)<br>Olmaktan çıkar.</p><p class=\"mb-4\">Yani eğer farkında olduğumun farkındaysam, o zaman bu farkındalık değildir çünkü burada gözlemleyen ile gözlemlenen arasında hâlâ bir ayrım vardır.</p><p class=\"mb-4\">Oysa olay ânında özne ~ nesne ayrımı kaybolur...<br>Sözde kendini var sanan,<br>Olan bittikten çok sonra bunun farkına varır ya varmaz...</p><p class=\"mb-4\"><strong>Evet, kazâ ânında basîret bir güzel bağlanır.</strong></p><p class=\"mb-4\">Öyleyse aradığımız şey, ona doğru ilerleyerek değil, ilerleyenin içindeki o ince gerginliği (bu-burada-değil) fark ederek bulur.</p><p class=\"mb-4\">O gerginlik yumuşadığında, yakınlık kendini köken olarak açığa vurur durur...<br><br>Yani eğer gerçekten şimdi burada hiçbir şeyin eksik olmadığını bir an için olsun görürseniz, arayış~direniş eylemi olan kişi hâli, kendiliğinden ortadan kalkar.</p>"
         },
         {
           "type": "ses",
@@ -53,11 +34,11 @@
         },
         {
           "type": "metin",
-          "text": "Hâsılı bir hoşlananı olmasa da...\nFarkında olmaya âşık oluş ne hoş..."
+          "text": "<p class=\"mb-4\">Hâsılı bir hoşlananı olmasa da...<br>Farkında olmaya âşık oluş ne hoş...</p>"
         },
         {
           "type": "alinti",
-          "text": "Uyanık, farkında, âgâh olan sen değilsin, \nSen aslen farkındalığın ta kendisisin!\n",
+          "text": "<p class=\"mb-4\"><strong>Uyanık, farkında, âgâh&nbsp;olan&nbsp;sen&nbsp;değilsin,&nbsp;<br>Sen aslen farkındalığın&nbsp;ta&nbsp;kendisisin!</strong></p>",
           "author": "[A. Kadrî]"
         },
         {
@@ -66,5 +47,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T16:15:05.273Z"
 }
