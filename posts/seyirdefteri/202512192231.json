@@ -19,16 +19,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Hamd zikri ile söze başlayalım\nDiken ağacına gül aşılayalım\nŞeyleri yok yere, yokluğun yokluğundan\nVâr gösterene hamd okuyalım\n\n\nBelirsizlikte rahat olabilenin hayatı nasıl açılır?\nGizli hazinenin sonsuz olasılıklarına açılır...\n\nÖyle yazıldı, öyle olur a..."
-        },
-        {
-          "type": "metin",
-          "text": "Gözümü açtığımda, bildiğim dünyanın sonu gelmişti ve ben kendimi iyi hissediyordum...",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Elhamdulillah\nElhamdulillah\nElhamdulillah\n\nŞükran, öyle kuru bir tesbih cümlesi değildi...\n\nHAMD,\nHenüz herhangi bir ne~den ortaya çıkmadan önce\nGöğüste duyulan sessiz bir 'eveeet'ti\n\nAçık bir kabul...\n\nKazanılan bir şey için duyulan minnetten filan bahsetmiyorum\n\nVar~oluşun kendisinin,\nHak edilmemiş bir \"hediye\" olduğunu\nDerinden bilen o sezgiden bahsediyorum.\n\nİşte burada kişi hâli çözülür,\nBenlik rahatlar ve yaşam,\nHer biçimde kendini sevmekte özgürdür artık...\n\n~\n\nAçık\nBoş\nHazır bir alan olan\n\"AYNA\"\n\nYansıttığı her sûretini sever\nAma doğası gereği hiçbirine yapışmaz değil mi?\n\n~"
+          "text": "<p class=\"mb-4\"><em>Hamd zikri ile söze başlayalım<br>Diken ağacına gül aşılayalım<br>Şeyleri yok yere, yokluğun yokluğundan<br>Vâr gösterene hamd okuyalım</em></p><p class=\"mb-4\"><br>Belirsizlikte rahat olabilenin hayatı nasıl açılır?<br>Gizli hazinenin sonsuz olasılıklarına açılır...</p><p class=\"mb-4\">Öyle yazıldı, öyle olur a...</p><p class=\"mb-4\"><strong>Gözümü açtığımda, bildiğim dünyanın sonu gelmişti ve ben kendimi iyi hissediyordum...</strong></p><p class=\"mb-4\"><br>Elhamdulillah<br>Elhamdulillah<br>Elhamdulillah</p><p class=\"mb-4\">Şükran, öyle kuru bir tesbih cümlesi değildi...</p><p class=\"mb-4\">HAMD,<br>Henüz herhangi bir ne~den ortaya çıkmadan önce<br>Göğüste duyulan sessiz bir 'eveeet'ti</p><p class=\"mb-4\">Açık bir kabul...</p><p class=\"mb-4\">Kazanılan bir şey için duyulan minnetten filan bahsetmiyorum</p><p class=\"mb-4\">Var~oluşun kendisinin,<br>Hak edilmemiş bir \"hediye\" olduğunu<br>Derinden bilen o sezgiden bahsediyorum.</p><p class=\"mb-4\">İşte burada kişi hâli çözülür,<br>Benlik rahatlar ve yaşam,<br>Her biçimde kendini sevmekte özgürdür artık...</p><p class=\"mb-4\">~<br><br>Açık<br>Boş<br>Hazır bir alan olan<br>\"AYNA\"</p><p class=\"mb-4\">Yansıttığı her sûretini sever<br>Ama doğası gereği hiçbirine yapışmaz değil mi?</p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "ses",
@@ -38,19 +29,10 @@
         },
         {
           "type": "metin",
-          "text": "~\n\nBilmem neden sonra içini bir ferahlık kaplar...\n\nSonra, derin bir nefes alırsın, bir tane daha...\nVe bir sonrakinden emîn olmadığın bir güvenle verirsin o nefesi...\n\nVe bak işte her şey,\nOlduğu gibi;\nKusursuzca yanlış\nVe mükemmel bir şekilde doğru durur.\n\nİşte o an, Elhamdulillah yeni bir manâya bürünür:"
-        },
-        {
-          "type": "metin",
-          "text": "\"Hamd, ‘ben’ olmayana olsun.\"\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Ve gökler, yıldızlarıyla değil, bu sessiz tebessümle parlar.\n\nİşte öyle...\n\n~\n\nHamd u senâlar\nHamd u senâlar\nYâr ile bayrâm\nKıldı bu gönlüm ❞\n\n~"
+          "text": "<p class=\"mb-4\">~<br><br>Bilmem neden sonra içini bir ferahlık kaplar...</p><p class=\"mb-4\">Sonra, derin bir nefes alırsın, bir tane daha...<br>Ve bir sonrakinden emîn olmadığın bir güvenle verirsin o nefesi...</p><p class=\"mb-4\">Ve bak işte her şey,<br>Olduğu gibi;<br>Kusursuzca yanlış<br>Ve mükemmel bir şekilde doğru durur.</p><p class=\"mb-4\">İşte o an, Elhamdulillah yeni bir manâya bürünür:<br><strong>\"Hamd, ‘ben’ olmayana olsun.\"</strong></p><p class=\"mb-4\">Ve gökler, yıldızlarıyla değil, bu sessiz tebessümle parlar.</p><p class=\"mb-4\">İşte öyle...<br><br>~<br><br><em>Hamd u senâlar<br>Hamd u senâlar<br>Yâr ile bayrâm<br>Kıldı bu gönlüm</em> ❞<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-06T18:33:31.644Z"
 }
