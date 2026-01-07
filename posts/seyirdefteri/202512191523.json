@@ -19,27 +19,28 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\n\nBir şeyi bir kez öğrendikten sonra\nOnu bir daha asla bilmemezlikten gelemezsin.\nÖyleyse neyi öğrenmeyeceğini iyi bil!\n[YÜZ SÖZ'den]\n\nGerçek,\nDeneyimin etrafını saran sabit bir inanç sistemi değil ki...\n\nHer an nabzı vuran, titreyen, soluyan yani şimdi yaşanan süre-gelen~giden canlı bir deneyim..."
+          "text": "<p class=\"mb-4\">~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Bir şeyi bir kez öğrendikten sonra<br>Onu bir daha asla bilmemezlikten gelemezsin.<br>Öyleyse neyi öğrenmeyeceğini iyi bil!<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Gerçek,<br>Deneyimin etrafını saran sabit bir inanç sistemi değil ki...</p><p class=\"mb-4\">Her an nabzı vuran, titreyen, soluyan yani şimdi yaşanan süre-gelen~giden canlı bir deneyim...</p>",
+          "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "spoiler",
-          "text": "~\n\nHayretteyim nedir bu \"OL\" emri\nHer nefes yenilenir demi...\n\n~"
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Hayretteyim nedir bu \"OL\" emri<br>Her nefes yenilenir demi...</p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "metin",
-          "text": "Şimdi ne olduğunu gerçekten öğrenmenin, burada boş bulunup yaşayıp doğrudan görmekten başka yolu yok...\n\nŞimdi gerçekten diri olmak için\nDün ya da yarında ölü olmalı\n\nAnlam,\nDuymak içindir\nGeçmişin tüm anlamını boşalt\n\nZira geçmişi anlarsan şimdi anlam dünyanda yaşarsın yâni canlı canlı sahada değil haritada...\n\nHayal,\nGörmek içindir\nGeleceğin tüm görüntülerini boşalt"
-        },
-        {
-          "type": "metin",
-          "text": "Dünden boş kulaklarla, yarından boş gözlerle şimdi canlı ol...\n\n",
-          "is_bold": true,
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "~\n\nŞimdi burada ol\nVarlığını tam hisset\nHepsi bu\n\nVarsın olsun\n\n~"
+          "text": "<p class=\"mb-4\">Şimdi ne olduğunu gerçekten öğrenmenin, burada boş bulunup yaşayıp doğrudan görmekten başka yolu yok...<br><br>Şimdi gerçekten diri olmak için<br>Dün ya da yarında ölü olmalı</p><p class=\"mb-4\">Anlam,<br>Duymak içindir<br>Geçmişin tüm anlamını boşalt</p><p class=\"mb-4\">Zira geçmişi anlarsan şimdi anlam dünyanda yaşarsın yâni canlı canlı sahada değil haritada...</p><p class=\"mb-4\">Hayal,<br>Görmek içindir<br>Geleceğin tüm görüntülerini boşalt</p><p class=\"mb-4\"><strong>Dünden boş kulaklarla, yarından boş gözlerle şimdi canlı ol...</strong></p><p class=\"mb-4\">~</p><p class=\"mb-4\">Şimdi burada ol<br>Varlığını tam hisset<br>Hepsi bu</p><p class=\"mb-4\">Varsın olsun</p><p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T09:44:57.308Z"
 }
