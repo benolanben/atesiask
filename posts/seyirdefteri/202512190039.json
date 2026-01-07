@@ -20,7 +20,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "[DEM-İ MEVLEVÎ]\n\nYar merâ gâr merâ 'ışk-ı ciger-har merâ\nYar tôyî gâr tâyî hâce nigehdâr merâ\n\nDostum benim, mağaram benim, ciğerimi yiyen aşkım benim...\nDostum olan yâr da sensin, sığındığım mağara da sen; ey benim koruyup gözeten efendim\n...\n\n"
+          "text": "<p class=\"mb-4\">[DEM-İ MEVLEVÎ]</p><p class=\"mb-4\">Yar merâ gâr merâ 'ışk-ı ciger-har merâ<br>Yar tôyî gâr tâyî hâce nigehdâr merâ</p><p class=\"mb-4\">Dostum benim, mağaram benim, ciğerimi yiyen aşkım benim...<br>Dostum olan yâr da sensin, sığındığım mağara da sen; ey benim koruyup gözeten efendim<br>...</p>"
         },
         {
           "type": "ses",
@@ -29,10 +29,16 @@
           "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182438-1766093939470.mp3"
         },
         {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Nuh da sensin, rûh da sen; açan da sensin, açılan da sen...<br>Açılıp şerh edilen sînem sensin, esrâr eşiğinde duran da sen.<br>(Sırlar kapısı da sen, gönülde açılan sandığım da sensin bana)<br><br>Nur da sensin şölen de sen, devlet-i mansûr sensin<br>(Işık da sensin, düğün de sen; yardım görmüş saadet de sen...)<br>Beni gagasıyla yaralayan Tur Dağı'nın kuşu da sensin.<br><br>Katre de sensin, deniz de sen; lütuf sensin, kahır da sen...<br>Şeker de sensin, zehir de sen; ama n'olur artık eziyet etme bana...<br><br>Güneşin odası da sensin, Zühre'nin hânesi de sen<br>Ümit bahçesi de sensin; a sevgili, bir yol aç bana.</p><p class=\"mb-4\">Gün de sensin, bir günlük azık da sen; el açışımın mahsûlü de sen...<br>Su da sensin, testi de sen; haydi bu sefer su ver bana...<br><br>Dâne de sensin, tuzak da sen; bâde sensin, kadeh de sen...<br>Olmuş da sensin, ham da sen; ham bırakma beni lütfen</p><p class=\"mb-4\">Bu ten daha az titreseydi, gönül yolum da az vurulurdu<br>Derken yol olurdu da bütün bu sözlerim lüzumsuz olurdu</p><p class=\"mb-4\"></p>",
+          "author": "[Divan-ı Şems'den]"
+        },
+        {
           "type": "metin",
-          "text": "Nuh da sensin, rûh da sen; açan da sensin, açılan da sen...\nAçılıp şerh edilen sînem sensin, esrâr eşiğinde duran da sen.\n(Sırlar kapısı da sen, gönülde açılan sandığım da sensin bana)\n\nNur da sensin şölen de sen, devlet-i mansûr sensin\n(Işık da sensin, düğün de sen; yardım görmüş saadet de sen...)\nBeni gagasıyla yaralayan Tur Dağı'nın kuşu da sensin.\n\nKatre de sensin, deniz de sen; lütuf sensin, kahır da sen...\nŞeker de sensin, zehir de sen; ama n'olur artık eziyet etme bana...\n\nGüneşin odası da sensin, Zühre'nin hânesi de sen\nÜmit bahçesi de sensin; a sevgili, bir yol aç bana.\n\nGün de sensin, bir günlük azık da sen; el açışımın mahsûlü de sen...\nSu da sensin, testi de sen; haydi bu sefer su ver bana...\n\nDâne de sensin, tuzak da sen; bâde sensin, kadeh de sen...\nOlmuş da sensin, ham da sen; ham bırakma beni lütfen\n\nBu ten daha az titreseydi, gönül yolum da az vurulurdu\nDerken yol olurdu da bütün bu sözlerim lüzumsuz olurdu\n\n[Divan-ı Şems'den]\n\nÖylesi bir cana gönül veren de kim?\nKendisinin kâfiridir,\nMey~hânenin inananı.\n\nAmma yaptın,\n\"Kendinin kafiri, meyhanenin Müslümanı\" da kim oluyor?\nVarlığını inkar eden, izâfî sözde varlığından vazgeçen, meyhane mesabesinde olup herkesin bir şeyle sarhoş olduğu alemde herkese olan tecelliyi seyrederek Hakk'ın hikmet ve kudretini göre göre ikrar eden biri...\n\nMâdem duyacağını duydun\nŞimdi ağzını yum,\nDilsiz dudaksız bulduk doğru yolu.\n\n~"
+          "text": "<p class=\"mb-4\">Öylesi bir cana gönül veren de kim?<br>Kendisinin kâfiridir,<br>Mey~hânenin inananı.</p><p class=\"mb-4\">Amma yaptın,<br>\"Kendinin kafiri, meyhanenin Müslümanı\" da kim oluyor?<br>Varlığını inkar eden, izâfî sözde varlığından vazgeçen, meyhane mesabesinde olup herkesin bir şeyle sarhoş olduğu alemde herkese olan tecelliyi seyrederek Hakk'ın hikmet ve kudretini göre göre ikrar eden biri...</p><p class=\"mb-4\">Mâdem duyacağını duydun<br>Şimdi ağzını yum,<br>Dilsiz dudaksız bulduk doğru yolu.<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T12:07:32.720Z"
 }
