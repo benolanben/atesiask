@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "CANLI YAYIN: Gerçek ol~an",
+      "id": 202601080005,
+      "category": "posts/seyirdefteri/202601080005"
+    },
+    {
       "text": "Boşlukla dolu",
       "id": 202601080003,
       "category": "posts/seyirdefteri/202601080003"
@@ -44,11 +49,6 @@
       "text": "Ay~ışığında aşk",
       "id": 202601050930,
       "category": "posts/seyirdefteri/202601050930"
-    },
-    {
-      "text": "PLUR1BUS",
-      "id": 202601042327,
-      "category": "posts/seyirzevki/202601042327"
     }
   ]
 }
