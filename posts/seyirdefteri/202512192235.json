@@ -18,27 +18,55 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "~\n\nVarsa yoksa\nKarşılaşan\nAynalaşan\nAynalar\nBaşka\nHiçbir şey değil\n[Ikkyu'dan]\n\n~\n\nBilinçli zihnin 'kristal ayna' tiyatrosunda, büyük oyuncu büyülü gösterilerini canlı canlı sergiler, ancak her nefes yenilenen bu seyri görebilecek berrak kavrayışa sahip izleyici nâdirdir.\nZira izlemek bir mesâfe gerektirir; ayna ile yansıması arasında mesâfe mi var?\n[T. N. Rinpoche'den]\n\n~\n\nŞartların bir araya gelmesiyle ortaya çıkan ve bu şartlar ortadan kalktığında yok olan şey, ayna görüntüsü gibi yapay bir kurgudan ibârettir; ona nasıl gerçek bir varlık atfedilebilir.\n[Shantideva'dan]\n\n~\n\nDüşünceler boşluk içinde tezahür eder ve bir aynada yüzün belirip kaybolması gibi boşluk tarafından yeniden emilir; yüz asla aynada olmamıştır ve aynada yansımayı bıraktığında, aslında var olmaktan da vazgeçmemiştir. Aynanın kendi zâtı asla değişmemiştir.\n[D. K. Rinponche'den]\n\n~\n\nAynada bir yansıma görüyorsunuz, aynanın gerçeklik olduğunu ve içindeki resmin sadece bir yansıma olduğunu biliyorsunuz. Aynayı görebilmek için, içindeki yansımayı görmeyi bırakmak mı gerekiyor?\n[R. Maharshi'den]\n\n~\n\nMarifet, ayna kullanmadan kendi gözlerinize bakmaya bilmededir.\nBu bilmeceyi çözmenin tek yolu, sadece çıplak bir şekilde orada olmaktır.\n[A. Kadrî]"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Varsa yoksa<br>Karşılaşan<br>Aynalaşan<br>Aynalar<br>Başka<br>Hiçbir şey değil</p><p class=\"mb-4\">~</p>",
+          "is_colored": true,
+          "author": "[Ikkyu'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Bilinçli zihnin 'kristal ayna' tiyatrosunda, büyük oyuncu büyülü gösterilerini canlı canlı sergiler, ancak her nefes yenilenen bu seyri görebilecek berrak kavrayışa sahip izleyici nâdirdir.<br>Zira izlemek bir mesâfe gerektirir; ayna ile yansıması arasında mesâfe mi var?</p><p class=\"mb-4\">~</p>",
+          "is_colored": true,
+          "author": "[T. N. Rinpoche'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Şartların bir araya gelmesiyle ortaya çıkan ve bu şartlar ortadan kalktığında yok olan şey, ayna görüntüsü gibi yapay bir kurgudan ibârettir; ona nasıl gerçek bir varlık atfedilebilir.<br><br>~</p>",
+          "is_colored": true,
+          "author": "[Shantideva'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Düşünceler boşluk içinde tezahür eder ve bir aynada yüzün belirip kaybolması gibi boşluk tarafından yeniden emilir; yüz asla aynada olmamıştır ve aynada yansımayı bıraktığında, aslında var olmaktan da vazgeçmemiştir. Aynanın kendi zâtı asla değişmemiştir.<br><br>~</p>",
+          "is_colored": true,
+          "author": " [D. K. Rinponche'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Aynada bir yansıma görüyorsunuz, aynanın gerçeklik olduğunu ve içindeki resmin sadece bir yansıma olduğunu biliyorsunuz. Aynayı görebilmek için, içindeki yansımayı görmeyi bırakmak mı gerekiyor?<br><br>~</p>",
+          "is_colored": true,
+          "author": " [R. Maharshi'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Marifet, ayna kullanmadan kendi gözlerinize bakmaya bilmededir.<br>Bu bilmeceyi çözmenin tek yolu, sadece çıplak bir şekilde orada olmaktır.<br></p>",
+          "is_colored": true,
+          "author": "[A. Kadrî]"
         },
         {
           "type": "metin",
-          "text": "- Irmağa dalan kimseye elbisesi yük olur ya, işte öyle ismim bana yük oluyor, hikâyem ağır geliyor...",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Zaman sandığın \"şimdide duran\" tek•bir noktadan ibâret...\nFakat sen vehm ile bir hayâle kapılıp gördüğün suya\n\"Akan bir nehir\" adını takıyorsun;\nHep aynı suyu gördüğünü sanıyorsun.\n\nAynadaki görünüm seni bağlamaz, anlık akıcı görüntüye sabitlenmek bağlar..."
+          "text": "<p class=\"mb-4\"><strong>- Irmağa dalan kimseye elbisesi yük olur ya, işte öyle ismim bana yük oluyor, hikâyem ağır geliyor...</strong></p><p class=\"mb-4\">Zaman sandığın \"şimdide duran\" tek•bir noktadan ibâret...<br>Fakat sen vehm ile bir hayâle kapılıp gördüğün suya<br>\"Akan bir nehir\" adını takıyorsun;<br>Hep aynı suyu gördüğünü sanıyorsun.</p><p class=\"mb-4\">Aynadaki görünüm seni bağlamaz, anlık akıcı görüntüye sabitlenmek bağlar...</p>"
         },
         {
           "type": "spoiler",
-          "text": "~\n\nBoş bir ayna...\nGözlerin mi onlar\nYoksa aynalar mı?\n\nAyna değilmiş meğer gözlerinmiş gözlerim...\n\nBelki de aşk biri~ne:\n\"'Gözlerim açıkken bile seni rüyâlarımda görüyorum\"\nDiyebildiğinde başlar...\n\n~\n\n"
+          "text": "<p class=\"mb-4\">~<br><strong><br>Boş bir ayna...<br>Gözlerin mi onlar<br>Yoksa aynalar mı?<br><br>Ayna değilmiş meğer gözlerinmiş gözlerim...<br><br>Belki de aşk biri~ne:<br>\"'Gözlerim açıkken bile seni rüyâlarımda görüyorum\"<br>Diyebildiğinde başlar...<br><br>~</strong></p>"
         },
         {
           "type": "metin",
-          "text": "Okyanusa düşen bir su damlasının belirsizleşmesi, sınırsızlaşması, tanınmaz hâle gelmesi ve yine de varlığını sürdürmesi gibi, zihnim de boşlukla birleşti.\n\nArtık mesele, ağaçları görme meselesi değildi çünkü baktığımda ağaç ben olmuştum. Ben ve ağaçlar birdik. Ağaçlar farkındalığın nesnesi değildi; farkındalığı tezahür ettiriyorlardı.\n\nYokluk aynasında görülen\nDünya sahnesi âşk~hâ~ne gibi...\n\nMükemmel evim.\nGeniş ve samimi.\n\nHer zerresi aşkla doluydu, akışkan, ve engelsizdim.\nBen canlı bir zerreciktim, yorumlayıcı bir zihin yoktu, fikirlerin ötesinde bir berraklık.\nCanlı, dinamik, her şeyi gören.\n\nFarkındalığım hiçbir şeye yönelmiyordu, yine de her şey ortaya çıkıyordu\n\nTıpkı boş bir aynanın etrafındaki her şeyi hem alması hem de yansıtması gibi.\n\nZihnin boş aynasında bir çiçek beliriverdi\nZihin ne davet etti onu ne de reddetti\nSâdece kabul etti...\n\n[YÜZ SÖZ'den]\n\n~"
+          "text": "<p class=\"mb-4\">Okyanusa düşen bir su damlasının belirsizleşmesi, sınırsızlaşması, tanınmaz hâle gelmesi ve yine de varlığını sürdürmesi gibi, zihnim de boşlukla birleşti.</p><p class=\"mb-4\">Artık mesele, ağaçları görme meselesi değildi çünkü baktığımda ağaç ben olmuştum. Ben ve ağaçlar birdik. Ağaçlar farkındalığın nesnesi değildi; farkındalığı tezahür ettiriyorlardı.</p><p class=\"mb-4\">Yokluk aynasında görülen<br>Dünya sahnesi âşk~hâ~ne gibi...</p><p class=\"mb-4\">Mükemmel evim.<br>Geniş ve samimi.</p><p class=\"mb-4\">Her zerresi aşkla doluydu, akışkan, ve engelsizdim.<br>Ben canlı bir zerreciktim, yorumlayıcı bir zihin yoktu, fikirlerin ötesinde bir berraklık.<br>Canlı, dinamik, her şeyi gören.<br><br>Farkındalığım hiçbir şeye yönelmiyordu, yine de her şey ortaya çıkıyordu</p><p class=\"mb-4\">Tıpkı boş bir aynanın etrafındaki her şeyi hem alması hem de yansıtması gibi.</p><p class=\"mb-4\">Zihnin boş aynasında bir çiçek beliriverdi<br>Zihin ne davet etti onu ne de reddetti<br>Sâdece kabul etti...<br><br>[YÜZ SÖZ'den]<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T11:56:00.941Z"
 }
