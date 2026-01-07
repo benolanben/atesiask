@@ -30,7 +30,7 @@
         },
         {
           "type": "alinti",
-          "text": "Nedir Tanrı'nın insanda aradığı?\nTanındığını okumak yüzünde\nİnsanın Tanrı'da nedir aradığı?\nTanındığını okumak yüzünde\n",
+          "text": "<p class=\"mb-4\"><em>Nedir Tanrı'nın insanda aradığı?<br></em><strong><em>Tanındığını okumak yüzünde</em></strong><em><br>İnsanın Tanrı'da nedir aradığı?<br></em><strong><em>Tanındığını okumak yüzünde</em></strong></p>",
           "author": "[W. Blake zevkiyle]"
         },
         {
@@ -39,90 +39,32 @@
         },
         {
           "type": "alinti",
-          "text": "Benuh âyîne-yi ender berâber\nDer-û benger bebîn ân şahs-i dîger\nBir ayna al istersen; geç onun karşısına\nİyi bak şimdi o karşındaki adamın aslına\n\nYekî reh bâz bîn tâ çist ân 'aks\nNe înest u ne ân pes kîst ân 'aks\nBir daha bak hele nedir o aynadaki tasvîr\nNe budur ne o! O hâlde kimindir o tasvîr\n",
+          "text": "<p class=\"mb-4\"><em>Benuh âyîne-yi ender berâber<br>Der-û benger bebîn ân şahs-i dîger<br>Bir ayna al istersen; geç onun karşısına<br>İyi bak şimdi o karşındaki adamın aslına</em></p><p class=\"mb-4\"><em>Yekî reh bâz bîn tâ çist ân 'aks<br>Ne înest u ne ân pes kîst ân 'aks<br>Bir daha bak hele nedir o aynadaki tasvîr<br>Ne budur ne o! O hâlde kimindir o tasvîr</em></p>",
           "author": "[Sırların Gül Bahçesi'nden]"
         },
         {
           "type": "metin",
-          "text": "***\n\nÖnüne bir ayna koy da bak, aynada ayrı birisi gibi görünen yansımayı seyre dal!\n\n***",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Emir telâkkî edip öyle dediğini derhâl dediğini yaptım.\n\nNötr, plastik bir çerçevenin içinde, benim tarihimi, hikayemi, ismimi, resmimi taşıyan bir yabancı duruyordu.\n\nGözlerimde bir ölümlünün paniği, ağzımda söylemediğim her şeyin gölgesi.\n\nNe yani bu ben miydim? Yoksa ben olmak için mi sıraya girmiş pek çok sûretten biri mi?\n\nOna öyle baktıkça, aradaki mesafe genişledi.\n\n\"Ben\" dediğim şeyin aslı, bedenimin bu tarafında mı duruyordu, yoksa camın soğuk yüzeyinin öte yanında mı?"
-        },
-        {
-          "type": "metin",
-          "text": "***\nBir de kalma bir kere daha bak hele nedir o yansıma; zira ne budur ne o!\nPeki kimdir orada görünen anla!\n***",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Ne budur, ne o.\nİşte kilit buradaydı:\n\nYüz, sabit bir şeye ait değildi.\nAkan bir fiildi.\n\nSürekli yapılan, durmadan yenilenen bir görüşün akışı...\n\nTanrı'nın insanda aradığı da, insanın Tanrı'da aradığı da, bu akışın kendisiydi.\n\nAyna, bir ekrandı ve görüntü, verinin kendisi değil, sadece bir yansımaydı.\n\nVe asıl olan, o ilk soruyu tahrîk eden arayışın titreşimi miydi yoksa?\n\nBu soruyu ilk kez kimin sorduğunu bilmediğimiz gibi, ilk yüzü de tanımıyoruz\n\nYaşamımızın bir döneminde kendi yüzümüzün biricikliğini fark eder ve onun gerçekliği karşısında şaşkınlığa uğrarız sâdece...\n\nBu his, bizi pek de farkında olmadan sorduğumuz bazı sorulara ciddi bir cevap aramaya doğru sürükler."
-        },
-        {
-          "type": "metin",
-          "text": "\"Aynada yansımasını bulduğumuz o ilk yüz nedir?\"",
-          "is_colored": true,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "...\n\nVe bu, ölmeden önce illâ çözmesi gereken bir varlık sorunu olarak anıt gibi dikilir insanın karşısında...\n\nBu ölümcül sual, su üstüne bilinmeyen bir dilde yazılmış okunaksız bir metin gibi,\nDurmadan derine, daha derinine düş~düğümüz derin bir aynanın sırrı gibidir.\n\nAynadan bir aks-ı sâdâ geldi:"
+          "text": "<p class=\"mb-4\"><strong>***</strong></p><p class=\"mb-4\"><strong>Önüne bir ayna koy da bak, aynada ayrı birisi gibi görünen yansımayı seyre dal!</strong></p><p class=\"mb-4\"><strong>***</strong></p><p class=\"mb-4\">Emir telâkkî edip öyle dediğini derhâl dediğini yaptım.</p><p class=\"mb-4\">Nötr, plastik bir çerçevenin içinde, benim tarihimi, hikayemi, ismimi, resmimi taşıyan bir yabancı duruyordu.</p><p class=\"mb-4\">Gözlerimde bir ölümlünün paniği, ağzımda söylemediğim her şeyin gölgesi.</p><p class=\"mb-4\">Ne yani bu ben miydim? Yoksa ben olmak için mi sıraya girmiş pek çok sûretten biri mi?</p><p class=\"mb-4\">Ona öyle baktıkça, aradaki mesafe genişledi.</p><p class=\"mb-4\">\"Ben\" dediğim şeyin aslı, bedenimin bu tarafında mı duruyordu, yoksa camın soğuk yüzeyinin öte yanında mı?<br><br><strong>***<br></strong>Bir de kalma bir kere daha bak hele nedir o yansıma; zira ne budur ne o!<br>Peki kimdir orada görünen anla!<br><strong>***<br><br></strong>Ne budur, ne o.<br>İşte kilit buradaydı:</p><p class=\"mb-4\">Yüz, sabit bir şeye ait değildi.<br>Akan bir fiildi.</p><p class=\"mb-4\">Sürekli yapılan, durmadan yenilenen bir görüşün akışı...</p><p class=\"mb-4\">Tanrı'nın insanda aradığı da, insanın Tanrı'da aradığı da, bu akışın kendisiydi.</p><p class=\"mb-4\">Ayna, bir ekrandı ve görüntü, verinin kendisi değil, sadece bir yansımaydı.</p><p class=\"mb-4\">Ve asıl olan, o ilk soruyu tahrîk eden arayışın titreşimi miydi yoksa?</p><p class=\"mb-4\">Bu soruyu ilk kez kimin sorduğunu bilmediğimiz gibi, ilk yüzü de tanımıyoruz</p><p class=\"mb-4\">Yaşamımızın bir döneminde kendi yüzümüzün biricikliğini fark eder ve onun gerçekliği karşısında şaşkınlığa uğrarız sâdece...</p><p class=\"mb-4\">Bu his, bizi pek de farkında olmadan sorduğumuz bazı sorulara ciddi bir cevap aramaya doğru sürükler.</p><p class=\"mb-4\"><strong>\"Aynada yansımasını bulduğumuz o ilk yüz nedir?\"</strong><br><br>...</p><p class=\"mb-4\">Ve bu, ölmeden önce illâ çözmesi gereken bir varlık sorunu olarak anıt gibi dikilir insanın karşısında...</p><p class=\"mb-4\">Bu ölümcül sual, su üstüne bilinmeyen bir dilde yazılmış okunaksız bir metin gibi,<br>Durmadan derine, daha derinine düş~düğümüz derin bir aynanın sırrı gibidir.<br><br>Aynadan bir aks-ı sâdâ geldi:</p>"
         },
         {
           "type": "spoiler",
-          "text": "~\n\nBu sırrı çözmek için YÜZ'ü okumak gerek\nBir YÜZ'den ölümüne okumak gerek...\n\n~"
+          "text": "<p class=\"mb-4\">~<br><br><strong>Bu sırrı çözmek için YÜZ'ü okumak gerek<br>Bir YÜZ'den ölümüne okumak gerek...</strong><br><br>~</p>"
         },
         {
           "type": "metin",
-          "text": "Belki de bu yüzden aynaya her bakışımızda \"o biriciklik hissi\" geliyordu işte...\n\nBir bakıma, evrenin kendi kendini izleme ânıydı bu.\nVe her seferinde bu yüzden, bu yüze ilk defâydı!\n\nSen~ben, kozmik bir aramanın lokalize olmuş noktasıydık.\n\nYüzlerimiz, üzerinde\n\"Ben Bu Değilim\" yazan bir tabela gibi...\n\nVe tüm o kadim bilgelikler, bu tabelayı okuyup ardından onun da ardını yok etmeye dâirdi."
-        },
-        {
-          "type": "metin",
-          "text": "\"La mevcûde illa Hu\"\nO'ndan başka var yok.",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Ama ben~sen bakan olarak dimdik durdukça\n'O' da, aynada gördüğün şeye verdiğin, isimlerden bir isim değil miydi?\n\nOysa\n~O~\nBir ikincisi olmayan\nO biricik bakışın ta kendisiydi.\n\nHayat dediğimiz bu kısa, bu garip, bu açık parantezde, kendimizi bir yüz, bir isim, bir hikaye hâsılı \"duruyor\" sandık, yaman aldandık...\n\nOysa biz, hikayeyi dinleyen boşluktuk ve bir anlık yüzümüze kandık...\n\nTanrı da\nİnsan da\nAynı boşluğun\nFarklı yoğunluklardaki\nDalgalanmalarıydı.\n\nVe unutulunca bir yüzü,\nHatırlanınca diğer yüzü görünür oluyordu.\n\nÖyleyse aynaya bakmak, kendi kaynağına bakmaktı.\nVe kaynak, asla \"şu\" ya da \"bu\" olamazdı.\n\nSadece...\nBakardı.\n\n~\n\nBakmaya devam ettim.\nOdadaki ışık değişti, göz bebeklerim küçüldü.\nAynadaki adam da aynısını yaptı.\n\nNasıl senkronize bir dans.\nPeki kim dans ediyordu?\nDansın kendisi mi?\nDansın cazibesinden, dans edenleri seçemez oldum\n\nSonra, her şeyi döndüren anlık bir sarsıntı.\nYer, ayağımın altından mı çekildi ne?\n\nKalbimde derin bir sancı\nSanki bir şey çatladı çatlayacak\nÇünkü ışığın dili yalnızca kalp tarafından çözülebilirdi\n\nZihin sustu.\nSoru korktu.\nFilm koptu.\n\nSadece bir bakış kaldı\nO anda, aynanın camı erir gibi oldu.\nArtık bir şeyi yansıtmıyordu.\n\nSadece vardı.\n\n...\n\nBen de öyle.\n...\n\nAradaki sınır, bir hologramın hayâlî derinliği gibi, anlamsızlaştı.\n\nVe yüz...\nYüz, bildik yüzüm değildi\nYüz artık bir çerçeveye sığacak gibi değildi.\n\nBoşluğu dolduran, başladığı ve bittiği yeri belli olmayan bir tebessümdü.\nEvrenin kendi kendine gizlice bıraktığı biricik gülümseme.\n\nTanrı'nın insanda aradığı da\nİnsanın Tanrı'da aradığı da bu muydu yoksa:"
-        },
-        {
-          "type": "metin",
-          "text": "\" Kendi özünü unutmuş gibi yapıp sonra o unutkanlığın en derin noktasında, âni ve sessiz bir şimşek çakmasıyla hatırlamak... \"",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Derhâl aynadan uzaklaştım...\n\nCamdaki buğuya, nefesimle üç harf yazdım:\n\n*EN\n\nO işte diri olanın, canlı yüzü...\nDönüp bir daha baktım, ilk harfi değişmişti:\n\n*EN\n\nBu dirilik, bakışın içinde, sorunun içinde, arayışın içinde atan tek kalpti.\n\nVe o kalp, ne 'sen'din, ne 'ben'.\n\nSadece Yâ Hayy idi işte...\n\n~\n\nOdada döndüm.\nArtık aynaya ihtiyacım yoktu.\nOlan oldu ve her şey oydu zaten.\n\nPencere camı, monitör ekranı, komşunun gözbebeği, geceyi yaran araba farı...\nHepsi aynı mesajı fısıldıyordu:"
-        },
-        {
-          "type": "metin",
-          "text": "Hem budur hem o\nNe budur, ne o",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Öyleyse, bir bakıp bir görene selâm selâm oldu...\n\n~\n\nFilmin sonu, bir patlama değil, bir erimeydi:\n\nÂşık, mâşukunda\nAynaya bakan, aynada\nSoru, kendi cevabının içinde eridi.\n\nYüz, kendi kaynağına dönüştü.\nDüş, kendine düştü\n\nGeriye, var olmanın dayanılmaz hafifliği ve her şeyi kucaklayan, hiçbir şeyi sahiplenmeyen biricik bir seyir kaldı.\n\nSeyirci yoktu.\nSadece seyir vardı.\n\n...\n...\n\nVe seyir, seyir zevkine doyup da kendini seyretmekten vazgeçtiği an, işte o an, her şey yerli yerine oturdu.\n\nOturdu mu dedim?\n\nAslında hiçbir şey kıpırdamıyordu ki.\n\nSessizlik.\n\n...\n\n...\n\n...\n\n\n~\n\nYokluk, aynanın sırrıdır.\nAyna kırıldığında, yokluk gülümser ve der ki:"
-        },
-        {
-          "type": "metin",
-          "text": "'Ben hep buradaydım'\n\n",
-          "is_italic": true,
-          "is_colored": true,
-          "is_bold": true
+          "text": "<p class=\"mb-4\">Belki de bu yüzden aynaya her bakışımızda \"o biriciklik hissi\" geliyordu işte...</p><p class=\"mb-4\">Bir bakıma, evrenin kendi kendini izleme ânıydı bu.<br>Ve her seferinde bu yüzden, bu yüze ilk defâydı!</p><p class=\"mb-4\">Sen~ben, kozmik bir aramanın lokalize olmuş noktasıydık.</p><p class=\"mb-4\">Yüzlerimiz, üzerinde<br>\"Ben Bu Değilim\" yazan bir tabela gibi...</p><p class=\"mb-4\">Ve tüm o kadim bilgelikler, bu tabelayı okuyup ardından onun da ardını yok etmeye dâirdi.<br><strong>\"La mevcûde illa Hu\"<br>O'ndan başka var yok.</strong></p><p class=\"mb-4\">Ama ben~sen bakan olarak dimdik durdukça<br>'O' da, aynada gördüğün şeye verdiğin, isimlerden bir isim değil miydi?</p><p class=\"mb-4\">Oysa<br>~O~<br>Bir ikincisi olmayan<br>O biricik bakışın ta kendisiydi.</p><p class=\"mb-4\">Hayat dediğimiz bu kısa, bu garip, bu açık parantezde, kendimizi bir yüz, bir isim, bir hikaye hâsılı \"duruyor\" sandık, yaman aldandık...</p><p class=\"mb-4\">Oysa biz, hikayeyi dinleyen boşluktuk ve bir anlık yüzümüze kandık...</p><p class=\"mb-4\">Tanrı da<br>İnsan da<br>Aynı boşluğun<br>Farklı yoğunluklardaki<br>Dalgalanmalarıydı.</p><p class=\"mb-4\">Ve unutulunca bir yüzü,<br>Hatırlanınca diğer yüzü görünür oluyordu.</p><p class=\"mb-4\">Öyleyse aynaya bakmak, kendi kaynağına bakmaktı.<br>Ve kaynak, asla \"şu\" ya da \"bu\" olamazdı.</p><p class=\"mb-4\">Sadece...<br>Bakardı.</p><p class=\"mb-4\">~<br><br>Bakmaya devam ettim.<br>Odadaki ışık değişti, göz bebeklerim küçüldü.<br>Aynadaki adam da aynısını yaptı.</p><p class=\"mb-4\">Nasıl senkronize bir dans.<br>Peki kim dans ediyordu?<br>Dansın kendisi mi?<br>Dansın cazibesinden, dans edenleri seçemez oldum</p><p class=\"mb-4\">Sonra, her şeyi döndüren anlık bir sarsıntı.<br>Yer, ayağımın altından mı çekildi ne?<br><br>Kalbimde derin bir sancı<br>Sanki bir şey çatladı çatlayacak<br>Çünkü ışığın dili yalnızca kalp tarafından çözülebilirdi<br><br>Zihin sustu.<br>Soru korktu.<br>Film koptu.<br><br>Sadece bir bakış kaldı<br>O anda, aynanın camı erir gibi oldu.<br>Artık bir şeyi yansıtmıyordu.</p><p class=\"mb-4\">Sadece vardı.</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Ben de öyle.<br>...</p><p class=\"mb-4\">Aradaki sınır, bir hologramın hayâlî derinliği gibi, anlamsızlaştı.</p><p class=\"mb-4\">Ve yüz...<br>Yüz, bildik yüzüm değildi<br>Yüz artık bir çerçeveye sığacak gibi değildi.</p><p class=\"mb-4\">Boşluğu dolduran, başladığı ve bittiği yeri belli olmayan bir tebessümdü.<br>Evrenin kendi kendine gizlice bıraktığı biricik gülümseme.</p><p class=\"mb-4\">Tanrı'nın insanda aradığı da<br>İnsanın Tanrı'da aradığı da bu muydu yoksa:</p><p class=\"mb-4\"><strong>\" Kendi özünü unutmuş gibi yapıp sonra o unutkanlığın en derin noktasında, âni ve sessiz bir şimşek çakmasıyla hatırlamak... \"</strong></p><p class=\"mb-4\">Derhâl aynadan uzaklaştım...</p><p class=\"mb-4\">Camdaki buğuya, nefesimle üç harf yazdım:</p><p class=\"mb-4\"><strong>*EN</strong></p><p class=\"mb-4\">O işte diri olanın, canlı yüzü...<br>Dönüp bir daha baktım, ilk harfi değişmişti:<br><br><strong>*EN</strong></p><p class=\"mb-4\">Bu dirilik, bakışın içinde, sorunun içinde, arayışın içinde atan tek kalpti.</p><p class=\"mb-4\">Ve o kalp, ne 'sen'din, ne 'ben'.</p><p class=\"mb-4\">Sadece Yâ Hayy idi işte...</p><p class=\"mb-4\">~<br><br>Odada döndüm.<br>Artık aynaya ihtiyacım yoktu.<br>Olan oldu ve her şey oydu zaten.<br><br>Pencere camı, monitör ekranı, komşunun gözbebeği, geceyi yaran araba farı...<br>Hepsi aynı mesajı fısıldıyordu:<br><strong>Hem budur hem o<br>Ne budur, ne o</strong></p><p class=\"mb-4\">Öyleyse, bir bakıp bir görene selâm selâm oldu...</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Filmin sonu, bir patlama değil, bir erimeydi:<br><br>Âşık, mâşukunda<br>Aynaya bakan, aynada<br>Soru, kendi cevabının içinde eridi.</p><p class=\"mb-4\">Yüz, kendi kaynağına dönüştü.<br>Düş, kendine düştü</p><p class=\"mb-4\">Geriye, var olmanın dayanılmaz hafifliği ve her şeyi kucaklayan, hiçbir şeyi sahiplenmeyen biricik bir seyir kaldı.</p><p class=\"mb-4\">Seyirci yoktu.<br>Sadece seyir vardı.<br><br>...<br>...</p><p class=\"mb-4\">Ve seyir, seyir zevkine doyup da kendini seyretmekten vazgeçtiği an, işte o an, her şey yerli yerine oturdu.</p><p class=\"mb-4\">Oturdu mu dedim?</p><p class=\"mb-4\">Aslında hiçbir şey kıpırdamıyordu ki.</p><p class=\"mb-4\">Ses<s>siz</s>lik.</p><p class=\"mb-4\">...</p><p class=\"mb-4\">...<br><br>...</p><p class=\"mb-4\"><br>~<br><br>Yokluk, aynanın sırrıdır.<br>Ayna kırıldığında, yokluk gülümser ve der ki:<br><strong>'Ben hep buradaydım'</strong></p>"
         },
         {
           "type": "alinti",
-          "text": "Anladım ben beni oldukça bana ben nâzır;\nBen dahi ayna gibi tek bana hayrân imişim...",
+          "text": "<p class=\"mb-4\">Anladım ben beni oldukça bana ben nâzır;<br>Ben dahi ayna gibi tek bana hayrân imişim...<br></p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "metin",
-          "text": "~\n"
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T09:42:38.665Z"
 }
