@@ -20,19 +20,26 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "~\nŞerîat, yaptığın ya yapmadığın fiilleri nefse mâl ederek kulluk etmek, hakîkat ise fiileri ait olduğu yerde Hakk'ta bilerek Hakk'ın senden, seninle, sen olarak fâil olduğunu seyretmektir.\n\nHâl böyle olunca şeriat, henüz bağı çözülmeyen zihnin Hakikat'ten sığınağıdır.\n\nDoğrudan canlı canlı görmenin yerine, öyle olduğuna dâir bir ön~kabulle inanılan hikâyenin hikâyede yeri ne?\n[YÜZ SÖZ'den]"
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br>Şerîat, yaptığın ya yapmadığın fiilleri nefse mâl ederek kulluk etmek, hakîkat ise fiileri ait olduğu yerde Hakk'ta bilerek Hakk'ın senden, seninle, sen olarak fâil olduğunu seyretmektir.<br><br>Hâl böyle olunca şeriat, henüz bağı çözülmeyen zihnin Hakikat'ten sığınağıdır.<br><br>Doğrudan canlı canlı görmenin yerine, öyle olduğuna dâir bir ön~kabulle inanılan hikâyenin hikâyede yeri ne?<br></p>",
+          "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "alinti",
-          "text": "Şer'-i şerif inkâr olunmaz amma\nŞeriat var şeriattan içeri\nTarikatsız Allah bulunmaz amma\nTarikat var tarikattan içeri\n\nGördüğün şeriat şeriat değil\nGittiğin tarikat tarikat değil\nHakikat sandığın hakikat değil\nHakikat var hakikatten içeri\n\nVech-i kemâlî'ye gel eyle dikkat\nHakk'ın cemâlini eylersin rüyet\n\"Sâde Hak var\" demek değil marifet\nMarifet var marifetten içeri\n",
+          "text": "<p class=\"mb-4\"><br>Şer'-i şerif inkâr olunmaz amma<br>Şeriat var şeriattan içeri<br>Tarikatsız Allah bulunmaz amma<br>Tarikat var tarikattan içeri</p><p class=\"mb-4\">Gördüğün şeriat şeriat değil<br>Gittiğin tarikat tarikat değil<br>Hakikat sandığın hakikat değil<br>Hakikat var hakikatten içeri</p><p class=\"mb-4\">Vech-i kemâlî'ye gel eyle dikkat<br>Hakk'ın cemâlini eylersin rüyet<br>\"Sâde Hak var\" demek değil marifet<br>Marifet var marifetten içeri<br>~</p>",
           "author": "[Harâbî Dili'nden]"
         },
         {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Düzde şeriat, rampada hakikat ile yolu aç<br>Şeriatı yeterince, hakikati bitirince uğraş<br>Vahdeti tanımayan, zevkten yana aç<br>Şerîate uymayan, kemâlden yana aç<br></p>",
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
           "type": "metin",
-          "text": "~\n\nDüzde şeriat, rampada hakikat ile yolu aç\nŞeriatı yeterince, hakikati bitirince uğraş\nVahdeti tanımayan, zevkten yana aç\nŞerîate uymayan, kemâlden yana aç\n[Kelâm-ı Azîz-i Melâmîye'den]\n\n~\n\nDost yüzün görücek, şirk yağmalandı; anınçün, kapıda kaldı şeriat...\n\n~\n\nGerçek, zihinle yakalanamaz.\nBildiğini sandığın anda kayıp gider.\nGerçek canlıdır\nVe ancak şimdi ortaya çıkan canlı bir ilhâmdır,\nTaşınması hâlinde derhâl ölür.\n\n~"
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Dost yüzün görücek, şirk yağmalandı; anınçün, kapıda kaldı şeriat...<br><br>~<br><br>Gerçek, zihinle yakalanamaz.<br>Bildiğini sandığın anda kayıp gider.<br>Gerçek canlıdır<br>Ve ancak şimdi ortaya çıkan canlı bir ilhâmdır,<br>Taşınması hâlinde derhâl ölür.<br><br>~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T12:01:17.284Z"
 }
