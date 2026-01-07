@@ -1,6 +1,22 @@
 {
   "isaretler": [
     {
+      "id": 202601080005,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601072400-1767819603081.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "zıtlıklar"
+          ],
+          "title": "CANLI YAYIN: Gerçek ol~an",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601080003,
       "article": {
         "header": {
