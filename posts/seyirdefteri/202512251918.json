@@ -20,12 +20,12 @@
       "quotes": [
         {
           "type": "alinti",
-          "text": "Merkezle âşinâ ol etme muhîte rağbet\nMüstağrık-i hakîkat meyl-i kenârı neyler\n",
+          "text": "<p class=\"mb-4\">Merkezle âşinâ ol etme muhîte rağbet<br>Müstağrık-i hakîkat meyl-i kenârı neyler</p>",
           "author": "[NÂBÎ'den]"
         },
         {
           "type": "metin",
-          "text": "Gerçeklik, her zaman boş bir tuval, rağbetinle onu boyayan sensin\nRağbetinle var ediyor, inancınla çekiyorsun zuhûratı a güzel,\n\nGeçenlere rağbet edip durmakla geçti ömrün\nOysa geçmeyenin rağbeti var sana bir güzel...\n\nRağbet ettiğine, miracın olur\nBeratı elinde olan, kadrini bulur\nKendine gelene, her dem bayram olur\n~\nDâire tamam olunca merkezde dönmeye başlar\nDönen devrettikçe birlikte seyri şâhane olur\n~"
+          "text": "<p class=\"mb-4\">Gerçeklik, her zaman boş bir tuval, rağbetinle onu boyayan sensin<br>Rağbetinle var ediyor, inancınla çekiyorsun zuhûratı a güzel,<br><br>Geçenlere rağbet edip durmakla geçti ömrün<br>Oysa geçmeyenin rağbeti var sana bir güzel...</p><p class=\"mb-4\">Rağbet ettiğine, miracın olur<br>Beratı elinde olan, kadrini bulur<br>Kendine gelene, her dem bayram olur<br>~<br>Dâire tamam olunca merkezde dönmeye başlar<br>Dönen devrettikçe birlikte seyri şâhane olur<br>~</p>"
         },
         {
           "type": "ses",
@@ -35,7 +35,7 @@
         },
         {
           "type": "alinti",
-          "text": "Nâre yanıp aşk-ı pâkinden ferâgat etmedim\nMahvolup cânân yolunda cânâ rağbet etmedim\n",
+          "text": "<p class=\"mb-4\">Nâre yanıp aşk-ı pâkinden ferâgat etmedim<br>Mahvolup cânân yolunda cânâ rağbet etmedim</p>",
           "author": "[Divân-ı Aşk'tan]"
         },
         {
@@ -44,5 +44,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T11:47:21.407Z"
 }
