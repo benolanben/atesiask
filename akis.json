@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Boşlukla dolu",
+      "id": 202601080003,
+      "category": "posts/seyirdefteri/202601080003"
+    },
+    {
       "text": "Sen~ben~leşmeden evvel",
       "id": 202601071829,
       "category": "posts/seyirdefteri/202601071829"
@@ -44,11 +49,6 @@
       "text": "PLUR1BUS",
       "id": 202601042327,
       "category": "posts/seyirzevki/202601042327"
-    },
-    {
-      "text": "Yeni yüzüyle yüzleşmek",
-      "id": 202601042210,
-      "category": "posts/seyirdefteri/202601042210"
     }
   ]
 }
