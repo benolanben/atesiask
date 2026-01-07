@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601080003,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601072403-1767819810485.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Sunyata",
+            "boşluk",
+            "dualite",
+            "non-dualite"
+          ],
+          "title": "Boşlukla dolu",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601071829,
       "article": {
         "header": {
