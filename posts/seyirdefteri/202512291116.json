@@ -20,7 +20,7 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\nHer şey gelir\nHer şey gider\nAma her bir şey\nSâdece sessiz bir iz bırakır\nVe damakta târifsiz bir tat\n~\n\nFormlar belirir, bir an için burada kalır\nVe sonra çözülüp geldikleri yere geri dönerler\n\nŞimdi çoktan gayb~olmuş olan bile\nHiçbir şeyin kalıcı olmadığını\nBize hatırlatmaya yetecek kadar kalır sâdece\n\nVe bunu doğrudan deneyimle\nAçık açık görmenin\nKendine has bir huzur olduğunu...\n\n~~~\n\nVe sen sanmadığın yerde bir anda anlaşılır:\n\nBu gelip gidişin kendisi de aslında sabit bir ritim değil, yalnızca aynanın karşısında dans eden bir başka hayal~ettir.\n\nHiçlikten süslü bir kıyafet giyinerek çıkagelen,\nKendini bir anlığına kendini 'ben' sandıran,\nSonra tekrar soyunan bir illüzyonlar silsilesi.\n\nTasavvuf zevkindeki gibi:\n“Fenâ fillâh” hâli, yokluğun içinde var olmanın şaşkınlığı.\n\nZen Bahçeleri'ndeki gibi:\nSu üstüne yazı yazmak, gökte iz bırakmadan geçmek.\n\nTek bildiği ipin ucunu bağlamak olan zihin, bu geçici formlara tutunmak ister; iki ucu açık olandan tumturaklı bir hikâyeye örmek ve akanı, sabit bir kimliğe dönüştürmek için...\n\nOysa hepsi hepsi, boşluktan geçen birer enstantaneden ibaret.\n\nBaktığın her şey,\nSana kendi yokluğunu gösteren\nAçık bir ayna.\n\nBu aynada ne kalıcı bir benlik var, ne de kalıcı bir nesne...\n\nHer şey bir anlığına öyle görünüyor işte...\nYalnızca saf, nötr, ışıltılı bir yansıma oyunu.\n\nOyun bu ya...\n\nUnutup hatırlayınca\nKaybedip bulunca\nZaten olduğu yerde\nNasıl güzel bir oyun böyle\nGel de oyuna gelme\nHayran olup seyreyle...\n\n"
+          "text": "<p class=\"mb-4\">~<br>Her şey gelir<br>Her şey gider<br>Ama her bir şey<br>Sâdece sessiz bir iz bırakır<br>Ve damakta târifsiz bir tat<br>~</p><p class=\"mb-4\">Formlar belirir, bir an için burada kalır<br>Ve sonra çözülüp geldikleri yere geri dönerler</p><p class=\"mb-4\">Şimdi çoktan gayb~olmuş olan bile<br>Hiçbir şeyin kalıcı olmadığını<br>Bize hatırlatmaya yetecek kadar kalır sâdece</p><p class=\"mb-4\">Ve bunu doğrudan deneyimle<br>Açık açık görmenin<br>Kendine has bir huzur olduğunu...</p><p class=\"mb-4\">~~~</p><p class=\"mb-4\">Ve sen sanmadığın yerde bir anda anlaşılır:</p><p class=\"mb-4\">Bu gelip gidişin kendisi de aslında sabit bir ritim değil, yalnızca aynanın karşısında dans eden bir başka hayal~ettir.</p><p class=\"mb-4\">Hiçlikten süslü bir kıyafet giyinerek çıkagelen,<br>Kendini bir anlığına kendini 'ben' sandıran,<br>Sonra tekrar soyunan bir illüzyonlar silsilesi.</p><p class=\"mb-4\">Tasavvuf zevkindeki gibi:<br>“Fenâ fillâh” hâli, yokluğun içinde var olmanın şaşkınlığı.</p><p class=\"mb-4\">Zen Bahçeleri'ndeki gibi:<br>Su üstüne yazı yazmak, gökte iz bırakmadan geçmek.</p><p class=\"mb-4\">Tek bildiği ipin ucunu bağlamak olan zihin, bu geçici formlara tutunmak ister; iki ucu açık olandan tumturaklı bir hikâyeye örmek ve akanı, sabit bir kimliğe dönüştürmek için...</p><p class=\"mb-4\">Oysa hepsi hepsi, boşluktan geçen birer enstantaneden ibaret.<br><br>Baktığın her şey,<br>Sana kendi yokluğunu gösteren<br>Açık bir ayna.</p><p class=\"mb-4\">Bu aynada ne kalıcı bir benlik var, ne de kalıcı bir nesne...</p><p class=\"mb-4\">Her şey bir anlığına öyle görünüyor işte...<br>Yalnızca saf, nötr, ışıltılı bir yansıma oyunu.</p><p class=\"mb-4\">Oyun bu ya...</p><p class=\"mb-4\">Unutup hatırlayınca<br>Kaybedip bulunca<br>Zaten olduğu yerde<br>Nasıl güzel bir oyun böyle<br>Gel de oyuna gelme<br>Hayran olup seyreyle...</p>"
         },
         {
           "type": "ses",
@@ -29,12 +29,8 @@
           "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952895650.jpg"
         },
         {
-          "type": "metin",
-          "text": "\n~\n\nDünya dediğin,\nTanrı'nın kendini unutma oyunudur.\nOyun bittiğinde\n...\n"
-        },
-        {
           "type": "alinti",
-          "text": "Oyuncu da kalmaz!\n",
+          "text": "<p class=\"mb-4\"><strong>~<br><br>Dünya dediğin,<br>Tanrı'nın kendini unutma oyunudur.<br>Oyun bittiğinde<br>...<br>Oyuncu da kalmaz!</strong><br><br>~</p>",
           "author": "[YÜZ SÖZ'den]"
         },
         {
@@ -43,5 +39,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T11:46:09.661Z"
 }
