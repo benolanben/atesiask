@@ -10,85 +10,46 @@
       "date_value": "",
       "mini_title": "",
       "tags": [
-        ""
+        "ayrılık",
+        "inanç",
+        "yapısöküm",
+        "yıkılma"
       ],
       "title": "İnşaatı durdurun",
       "subtitle": ""
     },
-     "main_article": {
+    "main_article": {
       "quotes": [
         {
           "type": "metin",
-          "text": "~\n\nNiçin sevmeye cân ânı ki anda buldu cânânı\nYIKILDI \"kal’a-i fikrim\" yapıldı dinim îmânım\n[N. Mısrî'den]\n\nBir ev vardı ve o evde kişisel hayatını yaşadığı sanan bir \"kişi\"\nŞimdi o kişi (fikri) gitti ve evi de yıkıldı; hayatım hayat oldu\nPencere, kapı, duvar kalmayınca hâne pür~nur oldu\n[YÜZ SÖZ'den]\n"
+          "text": "<p class=\"mb-4\">~</p>"
         },
         {
           "type": "alinti",
-          "text": "İnanmanızı istemiyorum, dağılmanızı istiyorum\n",
+          "text": "<p class=\"mb-4\"><em>Niçin sevmeye cân ânı ki anda buldu cânânı<br>YIKILDI \"kal’a-i fikrim\" yapıldı dinim îmânım</em><br></p>",
+          "author": "[N. Mısrî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Bir ev vardı ve o evde kişisel hayatını yaşadığı sanan bir \"kişi\"<br>Şimdi o kişi (fikri) gitti ve evi de </em><strong><em>yıkıldı</em></strong><em>; hayatım hayat oldu<br>Pencere, kapı, duvar kalmayınca hâne pür~nur oldu<br></em></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong><em>İnanmanızı istemiyorum, dağılmanızı istiyorum</em></strong></p>",
           "author": "[Türbedâr Dedem'den]"
         },
         {
           "type": "metin",
-          "text": "Ya ayrılık gerçekten hiç var olmasaydı da sadece inanmayı öğrendiğimiz bir hikâye olsaydı?",
-          "is_colored": true,
-          "is_bold": true,
-          "is_italic": true
-        },
-        {
-          "type": "metin",
-          "text": "Özgürlük, \"ben\" diye~bildiğimiz şeyin,\nSandığımız gibi değil, olduğu gibi görülmesiyle başlar:\n\nSabit bir şey değil,\nSabit bir şeyin varlığına dair bir düşünce\n\nVe düşüncenin düşünceye tepkisiyle devam etmece...\n\nNe var ki\n\"Ayrı bir benlik\" olarak var~olduğuna inandığın sürece\nHayat mücadelesi devam eder.\n\nBu fikre inanmayı bırak ve zâten orada duran huzur ortaya çıkar.\n\nMeğer o düşünce kalesi düşünce...\n\n~"
-        },
-        {
-          "type": "metin",
-          "text": "\"Yol yoktur, yürümek vardır.\"",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Öyleyse biraz daha yürüyelim bu âlemden içeri...\nYazının geri kalanını sözde \"ben~kalemin\" harabelerinden yazılıyor…\n\nBu ne demekti?\n\nArtık katı bir yapı, sağlam bir kale inşa etmeye çalışmadan yazmak.\nAdım atarken beliren, ayağını kaldırınca imhâ olan bir basamak gibi...\n\nKelimelerin, düşüncelerin gelip geçici olduğunu bilerek, onlara tutunmadan, onlarla oynamak.\n\nTıpkı su üstüne yazı yazmak gibi...\n\nYazarken silinmek\nSilinirken var olmak.\n\nPeki ya ayrılık?\n\nO büyük yalan,\nO temel yanılsama?\nBu belki de en büyük sanal gerçeklik simülasyonuydu.\n\nBize “inanç” denen programı yüklemek için yazılmış bir başlangıç senaryosu."
-        },
-        {
-          "type": "metin",
-          "text": "Ayrı olduğuna inan...\n",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "İnan ki bir ömür vuslatı arayasın.\n\nArayışın içinde, arayanın aslında aranan olduğunu fark edesin.\n\n~\n\nDerken fazla uykudan yorgun düştün, ekran birden karardı...\nİki gözünün arasında, karanlığa kurulu perdede, kayanlar kaydı:"
-        },
-        {
-          "type": "spoiler",
-          "text": "Muhterem arayıcı,\nKalen yoksa, kuşatma da yoktur.\nKuşatma yoksa, teslim olacak kimse de...",
-          "is_colored": true
-        },
-        {
-          "type": "metin",
-          "text": "Geriye ne kaldı?\nİşte bu.\nTam da şu an.\nHiçbir şeyin eksik olmadığı\n"
-        },
-        {
-          "type": "metin",
-          "text": "\nBU\nBÖYLECE\nOLAN",
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Dağılmış olanın, kendi mükemmel düzensizliği içinde anlık parıldayışı sadece...\n\nVe bir kez daha anlar gibi oldun:"
-        },
-        {
-          "type": "metin",
-          "text": "Özgürlük, hiçbir kaleye sığınmamakta değil, hiç kale inşa etmemekteydi.\n",
-          "is_colored": true,
-          "is_bold": true
-        },
-        {
-          "type": "metin",
-          "text": "Yapılıp yıkılmalardan yorulup da\nİnşa etmediğin an,\nZaten içinde yaşadığın\nSonsuz, sınırsız boşluğu\nBüsbütün görürsün.\n\nSakın adına “ben” deme.\nAnlama, anlamlandırma\nSadece bak işte...\n\nO bir bakışın içinde, Niyâzî’nin cananı, Dedem’in dağılması ve su üstündeki yazı hep aynı şeydi. Neydi o?\n\nVar olmayan bir merkezin etrafında dönen bu kusursuz dönüş,\nİşte bu senin aslî hâlin.\n\nŞimdi, inşaatı durdur ve sadece dön.\nZâten dönüyorsun.\n\n\n...\n\n"
+          "text": "<p class=\"mb-4\"><strong>Ya ayrılık gerçekten hiç var olmasaydı da sadece inanmayı öğrendiğimiz bir hikâye olsaydı?</strong></p><p class=\"mb-4\">Özgürlük, \"ben\" diye~bildiğimiz şeyin,<br>Sandığımız gibi değil, olduğu gibi görülmesiyle başlar:</p><p class=\"mb-4\">Sabit bir şey değil,<br>Sabit bir şeyin varlığına dair bir düşünce</p><p class=\"mb-4\">Ve düşüncenin düşünceye tepkisiyle devam etmece...</p><p class=\"mb-4\">Ne var ki<br>\"Ayrı bir benlik\" olarak var~olduğuna inandığın sürece<br>Hayat mücadelesi devam eder.</p><p class=\"mb-4\">Bu fikre inanmayı bırak ve zâten orada duran huzur ortaya çıkar.<br><br><em>Meğer o düşünce kalesi düşünce...</em></p><p class=\"mb-4\">~</p><p class=\"mb-4\"><strong>\"Yol yoktur, yürümek vardır.\"</strong></p><p class=\"mb-4\">Öyleyse biraz daha yürüyelim bu âlemden içeri...<br>Yazının geri kalanını sözde \"ben~kalemin\" harabelerinden yazılıyor…</p><p class=\"mb-4\">Bu ne demekti?</p><p class=\"mb-4\">Artık katı bir yapı, sağlam bir kale inşa etmeye çalışmadan yazmak.<br>Adım atarken beliren, ayağını kaldırınca imhâ olan bir basamak gibi...</p><p class=\"mb-4\">Kelimelerin, düşüncelerin gelip geçici olduğunu bilerek, onlara tutunmadan, onlarla oynamak.</p><p class=\"mb-4\">Tıpkı su üstüne yazı yazmak gibi...<br><br>Yazarken silinmek<br>Silinirken var olmak.</p><p class=\"mb-4\">Peki ya ayrılık?</p><p class=\"mb-4\">O büyük yalan,<br>O temel yanılsama?<br>Bu belki de en büyük sanal gerçeklik simülasyonuydu.</p><p class=\"mb-4\">Bize “inanç” denen programı yüklemek için yazılmış bir başlangıç senaryosu.</p><p class=\"mb-4\"><strong>Ayrı olduğuna inan...<br></strong>İnan ki bir ömür vuslatı arayasın.<br><br>Arayışın içinde, arayanın aslında aranan olduğunu fark edesin.</p><p class=\"mb-4\">~<br><br>Derken fazla uykudan yorgun düştün, ekran birden karardı...<br>İki gözünün arasında, karanlığa kurulu perdede, kayanlar kaydı:</p><p class=\"mb-4\"><strong><em><s><br>Muhterem arayıcı,<br>Kalen yoksa, kuşatma da yoktur.<br>Kuşatma yoksa, teslim olacak kimse de...</s></em></strong></p><p class=\"mb-4\"><br>Geriye ne kaldı?<br>İşte bu.<br>Tam da şu an.<br>Hiçbir şeyin eksik olmadığı</p><p class=\"mb-4\"><strong>BU<br>BÖYLECE<br>OLAN</strong></p><p class=\"mb-4\">Dağılmış olanın, kendi mükemmel düzensizliği içinde anlık parıldayışı sadece...</p><p class=\"mb-4\">Ve bir kez daha anlar gibi oldun:</p><p class=\"mb-4\"><strong>Özgürlük, hiçbir kaleye sığınmamakta değil, hiç kale inşa etmemekteydi.</strong></p><p class=\"mb-4\">Yapılıp yıkılmalardan yorulup da<br>İnşa etmediğin an,<br>Zaten içinde yaşadığın<br>Sonsuz, sınırsız boşluğu<br>Büsbütün görürsün.</p><p class=\"mb-4\">Sakın adına “ben” deme.<br>Anlama, anlamlandırma<br>Sadece bak işte...</p><p class=\"mb-4\">O bir bakışın içinde, Niyâzî’nin cananı, Dedem’in dağılması ve su üstündeki yazı hep aynı şeydi. Neydi o?<br><br>Var olmayan bir merkezin etrafında dönen bu kusursuz dönüş,<br>İşte bu senin aslî hâlin.</p><p class=\"mb-4\">Şimdi, inşaatı durdur ve sadece dön.<br>Zâten dönüyorsun.</p><p class=\"mb-4\"><br>...</p><p class=\"mb-4\"><br></p>"
         },
         {
           "type": "alinti",
-          "text": "\nÂlemde meşhûd olan bu devrân\nTekâmül içindir, kemâle doğru\n\nHer nokta cevvâl, her zerre raksân\nUçup giderler visâle doğru\n\nYorulma, gitme celâle doğru\nÇevir yüzünü cemâle doğru\n",
+          "text": "<p class=\"mb-4\"><br><em>Âlemde meşhûd olan bu devrân<br>Tekâmül içindir, kemâle doğru</em></p><p class=\"mb-4\"><em>Her nokta cevvâl, her zerre raksân<br>Uçup giderler visâle doğru</em></p><p class=\"mb-4\"><strong><em>Yorulma, gitme celâle doğru<br>Çevir yüzünü cemâle doğru</em></strong></p><p class=\"mb-4\"></p>",
           "author": " [Hayâlin Derinlikleri'nden]"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T09:38:30.309Z"
 }
