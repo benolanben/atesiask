@@ -19,11 +19,11 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "Hayat ne garip...\nKuyudan çıkmak için ilkin içine düşmeniz gerekir.\n\nHayat ne garip...\nİnsanlar ölümden korkarlar çünkü mallarını kaybetmekten korkarlar; uyuduklarında ise hiç öyle bir korku duymazlar.\n\nHayat ne garip...\nBir şeyi kelimelerle ifade etmeye çalıştığımız anda, garip bir şekilde onu küçültüyoruz.\n\nBilinmezin lezzeti ne garip...\n\n"
+          "text": "<p class=\"mb-4\">Hayat ne garip...<br>Kuyudan çıkmak için ilkin içine düşmeniz gerekir.<br><br>Hayat ne garip...<br>İnsanlar ölümden korkarlar çünkü mallarını kaybetmekten korkarlar; uyuduklarında ise hiç öyle bir korku duymazlar.<br><br>Hayat ne garip...<br>Bir şeyi kelimelerle ifade etmeye çalıştığımız anda, garip bir şekilde onu küçültüyoruz.<br><br>Bilinmezin lezzeti ne garip...<br></p>"
         },
         {
           "type": "spoiler",
-          "text": "\nFe-tubâ li'l-gurebâ...\n\n"
+          "text": "<p class=\"mb-4\"><br>Fe-tubâ li'l-gurebâ...<br><br></p>"
         },
         {
           "type": "metin",
@@ -36,5 +36,6 @@
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T12:16:12.380Z"
 }
