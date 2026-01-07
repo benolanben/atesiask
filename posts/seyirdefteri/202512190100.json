@@ -18,9 +18,10 @@
     "main_article": {
       "quotes": [
         {
-          "type": "metin",
-          "text": "Aşkın gözü kördür\nBüsbütün görmek için insan\nAşka gözleri kapalı düşmeli...\nSadece yum gözlerini.\nBakma... Bu sihirli bir şey vallahi\n[YÜZ SÖZ'den]",
-          "is_italic": true
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Aşkın gözü kördür<br>Büsbütün görmek için insan<br>Aşka gözleri kapalı düşmeli...<br>Sadece yum gözlerini.<br>Bakma... Bu sihirli bir şey vallahi<br></p>",
+          "is_italic": true,
+          "author": "[YÜZ SÖZ'den]"
         },
         {
           "type": "ses",
@@ -30,13 +31,14 @@
         },
         {
           "type": "metin",
-          "text": "\n\nÇünkü gözler açıkken gördüğün sadece kabuk.\n\nBir yüz, bir ten, bir hikaye…\n\nDüşüncenin düşünceye tepkisi ve gerisi gölgelerin dansı gibi...\nAsıl olan, sınır görmeyi bıraktığın anda başlar.\n\nAşk, iki olmanın eriyip, “bir”in sessizliğinde kaybolduğu o boşluktur.\n\nSen “O”nu sevdiğini sanırsın ama aslında sevginde yok olan, senin “sen”lik illüzyonundur.\n\nİki yoksa, aşk da kime, kimden, neye?\n\nİki değil zevkinde, görenle görülenin aynı kaynaktan doğduğu o ıssız farkındalık.\n\nÖyleyse, gözlerini kapat ki dünyanın parçaladığı bütünlüğü hatırlayasın.\n\nGözlerin kapalıyken, içinde doğan o sınırsız genişlik, işte aşkın ta kendisidir.\n\nCânım sevgili,\nO gözgözü görmeyen uçurumda\nYankılanan bir çınnnlamadır sadece.\nAsıl muamma, yankıyı duyan açık sessizliktir inan...\n\nBir an düş kendine:\n\nBakmazsan, kim seviyor?\nKime bakmıyorsun?\n\nBu ikiliği terk ettiğinde, geriye kalan sadece saf, nedensiz bir titreşimdir.\n\nİşte aşkın özü budur.\n\nGözlerini açık tuttuğun müddetçe, sadece aynada kendi yalnızlığını öpüyorsun.\n\nÖyleyse, kapa gözlerini.\n\nVe görme eyleminin seni içine çektiği o sonsuz bölünmüşlük rüyasından uyan.\n\nAşk, bir varoluş hatası değil ki...\nVaroluş öncesi bütünlüğe dönüşün kapısıdır.\n\nVe o kapıdan ancak kör~tabî geçilir.\nZira aşkın gözü kördür...\n\nŞimdi…\nBakma.\n\nSadece ol.\nVâr ol\nVe anla ki...\n\nSevdiğin her şey, kendi yitik cennetinin bir yansımasından ibarettir.\nVe o cennet, hiçbir zaman kaybolmadı.\n\nSadece gözlerini açık tutman, sınır çizmen, ayrı görmen, biri bir bir görmeni engelledi.\n\nVe böylece, göz kapaklarının ardında doğan o mutlak karanlıkta, sevgilinin ay~yüzü tüm evrenle bir oldu, sen ise “ben” diyen o son sesi bile unuttun.\n\nGeriye kalan, sadece aşkın kendisi değil, aşkın da ötesi:\n\"Mirât-ı musaffâ\"\nKendini seyreden saf, boş bir ayna.\n\nVe o aynada, hiçbir şey yansımıyor artık.\nÇünkü her şey, olduğu yerde hep oradaydı zaten.\n\nZâten aşkın işi iş değil; hayret içre hayret..."
+          "text": "<p class=\"mb-4\">Çünkü gözler açıkken gördüğün sadece kabuk.</p><p class=\"mb-4\">Bir yüz, bir ten, bir hikaye…</p><p class=\"mb-4\">Düşüncenin düşünceye tepkisi ve gerisi gölgelerin dansı gibi...<br>Asıl olan, sınır görmeyi bıraktığın anda başlar.</p><p class=\"mb-4\"><strong>Aşk, iki olmanın eriyip, “bir”in sessizliğinde kaybolduğu o boşluktur.</strong></p><p class=\"mb-4\">Sen “O”nu sevdiğini sanırsın ama aslında sevginde yok olan, senin “sen”lik illüzyonundur.</p><p class=\"mb-4\">İki yoksa, aşk da kime, kimden, neye?</p><p class=\"mb-4\">İki değil zevkinde, görenle görülenin aynı kaynaktan doğduğu o ıssız farkındalık.</p><p class=\"mb-4\">Öyleyse, gözlerini kapat ki dünyanın parçaladığı bütünlüğü hatırlayasın.</p><p class=\"mb-4\">Gözlerin kapalıyken, içinde doğan o sınırsız genişlik, işte aşkın ta kendisidir.</p><p class=\"mb-4\">Cânım sevgili,<br>O gözgözü görmeyen uçurumda<br>Yankılanan bir çınnnlamadır sadece.<br>Asıl muamma, yankıyı duyan açık sessizliktir inan...</p><p class=\"mb-4\">Bir an düş kendine:</p><p class=\"mb-4\">Bakmazsan, kim seviyor?<br>Kime bakmıyorsun?</p><p class=\"mb-4\">Bu ikiliği terk ettiğinde, geriye kalan sadece saf, nedensiz bir titreşimdir.</p><p class=\"mb-4\">İşte aşkın özü budur.</p><p class=\"mb-4\">Gözlerini açık tuttuğun müddetçe, sadece aynada kendi yalnızlığını öpüyorsun.</p><p class=\"mb-4\">Öyleyse, kapa gözlerini.</p><p class=\"mb-4\">Ve görme eyleminin seni içine çektiği o sonsuz bölünmüşlük rüyasından uyan.</p><p class=\"mb-4\">Aşk, bir varoluş hatası değil ki...<br>Varoluş öncesi bütünlüğe dönüşün kapısıdır.</p><p class=\"mb-4\"><strong>Ve o kapıdan ancak kör~tabî geçilir.<br>Zira aşkın gözü kördür...</strong></p><p class=\"mb-4\">Şimdi…<br>Bakma.</p><p class=\"mb-4\">Sadece ol.<br>Vâr ol<br>Ve anla ki...</p><p class=\"mb-4\">Sevdiğin her şey, kendi yitik cennetinin bir yansımasından ibarettir.<br>Ve o cennet, hiçbir zaman kaybolmadı.</p><p class=\"mb-4\">Sadece gözlerini açık tutman, sınır çizmen, ayrı görmen, biri bir bir görmeni engelledi.</p><p class=\"mb-4\">Ve böylece, göz kapaklarının ardında doğan o mutlak karanlıkta, sevgilinin ay~yüzü tüm evrenle bir oldu, sen ise “ben” diyen o son sesi bile unuttun.</p><p class=\"mb-4\">Geriye kalan, sadece aşkın kendisi değil, aşkın da ötesi:<br><strong>\"Mirât-ı musaffâ\"<br></strong>Kendini seyreden saf, boş bir ayna.</p><p class=\"mb-4\">Ve o aynada, hiçbir şey yansımıyor artık.<br>Çünkü her şey, olduğu yerde hep oradaydı zaten.</p><p class=\"mb-4\">Zâten aşkın işi iş değil; hayret içre hayret...</p><p class=\"mb-4\">~</p>"
         },
         {
           "type": "spoiler",
-          "text": "\n💖\nAşk, bir bakışla eriyen iki kalbin,\nTek bir kucaklaşmada\nAynı âhengi bulması\nVe adlarını unutmasıdır.\n\n"
+          "text": "<p class=\"mb-4\">💖<br>Aşk, bir bakışla eriyen iki kalbin,<br>Tek bir kucaklaşmada<br>Aynı âhengi bulması<br>Ve adlarını unutmasıdır.</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T09:47:04.084Z"
 }
