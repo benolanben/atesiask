@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601071829,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061626-1767705968042.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "akış",
+            "benleşme",
+            "benlik",
+            "değişim"
+          ],
+          "title": "Sen~ben~leşmeden evvel",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601071526,
       "article": {
         "header": {
