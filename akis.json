@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sen~ben~leşmeden evvel",
+      "id": 202601071829,
+      "category": "posts/seyirdefteri/202601071829"
+    },
+    {
       "text": "Çınnlayan bedeni dinnle",
       "id": 202601071526,
       "category": "posts/seyirdefteri/202601071526"
@@ -44,16 +49,6 @@
       "text": "Yeni yüzüyle yüzleşmek",
       "id": 202601042210,
       "category": "posts/seyirdefteri/202601042210"
-    },
-    {
-      "text": {
-        "sira_no": 1468,
-        "parca_adi": "Rast güzeli",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/sr3gn5l1ioelr6e/rast_guzeli.mp3"
-      },
-      "id": 202601042117,
-      "category": "kaynak/baska"
     }
   ]
 }
