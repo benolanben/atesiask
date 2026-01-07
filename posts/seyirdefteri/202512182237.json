@@ -19,9 +19,14 @@
       "quotes": [
         {
           "type": "metin",
-          "text": "~\nMinber-i insan’a çıkan, eyleyince aşk ilanını\nNihâyet bahar rüzgarı esmeye başladı\nVe kuru olmayan bütün dallar\nO cezbeyle semâya durdu\n\nEy kendine dolanmış sarm’aşık,\nBen-sandığından çık…\n\nVe işte bir kuş daha havalandı resimden…\nÇünkü anlayış kanatlandırır insanı yerinden\n~"
+          "text": "<p class=\"mb-4\">~<br><br>Minber-i insan’a çıkan, eyleyince aşk ilanını<br>Nihâyet bahar rüzgarı esmeye başladı<br>Ve kuru olmayan bütün dallar<br>O cezbeyle semâya durdu</p><p class=\"mb-4\">Ey kendine dolanmış sarm’aşık,<br>Ben-sandığından çık…</p><p class=\"mb-4\">Ve işte bir kuş daha havalandı resimden…<br>Çünkü anlayış kanatlandırır insanı yerinden<br><br>~</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": ""
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T12:10:21.354Z"
 }
