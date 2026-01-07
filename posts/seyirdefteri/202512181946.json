@@ -23,8 +23,13 @@
           "text": "İçeriğinizi buraya girin...",
           "url": "https://benolanben.com/dinle/baska&1448",
           "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512181944-1766076264342.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p>"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-01-07T12:19:57.180Z"
 }
