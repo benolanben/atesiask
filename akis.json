@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1469,
+        "parca_adi": "Nurusiyah",
+        "seslendiren": "Ç. Fidan",
+        "url": "https://www.mediafire.com/file/j6v09n9fte4d39o/nursiya.mp3"
+      },
+      "id": 202601082049,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •2",
       "id": 202601081935,
       "category": "posts/seyirdefteri/202601081935"
@@ -44,11 +54,6 @@
       "text": "Dalga motor",
       "id": 202601061558,
       "category": "posts/seyirdefteri/202601061558"
-    },
-    {
-      "text": "Gözleme ânı",
-      "id": 202601061555,
-      "category": "posts/seyirdefteri/202601061555"
     }
   ]
 }
