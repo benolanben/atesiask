@@ -1,0 +1,39 @@
+{
+  "id": 202601081935,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-08T16:26:11.820Z",
+  "created_at": "2026-01-08T16:35:39.233Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Yedi Dur~ak Risâlesi •2",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "<p class=\"mb-4\"></p>",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601081931-1767889916108.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/yedidurak02.m4a"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bu 'ışk melâmet etti beni açtı üstümü; fâş etti gönül canımın içindeki özümü...<br>D~uyan gelsin bu meydâne...</p><p class=\"mb-4\">İşte Basrî dilinden canlı bir nefes:</p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><span class=\"vurgulu\">~<br>Tarîkât sırrından olmuşum âgâh<br>Okudum başımı, başa baş oldum<br>Ser-a-ser görmüşüm \"Semme Vechullâh\"<br>Yetmiş iki ile ben gardaş oldum<br><br>Elvâna aldanmam birdir görünen<br>Gayri yoktur odur seven sevilen<br>Haktır elhak her cilveye bürünen<br>\"Sırru's-sırrı\" bildim de sırdaş oldum<br><br>Kadîrî, Rifâî, Nakşî, Hâlîdî<br>Uşşâkî müsemmâ esmâ söyledi<br>\"Yedi asıl, beşi fer'idir\" dedi<br>Hacı Bektaş ile hem bektâş oldum<br><br>Melâmette buldum neş'e-i tâmmı<br>Tecerrüd eyledim attım hem nâmı<br>Aradığın buldun Basrî encâmı<br>Ânın ile ben her dem hâl~dâş oldum<br>~</span></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-08T16:35:39.233Z"
+}
