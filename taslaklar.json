@@ -1,3 +1,40 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1767890223389,
+      "title": "Kozmik okuma",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1767890223389,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-08T16:26:11.820Z",
+        "created_at": "2026-01-08T16:26:11.820Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601081938-1767890296209.mp4",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "kozmik",
+              "varlık mertebeleri",
+              "zat sırrı"
+            ],
+            "title": "Kozmik okuma",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-08T16:37:03.389Z",
+      "updated_at": "2026-01-08T16:37:46.594Z"
+    }
+  ]
 }
