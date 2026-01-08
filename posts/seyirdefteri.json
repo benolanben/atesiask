@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202601081935,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Yedi Dur~ak Risâlesi •2",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202601081756,
       "article": {
         "header": {
