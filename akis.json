@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1471,
+        "parca_adi": "Mevlâ zikridir",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/4a65ehncrqwqmqk/dilb.mp3"
+      },
+      "id": 202601091056,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1470,
         "parca_adi": "Hicaz meşkin nefesi",
         "seslendiren": "C. Asitanesi",
@@ -54,11 +64,6 @@
       "text": "Hakikatin tersi~ne",
       "id": 202601061620,
       "category": "posts/seyirdefteri/202601061620"
-    },
-    {
-      "text": "Kulluktan sultanlığa",
-      "id": 202601061608,
-      "category": "posts/seyirdefteri/202601061608"
     }
   ]
 }
