@@ -28,5 +28,6 @@
         }
       ]
     }
-  }
+  },
+  "is_protected": true
 }

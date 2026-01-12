@@ -35,5 +35,6 @@
       ]
     }
   },
-  "updated_at": "2026-01-08T16:35:39.233Z"
+  "updated_at": "2026-01-08T16:35:39.233Z",
+  "is_protected": false
 }

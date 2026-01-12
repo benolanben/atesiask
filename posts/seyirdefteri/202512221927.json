@@ -32,5 +32,6 @@
         }
       ]
     }
-  }
+  },
+  "is_protected": false
 }

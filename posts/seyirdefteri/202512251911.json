@@ -88,5 +88,6 @@
         }
       ]
     }
-  }
+  },
+  "is_protected": false
 }

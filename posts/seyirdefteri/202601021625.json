@@ -55,5 +55,6 @@
         }
       ]
     }
-  }
+  },
+  "is_protected": true
 }

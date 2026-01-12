@@ -12,7 +12,7 @@
       "tags": [
         ""
       ],
-      "title": "Gerçek Öğrenilemez",
+      "title": "Gerçek öğrenilemez",
       "subtitle": ""
     },
     "main_article": {
@@ -42,5 +42,6 @@
       ]
     }
   },
-  "updated_at": "2026-01-07T09:44:57.308Z"
+  "updated_at": "2026-01-07T09:44:57.308Z",
+  "is_protected": false
 }

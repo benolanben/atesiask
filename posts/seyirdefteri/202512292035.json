@@ -40,5 +40,6 @@
         }
       ]
     }
-  }
+  },
+  "is_protected": true
 }
