@@ -73,6 +73,7 @@ jobs:
               # Post dosyasını oku ve sadece id ve article.header'ı çıkar
               post_data=$(jq '{
                 id: .id,
+                is_protected: .is_protected,
                 article: {
                   header: .article.header
                 }
