@@ -2,6 +2,7 @@
   "isaretler": [
     {
       "id": 202601081935,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
@@ -19,6 +20,7 @@
 ,
     {
       "id": 202601081756,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601081730-1767882650926.jpg",
@@ -35,6 +37,7 @@
 ,
     {
       "id": 202601080005,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601072400-1767819603081.png",
@@ -51,6 +54,7 @@
 ,
     {
       "id": 202601080003,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601072403-1767819810485.mp4",
@@ -70,6 +74,7 @@
 ,
     {
       "id": 202601071829,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061626-1767705968042.mp4",
@@ -89,6 +94,7 @@
 ,
     {
       "id": 202601071526,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061620-1767705636134.jpg",
@@ -108,6 +114,7 @@
 ,
     {
       "id": 202601061620,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061620-1767705603743.mp4",
@@ -124,6 +131,7 @@
 ,
     {
       "id": 202601061608,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061608-1767704904248.jpg",
@@ -141,6 +149,7 @@
 ,
     {
       "id": 202601061558,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061558-1767704284911.jpg",
@@ -159,6 +168,7 @@
 ,
     {
       "id": 202601061555,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601061555-1767704113805.jpg",
@@ -177,6 +187,7 @@
 ,
     {
       "id": 202601050930,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601042254-1767556442674.jpg",
@@ -194,6 +205,7 @@
 ,
     {
       "id": 202601042210,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601042210-1767553822461.jpg",
@@ -214,6 +226,7 @@
 ,
     {
       "id": 202601042115,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601042115-1767550542695.jpg",
@@ -231,6 +244,7 @@
 ,
     {
       "id": 202601022144,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601022144-1767379480821.jpg",
@@ -248,6 +262,7 @@
 ,
     {
       "id": 202601022132,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601022132-1767378722364.mp4",
@@ -266,6 +281,7 @@
 ,
     {
       "id": 202601022125,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601022125-1767378301165.mp4",
@@ -282,6 +298,7 @@
 ,
     {
       "id": 202601021625,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601012449-1767304181440.mp4",
@@ -299,6 +316,7 @@
 ,
     {
       "id": 202601021500,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601012416-1767302199411.mp4",
@@ -319,6 +337,7 @@
 ,
     {
       "id": 202512312208,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302232-1767123159551.mp4",
@@ -335,6 +354,7 @@
 ,
     {
       "id": 202512312204,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302140-1767120011576.mp4",
@@ -353,6 +373,7 @@
 ,
     {
       "id": 202512312158,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302134-1767119683168.jpg",
@@ -369,6 +390,7 @@
 ,
     {
       "id": 202512312155,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302134-1767119643078.mp4",
@@ -385,6 +407,7 @@
 ,
     {
       "id": 202512302126,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512302126-1767119174780.mp4",
@@ -401,6 +424,7 @@
 ,
     {
       "id": 202512302118,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292133-1767033234803.mp4",
@@ -419,6 +443,7 @@
 ,
     {
       "id": 202512301652,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292127-1767032849837.jpg",
@@ -435,6 +460,7 @@
 ,
     {
       "id": 202512301124,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292122-1767032543108.mp4",
@@ -453,6 +479,7 @@
 ,
     {
       "id": 202512292101,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292101-1767031299710.mp4",
@@ -469,6 +496,7 @@
 ,
     {
       "id": 202512292035,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512292035-1767029746826.mp4",
@@ -487,6 +515,7 @@
 ,
     {
       "id": 202512292028,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282350-1766955006782.mp4",
@@ -504,6 +533,7 @@
 ,
     {
       "id": 202512291116,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282314-1766952880651.mp4",
@@ -521,6 +551,7 @@
 ,
     {
       "id": 202512282239,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282239-1766950784059.mp4",
@@ -537,6 +568,7 @@
 ,
     {
       "id": 202512282233,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282234-1766950441547.mp4",
@@ -553,6 +585,7 @@
 ,
     {
       "id": 202512282101,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512282100-1766944842082.jpg",
@@ -569,6 +602,7 @@
 ,
     {
       "id": 202512272218,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512272218-1766863109881.mp4",
@@ -585,6 +619,7 @@
 ,
     {
       "id": 202512272212,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512272212-1766862731485.mp4",
@@ -601,6 +636,7 @@
 ,
     {
       "id": 202512252208,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512252208-1766689683202.mp4",
@@ -617,6 +653,7 @@
 ,
     {
       "id": 202512251918,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251918-1766679526215.jpg",
@@ -634,6 +671,7 @@
 ,
     {
       "id": 202512251911,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512251911-1766679106758.jpg",
@@ -653,6 +691,7 @@
 ,
     {
       "id": 202512241925,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512241925-1766593501635.mp4",
@@ -669,6 +708,7 @@
 ,
     {
       "id": 202512241921,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512241921-1766593284088.mp4",
@@ -688,6 +728,7 @@
 ,
     {
       "id": 202512241912,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512241912-1766592778654.mp4",
@@ -707,6 +748,7 @@
 ,
     {
       "id": 202512231938,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512231938-1766507908172.mp4",
@@ -723,6 +765,7 @@
 ,
     {
       "id": 202512231928,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512231928-1766507296162.png",
@@ -741,6 +784,7 @@
 ,
     {
       "id": 202512222009,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512221933-1766421204732.jpg",
@@ -749,7 +793,7 @@
           "tags": [
             ""
           ],
-          "title": "Sabah neş'esi ~ 1",
+          "title": "Sabah neş'esi ~1",
           "subtitle": ""
         }
       }
@@ -757,6 +801,7 @@
 ,
     {
       "id": 202512221927,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512221927-1766420853179.mp4",
@@ -773,6 +818,7 @@
 ,
     {
       "id": 202512211156,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512211156-1766307403003.mp4",
@@ -789,6 +835,7 @@
 ,
     {
       "id": 202512202229,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202229-1766258966476.mp4",
@@ -805,6 +852,7 @@
 ,
     {
       "id": 202512202130,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202130-1766255449275.mp4",
@@ -821,6 +869,7 @@
 ,
     {
       "id": 202512202122,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202122-1766254945274.jpg",
@@ -837,6 +886,7 @@
 ,
     {
       "id": 202512202117,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512202117-1766254644948.jpg",
@@ -855,6 +905,7 @@
 ,
     {
       "id": 202512192357,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192357-1766177826390.mp4",
@@ -871,6 +922,7 @@
 ,
     {
       "id": 202512192354,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192354-1766177669958.jpg",
@@ -887,6 +939,7 @@
 ,
     {
       "id": 202512192347,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192347-1766177231398.mp4",
@@ -905,6 +958,7 @@
 ,
     {
       "id": 202512192340,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192340-1766176827197.mp4",
@@ -921,6 +975,7 @@
 ,
     {
       "id": 202512192332,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192332-1766176377387.mp4",
@@ -938,6 +993,7 @@
 ,
     {
       "id": 202512192323,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192323-1766175780209.jpg",
@@ -954,6 +1010,7 @@
 ,
     {
       "id": 202512192248,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192248-1766173685696.mp4",
@@ -970,6 +1027,7 @@
 ,
     {
       "id": 202512192239,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192239-1766173160311.jpg",
@@ -986,6 +1044,7 @@
 ,
     {
       "id": 202512192235,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192235-1766172932488.mp4",
@@ -1002,6 +1061,7 @@
 ,
     {
       "id": 202512192231,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192231-1766172694302.mp4",
@@ -1018,6 +1078,7 @@
 ,
     {
       "id": 202512192224,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192224-1766172265749.mp4",
@@ -1034,6 +1095,7 @@
 ,
     {
       "id": 202512192215,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192215-1766171746709.mp4",
@@ -1050,6 +1112,7 @@
 ,
     {
       "id": 202512192138,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192138-1766169495749.jpg",
@@ -1066,6 +1129,7 @@
 ,
     {
       "id": 202512192109,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192109-1766167749198.mp4",
@@ -1082,6 +1146,7 @@
 ,
     {
       "id": 202512192103,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192103-1766167392686.mp4",
@@ -1099,6 +1164,7 @@
 ,
     {
       "id": 202512192057,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192057-1766167063634.jpg",
@@ -1115,6 +1181,7 @@
 ,
     {
       "id": 202512192049,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192049-1766166542074.mp4",
@@ -1131,6 +1198,7 @@
 ,
     {
       "id": 202512192028,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192028-1766165293890.mp4",
@@ -1147,6 +1215,7 @@
 ,
     {
       "id": 202512192012,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512192012-1766164346894.jpg",
@@ -1163,6 +1232,7 @@
 ,
     {
       "id": 202512191935,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191935-1766162111945.mp4",
@@ -1179,6 +1249,7 @@
 ,
     {
       "id": 202512191921,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191921-1766161301741.mp4",
@@ -1196,6 +1267,7 @@
 ,
     {
       "id": 202512191900,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191900-1766160038239.mp4",
@@ -1212,6 +1284,7 @@
 ,
     {
       "id": 202512191841,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191841-1766158869451.jpg",
@@ -1228,6 +1301,7 @@
 ,
     {
       "id": 202512191831,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191831-1766158267347.mp4",
@@ -1244,6 +1318,7 @@
 ,
     {
       "id": 202512191757,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191757-1766156262879.mp4",
@@ -1263,6 +1338,7 @@
 ,
     {
       "id": 202512191523,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191523-1766147027916.jpg",
@@ -1271,7 +1347,7 @@
           "tags": [
             ""
           ],
-          "title": "Gerçek Öğrenilemez",
+          "title": "Gerçek öğrenilemez",
           "subtitle": ""
         }
       }
@@ -1279,6 +1355,7 @@
 ,
     {
       "id": 202512191516,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
@@ -1296,6 +1373,7 @@
 ,
     {
       "id": 202512191300,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191300-1766138414941.jpg",
@@ -1312,6 +1390,7 @@
 ,
     {
       "id": 202512191250,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/hyl.mp4",
@@ -1328,6 +1407,7 @@
 ,
     {
       "id": 202512191232,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512191232-1766136776385.jpg",
@@ -1346,6 +1426,7 @@
 ,
     {
       "id": 202512190100,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182500-1766095211327.jpg",
@@ -1362,6 +1443,7 @@
 ,
     {
       "id": 202512190041,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182441-1766094086179.jpg",
@@ -1378,6 +1460,7 @@
 ,
     {
       "id": 202512190039,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182438-1766093929731.jpg",
@@ -1395,6 +1478,7 @@
 ,
     {
       "id": 202512182237,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182237-1766086633676.jpg",
@@ -1411,6 +1495,7 @@
 ,
     {
       "id": 202512182152,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182152-1766083953942.jpg",
@@ -1427,6 +1512,7 @@
 ,
     {
       "id": 202512182149,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182149-1766083781225.jpg",
@@ -1443,6 +1529,7 @@
 ,
     {
       "id": 202512182121,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512182121-1766082104871.jpg",
@@ -1459,6 +1546,7 @@
 ,
     {
       "id": 202512181958,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512181958-1766077097729.jpg",
@@ -1475,6 +1563,7 @@
 ,
     {
       "id": 202512181951,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202512181937-1766075846161.jpg",
@@ -1491,6 +1580,7 @@
 ,
     {
       "id": 202512181946,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
