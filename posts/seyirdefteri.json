@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601130027,
+      "is_protected": null,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601081938-1767890296209.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "kozmik",
+            "varlık mertebeleri",
+            "zat sırrı"
+          ],
+          "title": "Kozmik okuma",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601081935,
       "is_protected": false,
       "article": {
