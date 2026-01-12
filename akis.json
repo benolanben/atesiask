@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kozmik okuma",
+      "id": 202601130027,
+      "category": "posts/seyirdefteri/202601130027"
+    },
+    {
       "text": "واذكرِ اللَّه عندَ كلِّ حَجرٍ وشجرٍ\n\nVezkürillâhe inde külli hacerin ve şecerin\n\nHer taşın ve ağacın yanında Allah'ı zik...",
       "id": 202601111854,
       "category": "varliginsevinci"
@@ -59,11 +64,6 @@
       "text": "Sen~ben~leşmeden evvel",
       "id": 202601071829,
       "category": "posts/seyirdefteri/202601071829"
-    },
-    {
-      "text": "Çınnlayan bedeni dinnle",
-      "id": 202601071526,
-      "category": "posts/seyirdefteri/202601071526"
     }
   ]
 }
