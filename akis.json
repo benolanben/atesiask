@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çok dolanık az sâde",
+      "id": 202601132246,
+      "category": "posts/seyirdefteri/202601132246"
+    },
+    {
       "text": "Bak işte yeni",
       "id": 202601132242,
       "category": "posts/seyirdefteri/202601132242"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/f7ppmke6ibygc6s/hicazg.mp3"
       },
       "id": 202601082207,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1469,
-        "parca_adi": "Nurusiyah",
-        "seslendiren": "Ç. Fidan",
-        "url": "https://www.mediafire.com/file/j6v09n9fte4d39o/nursiya.mp3"
-      },
-      "id": 202601082049,
       "category": "kaynak/baska"
     }
   ]
