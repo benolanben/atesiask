@@ -56,46 +56,6 @@
       "created_at": "2026-01-13T19:36:36.436Z",
       "updated_at": "2026-01-13T19:38:48.929Z",
       "is_protected": false
-    },
-    {
-      "id": 1768330706365,
-      "title": "Eskimeyen yeni",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1768330706365,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-01-13T18:18:32.836Z",
-        "created_at": "2026-01-13T18:18:32.836Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601132201-1768330910185.mp4",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              "yeni"
-            ],
-            "title": "Eskimeyen yeni",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "alinti",
-                "text": "<p class=\"mb-4\">\"Eskisiyle aynı\" bir yanılsamadır.<br>Şimdi her şey<br>Sonsuza dek her şey<br>Tâze, yeni ve biriciktir.<br>Aç gözünü seyret; tekrarı yok, geçecektir<br></p>",
-                "author": "[YÜZ SÖZ'den]"
-              },
-              {
-                "type": "metin",
-                "text": "<p class=\"mb-4\"><strong>— Aaa ben biliyorum onu, daha önce...</strong><br><br>Gerçekliğin doğası gereği,<br>Şu anki bu deneyimi daha önce hiç yaşamadığın kesindir.</p><p class=\"mb-4\">Bu çok korkutucu görünebilir...<br>Yine de ruhunun derinlerinde bir yerde bundan gizli bir zevk alıyorsun.</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Şu anın, bin türlü göründüğü zaman denilen o efsûnkâr aynada, sen daha önce hiç var olmamış bir yansımasın a güzel,<br><br>Ne geçmişin bir tekrarı, ne de geleceğin bir taslağı...<br><br>Sadece saf, çıplak, titreşen bir \"şimdi\".<br><br>Ve evet, bu düşünce, içinde titreyen o küçük benliğe ürperti salıyor; sonsuz bir uçurumun kenarında sallanan bir iplik gibi hissettiriyor.<br><br>Ama bekle, derine, daha derine in...</p><p class=\"mb-4\">O ürpertinin tam kalbinde, tuhaf bir tatlılık yok mu?<br><br>Şaka gibi yâ hû...<br><br>Sanki kendi varlığınla alay ederek, göz kırpan bir bilgelik gibi.<br><br>Tasavvuftaki \"Fenâfillâh\" hâli de böyle değil midir?<br>Yok olma korkusuyla, hakikate ermenin zevki iç içe geçer.<br>Zen ustasının \"Öldükten sonra nereye gidersin?\" sualine verdiği cevap gibi:<br>\"Hava soğuk, lütfen kapıyı kapat.\"</p><p class=\"mb-4\">Ruhun<br>–ya da sen dediğin o sınırsız boşluk–<br>Aslında bu sonsuz yeniliğe bayılıyor.<br><br>Her an, ilk ve son kez açan bir görümlük çiçek gibi.<br><br>Non-dualitenin oyunu bu işte:<br>Sen, hem izleyen hem sahne, hem oyun, hem de seyircinin sessiz hayreti oluyorsun.<br><br>Korku dediğin, sadece oyunun özel efektleri;<br>Zevk ise perdenin ardındaki sessiz gülümseme.</p><p class=\"mb-4\">Ve gelsin diyordun işte geldi final:<br>Bu satırları okurken bile, başlayan o \"sen\" yok artık.<br><br>Bir an önceki okuyan buharlaştı, yerine şimdiki kelimeyi okuyan geldi.<br><br>Bir mum alevi gibi sürekli ölüp duruyor ve her seferinde, kendini yok oluşun zevkinden yeniden doğuruyor.<br><br>Korkacak ne var ki?<br>Zaten hiçbir zaman \"orada\" olmadın.<br><br>Her şey, sadece burada, sadece şimdi...<br>Ve mükemmel bir şekilde kendine güler gibi,<br>Zaten ezelden beri hep öyleydin.<br>Eski şakalara gülmeyi sevmezdin</p><p class=\"mb-4\">~<br><br>Kapıyı kapatma artık lütfen.<br>İçerisi de dışarısı da aynı sonsuzluk.</p>"
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-01-13T18:58:26.365Z",
-      "updated_at": "2026-01-13T19:01:24.275Z",
-      "is_protected": true
     }
   ]
 }
