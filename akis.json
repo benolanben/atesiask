@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dönüyoruz gündüz gece",
+      "id": 202601132253,
+      "category": "posts/seyirdefteri/202601132253"
+    },
+    {
       "text": "Çok dolanık az sâde",
       "id": 202601132246,
       "category": "posts/seyirdefteri/202601132246"
@@ -48,16 +53,6 @@
         "url": "https://www.mediafire.com/file/4a65ehncrqwqmqk/dilb.mp3"
       },
       "id": 202601091056,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1470,
-        "parca_adi": "Hicaz meşkin nefesi",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/f7ppmke6ibygc6s/hicazg.mp3"
-      },
-      "id": 202601082207,
       "category": "kaynak/baska"
     }
   ]
