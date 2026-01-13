@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Temsîlî gösterim",
+      "id": 202601132129,
+      "category": "posts/seyirdefteri/202601132129"
+    },
+    {
       "text": "Kozmik okuma",
       "id": 202601130027,
       "category": "posts/seyirdefteri/202601130027"
@@ -59,11 +64,6 @@
       "text": "Boşlukla dolu",
       "id": 202601080003,
       "category": "posts/seyirdefteri/202601080003"
-    },
-    {
-      "text": "Sen~ben~leşmeden evvel",
-      "id": 202601071829,
-      "category": "posts/seyirdefteri/202601071829"
     }
   ]
 }
