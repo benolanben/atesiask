@@ -16,7 +16,9 @@
             "date_value": "",
             "mini_title": "",
             "tags": [
-              ""
+              "doğum",
+              "hapis",
+              "ölüm"
             ],
             "title": "Müebbet ten hapsi",
             "subtitle": ""
@@ -57,8 +59,8 @@
         }
       },
       "created_at": "2026-01-13T18:36:05.071Z",
-      "updated_at": "2026-01-13T18:41:44.854Z",
-      "is_protected": false
+      "updated_at": "2026-01-13T18:43:50.174Z",
+      "is_protected": true
     }
   ]
 }
