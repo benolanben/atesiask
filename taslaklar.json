@@ -1,3 +1,70 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1768330093207,
+      "title": "Canlı yayın yorumsuz",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1768330093207,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-13T18:18:32.836Z",
+        "created_at": "2026-01-13T18:18:32.836Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "canlı",
+              "yorumsuz"
+            ],
+            "title": "Canlı yayın yorumsuz",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~<br><br>Masûmiyetle, tâze gözlemlenen tek bir havucun içsel bir devrimi başlatacağı o ân geldi geliyor!<br><br>~</p>",
+                "author": "[P. Cezanne'den]"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~<br><br>Bu an, ancak düşüncelerin müdâhalesi dışında bilinçli olarak hissedilebilir ve gerçek anlamda doğrudan deneyimlenebilir. Bu yüzden şu anda dikkatinizin nerede olduğuna dikkat edin. Zira bilinçli olarak şu anda düşünce olmayan şeylere yönelmek demek dikkati bu ânın canlı varlığına yönlendirmek demektir, gerisi banttan yayın izlemektir.<br><br>~</p>",
+                "author": "[V. Pelevin zevkiyle]"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~<br><br>Uyanmak,<br>Hayatı kafanın içinde yaşamak değil,<br>Dil eldiveni olmadan dokunmak,<br>Tam temas kurmak, canlı canlı yaşamak...<br><br>~</p>",
+                "author": "[A. Kadrî]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Zihnin buzdan duvarlı labirentlerinde, henüz ilk tanecik düşmeden \"kar yağıyor\" diyen o soğuk, metalik kafa sesine kulak asma.<br><br>Çünkü her şey bitmeden çok önce, aynı ses sana \"her şey bitti\" diye fısıldayacak.<br>Ve daha yanlış yapma ihtimâlin bile belirmeden, \"yanlış yapacaksın\" diye felç edecek seni.</p><p class=\"mb-4\">İlkin bunun ayırdına net bir şekilde varalım:<br>\"Bu ses, sen değilsin\"<br><br>O, ikinci el idrakların paslı çarkı;<br>Sabit fikirlerin demir kafesi;<br>Kuru kuruya sevmeliklerin tozlu raflarındaki mumyalanmış duygular.<br><br>O, çok bilmişliğin soğuk nefesiyle bu ânı buzlarla kaplar, seni ya dünün hücresine, ya yarının hayâletine hapseder, şimdi ile canlı temâsını keser.</p><p class=\"mb-4\">Öyleyse, dünkü nefesi içinde tutma...<br>Zaten tutamıyorsun değil mi?<br><br>Çünkü sen istesen de istemsen de hayat her nefes yeni, her sahnesi çok canlı...<br><br>Düşüncenin aracılığına teslim olma.<br>Filtreli gözlükle bakma,<br>Örtü altından dokunma<br>Doğrudan dokun, temas et!<br><br>Gerçeği, şimdi burada, henüz donmamışken, sıcağı sıcağına gör.<br><br>Kar tanesinin avuç içinde eriyişindeki sessiz patlamayı; her şeyin başlangıç ve bitişi aynı anda barındırdığı o uçurum ânı; yanlışın ve doğrunun aynı yaprağın iki yüzü olduğu o çıplak farkındalığı doğrudan, aracısız yaşa.</p><p class=\"mb-4\">Zihnin sis perdesini yırt.<br>Tasavvufun ‘vahdet’ dediği,<br>Zen’in ‘boşluk’ diye işaret ettiği,<br>Non-dualitenin ‘bir’ olan’da eridiği o noktada<br>Canlı yayında kal.<br><br>Burada, \"ben\" ile \"dünya\" arasında<br>Zihinde tutulan hayâlî sınır erir.<br><br>Gören ile görülen,<br>Bilen ile bilinen,<br>Aynı ırmağın suyunda yıkanır.</p><p class=\"mb-4\">Nefesin kesilip de<br>O an geldiğinde,<br>Her şey gerçekten bittiğinde<br>– Ki bitecek a–<br><br>Zihnin \"bitti\" diye tam tamına kurarken kendini,<br>Bu sefer sen gülümseyeceksin...<br><br>Ziraa sen, o sürekli yorum yapan, yargılayan, korkutan ‘ses’ olmadığını çoktan anlamış olacaksın.<br><br>Sen, bitmeyenin ta kendisisin.<br>Bak \"Huve'l Bâkî\" yazıyor, okuyabilirsin</p>"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\"><em>Ezel göğünde gör nîmet bulutunu<br>Ebed yerine döktü devlet suyunu</em><br></p>",
+                "author": "[Sırların Gül Bahçesi'nden]"
+              },
+              {
+                "type": "ses",
+                "text": "",
+                "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601132153-1768330400049.jpg",
+                "url": "https://benolanben.com/dinle/baska&1425"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Kar elbette düşer, erir belki şimdi.<br>Sense, o karın düştüğü ve eridiği büyük, sessiz, ş~aşkın bakışsın.<br><br>Öyle kal ey sevgili...</p>"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-13T18:48:13.207Z",
+      "updated_at": "2026-01-13T18:52:30.066Z",
+      "is_protected": false
+    }
+  ]
 }
