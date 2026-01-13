@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Eskimeyen yeni",
+      "id": 202601132240,
+      "category": "posts/seyirdefteri/202601132240"
+    },
+    {
       "text": "Canlı yayın yorumsuz",
       "id": 202601132234,
       "category": "posts/seyirdefteri/202601132234"
@@ -59,11 +64,6 @@
       "text": "Yedi Dur~ak Risâlesi •2",
       "id": 202601081935,
       "category": "posts/seyirdefteri/202601081935"
-    },
-    {
-      "text": "Bir k~aşık suda",
-      "id": 202601081756,
-      "category": "posts/seyirdefteri/202601081756"
     }
   ]
 }
