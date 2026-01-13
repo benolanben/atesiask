@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Müebbet ten hapsi",
+      "id": 202601132144,
+      "category": "posts/seyirdefteri/202601132144"
+    },
+    {
       "text": "Temsîlî gösterim",
       "id": 202601132129,
       "category": "posts/seyirdefteri/202601132129"
@@ -59,11 +64,6 @@
       "text": "CANLI YAYIN: Gerçek ol~an",
       "id": 202601080005,
       "category": "posts/seyirdefteri/202601080005"
-    },
-    {
-      "text": "Boşlukla dolu",
-      "id": 202601080003,
-      "category": "posts/seyirdefteri/202601080003"
     }
   ]
 }
