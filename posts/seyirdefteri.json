@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601132242,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601132239-1768333169686.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ayna",
+            "cihan",
+            "yeni"
+          ],
+          "title": "Bak işte yeni",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601132240,
       "is_protected": true,
       "article": {
