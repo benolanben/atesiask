@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601132144,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601132142-1768329755683.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "doğum",
+            "hapis",
+            "ölüm"
+          ],
+          "title": "Müebbet ten hapsi",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601132129,
       "is_protected": false,
       "article": {
