@@ -2,7 +2,7 @@
   "isaretler": [
     {
       "id": 202601130027,
-      "is_protected": null,
+      "is_protected": true,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601081938-1767890296209.mp4",
