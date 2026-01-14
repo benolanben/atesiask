@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zamanda anlaşılanın anda anlamsızlığı",
+      "id": 202601150001,
+      "category": "posts/seyirdefteri/202601150001"
+    },
+    {
       "text": "Dönüyoruz gündüz gece",
       "id": 202601132253,
       "category": "posts/seyirdefteri/202601132253"
@@ -44,16 +49,6 @@
       "text": "واذكرِ اللَّه عندَ كلِّ حَجرٍ وشجرٍ\n\nVezkürillâhe inde külli hacerin ve şecerin\n\nHer taşın ve ağacın yanında Allah'ı zik...",
       "id": 202601111854,
       "category": "varliginsevinci"
-    },
-    {
-      "text": {
-        "sira_no": 1471,
-        "parca_adi": "Mevlâ zikridir",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/4a65ehncrqwqmqk/dilb.mp3"
-      },
-      "id": 202601091056,
-      "category": "kaynak/baska"
     }
   ]
 }
