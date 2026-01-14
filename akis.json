@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Uçsuzluk nerede",
+      "id": 202601150011,
+      "category": "posts/seyirdefteri/202601150011"
+    },
+    {
       "text": "Zamanda anlaşılanın anda anlamsızlığı",
       "id": 202601150001,
       "category": "posts/seyirdefteri/202601150001"
@@ -44,11 +49,6 @@
       "text": "Kozmik okuma",
       "id": 202601130027,
       "category": "posts/seyirdefteri/202601130027"
-    },
-    {
-      "text": "واذكرِ اللَّه عندَ كلِّ حَجرٍ وشجرٍ\n\nVezkürillâhe inde külli hacerin ve şecerin\n\nHer taşın ve ağacın yanında Allah'ı zik...",
-      "id": 202601111854,
-      "category": "varliginsevinci"
     }
   ]
 }
