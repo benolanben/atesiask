@@ -1,15 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 1768456475672,
-      "name": "test",
-      "email": "tse@1.com",
-      "message": "test",
-      "reason": "Teşekkür",
-      "is_read": 0,
-      "created_at": "2026-01-15T05:54:35.673Z"
-    },
-    {
       "id": 1766390828587,
       "name": "Adnan Hacıömeroğlu ",
       "email": "adnanhacmeroglu@gmail.com",
