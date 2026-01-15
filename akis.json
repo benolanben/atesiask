@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Düş~düğümüz~düş",
+      "id": 202601150908,
+      "category": "posts/seyirdefteri/202601150908"
+    },
+    {
       "text": "Uçsuzluk nerede",
       "id": 202601150011,
       "category": "posts/seyirdefteri/202601150011"
@@ -44,11 +49,6 @@
       "text": "Temsîlî gösterim",
       "id": 202601132129,
       "category": "posts/seyirdefteri/202601132129"
-    },
-    {
-      "text": "Kozmik okuma",
-      "id": 202601130027,
-      "category": "posts/seyirdefteri/202601130027"
     }
   ]
 }
