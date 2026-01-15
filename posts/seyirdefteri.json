@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601160115,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ayna",
+            "gülşen-i raz",
+            "miraç"
+          ],
+          "title": "Miraç aynasına yansıyan",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202601160028,
       "is_protected": false,
       "article": {
