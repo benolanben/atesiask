@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kayıplarla varılır gayba",
+      "id": 202601160028,
+      "category": "posts/seyirdefteri/202601160028"
+    },
+    {
       "text": {
         "sira_no": 1473,
         "parca_adi": "Bin gül",
@@ -54,11 +59,6 @@
       "text": "Eskimeyen yeni",
       "id": 202601132240,
       "category": "posts/seyirdefteri/202601132240"
-    },
-    {
-      "text": "Canlı yayın yorumsuz",
-      "id": 202601132234,
-      "category": "posts/seyirdefteri/202601132234"
     }
   ]
 }
