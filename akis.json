@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1473,
+        "parca_adi": "Bin gül",
+        "seslendiren": "N. Ahıskan",
+        "url": "https://www.mediafire.com/file/1tyg28ab5040n83/bingul.mp3"
+      },
+      "id": 202601151204,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1472,
         "parca_adi": "Merhaba ey",
         "seslendiren": "A. Aşk",
@@ -49,11 +59,6 @@
       "text": "Canlı yayın yorumsuz",
       "id": 202601132234,
       "category": "posts/seyirdefteri/202601132234"
-    },
-    {
-      "text": "Müebbet ten hapsi",
-      "id": 202601132144,
-      "category": "posts/seyirdefteri/202601132144"
     }
   ]
 }
