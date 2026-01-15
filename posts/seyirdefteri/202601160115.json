@@ -1,0 +1,83 @@
+{
+  "id": 202601160115,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-15T21:24:10.686Z",
+  "created_at": "2026-01-15T22:15:07.051Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "ayna",
+        "gülşen-i raz",
+        "miraç"
+      ],
+      "title": "Miraç aynasına yansıyan",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/mirac-aynasina-yansiyan.mp3",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601152515-1768515306646.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Ve huve bil-ufuki-l-a’lâ<br>Śumme denâ fetedellâ<br>Fekâne kâbe kavseyni ev ednâ<br></em>Ve o en yüksek ufukta idi<br>Daha sonra yaklaştı, derken aşağı sarktı ve iyice sokuldu; aralarında iki yay mesafesi kalıncaya kadar hatta daha da yakınına<br></p>",
+          "author": "[Sûre-i Necm'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Miraca ağın, hepiniz de peygamber soyusunuz;<br>Öpün O Ay’ın yanağını<br>Zira dama çıkmış, yücelmişsiniz işte.<br></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Sanma gelen bu âleme insan gelir, insan gider,<br>Enfüste mirâç etmeyen nâdân gelir, nâdân gider.<br></p>",
+          "author": "[Ş. Saruhânî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Yetmiş bin hicâb geçeriz<br>Hakk'ı her şeyden sezeriz<br><strong>Her dem mîraç biz ederiz<br>Kimse görmez mîrâcımız</strong><br></p>",
+          "author": "[Yâkupzâde'den]"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601152515-1768515308592.jpg",
+          "url": "https://benolanben.com/dinle/baska&576"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Aydınlanma bir yükseliş (miraç) değil.<br>Bu, bir çöküş.<br>Sistemin, kendi temel gerçekliğine çöküşü...<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~<br><br>Kürsî'den eyler tedellā dem-be-dem<br>Sırr-ı Ḥaḳ’dan Sidre’ye iki ḳadem<br><br>~<br><br>Öyle inananın mirâcı olan<br>\"İkâme-i salât\"<br>Ağacın kökünden su emmesi<br>Ve bunun işâretiyse meyve vermesi<br><br>~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Şimdi gök~yüzü•m•de gaybolma havasındayımmm...</strong></p><p class=\"mb-4\"><strong><br><em>Aynalarla dolu bir evde yaşıyoruz ve pencerelerden dışarı baktığımızı sanıyoruz.<br></em></strong></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><span class=\"vurgulu\">Vücûd giymeyi özler tanımak için kendi kendini<br>Bu yüzden mirâç yapan yine görür hemen kendini<br><br>Her kim ki ölesiye olursa rûhuna aç<br>Onun payına düşer ALLAH'tan böyle mirâç<br><br>Kendi özüne secde ile bütünleşti can<br>Her nefes mirâç yapmış gibi duydu heyecan<br><br>Gel şimdi hicâbın aç, senden ayrıl sana kaç<br>Sana gelir cümle yol, sen~de bulasın mirâç</span></p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601152515-1768515310608.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-15T22:15:07.051Z",
+  "is_protected": true
+}
