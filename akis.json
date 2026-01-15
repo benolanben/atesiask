@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Miraç aynasına yansıyan",
+      "id": 202601160115,
+      "category": "posts/seyirdefteri/202601160115"
+    },
+    {
       "text": "Kayıplarla varılır gayba",
       "id": 202601160028,
       "category": "posts/seyirdefteri/202601160028"
@@ -54,11 +59,6 @@
       "text": "Bak işte yeni",
       "id": 202601132242,
       "category": "posts/seyirdefteri/202601132242"
-    },
-    {
-      "text": "Eskimeyen yeni",
-      "id": 202601132240,
-      "category": "posts/seyirdefteri/202601132240"
     }
   ]
 }
