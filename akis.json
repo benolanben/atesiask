@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Eski hırkayı giydirme",
+      "id": 202601172057,
+      "category": "posts/seyirdefteri/202601172057"
+    },
+    {
       "text": "~\n\nÇirk-âb-ı dünyâdan el çeküb... ❞\n\nHayır hayır buraya insanlığın karmaşıklığından kurtulmak için filan düşmedin. \n\nBur...",
       "id": 202601170816,
       "category": "sabahnesesi"
@@ -54,11 +59,6 @@
       "text": "Dönüyoruz gündüz gece",
       "id": 202601132253,
       "category": "posts/seyirdefteri/202601132253"
-    },
-    {
-      "text": "Çok dolanık az sâde",
-      "id": 202601132246,
-      "category": "posts/seyirdefteri/202601132246"
     }
   ]
 }
