@@ -1,3 +1,49 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1768672738555,
+      "title": "Yağmurun sesine b~ak",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1768672738555,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-17T17:55:17.648Z",
+        "created_at": "2026-01-17T17:55:17.648Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Yağmurun sesine b~ak",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Huzur bulmak için, onun için mücadele etmeyi, onu aramayı bırakmak gerek<br>Çünkü bir şeyi arama niyeti, o şeyin henüz burada olmadığının gizli kabulünü gerektirir.</p><p class=\"mb-4\">İlâhî, semâvî, aşkın doğamıza geri dönmeyi sağlayan tek eylem (ya da eylemsizlik) her şeyi olduğu gibi, şu anki hâliyle kabul etmektir.<br>Evet bu, \"RIZA\" demektir</p><p class=\"mb-4\">Şikayet etmeden veya coşkuya kapılmadan, bu anda var olanlara tam güvenerek, hiçbir eksiklik hissetmeden \"şimdi\"de yaşamayı öğrenmek...</p><p class=\"mb-4\">Ve şimdi burada hazır bulunursan, aradığı her şeyi bulabilirsin;<br>yürüyüşün bir sonraki basamağı da dahil...<br>Ki o basamak, başka hiçbir yerde görünemez zaten...</p><p class=\"mb-4\">Çünkü bütün yolculuklar, bulunduğumuz yeden başlar ve yol, yürüdükçe açılmaya başlar...</p><p class=\"mb-4\">İşte bayram, yenilik ve \"temiz kıyafetler giyinmek\" benim için bu anlama geliyor.<br></p>",
+                "author": "[A. Kadrî]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\"><strong>••<br>••<br>•<br></strong></p><p class=\"mb-4\">İçinde bayram sevinci, Bayrâmî zevkinden hatırladı:<br>\"Velîye her gün bayramdı\"</p><p class=\"mb-4\">Bir an içine düşdü:<br>Gökyüzünü kovalamayı bıraktığım an, zaten onun içinde yüzüyorum.<br>Ve nefesimi tutmak için çabaladığım sürece boğuluyorum.</p><p class=\"mb-4\">İşte ‘temiz giysiler’ de böyle...</p><p class=\"mb-4\"></p><p class=\"mb-4\">Üzerimdeki ‘benlik’ kostümünün ağırlığını, kirini, ter kokusunu hissedip onun sadece giyilmiş bir elbise olduğunu ve pek tabi çıkarılabileceğini idrak etmek.</p><p class=\"mb-4\">Ve o elbisenin altında, hiç doğmamış, hiç ölmeyecek olan…<br>Kirlenmekten, temizlenmekten münezzeh olan...</p><p class=\"mb-4\">Uykusunun ağırlığına teslim olmadan, hiç unutmadığı bir gerçeği hatırlar gibi oldu:</p><p class=\"mb-4\">Huzur da<br>Mücâdele de<br>Unutuş da<br>Hatırlayış da<br>Sen de<br>Ben de…</p><p class=\"mb-4\">Hepsi bu büyük boşlukta çakan bir şimşek.<br>Geriye sadece yağmurun sesi kalır.</p><p class=\"mb-4\">Ki o yağmur da...<br>Aşka davet ede dede zaten hep yağıyor işte...</p>"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\"><strong><em>Ezel göğünde gör nîmet bulutunu<br>Ebed yerine döktü devlet suyunu</em></strong></p>",
+                "author": "[Sırların Gül Bahçesi'nden]"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-17T17:58:58.555Z",
+      "updated_at": "2026-01-17T18:01:13.432Z",
+      "is_protected": false
+    }
+  ]
 }
