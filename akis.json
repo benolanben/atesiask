@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yağmurun sesine b~ak",
+      "id": 202601172108,
+      "category": "posts/seyirdefteri/202601172108"
+    },
+    {
       "text": "Eski hırkayı giydirme",
       "id": 202601172057,
       "category": "posts/seyirdefteri/202601172057"
@@ -54,11 +59,6 @@
       "text": "Zamanda anlaşılanın anda anlamsızlığı",
       "id": 202601150001,
       "category": "posts/seyirdefteri/202601150001"
-    },
-    {
-      "text": "Dönüyoruz gündüz gece",
-      "id": 202601132253,
-      "category": "posts/seyirdefteri/202601132253"
     }
   ]
 }
