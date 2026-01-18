@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dil~hâneden selâm selâm",
+      "id": 202601181844,
+      "category": "posts/seyirdefteri/202601181844"
+    },
+    {
       "text": "Kendini kaybetmek imkan~sız",
       "id": 202601181541,
       "category": "posts/seyirdefteri/202601181541"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/1tyg28ab5040n83/bingul.mp3"
       },
       "id": 202601151204,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1472,
-        "parca_adi": "Merhaba ey",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/j25q2vo115uunui/merhabaey.mp3"
-      },
-      "id": 202601150957,
       "category": "kaynak/baska"
     }
   ]
