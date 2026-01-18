@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kendini kaybetmek imkan~sız",
+      "id": 202601181541,
+      "category": "posts/seyirdefteri/202601181541"
+    },
+    {
       "text": {
         "sira_no": 1475,
         "parca_adi": "Bir bilsen âh",
@@ -64,11 +69,6 @@
       },
       "id": 202601150957,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Düş~düğümüz~düş",
-      "id": 202601150908,
-      "category": "posts/seyirdefteri/202601150908"
     }
   ]
 }
