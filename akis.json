@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1474,
+        "parca_adi": "Divane miyem",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/iyxixgkym2zriut/omrunb.mp3"
+      },
+      "id": 202601181129,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Yağmurun sesine b~ak",
       "id": 202601172108,
       "category": "posts/seyirdefteri/202601172108"
@@ -54,11 +64,6 @@
       "text": "Uçsuzluk nerede",
       "id": 202601150011,
       "category": "posts/seyirdefteri/202601150011"
-    },
-    {
-      "text": "Zamanda anlaşılanın anda anlamsızlığı",
-      "id": 202601150001,
-      "category": "posts/seyirdefteri/202601150001"
     }
   ]
 }
