@@ -34,45 +34,6 @@
       "created_at": "2026-01-17T18:13:26.450Z",
       "updated_at": "2026-01-17T18:31:54.003Z",
       "is_protected": true
-    },
-    {
-      "id": 1768673305954,
-      "title": "Kendini kaybetmek imkan~sız",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1768673305954,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-01-17T18:07:54.966Z",
-        "created_at": "2026-01-17T18:07:54.966Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601172110-1768673444358.mp4",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              "dalga",
-              "deniz",
-              "kendini kaybetmek",
-              "korku",
-              "sobe"
-            ],
-            "title": "Kendini kaybetmek imkan~sız",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": ""
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-01-17T18:08:25.954Z",
-      "updated_at": "2026-01-17T18:10:24.316Z",
-      "is_protected": false
     }
   ]
 }
