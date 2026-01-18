@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bilmediğin her şeye şükret",
+      "id": 202601190059,
+      "category": "posts/seyirdefteri/202601190059"
+    },
+    {
       "text": "Dil~hâneden selâm selâm",
       "id": 202601181844,
       "category": "posts/seyirdefteri/202601181844"
@@ -54,16 +59,6 @@
       "text": "Kayıplarla varılır gayba",
       "id": 202601160028,
       "category": "posts/seyirdefteri/202601160028"
-    },
-    {
-      "text": {
-        "sira_no": 1473,
-        "parca_adi": "Bin gül",
-        "seslendiren": "N. Ahıskan",
-        "url": "https://www.mediafire.com/file/1tyg28ab5040n83/bingul.mp3"
-      },
-      "id": 202601151204,
-      "category": "kaynak/baska"
     }
   ]
 }
