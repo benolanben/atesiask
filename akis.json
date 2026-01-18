@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1475,
+        "parca_adi": "Bir bilsen âh",
+        "seslendiren": "P. Hanım",
+        "url": "https://www.mediafire.com/file/3itibfeq56rqtm3/birbilsenah.mp3"
+      },
+      "id": 202601181420,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1474,
         "parca_adi": "Divane miyem",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       "text": "Düş~düğümüz~düş",
       "id": 202601150908,
       "category": "posts/seyirdefteri/202601150908"
-    },
-    {
-      "text": "Uçsuzluk nerede",
-      "id": 202601150011,
-      "category": "posts/seyirdefteri/202601150011"
     }
   ]
 }
