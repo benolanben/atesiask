@@ -1,3 +1,41 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1768751085824,
+      "title": "Bilmediğin her şeye şükret",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1768751085824,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-18T15:42:17.961Z",
+        "created_at": "2026-01-18T15:42:17.961Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601181848-1768751320635.mp4",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "belirsizlik",
+              "bilmemek",
+              "settar"
+            ],
+            "title": "Bilmediğin her şeye şükret",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-18T15:44:45.824Z",
+      "updated_at": "2026-01-18T15:48:14.754Z",
+      "is_protected": false
+    }
+  ]
 }
