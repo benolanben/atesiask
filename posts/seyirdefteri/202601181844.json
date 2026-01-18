@@ -1,0 +1,39 @@
+{
+  "id": 202601181844,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-17T18:07:54.966Z",
+  "created_at": "2026-01-18T15:44:27.854Z",
+  "article": {
+    "header": {
+      "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/dil-haneden-148426340.mp4",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "canlı",
+        "sabah neşesi"
+      ],
+      "title": "Dil~hâneden selâm selâm",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>Nûh Nebî, tufanı önceden haber vermedi, davet etti davet<br>Yeri hazır olan her tecellî, gökten yere iner hayret, hayret</em></p><p class=\"mb-4\"><br>\"Pâdişâh konmaz saraya, hâne mamûr olmadan\" zevkiyle<br>Hep olduğundan, olduğu anlaşılmayandan selâm selâm olsun...<br><br>Ölmeden bir önceki nefes,<br><strong>Ölüm ve aşkın,<br></strong>Düşmüş insanı,<br>Düşmediği yere taşıyan<br>Ateşten iki kanat olduğu anlaşılmış olur.<br><br>Cân u gönülden dilerim<br>Kanatlarımızın altındaki rüzgar<br>Seni beni güneşin yelken açtığı<br>Ve ayın yürüdüğü yerlere taşısın.<br><br>Her nefes seni beni taşıyanla hele bir tanışasın...</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Ne mutludur o yüzü kutlu piyâde ki<br>Şâh, onu her solukta, mat oluş hânesine ulaştırır.<br></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "metin",
+          "text": ""
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-18T15:44:27.854Z",
+  "is_protected": true
+}
