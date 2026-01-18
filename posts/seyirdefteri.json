@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202601181541,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601172110-1768673444358.mp4",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "dalga",
+            "deniz",
+            "kendini kaybetmek",
+            "korku",
+            "sobe"
+          ],
+          "title": "Kendini kaybetmek imkan~sız",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601172108,
       "is_protected": false,
       "article": {
