@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Delişmen",
+      "id": 202601191859,
+      "category": "posts/seyirdefteri/202601191859"
+    },
+    {
       "text": {
         "sira_no": 1476,
         "parca_adi": "Şîvekâr'ın Çıktığıdır",
@@ -59,11 +64,6 @@
       "text": "~\n\nÇirk-âb-ı dünyâdan el çeküb... ❞\n\nHayır hayır buraya insanlığın karmaşıklığından kurtulmak için filan düşmedin. \n\nBur...",
       "id": 202601170816,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Miraç aynasına yansıyan",
-      "id": 202601160115,
-      "category": "posts/seyirdefteri/202601160115"
     }
   ]
 }
