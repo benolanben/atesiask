@@ -1,0 +1,70 @@
+{
+  "id": 202601191859,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-18T21:57:51.035Z",
+  "created_at": "2026-01-19T15:59:50.790Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182504-1768773897106.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "delilik",
+        "normal"
+      ],
+      "title": "Delişmen",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Ko desinler sana deli divane yürü git<br>Ko ayruklar sözünü sen seni güt</p><p class=\"mb-4\">~</p>",
+          "author": "[Y. Emre'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Erenlerin çoktur yolu<br>Cümlesine dedik belî<br>Ko desinler bize deli<br>Usludan yeğdir delimiz</p><p class=\"mb-4\">~</p>",
+          "author": "[B. Muhyî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Hürriyet ve emniyet...<br>Deliliğimde hem özgürlüğü hem de güvenliği buldum; yalnızlığın özgürlüğünü ve anlaşılmaktan kurtulmanın güvenliğini <strong>çünkü bizi anlayan herkes, içimizdeki bir şeyi esir alıyorlar sanki...</strong></p><p class=\"mb-4\">~</p>",
+          "author": "[H. Cibran'dan]"
+        },
+        {
+          "type": "galeri",
+          "text": "",
+          "images": [
+            "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182505-1768773900889.jpg",
+            "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182505-1768773902584.jpg",
+            "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182505-1768773904361.jpg"
+          ],
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182504-1768773898986.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İşte bunu anladığım an, beni içerde tutan kafesimin kapısının aslında içeriden kilitli olduğunu da fark ettim.</p><p class=\"mb-4\">Anahtar, \"ben\" dediğim o son buz parçasıydı, dilimin üstünde eriyen.</p><p class=\"mb-4\">Dilimden düşmeyen, dilimden düştüğünde,<br>Hem hapishanenin hem de hapishane bekçisinin buhar olup havaya karıştığını gördüm.</p><p class=\"mb-4\">Gök-yüzü, tek bir gözün beyazıydı,<br>Kendi kendine bakıyordu yer-yüzünde</p><p class=\"mb-4\">Artık ne kaçıyordum ne de aranıyordum.<br>Bir evim yoktu, varacağım yer de<br>Saplanan köklerim yoktu, kırılacak dallarım da<br><br>Sadece rüzgarın içinde kalan bir boşluktum<br>Öyle estikçe ıslık çalan.</p><p class=\"mb-4\">Aynanın önündekilerin,<br>Normal! davranmadıkları<br>Kendilerine benzemediği için risk olarak görüp<br>Deli, divane, mecnun, tilbe dedikleri,<br><br>Belki de aynanın arkasındaki sessizlikti;<br><br>Bütün yansımalar orada doğar ve ölürdü,<br>Ardında hiç iz bırakmadan...</p><p class=\"mb-4\"><strong>~<br>Öyleyse şimdi bana ister deli de, ister veli a güzel,<br></strong>İsimler aynı ırmağa atılan taşlar gibi,<br>Bir anda halka halka açılır...<br>Sonra su onları nasıl olsa unutur.</p><p class=\"mb-4\">Nasıl olsa Ben, o unutuşun ta kendisiyim...</p><p class=\"mb-4\">~<br><br>\"Bir deli, bir kuyuya, bir taş atmış\" işitmedin mi?</p><p class=\"mb-4\">Kırk akıllı hâlâ bu satırları okuyup hatırlama derdinde<br>Oysa aynı unutuşun içinde yankılanan aynı gülen ses.</p><p class=\"mb-4\">Durduk yere gülünür mü?</p><p class=\"mb-4\">Deli mi ne!</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601191859-1768838397191.jpg",
+          "url": "https://benolanben.com/dinle/baska&1474"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Çünkü sistemin hatasını bulanlar,<br>Sisteme her zaman ‘hata’ olarak rapor edilir.<br>Ben de raporu yazdım:<br>Kullanıcı, user interface’i aştı<br>Ve source code’da boşluk buldu.<br>Boşluk, kendine bakıyordu.<br>İşlem tamam.<br>Ve birden ‘deli’ damgası,<br>'Onur Nişanı'na dönüştü.</p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><em>(İMZA YERİNE:<br>Bu mesaj, çoktan kendi kendini imha etmiştir.<br>Okudum sanıyorsan, aslında hiç okumamışsındır)</em></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-19T15:59:50.790Z",
+  "is_protected": false
+}
