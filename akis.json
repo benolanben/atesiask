@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1476,
+        "parca_adi": "Şîvekâr'ın Çıktığıdır",
+        "seslendiren": "İ. Özel",
+        "url": "https://www.mediafire.com/file/f9e5j8toewxdgd5/sivkar.mp3"
+      },
+      "id": 202601191348,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Bilmediğin her şeye şükret",
       "id": 202601190059,
       "category": "posts/seyirdefteri/202601190059"
@@ -54,11 +64,6 @@
       "text": "Miraç aynasına yansıyan",
       "id": 202601160115,
       "category": "posts/seyirdefteri/202601160115"
-    },
-    {
-      "text": "Kayıplarla varılır gayba",
-      "id": 202601160028,
-      "category": "posts/seyirdefteri/202601160028"
     }
   ]
 }
