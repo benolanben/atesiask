@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202601191859,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601182504-1768773897106.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "delilik",
+            "normal"
+          ],
+          "title": "Delişmen",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601190059,
       "is_protected": false,
       "article": {
