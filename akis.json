@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1477,
+        "parca_adi": "Esrârnâme'den AŞK",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/6a20atbehsgjlu0/esrarnameden.mp3"
+      },
+      "id": 202601201103,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Delişmen",
       "id": 202601191859,
       "category": "posts/seyirdefteri/202601191859"
@@ -59,11 +69,6 @@
       "text": "Eski hırkayı giydirme",
       "id": 202601172057,
       "category": "posts/seyirdefteri/202601172057"
-    },
-    {
-      "text": "~\n\nÇirk-âb-ı dünyâdan el çeküb... ❞\n\nHayır hayır buraya insanlığın karmaşıklığından kurtulmak için filan düşmedin. \n\nBur...",
-      "id": 202601170816,
-      "category": "sabahnesesi"
     }
   ]
 }
