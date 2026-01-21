@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gerçeğin aksi zihinde",
+      "id": 202601211946,
+      "category": "posts/seyirdefteri/202601211946"
+    },
+    {
       "text": "Aynalı sudan hikâye",
       "id": 202601211936,
       "category": "posts/seyirdefteri/202601211936"
@@ -64,11 +69,6 @@
       },
       "id": 202601181129,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Yağmurun sesine b~ak",
-      "id": 202601172108,
-      "category": "posts/seyirdefteri/202601172108"
     }
   ]
 }
