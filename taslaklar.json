@@ -1,6 +1,42 @@
 {
   "isaretler": [
     {
+      "id": 1769014206481,
+      "title": "Kırılma sonrası fragmanlar",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1769014206481,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-21T16:29:15.073Z",
+        "created_at": "2026-01-21T16:29:15.076Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "çuklat",
+              "ölüm"
+            ],
+            "title": "Kırılma sonrası fragmanlar",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-21T16:50:06.481Z",
+      "updated_at": "2026-01-21T16:50:16.437Z",
+      "is_protected": false
+    },
+    {
       "id": 1769014121628,
       "title": "Son nefesim",
       "category": "seyirdefteri",
