@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601211946,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/gercegin-aksi-148181033.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "algı kapıları",
+            "berrak zihin",
+            "sabah"
+          ],
+          "title": "Gerçeğin aksi zihinde",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601211936,
       "is_protected": true,
       "article": {
