@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Aynalı sudan hikâye",
+      "id": 202601211936,
+      "category": "posts/seyirdefteri/202601211936"
+    },
+    {
       "text": {
         "sira_no": 1477,
         "parca_adi": "Esrârnâme'den AŞK",
@@ -64,11 +69,6 @@
       "text": "Yağmurun sesine b~ak",
       "id": 202601172108,
       "category": "posts/seyirdefteri/202601172108"
-    },
-    {
-      "text": "Eski hırkayı giydirme",
-      "id": 202601172057,
-      "category": "posts/seyirdefteri/202601172057"
     }
   ]
 }
