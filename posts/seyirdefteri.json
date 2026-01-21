@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601211936,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601191912-1768839163273.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aksesuar",
+            "ayna",
+            "kostüm",
+            "yansıma"
+          ],
+          "title": "Aynalı sudan hikâye",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601191859,
       "is_protected": false,
       "article": {
