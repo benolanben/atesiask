@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Son nefesim",
+      "id": 202601222206,
+      "category": "posts/seyirdefteri/202601222206"
+    },
+    {
       "text": "Gerçeğin aksi zihinde",
       "id": 202601211946,
       "category": "posts/seyirdefteri/202601211946"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/3itibfeq56rqtm3/birbilsenah.mp3"
       },
       "id": 202601181420,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1474,
-        "parca_adi": "Divane miyem",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/iyxixgkym2zriut/omrunb.mp3"
-      },
-      "id": 202601181129,
       "category": "kaynak/baska"
     }
   ]
