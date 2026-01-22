@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kırılma sonrası fragmanlar",
+      "id": 202601222208,
+      "category": "posts/seyirdefteri/202601222208"
+    },
+    {
       "text": "Son nefesim",
       "id": 202601222206,
       "category": "posts/seyirdefteri/202601222206"
@@ -54,16 +59,6 @@
       "text": "Kendini kaybetmek imkan~sız",
       "id": 202601181541,
       "category": "posts/seyirdefteri/202601181541"
-    },
-    {
-      "text": {
-        "sira_no": 1475,
-        "parca_adi": "Bir bilsen âh",
-        "seslendiren": "P. Hanım",
-        "url": "https://www.mediafire.com/file/3itibfeq56rqtm3/birbilsenah.mp3"
-      },
-      "id": 202601181420,
-      "category": "kaynak/baska"
     }
   ]
 }
