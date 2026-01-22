@@ -1,6 +1,28 @@
 {
   "isaretler": [
     {
+      "id": 202601222206,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601212039-1769017140885.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kelâm-ı Azîz-i Melâmîye",
+            "NDE",
+            "hayat",
+            "merkez",
+            "nefes",
+            "ölüm"
+          ],
+          "title": "Son nefesim",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601211946,
       "is_protected": false,
       "article": {
