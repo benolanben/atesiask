@@ -1,3 +1,39 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1769194275538,
+      "title": "Var~oluş her dem yeni",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1769194275538,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-23T18:45:15.785Z",
+        "created_at": "2026-01-23T18:45:15.785Z",
+        "article": {
+          "header": {
+            "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/var-olus-her-dem-148834079.webm",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Var~oluş her dem yeni",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-23T18:51:15.538Z",
+      "updated_at": "2026-01-23T18:57:06.663Z",
+      "is_protected": false
+    }
+  ]
 }
