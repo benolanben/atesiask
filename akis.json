@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "S~alın bir~az sevgilim",
+      "id": 202601232147,
+      "category": "posts/seyirdefteri/202601232147"
+    },
+    {
       "text": "Kırılma sonrası fragmanlar",
       "id": 202601222208,
       "category": "posts/seyirdefteri/202601222208"
@@ -54,11 +59,6 @@
       "text": "Dil~hâneden selâm selâm",
       "id": 202601181844,
       "category": "posts/seyirdefteri/202601181844"
-    },
-    {
-      "text": "Kendini kaybetmek imkan~sız",
-      "id": 202601181541,
-      "category": "posts/seyirdefteri/202601181541"
     }
   ]
 }
