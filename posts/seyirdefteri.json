@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601232147,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601222210-1769109008113.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Viktor Pelevin",
+            "rüya",
+            "salıncak"
+          ],
+          "title": "S~alın bir~az sevgilim",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601222208,
       "is_protected": false,
       "article": {
