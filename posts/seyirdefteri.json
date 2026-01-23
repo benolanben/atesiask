@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601232150,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601222213-1769109211480.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "budizm",
+            "melamet",
+            "nirvana",
+            "samsara"
+          ],
+          "title": "Söyleşi Kayıtları'ndan",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601232147,
       "is_protected": false,
       "article": {
