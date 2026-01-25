@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Var~oluş her dem yeni",
+      "id": 202601252321,
+      "category": "posts/seyirdefteri/202601252321"
+    },
+    {
       "text": {
         "sira_no": 1479,
         "parca_adi": "Cânâ",
@@ -54,16 +59,6 @@
       "text": "Aynalı sudan hikâye",
       "id": 202601211936,
       "category": "posts/seyirdefteri/202601211936"
-    },
-    {
-      "text": {
-        "sira_no": 1477,
-        "parca_adi": "Esrârnâme'den AŞK",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/6a20atbehsgjlu0/esrarnameden.mp3"
-      },
-      "id": 202601201103,
-      "category": "kaynak/baska"
     }
   ]
 }
