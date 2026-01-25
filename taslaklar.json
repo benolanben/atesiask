@@ -1,3 +1,48 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1769372490176,
+      "title": "Sav~aşmadan",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1769372490176,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-25T20:09:19.401Z",
+        "created_at": "2026-01-25T20:09:19.401Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Sav~aşmadan",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "galeri",
+                "text": "",
+                "images": [
+                  "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601252324-1769372652476.jpg",
+                  "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601252324-1769372654384.jpg"
+                ]
+              },
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-25T20:21:30.176Z",
+      "updated_at": "2026-01-25T20:22:12.944Z",
+      "is_protected": false
+    }
+  ]
 }
