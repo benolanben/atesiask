@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Elskling",
+      "id": 202601251657,
+      "category": "posts/seyirzevki/202601251657"
+    },
+    {
       "text": {
         "sira_no": 1478,
         "parca_adi": "Marifet tâcı",
@@ -54,16 +59,6 @@
       "text": "Delişmen",
       "id": 202601191859,
       "category": "posts/seyirdefteri/202601191859"
-    },
-    {
-      "text": {
-        "sira_no": 1476,
-        "parca_adi": "Şîvekâr'ın Çıktığıdır",
-        "seslendiren": "İ. Özel",
-        "url": "https://www.mediafire.com/file/f9e5j8toewxdgd5/sivkar.mp3"
-      },
-      "id": 202601191348,
-      "category": "kaynak/baska"
     }
   ]
 }
