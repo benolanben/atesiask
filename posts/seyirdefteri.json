@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202601252321,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/var-olus-her-dem-148834079.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Var~oluş her dem yeni",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601232150,
       "is_protected": true,
       "article": {
