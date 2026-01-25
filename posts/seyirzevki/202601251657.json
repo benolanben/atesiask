@@ -1,0 +1,42 @@
+{
+  "id": 202601251657,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-25T13:21:32.121Z",
+  "created_at": "2026-01-25T13:57:28.575Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601251657-1769349447932.jpg",
+      "date_value": "",
+      "mini_title": "Var~san, tut~sana...",
+      "tags": [
+        "ayna",
+        "ilişkiler",
+        "travma",
+        "aşk",
+        "gölge",
+        "korku"
+      ],
+      "title": "Elskling",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><br><strong><em>\"Sırf korktuğum için, korktuğum sonu kendi ellerimle hazırlıyorum...\"</em></strong><br><br></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Film, ebeveynlerimizden devraldığımız travmaların, <strong>şimdiki anın saf gerçekliğini</strong> nasıl gölgelediğini gösteriyor.<br><br></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><strong><em>Her yara farkedilmek ister.</em></strong><br><br></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-25T13:57:28.575Z",
+  "is_protected": false
+}
