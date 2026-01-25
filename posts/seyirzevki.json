@@ -24,14 +24,14 @@
 ,
     {
       "id": 202601042327,
-      "is_protected": null,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601042307-1767557258279.jpg",
           "date_value": "",
-          "mini_title": "",
+          "mini_title": "garip~sen",
           "tags": [
-            "garip~sen"
+            ""
           ],
           "title": "PLUR1BUS",
           "subtitle": ""
