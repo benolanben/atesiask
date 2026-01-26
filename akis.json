@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sav~aşmadan",
+      "id": 202601262016,
+      "category": "posts/seyirdefteri/202601262016"
+    },
+    {
       "text": "Var~oluş her dem yeni",
       "id": 202601252321,
       "category": "posts/seyirdefteri/202601252321"
@@ -54,11 +59,6 @@
       "text": "Gerçeğin aksi zihinde",
       "id": 202601211946,
       "category": "posts/seyirdefteri/202601211946"
-    },
-    {
-      "text": "Aynalı sudan hikâye",
-      "id": 202601211936,
-      "category": "posts/seyirdefteri/202601211936"
     }
   ]
 }
