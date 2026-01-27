@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1481,
+        "parca_adi": "Gözüm ki kâne boyandı",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/lj8w7hvte9pg7bi/gozum.mp3"
+      },
+      "id": 202601272047,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1480,
         "parca_adi": "Derdin ne behey",
         "seslendiren": "C. Asitanesi",
@@ -59,11 +69,6 @@
       "text": "Kırılma sonrası fragmanlar",
       "id": 202601222208,
       "category": "posts/seyirdefteri/202601222208"
-    },
-    {
-      "text": "Son nefesim",
-      "id": 202601222206,
-      "category": "posts/seyirdefteri/202601222206"
     }
   ]
 }
