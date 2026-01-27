@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601272328,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601262017-1769447872647.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Amiş efendi",
+            "harabat",
+            "melamet"
+          ],
+          "title": "Dünya nasıl adam edilmez?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601262016,
       "is_protected": false,
       "article": {
