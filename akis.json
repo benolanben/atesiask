@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kişisel algılama",
+      "id": 202601272334,
+      "category": "posts/seyirdefteri/202601272334"
+    },
+    {
       "text": "Dünya nasıl adam edilmez?",
       "id": 202601272328,
       "category": "posts/seyirdefteri/202601272328"
@@ -64,11 +69,6 @@
       "text": "Söyleşi Kayıtları'ndan",
       "id": 202601232150,
       "category": "posts/seyirdefteri/202601232150"
-    },
-    {
-      "text": "S~alın bir~az sevgilim",
-      "id": 202601232147,
-      "category": "posts/seyirdefteri/202601232147"
     }
   ]
 }
