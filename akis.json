@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Düşünce hapsi",
+      "id": 202601272336,
+      "category": "posts/seyirdefteri/202601272336"
+    },
+    {
       "text": "Kişisel algılama",
       "id": 202601272334,
       "category": "posts/seyirdefteri/202601272334"
@@ -64,11 +69,6 @@
       },
       "id": 202601251158,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Söyleşi Kayıtları'ndan",
-      "id": 202601232150,
-      "category": "posts/seyirdefteri/202601232150"
     }
   ]
 }
