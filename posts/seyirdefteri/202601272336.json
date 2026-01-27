@@ -1,0 +1,45 @@
+{
+  "id": 202601272336,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-27T20:25:52.876Z",
+  "created_at": "2026-01-27T20:36:43.123Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601272336-1769546203610.webm",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "firar",
+        "gardiyan",
+        "hapis"
+      ],
+      "title": "Düşünce hapsi",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~<br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Fefirrû ila(A)llâh<br><strong>Derhâl bir bir Allah'a doğru kaçınız<br></strong></p>",
+          "author": "[Zariyat:50'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kaçmak için nereye koştuğunuzu değil, nereden kaçtığınızı bilmeniz gerekir.<br>Bu yüzden hapishanenizi sürekli gözünüzün önünde tutmalısınız.<br></p>",
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Çünkü hapishane, seninle cebelleşmek için tesis edilmiş değildir.<br>Asıl mesele, senin onunla cebelleşmek için orada olman.<br>Kendini orada sanman, orada tutman, orada unutman!</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Nihayetinde, hücrenin ortasında yarım lotus pozunda oturup, nefes alış~verişini izlerken, kapının aslında hiç kilitli olmadığını fark edersin.</p><p class=\"mb-4\">İçeri giren gardiyana, elindeki anahtar tomarını gösterip sorarsın:<br>\"Kimin için bunlar?\"</p><p class=\"mb-4\">O da omzunu silkeler, cebinden bir simit çıkarır, ısırır ve mırıldanır:<br><br>\"Sahiplik, gönüllü tutsaklıktır.<br>Sen, 'içerisi benim' diyerek kapıyı kendin kilitlemedin mi?\"</p><p class=\"mb-4\">Ve sen, bu son sözü duyduğunda, aynı anda hem hücrenin hem gardiyanın hem de simidin, senin zihninin üç ayrı kılıkta oynadığı üç ayrı piyeste olduğunu anlarsın.</p><p class=\"mb-4\">Alkışlamak mı gerek, yoksa kahkahayı basıp<br>\"Yine mi sen!\" diye bağırmak mı?</p><p class=\"mb-4\"><strong>Simit zaten canlı cevabı vermiştir:<br>\"Çıtır çıtır...\"<br><br>~</strong></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-27T20:36:43.123Z",
+  "is_protected": false
+}
