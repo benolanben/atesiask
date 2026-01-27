@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202601272336,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601272336-1769546203610.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "firar",
+            "gardiyan",
+            "hapis"
+          ],
+          "title": "Düşünce hapsi",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601272334,
       "is_protected": false,
       "article": {
