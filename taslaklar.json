@@ -38,45 +38,6 @@
       "created_at": "2026-01-27T20:41:44.833Z",
       "updated_at": "2026-01-27T20:43:50.238Z",
       "is_protected": true
-    },
-    {
-      "id": 1769546225824,
-      "title": "Etiket~siz b~akış",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1769546225824,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-01-27T20:25:52.876Z",
-        "created_at": "2026-01-27T20:25:52.876Z",
-        "article": {
-          "header": {
-            "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/etiket-siz-b-149165926.webm",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              "algı",
-              "etiket",
-              "hikaye",
-              "yorum",
-              "yorumsuz"
-            ],
-            "title": "Etiket~siz b~akış",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": ""
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-01-27T20:37:05.824Z",
-      "updated_at": "2026-01-27T20:39:42.234Z",
-      "is_protected": false
     }
   ]
 }
