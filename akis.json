@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Etiket~siz b~akış",
+      "id": 202601281932,
+      "category": "posts/seyirdefteri/202601281932"
+    },
+    {
       "text": "Bir kişi Varlığın Sevinci'ne geldi ve fakirlikten şikayet etti. \nŞöyle buyurdu: \"Evine girdiğin zaman selam ver, kimse y...",
       "id": 202601281010,
       "category": "varliginsevinci"
@@ -59,11 +64,6 @@
       },
       "id": 202601252150,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Elskling",
-      "id": 202601251657,
-      "category": "posts/seyirzevki/202601251657"
     }
   ]
 }
