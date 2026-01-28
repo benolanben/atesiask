@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202601281945,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601272344-1769546640321.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ahiret",
+            "dünya",
+            "kıyamet",
+            "ölmeden önce ölmek",
+            "ölmek"
+          ],
+          "title": "CANLI'NIN YAYINI",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601281932,
       "is_protected": false,
       "article": {
