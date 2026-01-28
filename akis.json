@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bir kişi Varlığın Sevinci'ne geldi ve fakirlikten şikayet etti. \nŞöyle buyurdu: \"Evine girdiğin zaman selam ver, kimse y...",
+      "id": 202601281010,
+      "category": "varliginsevinci"
+    },
+    {
       "text": "Düşünce hapsi",
       "id": 202601272336,
       "category": "posts/seyirdefteri/202601272336"
@@ -59,16 +64,6 @@
       "text": "Elskling",
       "id": 202601251657,
       "category": "posts/seyirzevki/202601251657"
-    },
-    {
-      "text": {
-        "sira_no": 1478,
-        "parca_adi": "Marifet tâcı",
-        "seslendiren": "B. Uymaz",
-        "url": "https://www.mediafire.com/file/ldzu2hth4koy5uc/tac.mp3"
-      },
-      "id": 202601251158,
-      "category": "kaynak/baska"
     }
   ]
 }
