@@ -1,3 +1,42 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1769618708823,
+      "title": "Dar-alma-san",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1769618708823,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-01-28T16:29:35.034Z",
+        "created_at": "2026-01-28T16:29:35.034Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601281946-1769618762096.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "Cenabı İsa",
+              "Petrus",
+              "Ruhullah",
+              "cem"
+            ],
+            "title": "Dar-alma-san",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-01-28T16:45:08.823Z",
+      "updated_at": "2026-01-28T16:45:46.274Z",
+      "is_protected": false
+    }
+  ]
 }
