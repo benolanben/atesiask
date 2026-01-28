@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "CANLI'NIN YAYINI",
+      "id": 202601281945,
+      "category": "posts/seyirdefteri/202601281945"
+    },
+    {
       "text": "Etiket~siz b~akış",
       "id": 202601281932,
       "category": "posts/seyirdefteri/202601281932"
@@ -54,16 +59,6 @@
       "text": "Var~oluş her dem yeni",
       "id": 202601252321,
       "category": "posts/seyirdefteri/202601252321"
-    },
-    {
-      "text": {
-        "sira_no": 1479,
-        "parca_adi": "Cânâ",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/0ojpz1hstogs9en/cana.mp3"
-      },
-      "id": 202601252150,
-      "category": "kaynak/baska"
     }
   ]
 }
