@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601292140,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601292140-1769712042223.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "güneş",
+            "kanat",
+            "tatmin",
+            "İkarus"
+          ],
+          "title": "İkarus'un kanatları",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601292138,
       "is_protected": false,
       "article": {
