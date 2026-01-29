@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dar-alma-san",
+      "id": 202601292132,
+      "category": "posts/seyirdefteri/202601292132"
+    },
+    {
       "text": "CANLI'NIN YAYINI",
       "id": 202601281945,
       "category": "posts/seyirdefteri/202601281945"
@@ -54,11 +59,6 @@
       "text": "Sav~aşmadan",
       "id": 202601262016,
       "category": "posts/seyirdefteri/202601262016"
-    },
-    {
-      "text": "Var~oluş her dem yeni",
-      "id": 202601252321,
-      "category": "posts/seyirdefteri/202601252321"
     }
   ]
 }
