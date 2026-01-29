@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İkarus'un kanatları",
+      "id": 202601292140,
+      "category": "posts/seyirdefteri/202601292140"
+    },
+    {
       "text": "Sıfatlar libâsı",
       "id": 202601292138,
       "category": "posts/seyirdefteri/202601292138"
@@ -48,16 +53,6 @@
         "url": "https://www.mediafire.com/file/lj8w7hvte9pg7bi/gozum.mp3"
       },
       "id": 202601272047,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1480,
-        "parca_adi": "Derdin ne behey",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/k4lvzvolleyqq23/derrddinne.mp3"
-      },
-      "id": 202601272023,
       "category": "kaynak/baska"
     }
   ]
