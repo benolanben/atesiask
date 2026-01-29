@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sıfatlar libâsı",
+      "id": 202601292138,
+      "category": "posts/seyirdefteri/202601292138"
+    },
+    {
       "text": "Dar-alma-san",
       "id": 202601292132,
       "category": "posts/seyirdefteri/202601292132"
@@ -54,11 +59,6 @@
       },
       "id": 202601272023,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Sav~aşmadan",
-      "id": 202601262016,
-      "category": "posts/seyirdefteri/202601262016"
     }
   ]
 }
