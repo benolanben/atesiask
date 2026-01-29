@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202601292132,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601281946-1769618762096.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Cenabı İsa",
+            "Petrus",
+            "Ruhullah",
+            "cem"
+          ],
+          "title": "Dar-alma-san",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601281945,
       "is_protected": true,
       "article": {
