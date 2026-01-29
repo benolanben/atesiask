@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202601292138,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601292138-1769711918762.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "el-fakru fahri",
+            "sıfat"
+          ],
+          "title": "Sıfatlar libâsı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601292132,
       "is_protected": false,
       "article": {
