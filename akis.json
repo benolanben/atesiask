@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1482,
+        "parca_adi": "Kuşları okuyorum",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/xuxbnodp3rdbucv/kuslar.mp3"
+      },
+      "id": 202601301233,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "İkarus'un kanatları",
       "id": 202601292140,
       "category": "posts/seyirdefteri/202601292140"
@@ -44,16 +54,6 @@
       "text": "Dünya nasıl adam edilmez?",
       "id": 202601272328,
       "category": "posts/seyirdefteri/202601272328"
-    },
-    {
-      "text": {
-        "sira_no": 1481,
-        "parca_adi": "Gözüm ki kâne boyandı",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/lj8w7hvte9pg7bi/gozum.mp3"
-      },
-      "id": 202601272047,
-      "category": "kaynak/baska"
     }
   ]
 }
