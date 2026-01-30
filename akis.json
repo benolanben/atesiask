@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "KUŞ KAFE~si Rüyâsı",
+      "id": 202601302045,
+      "category": "posts/seyirdefteri/202601302045"
+    },
+    {
       "text": {
         "sira_no": 1483,
         "parca_adi": "Nikriz Meşk'ten",
@@ -54,11 +59,6 @@
       "text": "Düşünce hapsi",
       "id": 202601272336,
       "category": "posts/seyirdefteri/202601272336"
-    },
-    {
-      "text": "Kişisel algılama",
-      "id": 202601272334,
-      "category": "posts/seyirdefteri/202601272334"
     }
   ]
 }
