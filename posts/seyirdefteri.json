@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202601302045,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601302045-1769795127064.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kuş Kafesi",
+            "hayat",
+            "rüya",
+            "uyku",
+            "ölüm"
+          ],
+          "title": "KUŞ KAFE~si Rüyâsı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601292140,
       "is_protected": false,
       "article": {
