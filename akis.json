@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1483,
+        "parca_adi": "Nikriz Meşk'ten",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/5hehh88ddy3piqk/nikriz_mesk_kaydi.mp3"
+      },
+      "id": 202601301420,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1482,
         "parca_adi": "Kuşları okuyorum",
         "seslendiren": "A. Aşk",
@@ -49,11 +59,6 @@
       "text": "Kişisel algılama",
       "id": 202601272334,
       "category": "posts/seyirdefteri/202601272334"
-    },
-    {
-      "text": "Dünya nasıl adam edilmez?",
-      "id": 202601272328,
-      "category": "posts/seyirdefteri/202601272328"
     }
   ]
 }
