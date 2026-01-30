@@ -1,6 +1,29 @@
 {
   "isaretler": [
     {
+      "id": 202601302055,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202601302055-1769795755569.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "cennet",
+            "ebedi yaşam",
+            "sonsuz hayat",
+            "sonsuzluk",
+            "zaman",
+            "ölüm",
+            "ölümsüzlük"
+          ],
+          "title": "Sonsuz yaşam nasıl olmaz?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601302045,
       "is_protected": false,
       "article": {
