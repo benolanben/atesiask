@@ -20,10 +20,14 @@
         {
           "type": "metin",
           "text": "<p class=\"mb-4\"><span class=\"vurgulu\">\"Kîk-i mahbûb-i men\"<br>Hayattan lezîz bir dilim...</span><br><br>Bir çiçek, açma kaygısı mı taşıyor?<br>Sadece ışığa açılıyor...<br><br>Yalnız ölmek istemiyor musunuz?<br>...<br>Okuyalım bakalım d-okunaklı parçayı neler neler açılıyor, <br>kim bilir hangi birimize neler neler söyleniyor?<br>...</p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\">Beraber şarap yapalım mı?<br><br>-Nerede?<br><br>Burada işte bahçeme gömeriz, bir şey olmaz!<br><br>Eskiler der ki;<br>En güzel şarap aşıkların beraber yaptığıdır<br><br>Aşkları ne kadar büyükse şarabın tadı o kadar güzel olurmuş<br><br>-Bizimki çok güzel olacak öyleyse</p>"
         }
       ]
     }
   },
-  "updated_at": "2026-01-31T17:26:07.478Z",
+  "updated_at": "2026-01-31T17:48:37.363Z",
   "is_protected": false
 }
