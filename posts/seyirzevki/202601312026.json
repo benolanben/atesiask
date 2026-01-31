@@ -1,0 +1,29 @@
+{
+  "id": 202601312026,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-01-31T16:11:18.413Z",
+  "created_at": "2026-01-31T17:26:07.478Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601312026-1769880370177.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "My Favourite Cake",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><span class=\"vurgulu\">\"Kîk-i mahbûb-i men\"<br>Hayattan lezîz bir dilim...</span><br><br>Bir çiçek, açma kaygısı mı taşıyor?<br>Sadece ışığa açılıyor...<br><br>Yalnız ölmek istemiyor musunuz?<br>...<br>Okuyalım bakalım d-okunaklı parçayı neler neler açılıyor, <br>kim bilir hangi birimize neler neler söyleniyor?<br>...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-01-31T17:26:07.478Z",
+  "is_protected": false
+}
