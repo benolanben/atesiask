@@ -1,6 +1,28 @@
 {
   "isaretler": [
     {
+      "id": 202602022040,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602022040-1770054043190.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "KÜN emri",
+            "OL",
+            "OLMA",
+            "hayat",
+            "nefes",
+            "ölüm"
+          ],
+          "title": "CANLI YAYIN Nefes-Hayat-OL Sırrı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602022005,
       "is_protected": false,
       "article": {
