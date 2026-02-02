@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602022004,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602022004-1770051856467.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "açıklık"
+          ],
+          "title": "Açıklığın imkânı insan",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602022000,
       "is_protected": false,
       "article": {
