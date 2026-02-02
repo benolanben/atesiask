@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602022005,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602022006-1770051961859.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ölüm"
+          ],
+          "title": "Ölümden önce ne ölür",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602022004,
       "is_protected": false,
       "article": {
