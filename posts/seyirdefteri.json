@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202602022000,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602022000-1770051619760.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Viktor Pelevin",
+            "hikaye"
+          ],
+          "title": "Bu ne komik hikâye böyle",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202601302055,
       "is_protected": false,
       "article": {
