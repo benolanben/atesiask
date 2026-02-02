@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ölümden önce ne ölür",
+      "id": 202602022005,
+      "category": "posts/seyirdefteri/202602022005"
+    },
+    {
       "text": "Açıklığın imkânı insan",
       "id": 202602022004,
       "category": "posts/seyirdefteri/202602022004"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/5hehh88ddy3piqk/nikriz_mesk_kaydi.mp3"
       },
       "id": 202601301420,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1482,
-        "parca_adi": "Kuşları okuyorum",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/xuxbnodp3rdbucv/kuslar.mp3"
-      },
-      "id": 202601301233,
       "category": "kaynak/baska"
     }
   ]
