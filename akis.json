@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1485,
+        "parca_adi": "İnsan oldum",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/y2euv1bm68y4kt8/insanoldum.mp3"
+      },
+      "id": 202602021037,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1484,
         "parca_adi": "O kadar yakınsın ki",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       "text": "Dar-alma-san",
       "id": 202601292132,
       "category": "posts/seyirdefteri/202601292132"
-    },
-    {
-      "text": "CANLI'NIN YAYINI",
-      "id": 202601281945,
-      "category": "posts/seyirdefteri/202601281945"
     }
   ]
 }
