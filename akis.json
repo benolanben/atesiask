@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "CANLI YAYIN Nefes-Hayat-OL Sırrı",
+      "id": 202602022040,
+      "category": "posts/seyirdefteri/202602022040"
+    },
+    {
       "text": "Ölümden önce ne ölür",
       "id": 202602022005,
       "category": "posts/seyirdefteri/202602022005"
@@ -54,16 +59,6 @@
       "text": "KUŞ KAFE~si Rüyâsı",
       "id": 202601302045,
       "category": "posts/seyirdefteri/202601302045"
-    },
-    {
-      "text": {
-        "sira_no": 1483,
-        "parca_adi": "Nikriz Meşk'ten",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/5hehh88ddy3piqk/nikriz_mesk_kaydi.mp3"
-      },
-      "id": 202601301420,
-      "category": "kaynak/baska"
     }
   ]
 }
