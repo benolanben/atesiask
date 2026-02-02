@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Açıklığın imkânı insan",
+      "id": 202602022004,
+      "category": "posts/seyirdefteri/202602022004"
+    },
+    {
       "text": "Bu ne komik hikâye böyle",
       "id": 202602022000,
       "category": "posts/seyirdefteri/202602022000"
@@ -64,11 +69,6 @@
       },
       "id": 202601301233,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "İkarus'un kanatları",
-      "id": 202601292140,
-      "category": "posts/seyirdefteri/202601292140"
     }
   ]
 }
