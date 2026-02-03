@@ -1,0 +1,34 @@
+{
+  "id": 202602032232,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-03T19:25:14.202Z",
+  "created_at": "2026-02-03T19:32:23.532Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602032232-1770147148876.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "MARY ilen MAX",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Allah bize ebeveynlerimizi seçme şansı vermemiş olabilir amma Allah'tan ki dostlarımızı, aynalarımız seçme şansımız var, vardır a!<br></p>",
+          "author": "[E. Mumford'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Yalnızlıktan muzdarîb, biri 8 yaşında Ah Mary, diğeri de 44 yaşında ki Vah Max arasında cereyân iden kıtalar arası mektup arkadaşlığını konu alan, kara-mizah diye-bilinen pencereden açılan, pek bir sevimli stop motion filmi olur kendisi...<br><br>Paylaşılan yalnızlıklara dair<br>Sâhici bir seyir zevkinde<br>Seyr-an-bağ-larına kurulmaya<br>Hazır olanlar buyursunlar efendim<br><br>Bi'l-vesîle hoş bazârlar ola...<br><br>Kalbinden gülümseyen cânıma selâm selâm olsun<br><br>P.S.<br>Kişisel not:<br>- Daha önce izledim ben bunu<br>Artık o kişi değilsin...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-03T19:32:23.532Z",
+  "is_protected": false
+}
