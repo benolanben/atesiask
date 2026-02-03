@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zincirin b~ağladığı",
+      "id": 202602032224,
+      "category": "posts/seyirdefteri/202602032224"
+    },
+    {
       "text": "CANLI YAYIN Nefes-Hayat-OL Sırrı",
       "id": 202602022040,
       "category": "posts/seyirdefteri/202602022040"
@@ -54,11 +59,6 @@
       "text": "Sonsuz yaşam nasıl olmaz?",
       "id": 202601302055,
       "category": "posts/seyirdefteri/202601302055"
-    },
-    {
-      "text": "KUŞ KAFE~si Rüyâsı",
-      "id": 202601302045,
-      "category": "posts/seyirdefteri/202601302045"
     }
   ]
 }
