@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602032232,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602032232-1770147148876.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "MARY ilen MAX",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602021957,
       "is_protected": false,
       "article": {
