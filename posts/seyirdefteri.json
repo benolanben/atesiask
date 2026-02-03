@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202602032224,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602032224-1770146672999.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "esaret",
+            "zincir",
+            "özgürlük"
+          ],
+          "title": "Zincirin b~ağladığı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602022040,
       "is_protected": true,
       "article": {
