@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202602042031,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602042032-1770226320139.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "bırakma",
+            "terk-i terk"
+          ],
+          "title": "B1R~ak gitmesin",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602032224,
       "is_protected": false,
       "article": {
