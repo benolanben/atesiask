@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zikir Günlüğü'nden",
+      "id": 202602052024,
+      "category": "posts/seyirdefteri/202602052024"
+    },
+    {
       "text": "CANLI YAYIN: mantra ~ zihin ~ zikir",
       "id": 202602042200,
       "category": "posts/seyirdefteri/202602042200"
@@ -44,16 +49,6 @@
       "text": "Bir Salyangozun Anıları",
       "id": 202602021957,
       "category": "posts/seyirzevki/202602021957"
-    },
-    {
-      "text": {
-        "sira_no": 1485,
-        "parca_adi": "İnsan oldum",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/y2euv1bm68y4kt8/insanoldum.mp3"
-      },
-      "id": 202602021037,
-      "category": "kaynak/baska"
     }
   ]
 }
