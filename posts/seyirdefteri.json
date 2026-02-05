@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202602052024,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602052024-1770312249526.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "hayat",
+            "zikir",
+            "ölüm"
+          ],
+          "title": "Zikir Günlüğü'nden",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602042200,
       "is_protected": true,
       "article": {
