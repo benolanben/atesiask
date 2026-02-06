@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Fakrimiz zikrimiz",
+      "id": 202602062203,
+      "category": "posts/seyirdefteri/202602062203"
+    },
+    {
       "text": "Abonelik müdâvimleri",
       "id": 202602062128,
       "category": "posts/seyirdefteri/202602062128"
@@ -44,11 +49,6 @@
       "text": "CANLI YAYIN Nefes-Hayat-OL Sırrı",
       "id": 202602022040,
       "category": "posts/seyirdefteri/202602022040"
-    },
-    {
-      "text": "Ölümden önce ne ölür",
-      "id": 202602022005,
-      "category": "posts/seyirdefteri/202602022005"
     }
   ]
 }
