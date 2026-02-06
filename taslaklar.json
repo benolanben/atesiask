@@ -1,3 +1,47 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1770400343200,
+      "title": "Yer~çekimi düşünce",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1770400343200,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-06T17:49:32.881Z",
+        "created_at": "2026-02-06T17:49:32.881Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "aşırı düşünce",
+              "yer çekimi",
+              "zihin"
+            ],
+            "title": "Yer~çekimi düşünce",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "video",
+                "text": "<p class=\"mb-4\"></p>",
+                "url": ""
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Tanrı yerçekimi gibidir;<br>Ne kadar direnirseniz,<br>Ne kadar ararsanız,<br>Bir o kadar zorlaşır.<br><br>Deneyimin farkındalığı tıpkı yerçekimi gibi;<br>Fark edilmez ama her şey onun içinde hareket eder.<br><br><em>Ve masallar, onlara inananlar oldukça böyle böyle devam eder gider...</em><br><br>Âkıbet insan, kendi uydurduğu hikâyenin yerçekiminden kaçamaz olur.<br><br><strong>••<br>••<br>•</strong><br><br>Efendim sonunda bir yerlerde bir dede, torununa şöyle fısıldadı mı ne?<br><br>“Evlat, yerçekimi diye bir şey yok.<br>Dünya sadece aşağı doğru hızla düşüyor.”<br><br>Torunu düşündü taşındı ve cevap verdi:<br><br>“İyi de nereye düşüyoruz, dede?”<br><br>Dede, gözlerini şefkatle kırpıp,<br>“Bir masalın içine,” dedi.<br><br>“Ve sanırım birazdan yere çakılacağız.<br>Aman diyimmm, patatesler fırından çıkmadan önce dua edelim.”</p><p class=\"mb-4\">Ve işte o anda, her şey aniden aydınlandı:<br><br>Tüm o ezoterik arayışlar, kutsal kitaplar ve derin felsefeler, aslında kozmik bir patates tarlasında, fırına girmeden önce söylenen bir serzenişten mi ibaretti yoksa.<br><br>Tanrı, en sevdiği şakayı yeni bir neş'e ile tekrarlamıştı işte:<br>“Düşün, düşün… sonra patla!”</p><p class=\"mb-4\">Ve hep birlikte patladılar.<br>Gülmekten...</p>"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-06T17:52:23.200Z",
+      "updated_at": "2026-02-06T18:07:37.081Z",
+      "is_protected": false
+    }
+  ]
 }
