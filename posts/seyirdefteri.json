@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202602062128,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602062128-1770402532871.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "abonelik",
+            "hareket",
+            "sükunet"
+          ],
+          "title": "Abonelik müdâvimleri",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602062126,
       "is_protected": false,
       "article": {
