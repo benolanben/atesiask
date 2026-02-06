@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Abonelik müdâvimleri",
+      "id": 202602062128,
+      "category": "posts/seyirdefteri/202602062128"
+    },
+    {
       "text": "Yer~çekimi düşünce",
       "id": 202602062126,
       "category": "posts/seyirdefteri/202602062126"
@@ -44,11 +49,6 @@
       "text": "Ölümden önce ne ölür",
       "id": 202602022005,
       "category": "posts/seyirdefteri/202602022005"
-    },
-    {
-      "text": "Açıklığın imkânı insan",
-      "id": 202602022004,
-      "category": "posts/seyirdefteri/202602022004"
     }
   ]
 }
