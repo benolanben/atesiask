@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202602062126,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aşırı düşünce",
+            "yer çekimi",
+            "zihin"
+          ],
+          "title": "Yer~çekimi düşünce",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202602052024,
       "is_protected": true,
       "article": {
