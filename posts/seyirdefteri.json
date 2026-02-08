@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202602082244,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602082244-1770579884307.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "arayış",
+            "gerçek",
+            "hakikat",
+            "ân-ı dâim",
+            "ölüm"
+          ],
+          "title": "Hakikat arayıcısı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602062203,
       "is_protected": false,
       "article": {
