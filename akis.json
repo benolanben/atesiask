@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hakikat arayıcısı",
+      "id": 202602082244,
+      "category": "posts/seyirdefteri/202602082244"
+    },
+    {
       "text": "Fakrimiz zikrimiz",
       "id": 202602062203,
       "category": "posts/seyirdefteri/202602062203"
@@ -44,11 +49,6 @@
       "text": "Zincirin b~ağladığı",
       "id": 202602032224,
       "category": "posts/seyirdefteri/202602032224"
-    },
-    {
-      "text": "CANLI YAYIN Nefes-Hayat-OL Sırrı",
-      "id": 202602022040,
-      "category": "posts/seyirdefteri/202602022040"
     }
   ]
 }
