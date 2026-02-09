@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bilgi neyi bil~dir~mez",
+      "id": 202602091919,
+      "category": "posts/seyirdefteri/202602091919"
+    },
+    {
       "text": "Hakikat arayıcısı",
       "id": 202602082244,
       "category": "posts/seyirdefteri/202602082244"
@@ -44,11 +49,6 @@
       "text": "MARY ilen MAX",
       "id": 202602032232,
       "category": "posts/seyirzevki/202602032232"
-    },
-    {
-      "text": "Zincirin b~ağladığı",
-      "id": 202602032224,
-      "category": "posts/seyirdefteri/202602032224"
     }
   ]
 }
