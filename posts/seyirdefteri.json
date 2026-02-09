@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602091919,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602091920-1770654006743.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "bilgi retoriği"
+          ],
+          "title": "Bilgi neyi bil~dir~mez",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602082244,
       "is_protected": false,
       "article": {
