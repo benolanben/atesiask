@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602110011,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602102411-1770757864584.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Gassal",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602032232,
       "is_protected": false,
       "article": {
