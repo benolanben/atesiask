@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hayat mı sıkıcı ben mi?",
+      "id": 202602111954,
+      "category": "posts/seyirdefteri/202602111954"
+    },
+    {
       "text": "Gassal",
       "id": 202602110011,
       "category": "posts/seyirzevki/202602110011"
@@ -44,11 +49,6 @@
       "text": "Zikir Günlüğü'nden",
       "id": 202602052024,
       "category": "posts/seyirdefteri/202602052024"
-    },
-    {
-      "text": "CANLI YAYIN: mantra ~ zihin ~ zikir",
-      "id": 202602042200,
-      "category": "posts/seyirdefteri/202602042200"
     }
   ]
 }
