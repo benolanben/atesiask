@@ -1,0 +1,45 @@
+{
+  "id": 202602112001,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-11T16:44:28.172Z",
+  "created_at": "2026-02-11T17:01:35.058Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Allah'ın câzibesi",
+        "cezbe",
+        "melamet",
+        "tevhid",
+        "şirk"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •3",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602112001-1770829294629.jpg",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/yedi3.mp3"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Zen bahçelerinde:<br>\"Bir Buda sâdece Budaları görür\" derler<br><br>Melâmet neş'esinde de öyle deriz:<br>\"Herkesin evliyâ olduğunu bilmeyenden evliyâ olmaz\"</p><p class=\"mb-4\">Açıldı defter-i ehl-i melâmet;<br>Kayd olan gelsin<br>Çekinen nâm u kayddan gelmesin;<br>Lâ-kayd olan gelsin ❞</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/melamet_hirkasi.mp4"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-11T17:01:35.058Z",
+  "is_protected": true
+}
