@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1486,
+        "parca_adi": "Hangi bağın gülü~sen",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/o3rmwtf590v5sj5/gulusen.mp3"
+      },
+      "id": 202602121227,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •3",
       "id": 202602112001,
       "category": "posts/seyirdefteri/202602112001"
@@ -44,11 +54,6 @@
       "text": "Yer~çekimi düşünce",
       "id": 202602062126,
       "category": "posts/seyirdefteri/202602062126"
-    },
-    {
-      "text": "Ve sâriû ilâ mağfiretin min rabbiküm ve cennetin arduha's-semâvâtu ve'l-ardu\n\nVe koşuşun Rabbınızdan bir mağfirete\nVe bi...",
-      "id": 202602061511,
-      "category": "varliginsevinci"
     }
   ]
 }
