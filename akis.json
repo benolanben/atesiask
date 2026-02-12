@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çay rüyâsı",
+      "id": 202602122225,
+      "category": "posts/seyirdefteri/202602122225"
+    },
+    {
       "text": {
         "sira_no": 1486,
         "parca_adi": "Hangi bağın gülü~sen",
@@ -49,11 +54,6 @@
       "text": "Abonelik müdâvimleri",
       "id": 202602062128,
       "category": "posts/seyirdefteri/202602062128"
-    },
-    {
-      "text": "Yer~çekimi düşünce",
-      "id": 202602062126,
-      "category": "posts/seyirdefteri/202602062126"
     }
   ]
 }
