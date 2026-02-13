@@ -1,0 +1,37 @@
+{
+  "id": 202602131900,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-13T15:51:20.438Z",
+  "created_at": "2026-02-13T16:00:49.519Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602131900-1770998450972.jpg",
+      "date_value": "",
+      "mini_title": "Sorumluluk Reddi",
+      "tags": [
+        ""
+      ],
+      "title": "Disclaimer",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Kariyerini kuralları çiğneyenleri ifşa etmek üzerine kurmuş bir gazeteci, yatağının baş ucunda merak uyandırıcı bir roman bulur ve en karanlık sırrını açığa çıkaran, uzun zamandır üstü örtülmüş bir hikâyede önemli bir karakter olduğunu fark edip dehşete düşer.<br><br>...<br><br>Çünkü herkesin hikayesini kendinden dinlemek icab eder...<br><br><span class=\"vurgulu\">Bu dünya gösterimindeki son ışık sönmeden<br>• HÜKÜM VERME<br>• YARGILAMA<br>• DİNLE<br><br>dersini almamız niyetiyle...</span></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br>Anlatı ve anlatı biçimin farkında olun, bunların gücü bizi gerçeğe yaklaştırabilir ancak <strong>kendi derin inançlarımız ve yargılarımız</strong> nedeniyle bunlar aynı zamanda manipüle etme gücüne sahip öldürücü bir silah da olabilir! ❞<br><br><strong>Bayanlar ve baylar, <br>Lütfen farkında olun...</strong></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Kişisel Not:<br>Belki ailecek izlemek münasip düşmeyebilir.</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-13T16:00:49.519Z",
+  "is_protected": false
+}
