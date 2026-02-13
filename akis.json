@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Disclaimer",
+      "id": 202602131900,
+      "category": "posts/seyirzevki/202602131900"
+    },
+    {
       "text": "Çay rüyâsı",
       "id": 202602122225,
       "category": "posts/seyirdefteri/202602122225"
@@ -49,11 +54,6 @@
       "text": "Fakrimiz zikrimiz",
       "id": 202602062203,
       "category": "posts/seyirdefteri/202602062203"
-    },
-    {
-      "text": "Abonelik müdâvimleri",
-      "id": 202602062128,
-      "category": "posts/seyirdefteri/202602062128"
     }
   ]
 }
