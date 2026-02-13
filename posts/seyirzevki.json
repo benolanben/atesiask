@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602131900,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602131900-1770998450972.jpg",
+          "date_value": "",
+          "mini_title": "Sorumluluk Reddi",
+          "tags": [
+            ""
+          ],
+          "title": "Disclaimer",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602110011,
       "is_protected": false,
       "article": {
