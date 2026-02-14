@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1487,
+        "parca_adi": "Mâni oluyor hâlime takrîre",
+        "seslendiren": "N. Ahıskan",
+        "url": "https://www.mediafire.com/file/w4gpzvk5bg5kxba/manioluor.mp3"
+      },
+      "id": 202602141928,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Hareket~siz",
       "id": 202602131907,
       "category": "posts/seyirdefteri/202602131907"
@@ -49,11 +59,6 @@
       "text": "Bilgi neyi bil~dir~mez",
       "id": 202602091919,
       "category": "posts/seyirdefteri/202602091919"
-    },
-    {
-      "text": "Hakikat arayıcısı",
-      "id": 202602082244,
-      "category": "posts/seyirdefteri/202602082244"
     }
   ]
 }
