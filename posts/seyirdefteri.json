@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202602151233,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602151233-1771148019387.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "derviş",
+            "nane",
+            "zıt kutuplar",
+            "çay"
+          ],
+          "title": "Çekiştirmece",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602131907,
       "is_protected": false,
       "article": {
