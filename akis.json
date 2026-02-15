@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çekiştirmece",
+      "id": 202602151233,
+      "category": "posts/seyirdefteri/202602151233"
+    },
+    {
       "text": {
         "sira_no": 1488,
         "parca_adi": "Vakt-i seherde açıla perde",
@@ -59,11 +64,6 @@
       "text": "Gassal",
       "id": 202602110011,
       "category": "posts/seyirzevki/202602110011"
-    },
-    {
-      "text": "Zihin labirent~i~mi?",
-      "id": 202602102325,
-      "category": "posts/seyirdefteri/202602102325"
     }
   ]
 }
