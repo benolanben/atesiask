@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ölüm ölür biz ölmeyiz",
+      "id": 202602151244,
+      "category": "posts/seyirdefteri/202602151244"
+    },
+    {
       "text": "Sevgililer günüme",
       "id": 202602151239,
       "category": "posts/seyirdefteri/202602151239"
@@ -59,11 +64,6 @@
       "text": "Yedi Dur~ak Risâlesi •3",
       "id": 202602112001,
       "category": "posts/seyirdefteri/202602112001"
-    },
-    {
-      "text": "Hayat mı sıkıcı ben mi?",
-      "id": 202602111954,
-      "category": "posts/seyirdefteri/202602111954"
     }
   ]
 }
