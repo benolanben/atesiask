@@ -1,0 +1,43 @@
+{
+  "id": 202602151244,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-15T09:27:57.376Z",
+  "created_at": "2026-02-15T09:44:26.808Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602151244-1771148658659.webm",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Ölüm ölür biz ölmeyiz",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">En sevdiği arkadaşlarının tabutunu uğurlarken arkasından bakakaldılar...</p><p class=\"mb-4\"><strong>— Ne tuhaf değil mi?<br>O öldü ve biz yaşıyoruz.....<br></strong><br>Kendini hayretten alamadan cevap verdi biri:<br><br><strong>—Sadece her yatağa girişimizde tabut misali, aynı şekilde öldüğümüzden şüpheleniyorum.</strong></p><p class=\"mb-4\">Öyle de oluyor işte...</p><p class=\"mb-4\">Ve güneş sonsuza dek kayboluyor.<br>Ve tüm hikaye sona eriyor.<br>Ve sonra hiçlik kendini sıkıyor ve uyanıyoruz.<br>Ve dünya yeniden doğar.</p><p class=\"mb-4\">İlk defa böyle bu kadar...</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Oysa belki de ölüm, uyanıkken uyumaya devam ettiğimiz tek rüyadır.<br>Ya da hayat, ölüyken bile alarmı erteleyebildiğimiz bir sabah.</p><p class=\"mb-4\">Ne dersin?</p><p class=\"mb-4\">Belki de tabutun içindeki o değil, biz onun rüyasında hâlâ yaşıyoruzdur.<br>Ve o uyanırsa, hepimiz yok olacağız.</p><p class=\"mb-4\">İşte bu yüzden cenazelerde fazla gürültü yapmayalım.<br>Mazallah o biri uyanmasın!</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602151244-1771148668523.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602151244-1771148665269.mp3"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><em>Muhabbetten gıdamız var;<br>Ölüm ölür biz ölmeyiz...</em><br><br></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Sessizce dinleyip dağıldılar...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-15T09:44:26.808Z",
+  "is_protected": false
+}
