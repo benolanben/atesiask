@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602151244,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602151244-1771148658659.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Ölüm ölür biz ölmeyiz",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602151239,
       "is_protected": false,
       "article": {
