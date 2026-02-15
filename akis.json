@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sevgililer günüme",
+      "id": 202602151239,
+      "category": "posts/seyirdefteri/202602151239"
+    },
+    {
       "text": "Çekiştirmece",
       "id": 202602151233,
       "category": "posts/seyirdefteri/202602151233"
@@ -59,11 +64,6 @@
       "text": "Hayat mı sıkıcı ben mi?",
       "id": 202602111954,
       "category": "posts/seyirdefteri/202602111954"
-    },
-    {
-      "text": "Gassal",
-      "id": 202602110011,
-      "category": "posts/seyirzevki/202602110011"
     }
   ]
 }
