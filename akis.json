@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1488,
+        "parca_adi": "Vakt-i seherde açıla perde",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/zhm7isf36j4e615/vaktiseherde.mp3"
+      },
+      "id": 202602150904,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1487,
         "parca_adi": "Mâni oluyor hâlime takrîre",
         "seslendiren": "N. Ahıskan",
@@ -54,11 +64,6 @@
       "text": "Zihin labirent~i~mi?",
       "id": 202602102325,
       "category": "posts/seyirdefteri/202602102325"
-    },
-    {
-      "text": "Bilgi neyi bil~dir~mez",
-      "id": 202602091919,
-      "category": "posts/seyirdefteri/202602091919"
     }
   ]
 }
