@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602162051,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/sistem-tasarimi-150487955.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Sistem tasarımı idâre eder",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602151244,
       "is_protected": false,
       "article": {
