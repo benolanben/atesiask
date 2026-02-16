@@ -1,0 +1,52 @@
+{
+  "id": 202602162225,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-16T18:19:33.461Z",
+  "created_at": "2026-02-16T19:25:17.293Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602162225-1771269913129.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Zaman",
+        "Özgür İrade",
+        "Kader",
+        "Entropi",
+        "Şahit"
+      ],
+      "title": "TENET",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Olan olmuştur, olacak olan da olmuştur!</strong><br></p>",
+          "author": "[Âmiş Efendim]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Christopher Nolan'ın <em>Tenet</em>'i, daha ilk cümlesiyle izleyiciyi zamanın lineer akışına dair tüm bildiklerini unutmaya davet ediyor. Bu sadece bir film değil, içine girdikçe düşünen, kendi kuyruğunu yiyen bir yılan misali kendini var eden bir bilmece.<br><br>Nolan bizi her şeyin çoktan tamamlandığı devasa bir \"<strong>an</strong>\"ın içine bırakıyor.<br><br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Tanrı evvelsiz ve sonrasız bakışında bütün nesneleri görmüştür ve bugünün 'niçin'inden bir şey meydana getirmez; çünkü insan zâviyesinden her şey önceden yapılmış iş hükmündedir.</p>",
+          "author": "[Meister Eckhart]"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602162225-1771269917030.png"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><em>Neil'in dediği gibi, \"Biz birer pivot noktasıyız.\"</em><br><br><strong>Olan bir anda olur ama<br>Rolünün vakti gelince<br>Kendi sahnesinde görüle</strong><br><br>Yazılıp bitmiş bir kitap bile<br>Bir bir okunur<br>Ve son sayfanın son cümlesini<br>Bilmek değildir hüner<br>İçindeki dışarı çıkmak<br>Her bir yüzün <strong>şâhit</strong>lik ister<br><br></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-16T19:25:17.293Z",
+  "is_protected": false
+}
