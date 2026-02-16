@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202602162225,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602162225-1771269913129.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Zaman",
+            "Özgür İrade",
+            "Kader",
+            "Entropi",
+            "Şahit"
+          ],
+          "title": "TENET",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602131900,
       "is_protected": false,
       "article": {
