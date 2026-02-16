@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "TENET",
+      "id": 202602162225,
+      "category": "posts/seyirzevki/202602162225"
+    },
+    {
       "text": "Sistem tasarımı idâre eder",
       "id": 202602162051,
       "category": "posts/seyirdefteri/202602162051"
@@ -54,16 +59,6 @@
       "text": "Çay rüyâsı",
       "id": 202602122225,
       "category": "posts/seyirdefteri/202602122225"
-    },
-    {
-      "text": {
-        "sira_no": 1486,
-        "parca_adi": "Hangi bağın gülü~sen",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/o3rmwtf590v5sj5/gulusen.mp3"
-      },
-      "id": 202602121227,
-      "category": "kaynak/baska"
     }
   ]
 }
