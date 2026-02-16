@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sistem tasarımı idâre eder",
+      "id": 202602162051,
+      "category": "posts/seyirdefteri/202602162051"
+    },
+    {
       "text": "Ölüm ölür biz ölmeyiz",
       "id": 202602151244,
       "category": "posts/seyirdefteri/202602151244"
@@ -59,11 +64,6 @@
       },
       "id": 202602121227,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •3",
-      "id": 202602112001,
-      "category": "posts/seyirdefteri/202602112001"
     }
   ]
 }
