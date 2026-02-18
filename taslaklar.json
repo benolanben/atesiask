@@ -1,6 +1,45 @@
 {
   "isaretler": [
     {
+      "id": 1771452397807,
+      "title": "No Other Choice",
+      "category": "seyirzevki",
+      "content": {
+        "id": 1771452397807,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-18T22:06:05.195Z",
+        "created_at": "2026-02-18T22:06:05.195Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602182510-1771452654216.jpg",
+            "date_value": "",
+            "mini_title": "Başka Seçenek Yok",
+            "tags": [
+              ""
+            ],
+            "title": "No Other Choice",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Başka yolu yok mu?</p>"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Otomasyon, hepimizin korkunç bir yalnızlığa itildiği, her birimizin kendi yarattığımız imkansız güçlere karşı tek başına mücadele ettiği süreç, nadiren bu kadar güçlü imgeler ve anlatısal netlikle gösterilmiştir.</p>"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-18T22:06:37.807Z",
+      "updated_at": "2026-02-18T22:10:06.808Z",
+      "is_protected": false
+    },
+    {
       "id": 1771264320143,
       "title": "D~okunmak mı var filmde?",
       "category": "seyirdefteri",
