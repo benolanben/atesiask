@@ -1,6 +1,28 @@
 {
   "isaretler": [
     {
+      "id": 202602192255,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602192255-1771530930271.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "affetmek",
+            "algı",
+            "aydınlanma",
+            "gerçeklik",
+            "görüş",
+            "inanç"
+          ],
+          "title": "Ya inandığımız gibi görüyorsak?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602192251,
       "is_protected": false,
       "article": {
