@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ya inandığımız gibi görüyorsak?",
+      "id": 202602192255,
+      "category": "posts/seyirdefteri/202602192255"
+    },
+    {
       "text": "Her şey~de bir sembol •1",
       "id": 202602192251,
       "category": "posts/seyirdefteri/202602192251"
@@ -49,16 +54,6 @@
       "text": "Çekiştirmece",
       "id": 202602151233,
       "category": "posts/seyirdefteri/202602151233"
-    },
-    {
-      "text": {
-        "sira_no": 1488,
-        "parca_adi": "Vakt-i seherde açıla perde",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/zhm7isf36j4e615/vaktiseherde.mp3"
-      },
-      "id": 202602150904,
-      "category": "kaynak/baska"
     }
   ]
 }
