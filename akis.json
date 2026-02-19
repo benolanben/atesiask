@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Her şey~de bir sembol •1",
+      "id": 202602192251,
+      "category": "posts/seyirdefteri/202602192251"
+    },
+    {
       "text": "D~okunmak mı var filmde?",
       "id": 202602191042,
       "category": "posts/seyirdefteri/202602191042"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/zhm7isf36j4e615/vaktiseherde.mp3"
       },
       "id": 202602150904,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1487,
-        "parca_adi": "Mâni oluyor hâlime takrîre",
-        "seslendiren": "N. Ahıskan",
-        "url": "https://www.mediafire.com/file/w4gpzvk5bg5kxba/manioluor.mp3"
-      },
-      "id": 202602141928,
       "category": "kaynak/baska"
     }
   ]
