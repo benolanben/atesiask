@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202602192349,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602192349-1771534151073.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "beka",
+            "cem",
+            "fark",
+            "fena",
+            "uyanış"
+          ],
+          "title": "Hanya'yı görüş Konya'ya dönüş",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602192255,
       "is_protected": false,
       "article": {
