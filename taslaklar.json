@@ -14,9 +14,9 @@
           "header": {
             "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602182510-1771452654216.jpg",
             "date_value": "",
-            "mini_title": "Başka Seçenek Yok",
+            "mini_title": "Başka Yolu Yok",
             "tags": [
-              ""
+              "kara mizah"
             ],
             "title": "No Other Choice",
             "subtitle": ""
@@ -25,18 +25,18 @@
             "quotes": [
               {
                 "type": "metin",
-                "text": "<p class=\"mb-4\">Başka yolu yok mu?</p>"
+                "text": "<p class=\"mb-4\">Otomasyon, hepimizin korkunç bir yalnızlığa itildiği, her birimizin kendi yarattığımız imkansız güçlere karşı tek başına mücadele ettiği süreç, nadiren bu kadar güçlü imgeler ve anlatısal netlikle gösterilmiştir.<br><br>Man-su karakterinin kağıt endüstrisindeki uzmanlığı, dijitalleşen ve otomasyonun hakim olduğu bir dünyada \"modası geçmiş\" bir yetenek haline gelmiştir.<br><br>Man-su’nun dramı, sadece işini kaybetmesi değil; değişen dünyanın ihtimallerine karşı zihnini kapatması.</p>"
               },
               {
-                "type": "metin",
-                "text": "<p class=\"mb-4\">Otomasyon, hepimizin korkunç bir yalnızlığa itildiği, her birimizin kendi yarattığımız imkansız güçlere karşı tek başına mücadele ettiği süreç, nadiren bu kadar güçlü imgeler ve anlatısal netlikle gösterilmiştir.</p>"
+                "type": "spoiler",
+                "text": "<p class=\"mb-4\">Sen-sandığın dünde kalınca<br>O hâliyle dünkü kaydı izlemede<br><br>Sorunlara odaklananın daha fazla sorunu olur. <br>Olasılıklara odaklanan fırsatlara sahip olur;<br><br>Her şeye açık ol. <br>Her şey olabilir. <br>Yeryüzü geniş. <br>Allah'ın imkanı geniş.<br></p>"
               }
             ]
           }
         }
       },
       "created_at": "2026-02-18T22:06:37.807Z",
-      "updated_at": "2026-02-18T22:10:06.808Z",
+      "updated_at": "2026-02-19T08:45:42.224Z",
       "is_protected": false
     }
   ]
