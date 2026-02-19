@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hanya'yı görüş Konya'ya dönüş",
+      "id": 202602192349,
+      "category": "posts/seyirdefteri/202602192349"
+    },
+    {
       "text": "Ya inandığımız gibi görüyorsak?",
       "id": 202602192255,
       "category": "posts/seyirdefteri/202602192255"
@@ -49,11 +54,6 @@
       "text": "Sevgililer günüme",
       "id": 202602151239,
       "category": "posts/seyirdefteri/202602151239"
-    },
-    {
-      "text": "Çekiştirmece",
-      "id": 202602151233,
-      "category": "posts/seyirdefteri/202602151233"
     }
   ]
 }
