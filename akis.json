@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ramazan ayı girdiğinde nezdindeki her esiri bırakır ve her isteyene verirlerdi.\nRavi: Hz. Âişe (r.anha)\nRamuz El-Ehadis ...",
+      "id": 202602190605,
+      "category": "varliginsevinci"
+    },
+    {
       "text": {
         "sira_no": 1489,
         "parca_adi": "Aşıkların vücûdunu aldı",
@@ -59,11 +64,6 @@
       "text": "Hareket~siz",
       "id": 202602131907,
       "category": "posts/seyirdefteri/202602131907"
-    },
-    {
-      "text": "Disclaimer",
-      "id": 202602131900,
-      "category": "posts/seyirzevki/202602131900"
     }
   ]
 }
