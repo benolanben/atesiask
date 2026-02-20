@@ -1,0 +1,29 @@
+{
+  "id": 202602202057,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-18T22:06:05.195Z",
+  "created_at": "2026-02-20T17:57:04.088Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602182510-1771452654216.jpg",
+      "date_value": "",
+      "mini_title": "Başka Yolu Yok",
+      "tags": [
+        "kara mizah"
+      ],
+      "title": "No Other Choice",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bahçe sadece güllerin açtığı, meyvelerin olgunlaştığı, kuşların ötüştüğü bir yerden mi ibarettir? Bahçeyle uğraşanlara malum olduğu üzere yorucu çalışmalar, zorlu budamalar, taşınması gereken gübreler, bozulan-çürüyen şeyler ve kirlenen eller de bahçenin olmazsa olmazıdır. Başka Yolu Yok’ta Man-su ansızın kapısını çalan işsizliği atlatmak için bahçe işlerinden edindiği bilgeliği kullanmayı tercih ediyor:</p><p class=\"mb-4\">●&nbsp;&nbsp;&nbsp;&nbsp; Gereğinden fazla dal varsa bir makas alıp budamak gerekir.</p><p class=\"mb-4\">●&nbsp;&nbsp;&nbsp;&nbsp; Pek hoş kokular yaymasa da gübre, toprağı beslemek için lazımdır.</p><p class=\"mb-4\">●&nbsp;&nbsp;&nbsp;&nbsp; Rengarenk çiçeklerin açtığı toprağın altı birazcık karanlıktır.</p><p class=\"mb-4\">Film, altüst olmuş bir bahçenin her köşesine ışık tutarak izleyiciye gülümsemesini yüzünde donduran bir seyir zevki vadediyor.<br><br></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-20T17:57:04.088Z",
+  "is_protected": false
+}
