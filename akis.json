@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "No Other Choice",
+      "id": 202602202057,
+      "category": "posts/seyirzevki/202602202057"
+    },
+    {
       "text": "Hanya'yı görüş Konya'ya dönüş",
       "id": 202602192349,
       "category": "posts/seyirdefteri/202602192349"
@@ -49,11 +54,6 @@
       "text": "Ölüm ölür biz ölmeyiz",
       "id": 202602151244,
       "category": "posts/seyirdefteri/202602151244"
-    },
-    {
-      "text": "Sevgililer günüme",
-      "id": 202602151239,
-      "category": "posts/seyirdefteri/202602151239"
     }
   ]
 }
