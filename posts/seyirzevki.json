@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602202057,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602182510-1771452654216.jpg",
+          "date_value": "",
+          "mini_title": "Başka Yolu Yok",
+          "tags": [
+            "kara mizah"
+          ],
+          "title": "No Other Choice",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602162225,
       "is_protected": false,
       "article": {
