@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1491,
+        "parca_adi": "Beyâti meşkte geçen",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/fc5s9jp8cfernee/beyatimesk.mp3"
+      },
+      "id": 202602212146,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1490,
         "parca_adi": "Hüseyni meşkte geçen",
         "seslendiren": "C. Asitanesi",
@@ -54,11 +64,6 @@
       "text": "TENET",
       "id": 202602162225,
       "category": "posts/seyirzevki/202602162225"
-    },
-    {
-      "text": "Sistem tasarımı idâre eder",
-      "id": 202602162051,
-      "category": "posts/seyirdefteri/202602162051"
     }
   ]
 }
