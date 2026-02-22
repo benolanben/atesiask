@@ -21,6 +21,12 @@
     "main_article": {
       "quotes": [
         {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&835",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602222057-1771783063606.jpg"
+        },
+        {
           "type": "alinti",
           "text": "<p class=\"mb-4\"><em>Sanatçıların iyi bildiği bir gerçek var:<br>Herhangi bir şey ortaya çıkmadan önce tuval boş olmalıdır.<br>En iyi fikirleriniz, düşünmeye başlamadan önceki sessizlikten doğar.<br>Kuru kuru bir boşluk değil, üretici kaynak.</em><br></p>",
           "author": "[A. Kadrî]"
@@ -60,6 +66,6 @@
       ]
     }
   },
-  "updated_at": "2026-02-22T17:50:44.206Z",
+  "updated_at": "2026-02-22T17:57:39.286Z",
   "is_protected": false
 }
