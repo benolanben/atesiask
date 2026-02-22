@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zihinden geri çekildiğinde",
+      "id": 202602222118,
+      "category": "posts/seyirdefteri/202602222118"
+    },
+    {
       "text": "Gerçek önceden bilinemez",
       "id": 202602222050,
       "category": "posts/seyirdefteri/202602222050"
@@ -54,16 +59,6 @@
       "text": "Ramazan ayı girdiğinde nezdindeki her esiri bırakır ve her isteyene verirlerdi.\nRavi: Hz. Âişe (r.anha)\nRamuz El-Ehadis ...",
       "id": 202602190605,
       "category": "varliginsevinci"
-    },
-    {
-      "text": {
-        "sira_no": 1489,
-        "parca_adi": "Aşıkların vücûdunu aldı",
-        "seslendiren": "T. İnançer",
-        "url": "https://www.mediafire.com/file/atio8hi5re7e803/hu14_asiklarinvucudu.mp3"
-      },
-      "id": 202602171347,
-      "category": "kaynak/baska"
     }
   ]
 }
