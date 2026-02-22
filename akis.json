@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1492,
+        "parca_adi": "Hak şerleri",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/mzb41779uncc796/hakserleri.mp3"
+      },
+      "id": 202602222142,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Zihinden geri çekildiğinde",
       "id": 202602222118,
       "category": "posts/seyirdefteri/202602222118"
@@ -54,11 +64,6 @@
       "text": "D~okunmak mı var filmde?",
       "id": 202602191042,
       "category": "posts/seyirdefteri/202602191042"
-    },
-    {
-      "text": "Ramazan ayı girdiğinde nezdindeki her esiri bırakır ve her isteyene verirlerdi.\nRavi: Hz. Âişe (r.anha)\nRamuz El-Ehadis ...",
-      "id": 202602190605,
-      "category": "varliginsevinci"
     }
   ]
 }
