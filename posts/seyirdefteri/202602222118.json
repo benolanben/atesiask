@@ -1,0 +1,48 @@
+{
+  "id": 202602222118,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-22T17:07:36.411Z",
+  "created_at": "2026-02-22T18:18:37.368Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "boşluk",
+        "samadi",
+        "sessizlik",
+        "zihin"
+      ],
+      "title": "Zihinden geri çekildiğinde",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<blockquote><p class=\"mb-4\"><span class=\"vurgulu\">~<br><br>Form, boşluğun ta kendisidir.<br>Sessizliğin olması için, hiçbir şeyin sessiz kalması gerekmez.<br>Bulutların, gökyüzünün uçsuz bucaksız enginliği olsun diye yok olması gerekmez ya.<br>İki şeyin birleşmenin ötesinde olanı fark et.<br>Hiç terk etmediğin bir şeye giremezsin işte...<br><br>~</span></p></blockquote><p class=\"mb-4\"><br>Şimdi gözler tamamen kapalı bir rüyadan gözünü açtığın ilk sahnede<br>Yani sabahın seherinde, izle~sen ne hoş olur bu filmi...</p><p class=\"mb-4\"></p><p class=\"mb-4\"><strong>••<br>••<br>•<br></strong></p><p class=\"mb-4\">Evet.<br>Tamam.<br>Anladım.</p><p class=\"mb-4\">\"Sahip olmadığın bir şeyi kaybetme korkusuyla titriyorsun.<br>Halbuki sen, senliğinle bu okyanusta<br>'Ben dalgayım' diye tutunmaya çalışan<br>Bir su zerresi kadar bile var değilsin.</p><p class=\"mb-4\">Sen kendin, okyanusun ta kendisisin, sadece bunu unuttun.<br>Okyanus kendini unuttuğunda, dalga ismini alır ya, o misal...</p><p class=\"mb-4\"><strong>Şu an, bu yazıyı okurken bile farkına varmaya çalıştığın şeyi zaten yaşıyorsun.<br>Dalganın her işi, okyanusundur ne sanıyorsun.<br><br></strong>Dalganın \"şeklini beğenmeme\" krizi de okyanusundur,<br>\"Bir kumsala vurup yok olma\" korkusu da...<br><br>Ama zihin hemen atlıyor değil mi?<br><br>'Hah tamam işte, sonunda uyandım<br>İşte şimdi anladım! Okyanusum ben!' diyor.<br><br>Tam o esnâda,<br>Eve götürmek<br>Âleme göstermek içim<br>Bir kovaya doldurup okyanusu<br>'Buldum!' diye sevinirken buluyorsun kendini.</p><p class=\"mb-4\">Kovayı bırak.<br>O resimde akarken kova sensin.<br>Su sensin.<br>Kovayı bulmak için kafayı yiyen de sensin.<br>Kendini kaybedince<br>Bulduğun da...</p><p class=\"mb-4\">Bulmacanın içinde kaybolmuş bir kelime gibisin;<br>Ben~i unutunca göreceksin<br>Sen tüm bulmacasın,<br>Cevap anahtarı da sensin<br>Ve hepsinin çizildiği o kağıt da...</p><p class=\"mb-4\">O yüzden şimdi rahat ol.<br>Bu bir sınav değil, not alınmıyor.</p><p class=\"mb-4\">Zaten tek başarısızlık,<br>'Acaba başarılı olabilecek miyim?' diye düşünmektir.<br><em>(Bu düşünce bile sonucu etkilemeyecektir; tıpkı bir rüyada sınav kağıdına yıldız çizmenin, gözün açılınca kariyerini etkilemediği gibi.)</em></p><p class=\"mb-4\">Şimdi, bu yazıyı bitirdikten sonra yapacağın ilk iş ne olursa olsun,<br>Onu yaparken fark et ki olduktan sonra o 'sen' değilsin.</p><p class=\"mb-4\">O sadece oluyor.<br>Ve sen, o oluşun tanığısın.<br>Tanık bile değilsin aslında,<br>Tanıklık olduğunda o tanıklığın kendisisin.<br><br>~</p><p class=\"mb-4\">Hadi bakalım, şimdi git ve kendini ara.<br>Ama bulursan, bana söyleme.</p><p class=\"mb-4\">Buldun ise n'oldu!</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&273",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602222118-1771784321561.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Mâdem buraya kadar sabırla düştün, işin özü şu:<br><br><strong>Var olmak, yok olmak için verilmiş harika bir randevu.<br>Ve sen ey güzeller güzeli<br>Aşkın randevusuna hem geç kaldın<br>Hem de daha doğmadan önce oradaydın.<br><br>~</strong></p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/zihinden-geri-151141637.mp4"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-22T18:18:37.368Z",
+  "is_protected": true
+}
