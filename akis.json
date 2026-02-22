@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gerçek önceden bilinemez",
+      "id": 202602222050,
+      "category": "posts/seyirdefteri/202602222050"
+    },
+    {
       "text": {
         "sira_no": 1491,
         "parca_adi": "Beyâti meşkte geçen",
@@ -59,11 +64,6 @@
       },
       "id": 202602171347,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "TENET",
-      "id": 202602162225,
-      "category": "posts/seyirzevki/202602162225"
     }
   ]
 }
