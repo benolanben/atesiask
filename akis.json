@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Uyanış Rüyasından Sızdırmalar",
+      "id": 202602222225,
+      "category": "posts/seyirdefteri/202602222225"
+    },
+    {
       "text": {
         "sira_no": 1492,
         "parca_adi": "Hak şerleri",
@@ -59,11 +64,6 @@
       "text": "Her şey~de bir sembol •1",
       "id": 202602192251,
       "category": "posts/seyirdefteri/202602192251"
-    },
-    {
-      "text": "D~okunmak mı var filmde?",
-      "id": 202602191042,
-      "category": "posts/seyirdefteri/202602191042"
     }
   ]
 }
