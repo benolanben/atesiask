@@ -1,3 +1,42 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1771784798515,
+      "title": "Uyanış Rüyasından Sızdırmalar",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1771784798515,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-22T18:26:24.584Z",
+        "created_at": "2026-02-22T18:26:24.584Z",
+        "article": {
+          "header": {
+            "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/uyanis-151256211.webm",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "kadim bilgelik",
+              "kıyamet",
+              "rüya",
+              "uyku"
+            ],
+            "title": "Uyanış Rüyasından Sızdırmalar",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-22T18:26:38.515Z",
+      "updated_at": "2026-02-22T18:27:03.881Z",
+      "is_protected": true
+    }
+  ]
 }
