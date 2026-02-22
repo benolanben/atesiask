@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202602222225,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/uyanis-151256211.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "kadim bilgelik",
+            "kıyamet",
+            "rüya",
+            "uyku"
+          ],
+          "title": "Uyanış Rüyasından Sızdırmalar",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602222118,
       "is_protected": true,
       "article": {
