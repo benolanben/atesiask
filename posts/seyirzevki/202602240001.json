@@ -1,0 +1,33 @@
+{
+  "id": 202602240001,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-23T20:54:01.977Z",
+  "created_at": "2026-02-23T21:01:07.434Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602232401-1771880467772.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Becoming You",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Öyle ya dünyaya bir kez bakarız, çocuklukta!<br>Geri kalanı tatlı bir hatıra...<br><br>Bir çocuğun yeryüzündeki ilk iki bin günü, tüm hayatını nasıl etkiliyor?<br><br>Ben Olma Alışkanlığımız<br><strong>\"Becoming you\"</strong><br><br></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\">Evet işitecek kulağı olanlar Ruhullah olandan çoktan duydu:<br><br>Yeniden cennete dönmenin yolu buydu<br>'Yeniden çocuklar gibi olmak...' Yol buydu<strong><br><br>Yanan, aşk ile uydu...</strong></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-23T21:01:07.434Z",
+  "is_protected": false
+}
