@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202602240001,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602232401-1771880467772.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Becoming You",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602202057,
       "is_protected": false,
       "article": {
