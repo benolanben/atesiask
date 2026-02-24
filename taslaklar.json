@@ -1,3 +1,44 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1771960834060,
+      "title": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1771960834060,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-24T18:38:00.981Z",
+        "created_at": "2026-02-24T18:38:00.981Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602242221-1771960871272.webm",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "SÖYLEŞİ KAYITLARI",
+              "fâillik",
+              "headless",
+              "huzur",
+              "soru işareti",
+              "ıtlak zevki"
+            ],
+            "title": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-24T19:20:34.060Z",
+      "updated_at": "2026-02-24T19:21:05.133Z",
+      "is_protected": false
+    }
+  ]
 }
