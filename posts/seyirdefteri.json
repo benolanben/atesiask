@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202602242218,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "San~al Gerçeklik Gözlüğü",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202602222225,
       "is_protected": true,
       "article": {
