@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "San~al Gerçeklik Gözlüğü",
+      "id": 202602242218,
+      "category": "posts/seyirdefteri/202602242218"
+    },
+    {
       "text": {
         "sira_no": 1493,
         "parca_adi": "Aşktan gelir",
@@ -64,11 +69,6 @@
       "text": "No Other Choice",
       "id": 202602202057,
       "category": "posts/seyirzevki/202602202057"
-    },
-    {
-      "text": "Hanya'yı görüş Konya'ya dönüş",
-      "id": 202602192349,
-      "category": "posts/seyirdefteri/202602192349"
     }
   ]
 }
