@@ -43,10 +43,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\"><br><em>Neil'in dediği gibi, \"Biz birer pivot noktasıyız.\"</em><br><br><strong>Olan bir anda olur ama<br>Rolünün vakti gelince<br>Kendi sahnesinde görüle</strong><br><br>Yazılıp bitmiş bir kitap bile<br>Bir bir okunur<br>Ve son sayfanın son cümlesini<br>Bilmek değildir hüner<br>İçindeki dışarı çıkmak<br>Her bir yüzün <strong>şâhit</strong>lik ister<br><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt6723592/"
         }
       ]
     }
   },
-  "updated_at": "2026-02-16T19:25:17.293Z",
+  "updated_at": "2026-02-24T19:10:02.873Z",
   "is_protected": false
 }
