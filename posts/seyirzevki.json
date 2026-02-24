@@ -181,7 +181,7 @@
 ,
     {
       "id": 202601022307,
-      "is_protected": null,
+      "is_protected": false,
       "article": {
         "header": {
           "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601022307-1767384424015.jpg",
