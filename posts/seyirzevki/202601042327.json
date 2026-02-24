@@ -28,10 +28,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\"><br><strong>Hayat ne garip...</strong><br><strong><em><span class=\"colored\">Bilinmezin lezzeti ne garip...</span></em></strong><br><br>Fe-tubâ li'l-gurebâ...<br><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt22202452/"
         }
       ]
     }
   },
-  "updated_at": "2026-01-25T20:15:41.939Z",
+  "updated_at": "2026-02-24T19:14:23.508Z",
   "is_protected": false
 }
