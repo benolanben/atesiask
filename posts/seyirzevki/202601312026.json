@@ -24,10 +24,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\">Beraber şarap yapalım mı?<br><br>-Nerede?<br><br>Burada işte bahçeme gömeriz, bir şey olmaz!<br><br>Eskiler der ki;<br>En güzel şarap aşıkların beraber yaptığıdır<br><br>Aşkları ne kadar büyükse şarabın tadı o kadar güzel olurmuş<br><br>-Bizimki çok güzel olacak öyleyse</p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt31015278/"
         }
       ]
     }
   },
-  "updated_at": "2026-01-31T17:48:37.363Z",
+  "updated_at": "2026-02-24T19:13:27.934Z",
   "is_protected": false
 }
