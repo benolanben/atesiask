@@ -24,10 +24,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\">Evet işitecek kulağı olanlar Ruhullah olandan çoktan duydu:<br><br>Yeniden cennete dönmenin yolu buydu<br>'Yeniden çocuklar gibi olmak...' Yol buydu<strong><br><br>Yanan, aşk ile uydu...</strong></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt13007964/"
         }
       ]
     }
   },
-  "updated_at": "2026-02-23T21:01:07.434Z",
+  "updated_at": "2026-02-24T08:16:58.906Z",
   "is_protected": false
 }
