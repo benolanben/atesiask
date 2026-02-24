@@ -33,10 +33,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\"><br><strong><em>Her yara farkedilmek ister.</em></strong><br><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt26629652/"
         }
       ]
     }
   },
-  "updated_at": "2026-01-25T13:57:28.575Z",
+  "updated_at": "2026-02-24T19:13:58.902Z",
   "is_protected": false
 }
