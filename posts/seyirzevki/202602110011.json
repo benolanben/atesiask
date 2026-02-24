@@ -38,10 +38,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\">B1R-ak<br>Dünde kal-anı<br>Bir sonraki güne devretme-yeni<br>...<br>Her an<br>Aslında<br>Önceden kalan<br>Ne varsa yıkayan<br>...<br>Ah bir an<br>Burada olsan<br>Boşluğa bansan<br>Yükün boşalınca<br>O hafif teni<br>Rahat nefesi bir tatsan<br><br>Olur a</p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt35082593/"
         }
       ]
     }
   },
-  "updated_at": "2026-02-10T21:11:06.837Z",
+  "updated_at": "2026-02-24T19:11:27.371Z",
   "is_protected": false
 }
