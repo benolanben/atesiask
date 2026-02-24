@@ -25,8 +25,15 @@
         {
           "type": "spoiler",
           "text": "<p class=\"mb-4\"><br><strong>cenge, ispata, korkuya, koşuşa değil. <br><br>Işıl ışıl bir arayışla ben;<br><br>ancak keşfe ve şehadete geldim..</strong><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt30965512/"
         }
       ]
     }
-  }
+  },
+  "updated_at": "2026-02-24T19:15:12.359Z",
+  "is_protected": false
 }
