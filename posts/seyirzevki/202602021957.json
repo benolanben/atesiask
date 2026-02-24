@@ -33,10 +33,15 @@
           "type": "fotograf",
           "text": "",
           "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202601312333-1769891624250.jpg"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt23770030/"
         }
       ]
     }
   },
-  "updated_at": "2026-02-02T16:57:47.623Z",
+  "updated_at": "2026-02-24T19:12:44.412Z",
   "is_protected": false
 }
