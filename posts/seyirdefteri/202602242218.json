@@ -1,0 +1,40 @@
+{
+  "id": 202602242218,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-24T18:38:00.981Z",
+  "created_at": "2026-02-24T19:18:43.239Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "San~al Gerçeklik Gözlüğü",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Algı, gerçeklik değildir; koşullanma, hafıza, kimlik, isimlendirme , bölme ve doğası gereği sınırsız olanı kavramsallaştırma yoluyla filtrelenir.</em><br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Ya~sal Uyar~ı Anonsu:<br></strong>Şimdi buradan duyulanlar,<br>Kişinin gerçeklik deneyimindeki<br>Normal algısının âniden bozulmasına neden olabilir!</p><p class=\"mb-4\">~<br><br>Ya hayatınızda gerçekten hiçbir şeye dokunmadıysanız?</p><p class=\"mb-4\">Bu bir ihtimal değil, atomik düzeyde kanun...<br>Yani yeterince yakından bakılırsa aslında hiçbir şey gerçekten temas etmez.</p><p class=\"mb-4\">Size öyle gelen o his, beyninizin elektron bulutları arasındaki elektromanyetik itmeyi yorumlamasından ibarettir.</p><p class=\"mb-4\">Nesne gerçek gibi görünür ancak temas kurgusal bir yanılsamadır.</p><p class=\"mb-4\">Madde, kovaladıkça kaçan bir hayâl~et.<br>Temassa olsa olsa aynı hayâletin uydurduğu bir hikâye...</p><p class=\"mb-4\">~<br><br>Son ziyarette Hacı Bayram dedemin meczûbu türbenin bir köşesinde ağlıyordu<br>Dokunmadan sırtını sıvazladım.<br>Kulak kesildim ne diyor:</p><blockquote><p class=\"mb-4\">Elliyorum elliyorum<br>Dokanamıyorum<br>Dokanamıyorum<br>Dokanamıyorum</p></blockquote><p class=\"mb-4\"><br>Sesi, atom çekirdeği ile elektron arasındaki o sonsuz boşluğun yankısı gibiydi.<br>Meczubun ağlaması, evrenin en temel melodisiydi:<br><strong>\"Vuslat özlemi, temas imkansızlığı\"</strong></p><p class=\"mb-4\">Zavallı dede, tüm bedeniyle titreyerek kuantum gerçeğini yaşıyordu.<br>Sen bense günlük hayatımızda bu acıyı “kucaklaşma” diye paketliyorduk.</p><p class=\"mb-4\">Ya Lâtîf u Ya Kâfî<br>Ya Lâtîf u Ya Kâfî<br>Ya Lâtîf u Ya Kâfî</p><p class=\"mb-4\">Orada, aynı türbenin kubbesi altında, âniden her şey şeffaflaştı.</p><p class=\"mb-4\">Taşlar titreşen enerji ağı, insanlar yürüyen yalnızlık demetleri, dua eden dudaklar boşluğa fısıldayan sessiz harfler…</p><p class=\"mb-4\">Meczubun<br>\"Dokunamıyorum\"ları..</p><p class=\"mb-4\">Aslında \"Ben\" diye ayrık bir nesne olmadığının da ilânıydı.<br>Dokunacak bir el, dokunulacak bir omuz yoktu ki...</p><p class=\"mb-4\">Sadece<br>Dokunuş’un kendisi vardı,<br>Temasın yokluğunda okunan<br>Âmini içinde nazlı bir niyaz gibi...</p><p class=\"mb-4\">Bu aydınlanma ânı, yaklaşan iftarla birlikte, midemin guruldamasıyla bölündü.<br>Türbeden çıkıp köşedeki tezgahtan bir simit alayım dedim.</p><p class=\"mb-4\">Ezanla birlikte simiti ısırdığım anda, her şey yeniden 'gerçek' oldu.</p><p class=\"mb-4\">Çıtır, tuzlu, susamlı...<br>Ayy çok heyecanlı</p><p class=\"mb-4\">Meczubun feryadı kulağımda çınlarken, dişlerim susam bulutlarını delip geçiyor, elektromanyetik itme kuvvetini, gecikmiş sahura dönüştürüyordum.</p><p class=\"mb-4\">İşte bu, dedim kendi kendime, hakiki mistik tecrübe şimdi böyle mi olmalı ne:</p><p class=\"mb-4\">Varoluşsal boşluğu, susamla kaplama.<br>Gönderi yapıp yollama...<br><br>Cümleten iftarlar, sahurlar, bayrama vara vesselâm...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/san-al-gerceklik-148679709.mp4"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-02-24T19:18:43.239Z",
+  "is_protected": false
+}
