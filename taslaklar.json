@@ -1,6 +1,46 @@
 {
   "isaretler": [
     {
+      "id": 1771961461466,
+      "title": "Under the Banner of Heaven",
+      "category": "seyirzevki",
+      "content": {
+        "id": 1771961461466,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-24T18:38:00.981Z",
+        "created_at": "2026-02-24T18:38:00.981Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202602242251-1771962669951.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Under the Banner of Heaven",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">bunu yap ey zaka hazırladı :) doğrudan kaldırabilirsiniz zeynep hanım<br><br><br><strong>Göklerin Sancağı Altında: İnanç Giysilerinden Soyunmak</strong></p><p class=\"mb-4\">Bir dizi bittiğinde neden kalbimizde izi kalır? Çünkü seyrettiğimiz, ekrandaki kareler değil, kendi sessiz diyaloglarımızdır. <em>Under the Banner of Heaven</em>, bize sadece sarsıcı bir suç hikâyesi anlatmıyor; ilişkilerimizin, travmalarımızın ve egomuzun labirentlerinde rehberlik eden keskin bir ayna tutuyor. İzlerken fark ettiğimiz, aslında kendi hakikat arayışımız ve bu yoldaki tökezlemelerimizdir.</p><p class=\"mb-4\">Dizinin merkezindeki Dedektif Jeb Pyre, dışarıdaki bir cinayeti aydınlatmaya çalışırken aslında kendi zihnindeki \"gaflet direğinin\" üzerine inşa edilmiş dünyasıyla yüzleşiyor. İnandığı her şeyin birer birer çatladığı o anlarda şu kadim sır yankılanıyor: <strong>\"Gerçek, bulmanız gereken bir şey değil; zaten burada. Tek sorun, çıplak olması. Ve bizler, inanç giysilerimiz olmadan onunla yüzleşmekten korkuyoruz...\"</strong>.</p><p class=\"mb-4\">Dizi boyunca sarsılan sadece Jeb’in imanı değil, izleyicinin de konfor alanıdır. İnancın nasıl bir tahakküme, dogmanın nasıl bir körlüğe dönüştüğünü gördüğümüzde, \"karanlığı tanımadan ışıktan bahsedilemeyeceğini\" bir kez daha idrak ediyoruz. Çünkü <strong>\"önemli olan insanın neye inandığı değil, inandığı şeyin onu ne hâle getirdiğidir\"</strong>.</p><p class=\"mb-4\">Kendi \"cennetini ve cehennemini\" kendi algısıyla inşa eden insan için bu dizi, sahte güvenlik algılarından sıyrılıp \"meşru acıyı deneyimleme istekliliğine\" dair derin bir tefekkür fırsatı sunuyor. Zira yıkılmak, hatırlamak için en büyük lütuftur: </p><p class=\"mb-4\"></p>"
+              },
+              {
+                "type": "dis_baglanti",
+                "text": "",
+                "url": "https://www.imdb.com/title/tt1998372/"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-24T19:31:01.466Z",
+      "updated_at": "2026-02-24T19:50:48.578Z",
+      "is_protected": false
+    },
+    {
       "id": 1771960834060,
       "title": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
       "category": "seyirdefteri",
