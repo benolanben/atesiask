@@ -28,10 +28,15 @@
         {
           "type": "metin",
           "text": "<p class=\"mb-4\">Kişisel Not:<br>Belki ailecek izlemek münasip düşmeyebilir.</p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt16294384/"
         }
       ]
     }
   },
-  "updated_at": "2026-02-13T16:00:49.519Z",
+  "updated_at": "2026-02-24T19:10:53.395Z",
   "is_protected": false
 }
