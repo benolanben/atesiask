@@ -1,6 +1,46 @@
 {
   "isaretler": [
     {
+      "id": 1772044535550,
+      "title": "'Işk oyunu",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1772044535550,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-25T18:28:35.185Z",
+        "created_at": "2026-02-25T18:28:35.185Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "feth-i mübin",
+              "keşif",
+              "miraç",
+              "samadi"
+            ],
+            "title": "'Işk oyunu",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "video",
+                "text": "",
+                "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/isk-oyunu-151154694.mp4"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-25T18:35:35.550Z",
+      "updated_at": "2026-02-25T18:41:49.938Z",
+      "is_protected": false
+    },
+    {
       "id": 1771961461466,
       "title": "Under the Banner of Heaven",
       "category": "seyirzevki",
