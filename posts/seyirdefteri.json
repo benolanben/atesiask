@@ -1,6 +1,28 @@
 {
   "isaretler": [
     {
+      "id": 202602252130,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602242221-1771960871272.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "SÖYLEŞİ KAYITLARI",
+            "fâillik",
+            "headless",
+            "huzur",
+            "soru işareti",
+            "ıtlak zevki"
+          ],
+          "title": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602242218,
       "is_protected": false,
       "article": {
