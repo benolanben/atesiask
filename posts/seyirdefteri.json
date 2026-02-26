@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202602262144,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "feth-i mübin",
+            "keşif",
+            "miraç",
+            "samadi"
+          ],
+          "title": "'Işk oyunu",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202602252130,
       "is_protected": false,
       "article": {
