@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "'Işk oyunu",
+      "id": 202602262144,
+      "category": "posts/seyirdefteri/202602262144"
+    },
+    {
       "text": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
       "id": 202602252130,
       "category": "posts/seyirdefteri/202602252130"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/fc5s9jp8cfernee/beyatimesk.mp3"
       },
       "id": 202602212146,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1490,
-        "parca_adi": "Hüseyni meşkte geçen",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/j0bts6qyyf6gvmd/tedbir.mp3"
-      },
-      "id": 202602212115,
       "category": "kaynak/baska"
     }
   ]
