@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202602272226,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602272226-1772220401817.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "hanif",
+            "inanç",
+            "tanıklık",
+            "özgürlük"
+          ],
+          "title": "İnanılır gibi değil",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202602262144,
       "is_protected": false,
       "article": {
