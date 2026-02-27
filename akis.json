@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İnanılır gibi değil",
+      "id": 202602272226,
+      "category": "posts/seyirdefteri/202602272226"
+    },
+    {
       "text": {
         "sira_no": 1494,
         "parca_adi": "Martılar âh eder",
@@ -59,11 +64,6 @@
       "text": "Zihinden geri çekildiğinde",
       "id": 202602222118,
       "category": "posts/seyirdefteri/202602222118"
-    },
-    {
-      "text": "Gerçek önceden bilinemez",
-      "id": 202602222050,
-      "category": "posts/seyirdefteri/202602222050"
     }
   ]
 }
