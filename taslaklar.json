@@ -1,6 +1,43 @@
 {
   "isaretler": [
     {
+      "id": 1772220558475,
+      "title": "Düşüncelerin düştüğünü düşününce",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1772220558475,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-02-27T19:29:09.912Z",
+        "created_at": "2026-02-27T19:29:09.912Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202602272230-1772220606195.webm",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "düşünce",
+              "seçim",
+              "tercih"
+            ],
+            "title": "Düşüncelerin düştüğünü düşününce",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "metin",
+                "text": ""
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-02-27T19:29:18.475Z",
+      "updated_at": "2026-02-27T19:29:55.658Z",
+      "is_protected": false
+    },
+    {
       "id": 1771961461466,
       "title": "Under the Banner of Heaven",
       "category": "seyirzevki",
