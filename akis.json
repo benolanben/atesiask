@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1494,
+        "parca_adi": "Martılar âh eder",
+        "seslendiren": "M. Utandı",
+        "url": "https://www.mediafire.com/file/z4g003atw56walg/martilar.mp3"
+      },
+      "id": 202602271231,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "'Işk oyunu",
       "id": 202602262144,
       "category": "posts/seyirdefteri/202602262144"
@@ -54,16 +64,6 @@
       "text": "Gerçek önceden bilinemez",
       "id": 202602222050,
       "category": "posts/seyirdefteri/202602222050"
-    },
-    {
-      "text": {
-        "sira_no": 1491,
-        "parca_adi": "Beyâti meşkte geçen",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/fc5s9jp8cfernee/beyatimesk.mp3"
-      },
-      "id": 202602212146,
-      "category": "kaynak/baska"
     }
   ]
 }
