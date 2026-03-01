@@ -1,0 +1,45 @@
+{
+  "id": 202603011851,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-02-24T18:38:00.981Z",
+  "created_at": "2026-03-01T15:51:29.058Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202603011851-1772380291625.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "inanç",
+        "dogma",
+        "algı"
+      ],
+      "title": "Under the Banner of Heaven",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Göklerin Sancağı Altında: İnanç Giysilerinden Soyunmak</strong></p><p class=\"mb-4\">Bir dizi bittiğinde neden kalbimizde izi kalır? Çünkü seyrettiğimiz, ekrandaki kareler değil, kendi sessiz diyaloglarımızdır. <em>Under the Banner of Heaven</em>, bize sadece sarsıcı bir suç hikâyesi anlatmıyor; ilişkilerimizin, travmalarımızın ve egomuzun labirentlerinde rehberlik eden keskin bir ayna tutuyor. İzlerken fark ettiğimiz, aslında kendi hakikat arayışımız ve bu yoldaki tökezlemelerimizdir.</p><p class=\"mb-4\">Dizi boyunca sarsılan sadece Jeb’in imanı değil, izleyicinin de konfor alanıdır. İnancın nasıl bir tahakküme, dogmanın nasıl bir körlüğe dönüştüğünü gördüğümüzde, \"karanlığı tanımadan ışıktan bahsedilemeyeceğini\" bir kez daha idrak ediyoruz. </p><p class=\"mb-4\">Kendi \"cennetini ve cehennemini\" kendi algısıyla inşa eden insan için bu dizi, sahte güvenlik algılarından sıyrılıp \"meşru acıyı deneyimleme istekliliğine\" dair derin bir tefekkür fırsatı sunuyor. Zira yıkılmak, hatırlamak için en büyük lütuftur:<br></p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br><strong>\"Gerçek, bulmanız gereken bir şey değil; zaten burada. </strong><br><strong>Tek sorun, çıplak olması. Ve bizler, inanç giysilerimiz olmadan onunla yüzleşmekten korkuyoruz...\"</strong>.<br><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt1998372/"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202603011851-1772380292526.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-01T15:51:29.058Z",
+  "is_protected": false
+}
