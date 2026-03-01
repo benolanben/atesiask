@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Düşüncelerin düştüğünü düşününce",
+      "id": 202603011828,
+      "category": "posts/seyirdefteri/202603011828"
+    },
+    {
       "text": "İnanılır gibi değil",
       "id": 202602272226,
       "category": "posts/seyirdefteri/202602272226"
@@ -59,11 +64,6 @@
       },
       "id": 202602222142,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Zihinden geri çekildiğinde",
-      "id": 202602222118,
-      "category": "posts/seyirdefteri/202602222118"
     }
   ]
 }
