@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y•OLDA ÇEVRİLENLER'den]\n\n~\nHayır hayır, eğilmek zayıflık değildir.\nBu, bir insanın gerçeklerden ders almayı \nUnuttuğunu...",
+      "id": 202603020903,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "Under the Banner of Heaven",
       "id": 202603011851,
       "category": "posts/seyirzevki/202603011851"
@@ -54,11 +59,6 @@
       "text": "Becoming You",
       "id": 202602240001,
       "category": "posts/seyirzevki/202602240001"
-    },
-    {
-      "text": "Uyanış Rüyasından Sızdırmalar",
-      "id": 202602222225,
-      "category": "posts/seyirdefteri/202602222225"
     }
   ]
 }
