@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1495,
+        "parca_adi": "Yürük semai",
+        "seslendiren": "3. Ses",
+        "url": "https://www.mediafire.com/file/l1r31z18zv337wv/yuruk_3ses.mp3"
+      },
+      "id": 202603032056,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[Y•OLDA ÇEVRİLENLER'den]\n\n~\nHayır hayır, eğilmek zayıflık değildir.\nBu, bir insanın gerçeklerden ders almayı \nUnuttuğunu...",
       "id": 202603020903,
       "category": "yoldacevrilenler"
@@ -54,11 +64,6 @@
       },
       "id": 202602241041,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Becoming You",
-      "id": 202602240001,
-      "category": "posts/seyirzevki/202602240001"
     }
   ]
 }
