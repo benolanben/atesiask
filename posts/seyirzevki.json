@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202603042116,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202603042116-1772648167294.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "An",
+            "fasulyelerin şarkısı",
+            "iyileşme",
+            "şefkat"
+          ],
+          "title": " Sweet Bean",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603011851,
       "is_protected": false,
       "article": {
