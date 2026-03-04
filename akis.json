@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Başına talih kuşu konan",
+      "id": 202603041959,
+      "category": "posts/seyirdefteri/202603041959"
+    },
+    {
       "text": "Olanı bulmak, olanda bulunmak",
       "id": 202603041957,
       "category": "posts/seyirdefteri/202603041957"
@@ -54,11 +59,6 @@
       "text": "BİR SİSTEM YÖNETİCİSİNİN İTİRAFLARI",
       "id": 202602252130,
       "category": "posts/seyirdefteri/202602252130"
-    },
-    {
-      "text": "San~al Gerçeklik Gözlüğü",
-      "id": 202602242218,
-      "category": "posts/seyirdefteri/202602242218"
     }
   ]
 }
