@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Olanı bulmak, olanda bulunmak",
+      "id": 202603041957,
+      "category": "posts/seyirdefteri/202603041957"
+    },
+    {
       "text": {
         "sira_no": 1495,
         "parca_adi": "Yürük semai",
@@ -54,16 +59,6 @@
       "text": "San~al Gerçeklik Gözlüğü",
       "id": 202602242218,
       "category": "posts/seyirdefteri/202602242218"
-    },
-    {
-      "text": {
-        "sira_no": 1493,
-        "parca_adi": "Aşktan gelir",
-        "seslendiren": "D. Brothers",
-        "url": "https://www.mediafire.com/file/f0pgs4c4c40l1rz/asktangelir.mp3"
-      },
-      "id": 202602241041,
-      "category": "kaynak/baska"
     }
   ]
 }
