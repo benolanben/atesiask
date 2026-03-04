@@ -1,0 +1,56 @@
+{
+  "id": 202603042116,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-04T16:55:31.242Z",
+  "created_at": "2026-03-04T18:16:05.298Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202603042116-1772648167294.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "An",
+        "fasulyelerin şarkısı",
+        "iyileşme",
+        "şefkat"
+      ],
+      "title": " Sweet Bean",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kapısız yol<br>Sıcak el'den<br>Sıcak ele geçer<br></p>",
+          "author": "[W. Hsin]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İnsandan doğanlar insan olurmuş<br></p>",
+          "author": "[Garip Dedem]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Filmde Tokue karakteri, toplumun \"hastalıklı\" veya \"işe yaramaz\" olarak kenara bıraktığı, Sentaro ise kendi içsel hapishanesinde, yaptığı işe ruhunu katmadan yaşayan bir adam. Tokue ona sadece dorayaki yapmayı değil, fasulyelerin güneşle olan yolculuğunu, yağmurun sesini ve \"dinlemeyi\" öğretiyor.<br><strong><br>\"Sweet Bean, bize bir şeyi iyi yapmanın teknik bir ustalıkla birlikte, bir şefkat eylemi olduğunu gösteriyor. Eğer fasulyeleri sevmezseniz, onlar da size tadını vermez.\"</strong></p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><br>Sentaro’nun dükkanındaki o küçük pencere, aslında onun dünyaya açılan dar penceresidir. Tokue gelip o pencereyi bir aynaya dönüştürür.<br><br><strong>İyileşme yalnız değil destekleyici bir toplulukla mümkündür...</strong><br><br></p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202603042116-1772648170877.jpg"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "",
+          "url": "https://www.imdb.com/title/tt4298958/"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-04T18:16:05.298Z",
+  "is_protected": false
+}
