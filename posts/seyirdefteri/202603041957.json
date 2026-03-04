@@ -1,0 +1,35 @@
+{
+  "id": 202603041957,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-02T17:52:56.242Z",
+  "created_at": "2026-03-04T16:57:11.822Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "zen masal"
+      ],
+      "title": "Olanı bulmak, olanda bulunmak",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>— \"Farkındalığı bulmak\" için yıllarca meditasyon yaptım.<br>(Allah'ı bulmak, cemâlini görmek için yıllarca ibadet ettim)</strong></p><p class=\"mb-4\">Sonra bir sabah birden dank etti yok yere:</p><p class=\"mb-4\">Tüm bu süre boyunca farkındalık, kendini arıyordu.<br>Sorun, arayışta olmanın kendisiydi.</p><p class=\"mb-4\">Evet, tam olarak BU...</p><p class=\"mb-4\">Ama işte \"BU\"nu fark etmeye çalışabilecek<br>Ayrı \"BİR~i\" olduğu yanılsamasına kapılmadan.</p><p class=\"mb-4\">Kendiliğinden hatırlayış...<br><br>İmkansızı başarmak için ne yaparsın?<br>Zaten olduğun şey olmak için çabalarsın<br><strong>Bu, tıpkı suya \"ıslan!\" diye bağırmaya benziyor.</strong><br><br>Hâlihazırda bulunduğun yere ulaşmak için hangi yolu izleyebilirsin?<br>Bulunduğun yere varmak için kendinle, kendi etrafında turlarsın<br><strong>Bu, bir zarfın üzerine \"alıcıya ulaştırılmak üzere\" yazıp kendi elinle yol boyunca dolaşıp sonra dönüp kendine teslim edilmesine benziyor a güzel...</strong></p><p class=\"mb-4\"><br>Öz~sorgulamanın sonu, aramanın sonuyla aynıdır.<br>Daha fazla zihinsel açıklama, arananı sağlamaz.<br>Arayış, direniş faaliyetleri bırakın ve tüm zihinsel faaliyetlerden önce gelen şeye yani farkındalığa, deneyimin içeriğine değil deneyimin kabına odaklanın.<br>[Wu Hsin'den]<br><br>Her şeyi anlamaya çalışmana gerek yok.<br>Sadece gizemi kaygıya dönüştürmeyi bıraksan ya...<br><br>Şimdi olduğun yerde dur.<br>Uçsuz bucaksızlığı uçsuz bucaksız bırak.</p><p class=\"mb-4\">Zihin, önceden bir harita olsun elinde ister.<br>Hayat ise şimdi canlı canlı mevcudiyeti...<br><br>Temiz net bir adım.<br>Öylece bir nefes<br>Hayat...<br>Sonra bir adım daha.<br>Bir nefes daha...<br><br>Derken, bir gün, tüm bu adımlar ve nefesler arasında, gözünden kaçan bir reklam panosu görürsün. Üzerinde kocaman harflerle şu yazar:</p><p class=\"mb-4\"><strong>“DİKKAT! ARIYORSAN, BULAMAZSIN.</strong><br><strong>BULDUYSAN, ZATEN HEP BURADAYDIN.</strong><br><strong>(Gereksiz telaşın lüzumu yoktur, huzur içinde telaşlanabilirsiniz.)</strong></p><p class=\"mb-4\">Ve altındaysa küçük bir not:<br>\"<strong>Yolun kendisi de varış noktasının bir parçasıdır\"<br>Hoş yine de yürümek zorundasın<br>Çünkü manzara bir güzel, bir güzel...<br><br></strong>Yenigüne hoşgeldin ey sevgili...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603022143.mp4?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-04T16:57:11.822Z",
+  "is_protected": true
+}
