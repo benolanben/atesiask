@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202603041957,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "zen masal"
+          ],
+          "title": "Olanı bulmak, olanda bulunmak",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202603011828,
       "is_protected": false,
       "article": {
