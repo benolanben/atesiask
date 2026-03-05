@@ -1,0 +1,41 @@
+{
+  "id": 202603051958,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-04T16:55:31.242Z",
+  "created_at": "2026-03-05T16:58:36.773Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "rüya",
+        "uyanış"
+      ],
+      "title": "Uyanış Rüyası",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Gerçek kimliğimiz, hiçbir zaman gizli kalmadı.<br>Dikkat, görünen şeylere odaklandığı için gözden kaçıyor sadece...</p><p class=\"mb-4\">İt izi, at izine karışmışlara<br>Basit bir dikkat kayması yeter;<br>Deneyimin içeriğinden<br>Deneyimin açığa çıktığı alana...<br>Tam aksi istikâmete dön yeter</p><p class=\"mb-4\">~<br>Yek nazarda<br>Hiçbir şey eklenmez.<br><br>Ne sandığınız çekilince<br>Ne olduğumuz ortaya çıkar</p><p class=\"mb-4\">Zihin sessiz kalmayı öğrenir.<br>Farkındalık kendini tanır.</p><p class=\"mb-4\">Ezel saatine kurulu uyanış tohumu,<br>Dikkatle sulandıkça çiçek açmaya başlar...</p><p class=\"mb-4\">Ve tüm bu sürecin sonunda vardığın nokta<br>\"Yola çıktığın nokta\"<br>Bir vardasın hep yokta<br>Feleğin çemberinde uçlar bir~biri~ne değer çokta:</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Sen, aslında hiçbir yere varmamıştın.</p><p class=\"mb-4\">Sadece, bir rüyanın içinde uyanıp<br>\"Aman be Allah'tan rüyaymış!\" dediğin o ânı yaşıyorsun.</p><p class=\"mb-4\">Ama işin komiği, uyandığını sandığın o an da rüyanın bir parçası.</p><p class=\"mb-4\">Peki ya şimdi?<br>Şimdi ne olacak?</p><p class=\"mb-4\">Olanlar olacak...</p><p class=\"mb-4\">Tıpkı dün olduğu gibi.</p><p class=\"mb-4\">Banka hesabındaki para azalacak, çorba soğuyacak, belki sevgilin seni başka bir rüya görenle aldatacak...</p><p class=\"mb-4\">Ama sen, uyandığını sanan bir rüya kahramanı olarak, bütün bunları “işte, müthiş bir illüzyon” diyerek üçüncü gözünle oyun gibi izleyeceksin.<br><br>\"Bir rüyayı tamir etmek gerekmez\" ne demekmiş kendinden bileceksin.</p><p class=\"mb-4\">Ta ki bir gün, rüyanın en civcivli yerinde, elinde simit çay, karşındaki aziz dostuna dönüp şu cümleyi kurana kadar:</p><p class=\"mb-4\">“Hocam, bu uyanış işi de rüya gibi bir şeymiş ya hu.<br>Uyandıkça uyuyor insan.”<br><br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br><strong>Y~OL<br></strong>Düz bir çizgi değil; spiraldir,<br>İçe doğru halka halka genişleyen bir çember.<br>Sürekli olarak anladığınıza inandığınız şeylere geri dönersiniz ve<br>Daha derin gerçekleri görürsünüz.<br>İçin içi var<br>İçin içi...</p><p class=\"mb-4\">~</p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603042010.mp4"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-05T16:58:36.773Z",
+  "is_protected": true
+}
