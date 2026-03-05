@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Uyanış Rüyası",
+      "id": 202603051958,
+      "category": "posts/seyirdefteri/202603051958"
+    },
+    {
       "text": " Sweet Bean",
       "id": 202603042116,
       "category": "posts/seyirzevki/202603042116"
@@ -54,11 +59,6 @@
       },
       "id": 202602271231,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "'Işk oyunu",
-      "id": 202602262144,
-      "category": "posts/seyirdefteri/202602262144"
     }
   ]
 }
