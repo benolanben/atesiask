@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1496,
+        "parca_adi": "Tekke'den gül sesi",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/fc6j5exwrh9nj7p/tekkekoyunden.mp3"
+      },
+      "id": 202603061241,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Uyanış Rüyası",
       "id": 202603051958,
       "category": "posts/seyirdefteri/202603051958"
@@ -49,16 +59,6 @@
       "text": "İnanılır gibi değil",
       "id": 202602272226,
       "category": "posts/seyirdefteri/202602272226"
-    },
-    {
-      "text": {
-        "sira_no": 1494,
-        "parca_adi": "Martılar âh eder",
-        "seslendiren": "M. Utandı",
-        "url": "https://www.mediafire.com/file/z4g003atw56walg/martilar.mp3"
-      },
-      "id": 202602271231,
-      "category": "kaynak/baska"
     }
   ]
 }
