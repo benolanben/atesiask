@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Maske~siz temas",
+      "id": 202603062119,
+      "category": "posts/seyirdefteri/202603062119"
+    },
+    {
       "text": {
         "sira_no": 1496,
         "parca_adi": "Tekke'den gül sesi",
@@ -54,11 +59,6 @@
       "text": "Düşüncelerin düştüğünü düşününce",
       "id": 202603011828,
       "category": "posts/seyirdefteri/202603011828"
-    },
-    {
-      "text": "İnanılır gibi değil",
-      "id": 202602272226,
-      "category": "posts/seyirdefteri/202602272226"
     }
   ]
 }
