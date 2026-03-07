@@ -1,0 +1,46 @@
+{
+  "id": 202603072321,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-07T19:35:24.396Z",
+  "created_at": "2026-03-07T20:21:37.490Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "ayrışmak",
+        "kendini bilmek"
+      ],
+      "title": "Canlı yayın",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Algıladığın şey sen olamazsın.<br></p>",
+          "author": "[C. Jung'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ego, algılanan benliğin zihninde anlatılan bir hikâyeden ibarettir.<br><br>Gerçek benlik algılanamaz çünkü senden ayrı değildir.<br><br><s>O sensin.</s><br><br>Başlaması bitmesi, ucu kenarı olmadığından bilinemezsin<br>Ama kişi hâli öyle değil, onun görünme ve silinme tarihi belli...<br><br>Sen, sade bir kişi olarak mevcut değilsin.<br>Burası tam anlaşıldığında, bedenden ve zihinden ayrışmak doğal hâle gelir.<br><br>Her şey beden~zihin dinginliğiyle başlar ve birlik içinde sona erer.<br><br>NOT: Şimdi fark ettik sesi, bencileyin hayli kısımkış,<br>Nidelim can kulağı açık olanlara duyulur a...<br><br></p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603072307.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Vâr olduğunuzu biliyorsunuz.<br>Ne olduğunuzu ise bilmiyorsunuz.<br>Ne olduğunuzu bulun; hepsi bu...<br></em></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-07T20:21:37.490Z",
+  "is_protected": true
+}
