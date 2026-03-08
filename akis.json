@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •4",
+      "id": 202603090016,
+      "category": "posts/seyirdefteri/202603090016"
+    },
+    {
       "text": "Canlı yayın",
       "id": 202603072321,
       "category": "posts/seyirdefteri/202603072321"
@@ -54,11 +59,6 @@
       },
       "id": 202603032056,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "[Y•OLDA ÇEVRİLENLER'den]\n\n~\nHayır hayır, eğilmek zayıflık değildir.\nBu, bir insanın gerçeklerden ders almayı \nUnuttuğunu...",
-      "id": 202603020903,
-      "category": "yoldacevrilenler"
     }
   ]
 }
