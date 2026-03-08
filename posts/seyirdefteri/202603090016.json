@@ -1,0 +1,39 @@
+{
+  "id": 202603090016,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-08T21:12:29.329Z",
+  "created_at": "2026-03-08T21:16:29.519Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "marifetullah",
+        "melamet",
+        "tevhid",
+        "şirk"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •4",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong><em>Aşka kulluk itmeyen cânânı bilmez kandedür</em></strong><em><br>Kend'özünü kul sanur sultânı bilmez kandedür</em></p><p class=\"mb-4\">Gerçi melâmetin esâs gâyesi, ehline mâlumdur ama...<br>Dışarıdan okuyanlara bakılırsa, klişe algı ve tabulara karşı çıkmak, aynanın buğusunu silmektir diye~biliriz...<br><br>~</p><p class=\"mb-4\">Bu yüzden olsa gerek, ehl-i melâmet için \"tahrîb-i âdattır\" derler.<br><br><em>Garka-i bahr-i 'ışk olan kişinün menzili, sâhil-i melâmetdür<br></em><br>Bildikleri gibi değil, buldukları gibi oynadıkları için, rüzgarın evinden ve niyetinden sual olunmaz olur ve's-selâm</p><p class=\"mb-4\"><em>Evrâk-ı ümmîd-i dile şîrâze gerekmez<br>Tâ kim ola her bâd-ı melâmetle perîşân</em></p><p class=\"mb-4\">Bunu duyan aşıkta kalır mı hiç gayrı mecâl:</p><p class=\"mb-4\"><strong>Âşık ü hayran ü mestim, mezhebim yokluk benim;<br>Bu vücudum LÂ'sını nûr etti İLLÂ-yı visâl</strong></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603082416-1773004599083.jpg",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603090015.mp3"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-08T21:16:29.519Z",
+  "is_protected": true
+}
