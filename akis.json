@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nOtuz mil çarxın gövdəsinə birləşir; lakin onu faydalı edən mərkəzi dəlikdir. \n\nGil qaba çevrili...",
+      "id": 202603110854,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nSən möhtəşəm bir təzahürsən.\nBütün kainat sənin varlığını mümkün etmək üçün bir araya gəlib. Sə...",
       "id": 202603110853,
       "category": "yoldacevrilenler"
@@ -54,11 +59,6 @@
       },
       "id": 202603061241,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Uyanış Rüyası",
-      "id": 202603051958,
-      "category": "posts/seyirdefteri/202603051958"
     }
   ]
 }
