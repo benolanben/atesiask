@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yıkılmaya hazır mısın?",
+      "id": 202603112059,
+      "category": "posts/seyirdefteri/202603112059"
+    },
+    {
       "text": {
         "sira_no": 1498,
         "parca_adi": "Hicazkâr Müşterek Taksim",
@@ -54,11 +59,6 @@
       "text": "Sahnesi geçmeyen oyun",
       "id": 202603072240,
       "category": "posts/seyirdefteri/202603072240"
-    },
-    {
-      "text": "Maske~siz temas",
-      "id": 202603062119,
-      "category": "posts/seyirdefteri/202603062119"
     }
   ]
 }
