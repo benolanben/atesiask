@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Noktayı uzatma",
+      "id": 202603112107,
+      "category": "posts/seyirdefteri/202603112107"
+    },
+    {
       "text": "Yıkılmaya hazır mısın?",
       "id": 202603112059,
       "category": "posts/seyirdefteri/202603112059"
@@ -54,11 +59,6 @@
       "text": "Canlı yayın",
       "id": 202603072321,
       "category": "posts/seyirdefteri/202603072321"
-    },
-    {
-      "text": "Sahnesi geçmeyen oyun",
-      "id": 202603072240,
-      "category": "posts/seyirdefteri/202603072240"
     }
   ]
 }
