@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202603112059,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603112100-1773252001362.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kuş Kafesi",
+            "uyanış",
+            "yapısöküm",
+            "yıkım"
+          ],
+          "title": "Yıkılmaya hazır mısın?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603092104,
       "is_protected": false,
       "article": {
