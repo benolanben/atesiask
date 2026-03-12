@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202603122156,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "bağışlanma",
+            "genel af",
+            "kendini affetmek"
+          ],
+          "title": "Şimdi kendini affet",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202603112107,
       "is_protected": false,
       "article": {
