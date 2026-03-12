@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nDiyelim ki sorunları çözdüm. \nPeki sonra ne olacak? \nBasitçe yok olacaklar; \nYani, çoğu zaman d...",
+      "id": 202603122205,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "Şimdi kendini affet",
       "id": 202603122156,
       "category": "posts/seyirdefteri/202603122156"
@@ -54,11 +59,6 @@
       "text": "Bir ihtimâl daha var",
       "id": 202603092104,
       "category": "posts/seyirdefteri/202603092104"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •4",
-      "id": 202603090016,
-      "category": "posts/seyirdefteri/202603090016"
     }
   ]
 }
