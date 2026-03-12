@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Şimdi kendini affet",
+      "id": 202603122156,
+      "category": "posts/seyirdefteri/202603122156"
+    },
+    {
       "text": "Noktayı uzatma",
       "id": 202603112107,
       "category": "posts/seyirdefteri/202603112107"
@@ -54,11 +59,6 @@
       "text": "Yedi Dur~ak Risâlesi •4",
       "id": 202603090016,
       "category": "posts/seyirdefteri/202603090016"
-    },
-    {
-      "text": "Canlı yayın",
-      "id": 202603072321,
-      "category": "posts/seyirdefteri/202603072321"
     }
   ]
 }
