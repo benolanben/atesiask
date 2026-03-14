@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1500,
+        "parca_adi": "Lâleli sümbüllü bir bağ",
+        "seslendiren": "N. Yılmaz",
+        "url": "https://www.mediafire.com/file/e4dgtnxmen06hjv/laleli.mp3"
+      },
+      "id": 202603141257,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1499,
         "parca_adi": "Olacak o kadar",
         "seslendiren": "G. Gündoğarken",
@@ -54,16 +64,6 @@
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nSən ölməzsən; sən milyardlarla il müxtəlif təzahürlərdə var olmusan, çünki sən həyatsan və həya...",
       "id": 202603110852,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": {
-        "sira_no": 1497,
-        "parca_adi": "Ben ben değilim",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/lchhkbx7ovqifns/benbendegilim.mp3"
-      },
-      "id": 202603101054,
-      "category": "kaynak/baska"
     }
   ]
 }
