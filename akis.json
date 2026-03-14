@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1499,
+        "parca_adi": "Olacak o kadar",
+        "seslendiren": "G. Gündoğarken",
+        "url": "https://www.mediafire.com/file/tf95exljxokcs9o/olacak.mp3"
+      },
+      "id": 202603141127,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nDiyelim ki sorunları çözdüm. \nPeki sonra ne olacak? \nBasitçe yok olacaklar; \nYani, çoğu zaman d...",
       "id": 202603122205,
       "category": "yoldacevrilenler"
@@ -54,11 +64,6 @@
       },
       "id": 202603101054,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Bir ihtimâl daha var",
-      "id": 202603092104,
-      "category": "posts/seyirdefteri/202603092104"
     }
   ]
 }
