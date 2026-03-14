@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1501,
+        "parca_adi": "Yüzüm şen",
+        "seslendiren": "H. Burhan",
+        "url": "https://www.mediafire.com/file/u16e41npvcethgr/yuzumsen.mp3"
+      },
+      "id": 202603141317,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1500,
         "parca_adi": "Lâleli sümbüllü bir bağ",
         "seslendiren": "N. Yılmaz",
@@ -58,11 +68,6 @@
     {
       "text": "[YOLDA ÇEVRİLENLER'DEN]\n\nSən möhtəşəm bir təzahürsən.\nBütün kainat sənin varlığını mümkün etmək üçün bir araya gəlib. Sə...",
       "id": 202603110853,
-      "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nSən ölməzsən; sən milyardlarla il müxtəlif təzahürlərdə var olmusan, çünki sən həyatsan və həya...",
-      "id": 202603110852,
       "category": "yoldacevrilenler"
     }
   ]
