@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202603150130,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603142530-1773527449090.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Benlik çıkmazından çıkış",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603122156,
       "is_protected": false,
       "article": {
