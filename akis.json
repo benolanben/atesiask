@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kuantum Satori* •1",
+      "id": 202603152348,
+      "category": "posts/seyirdefteri/202603152348"
+    },
+    {
       "text": {
         "sira_no": 1502,
         "parca_adi": "Hâcet kalmadı",
@@ -64,16 +69,6 @@
       "text": "Yıkılmaya hazır mısın?",
       "id": 202603112059,
       "category": "posts/seyirdefteri/202603112059"
-    },
-    {
-      "text": {
-        "sira_no": 1498,
-        "parca_adi": "Hicazkâr Müşterek Taksim",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/ndhtsfu1nq8s64c/hicazkartaksim.mp3"
-      },
-      "id": 202603111335,
-      "category": "kaynak/baska"
     }
   ]
 }
