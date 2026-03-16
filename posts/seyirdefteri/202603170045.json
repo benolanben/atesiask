@@ -1,0 +1,161 @@
+{
+  "id": 202603170045,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-15T20:34:11.852Z",
+  "created_at": "2026-03-16T21:45:58.113Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603152350-1773607800254.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "bilinç",
+        "bilinçaltı",
+        "kuantum",
+        "madde"
+      ],
+      "title": "Kuantum Materia •2",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603162058.mp4"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Varlığın Sevincin'den duyulandır:<br><strong>\"En-nâsu niyâmun...\"</strong><br>Bütün insanlar uykudadır</p><p class=\"mb-4\">Göz dışarı ya içeri açık<br>Uykuda görülen apaçık rüyâdır<br><br><strong>Bir <em>rüyâyı bozmak da rüya, tâmir etmek de rüyâdaydı<br>Kapı ancak rüyânın, rüyâ olduğu fark edilince aralandı</em></strong></p><p class=\"mb-4\">Her gün yeniden gösterime giren dünya filmimizde, huzurlarınızda meşhur fizikçilerimizden bazı sahneler ve rüyâ tâbiri olarak geçen altyazıları:</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Atomlar veya temel parçacıklar kendi başlarına gerçek değildir; bunlar, nesneler veya gerçeklerden ziyâde, bir potansiyel veya ihtimâller dünyasını 'âlem-i imkân' oluştururlar.</p><p class=\"mb-4\"></p>",
+          "author": "[W. Heisenberg'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Maddenin (kendi özü) diye bir şey yoktur. Tüm madde, bir atomun parçacıklarını titreşime geçiren ve atomun, bu en küçük atom güneş sistemini bir arada tutan göremediğimiz bir güç sâyesinde ortaya çıkar ve var görünür.<br></p>",
+          "author": "[M. Planck'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Bize duyular yoluyla sunulan, algı kapılarından akan dünya, maddi bir dünya değildir.<br></p>",
+          "author": "[E.. Schrödinger'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Gözlemlenene kadar hiçbir olgu gerçek bir olgu değildir.<br></p>",
+          "author": "[J. A. Wheeler'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>~ Yani ormanda devrilen ağaç, duyan kulak yoksa ses çıkarmaz. Hatta ağaç bile yoktur belki de. Orman, gözlerimizi kapattığımız anda silinip giden bir rüya sahnesidir. Korkmayın, açtığınızda yine oradadır; nasıl olsa rüyanın kurgusu sağlam.</em></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•<br></strong>Gerçek dediğimiz her şey, gerçek olarak kabul edilemeyecek şeylerden oluşur.<br></p>",
+          "author": "[N. Bohr'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>~ Tıpkı bir rüyada görülen elmanın, rüyada yenmesi, rüyada kalması gibi. Tadı var, sertliği var ama uyanınca yok. İşte bizim dünyamız da böyle bir elma. Kuantum elması; kanma ona! Direnci var, ısırıyor gibi oluyorsun, bir anlık bir~tat ama özü yok. Masallardan hatırlasana, elmayı ısıran prenses uykuda, öpülünce uyana... Uyanmazsan öpen çok olur; anla!</em></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Gerçeklik dediğimiz şey sadece bir zihin durumudur.<br></p>",
+          "author": "[D. 'Espagnat'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Evren, büyük bir makineden çok, büyük bir düşünceye benzemeye başlıyor.<br></p>",
+          "author": "[J. Jeans'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Fiziksel nesneler uzayda bulunmaz, ancak bu nesneler uzayda yayılmış görünüyor.<br></p>",
+          "author": "[A. Einstein'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Gerçeklik, her ne kadar kalıcı görünse de, görünen her şey yalnızca bir yanılsamadan ibarettir.<br></p>",
+          "author": "[A. Einstein'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Tüm bu parçaların ayrı ayrı, müstakil vücutlarıyla, sınırlarıyla var olduğu düşüncesi açıkça bir yanılsamadır ve bu yanılsama sonsuz çatışma ve kafa karışıklığına yol açmaktan başka bir işe yaramaz.<br></p>",
+          "author": "[D. Bohm'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Bilimin en çok ilerlediği yerlerde, zihnin doğaya kattığı şeyi doğadan geri kazandığını gördük.<br></p>",
+          "author": "[M. Planck'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>~ Yani bizler, evreni keşfederken, aslında kendi zihnimizin haritasını çıkarıyoruz. Bilim, dışarıya açılan bir pencere değil; içeriye tutulan bir ayna. O aynada kendi yüzümüzü görüyoruz ama gel gör ki tanımakta zorlanıyoruz.</em></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Dünyanın özü, zihnin özüdür yani böylesi dünyayı oluşturan şey, böyle işleyen zihindir.<br></p>",
+          "author": "[A. Eddington'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Evrendeki zihinlerin toplam sayısı birdir.<br></p>",
+          "author": "[E.Schrödinger'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Tek başına duran, izole madde parçacıkları soyut kavramlardır; özellikleri ancak diğer sistemlerle etkileşimleri yoluyla tanımlanabilir ve gözlemlenebilir.<br></p>",
+          "author": "[N. Bohr'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>~ Yani sen varsan ben varım. Ben yoksam, sen de yoksun. Bu bir düet. Dünya, senle benim aramdaki bir danstan ibaret. Dans bitince, salon da yok olur.</em></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Kuantum varsayımı, atomik olaylara dair her gözlemin, gözlemciyle bir etkileşimi içereceği anlamına gelir.<br></p>",
+          "author": "[N. Bohr'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•</strong><br>Salt aklın gücüne dair tam bir inançla yaşayan bilim insanı için hikâye, bir kabus gibi biter. O, cehalet dağlarını tırmanmış ve en yüksek zirveyi fethetmek üzeredir; son kayanın üzerinden kendini yukarı çekerken... Asırlardır orada oturan \"ermişler zümresi' tarafından karşılanır.<br></p>",
+          "author": "[R. Jastrow'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kıyâmet mi?<br>Maddenin kendisinin, nihâyetinde madde~siz olduğunu keşfedene dek bekleyin.<br></p>",
+          "author": "[A. Kadrî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>••</strong><br>Tamam her şey maddedir, her şey maddedir ama madde, bir şey değildir, madde değildir.<br></p>",
+          "author": "[L. Şuşud Efendi'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•••</strong><br>Dünya işleri, hayâl~hânemizde vâriddir.<br></p>",
+          "author": "[Türbedâr Dedemiz'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>••<br>••<br>•</strong><br><br>Peki, tüm bu cümlelerin, bu derin fizik okumalarının, bu tasavvufî inceliklerinin ardından, insan ne yapmalı?</p><p class=\"mb-4\">Bana sorarsan şunu:</p><p class=\"mb-4\">Bir sabah uyanıyorsun.<br>Altına koyacaklarını koyduktan sonra<br>BIRakayım diye kendine bir kahve ayarlıyorsun<br>(Madde de madde değil ama olsun, içimi güzel).</p><p class=\"mb-4\">Açık pencereden uzaklara dalıyorsun...</p><p class=\"mb-4\">Kuşlar cıvıldıyor, güneş parlıyor ama trafik de var...<br>Her şey aynı, ama bir farkla:<br>Biliyorsun ki bu bir rüya,<br>Kendi kendine anlattığın bir fıkra...</p><p class=\"mb-4\">Peki bunları böyle bile~biliyor~san ne olacak?<br>Hakk'tan inen <strong>\"Kuşlara serbest\"</strong> duyulacak</p><p class=\"mb-4\">İşte o an, yeni rüyanda bir martıya rastlıyorsun.<br>Martı, gözlerinin içine bakıp kuş diliyle, hem de seni doğuranın gül sesiyle şöyle diyor:</p><p class=\"mb-4\">\"A benim güzelim,<br>Kahven soğuyor, hadi işe geç kalma!</p><p class=\"mb-4\">Bu rüyayı da bir güzel görelim, olanı olmayanı hayra yoralım, ölünce uyanırız hep beraber.<br>Ama şunu unutma:</p><p class=\"mb-4\">Ben de senin rüyanım, sen de benim.<br>Kuantum fiziğini anlamasan da olur, yeter ki rüyanda kimseyi üzme.<br>Haa, bir de şu kediyi kutudan çıkar artık, zavallı hayvan kırk yıldır orada, miyavlıyor, haberin yok!\"</p><p class=\"mb-4\">Ve anlıyorsun ki, uyanmak da bir rüya, uyumak da...<br><br>Mühim olan rüyada, rüya olduğunu bile bile rüyayı güzel görmek.<br>Zaten uyanınca hepimiz aynı yerde buluşacağız:</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Fe-dhulî fî ibâdî</strong><br></p>",
+          "author": "[Fecr:29'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Aşkın tek nefesli bağçesinde<br>O \"Ermişler Halkası\" içinde<br>Zikir hâlinde...</p><p class=\"mb-4\">Orda da kahve mi içiyor ne?<br>Gerçi o kahve de madde değildir ama...<br>Olsun, muhabbeti pek güzeldir.</p><p class=\"mb-4\">Maksat muhabbet olsun...</p><p class=\"mb-4\"><br><strong>Meraklısına</strong> <strong>Bonus SAHNE:<br></strong></p><p class=\"mb-4\">Efendim, şu bizim Schrödinger'in kedisi yok mu?<br><br>Bir gün sosyal medyada fenâ hâlde trend topic mi olmuş ne:<br><strong>#KurtarınBeni #NeÖlüyümNeDiri</strong></p><p class=\"mb-4\">Elon Musk dükkan bizim sanıp yorum yapmış:<br>\"Kutuyu Mars'a gönderebiliriz\"</p><p class=\"mb-4\">Kedi adına biri cevap vermiş:<br>\"Beni simülasyondan çıkarın, dünyadan değil.\"</p><p class=\"mb-4\">Bilim insanları toplanmış, kuantum bilgisayarla kedinin durumunu hesaplamışlar.<br>Bilgisayar ekrana yazmış:</p><p class=\"mb-4\">\"Kedi aynı anda hem ölü hem diri\"<br>Ayrıca aç.<br>LÜTFEN BİRİ BESL SİN</p><p class=\"mb-4\">O \"besl sin\" yazısındaki bir boşluk yok mu?</p><p class=\"mb-4\">İşte o boşluk.<br>O boşluk sensin.</p><p class=\"mb-4\">Kediyi besleyecek olan, kutuyu açacak olan, rüyada olduğunu hatırlayacak olan.</p><p class=\"mb-4\">Yoksa sen de mi kutudasın?</p><p class=\"mb-4\">...<br>...</p><p class=\"mb-4\">NOT: Ölmeden tâze bir abdest al ve baştaki filmi, sil baştan izle...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-16T21:45:58.113Z",
+  "is_protected": true
+}
