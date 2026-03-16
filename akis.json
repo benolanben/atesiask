@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kuantum Materia •2",
+      "id": 202603170045,
+      "category": "posts/seyirdefteri/202603170045"
+    },
+    {
       "text": "Kuantum Satori* •1",
       "id": 202603152348,
       "category": "posts/seyirdefteri/202603152348"
@@ -64,11 +69,6 @@
       "text": "Noktayı uzatma",
       "id": 202603112107,
       "category": "posts/seyirdefteri/202603112107"
-    },
-    {
-      "text": "Yıkılmaya hazır mısın?",
-      "id": 202603112059,
-      "category": "posts/seyirdefteri/202603112059"
     }
   ]
 }
