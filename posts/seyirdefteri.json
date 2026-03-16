@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202603170045,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603152350-1773607800254.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "bilinç",
+            "bilinçaltı",
+            "kuantum",
+            "madde"
+          ],
+          "title": "Kuantum Materia •2",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603152348,
       "is_protected": false,
       "article": {
