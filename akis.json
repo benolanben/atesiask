@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1503,
+        "parca_adi": "Göçtü kervan",
+        "seslendiren": "B. Sezgin",
+        "url": "https://www.mediafire.com/file/87s5pm6viwtfooo/ggoctukervan.mp3"
+      },
+      "id": 202603172325,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Kuantum Materia •2",
       "id": 202603170045,
       "category": "posts/seyirdefteri/202603170045"
@@ -64,11 +74,6 @@
       "text": "Şimdi kendini affet",
       "id": 202603122156,
       "category": "posts/seyirdefteri/202603122156"
-    },
-    {
-      "text": "Noktayı uzatma",
-      "id": 202603112107,
-      "category": "posts/seyirdefteri/202603112107"
     }
   ]
 }
