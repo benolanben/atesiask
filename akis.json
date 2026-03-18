@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nBundan daha büyük bir sır yoktur: \n\nGerçekliğin kendisi olduğumuz halde, \nGerçekliği elde etmey...",
+      "id": 202603181521,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "[Y~OLDA ÇEVRİLENLER'den]\n\nGörəsən əbədi qaranlığa qərq olacağam, bəs onlar mənim pişiyimlə nə edəcəklər? Varislər pulu b...",
       "id": 202603181456,
       "category": "yoldacevrilenler"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/u16e41npvcethgr/yuzumsen.mp3"
       },
       "id": 202603141317,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1500,
-        "parca_adi": "Lâleli sümbüllü bir bağ",
-        "seslendiren": "N. Yılmaz",
-        "url": "https://www.mediafire.com/file/e4dgtnxmen06hjv/laleli.mp3"
-      },
-      "id": 202603141257,
       "category": "kaynak/baska"
     }
   ]
