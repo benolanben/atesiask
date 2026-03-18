@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nNə göz, nə söz, nə də ağıl ora getmir. \nOnun necə izah olunacağını bilmirik, başa düşə bilmirik...",
+      "id": 202603181524,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nBundan daha büyük bir sır yoktur: \n\nGerçekliğin kendisi olduğumuz halde, \nGerçekliği elde etmey...",
       "id": 202603181521,
       "category": "yoldacevrilenler"
@@ -54,16 +59,6 @@
       "text": "Benlik çıkmazından çıkış",
       "id": 202603150130,
       "category": "posts/seyirdefteri/202603150130"
-    },
-    {
-      "text": {
-        "sira_no": 1501,
-        "parca_adi": "Yüzüm şen",
-        "seslendiren": "H. Burhan",
-        "url": "https://www.mediafire.com/file/u16e41npvcethgr/yuzumsen.mp3"
-      },
-      "id": 202603141317,
-      "category": "kaynak/baska"
     }
   ]
 }
