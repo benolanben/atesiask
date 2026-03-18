@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kul Ahmet'in Acâip Seyri'nden",
+      "id": 202603181153,
+      "category": "posts/seyirdefteri/202603181153"
+    },
+    {
       "text": {
         "sira_no": 1503,
         "parca_adi": "Göçtü kervan",
@@ -69,11 +74,6 @@
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nDiyelim ki sorunları çözdüm. \nPeki sonra ne olacak? \nBasitçe yok olacaklar; \nYani, çoğu zaman d...",
       "id": 202603122205,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "Şimdi kendini affet",
-      "id": 202603122156,
-      "category": "posts/seyirdefteri/202603122156"
     }
   ]
 }
