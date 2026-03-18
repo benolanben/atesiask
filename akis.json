@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[Y~OLDA ÇEVRİLENLER'den]\n\nGörəsən əbədi qaranlığa qərq olacağam, bəs onlar mənim pişiyimlə nə edəcəklər? Varislər pulu b...",
+      "id": 202603181456,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "Kanatlı bir kalple şafakta uyanmak ve aşkın aktığı yeni bir güne, şükrân-ı nimetle dolmak...\n\nDolup dolup boşalmak \nİşte...",
       "id": 202603181444,
       "category": "sabahnesesi"
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/e4dgtnxmen06hjv/laleli.mp3"
       },
       "id": 202603141257,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1499,
-        "parca_adi": "Olacak o kadar",
-        "seslendiren": "G. Gündoğarken",
-        "url": "https://www.mediafire.com/file/tf95exljxokcs9o/olacak.mp3"
-      },
-      "id": 202603141127,
       "category": "kaynak/baska"
     }
   ]
