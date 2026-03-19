@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "KADR'i âlâ y'ayın",
+      "id": 202603192158,
+      "category": "posts/seyirdefteri/202603192158"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nNə göz, nə söz, nə də ağıl ora getmir. \nOnun necə izah olunacağını bilmirik, başa düşə bilmirik...",
       "id": 202603181524,
       "category": "yoldacevrilenler"
@@ -54,11 +59,6 @@
       },
       "id": 202603151214,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Benlik çıkmazından çıkış",
-      "id": 202603150130,
-      "category": "posts/seyirdefteri/202603150130"
     }
   ]
 }
