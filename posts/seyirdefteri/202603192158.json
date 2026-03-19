@@ -1,0 +1,69 @@
+{
+  "id": 202603192158,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-03-19T18:48:44.665Z",
+  "created_at": "2026-03-19T18:58:20.845Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603192158-1773946710990.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Kadr",
+        "kadir gecesi"
+      ],
+      "title": "KADR'i âlâ y'ayın",
+      "subtitle": "",
+      "show_background_image": true
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202603190938.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kendi kadrini (âlem-i kebîr) bilmemek,<br>Cehâlet olarak (cism-i sagîr) kişiye yeter.<br>İlim, insanın kadrini bilmesinden ibârettir.<br></p>",
+          "author": "[M• Şehrinin A• Kapısı'ndan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İlim, ilim bilmektir<br>İlim, kendin bilmektir<br></p>",
+          "author": "[Y. Emre'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Kadrini bil kim seni Hak mazhar-ı zât eyledi,<br>Pertev-i şems-i ehad nûrına zerrât eyledi,<br>Yakdı 'ışkun kandilin cismüni mişkât eyledi;<br>Zâtını seyretmeye kalbini mirât eyledi<br></em><strong>Bak bu mirâta Kadrîyâ anda Zâtullâh'ı gör<br></strong></p>",
+          "author": "[A. Kadri]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Kimin kim kendisiyle kadri yokdur;<br>İki gözü bakar kördür, vârı yokdur...<br><br>Ey insan,<br>ACZ içinde duyarsın, kudretin zevkini,<br>FAKR içinde duyarsın, varlığın kadrini...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603192158-1773946714693.mp4"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Ve ancak kendini bir çift aynada görünce dersin:<br>\"O benim nefesim, ben onun sesiyim; birbirimizin kadrini biliriz\"<br><br><br>Bunda anla, bunda gör Kadrî 'Hüvel Bakî'yi sen;<br>Tâ yazılmadan 'Hüvel Bakî' mezarın taşına...</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Kadr'i anlamayınca kader anlaşılmaz,<br>Kadri anlanınca da kader mestur kalır.<br></strong></p><p class=\"mb-4\"><br></p>",
+          "author": "[Türbedar Dedemiz'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-03-19T18:58:20.845Z",
+  "is_protected": true
+}
