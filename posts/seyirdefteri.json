@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202603192158,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603192158-1773946710990.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kadr",
+            "kadir gecesi"
+          ],
+          "title": "KADR'i âlâ y'ayın",
+          "subtitle": "",
+          "show_background_image": true
+        }
+      }
+    }
+,
+    {
       "id": 202603181153,
       "is_protected": true,
       "article": {
