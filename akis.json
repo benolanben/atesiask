@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Rabbin sen~i terk etmedi",
+      "id": 202603212233,
+      "category": "posts/seyirdefteri/202603212233"
+    },
+    {
       "text": "Arefeden bayram tebriği",
       "id": 202603212220,
       "category": "posts/seyirdefteri/202603212220"
@@ -49,16 +54,6 @@
       "text": "Kul Ahmet'in Acâip Seyri'nden",
       "id": 202603181153,
       "category": "posts/seyirdefteri/202603181153"
-    },
-    {
-      "text": {
-        "sira_no": 1503,
-        "parca_adi": "Göçtü kervan",
-        "seslendiren": "B. Sezgin",
-        "url": "https://www.mediafire.com/file/87s5pm6viwtfooo/ggoctukervan.mp3"
-      },
-      "id": 202603172325,
-      "category": "kaynak/baska"
     }
   ]
 }
