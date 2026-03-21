@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sıradan (mı) farkındalık",
+      "id": 202603212213,
+      "category": "posts/seyirdefteri/202603212213"
+    },
+    {
       "text": {
         "sira_no": 1504,
         "parca_adi": "Mavi şarkı",
@@ -54,11 +59,6 @@
       "text": "Kuantum Materia •2",
       "id": 202603170045,
       "category": "posts/seyirdefteri/202603170045"
-    },
-    {
-      "text": "Kuantum Satori* •1",
-      "id": 202603152348,
-      "category": "posts/seyirdefteri/202603152348"
     }
   ]
 }
