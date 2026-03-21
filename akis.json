@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Arefeden bayram tebriği",
+      "id": 202603212220,
+      "category": "posts/seyirdefteri/202603212220"
+    },
+    {
       "text": "Sıradan (mı) farkındalık",
       "id": 202603212213,
       "category": "posts/seyirdefteri/202603212213"
@@ -54,11 +59,6 @@
       },
       "id": 202603172325,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Kuantum Materia •2",
-      "id": 202603170045,
-      "category": "posts/seyirdefteri/202603170045"
     }
   ]
 }
