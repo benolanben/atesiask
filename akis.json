@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1506,
+        "parca_adi": "Şu göğsüm yırtılıp baksan",
+        "seslendiren": "A. Üstün",
+        "url": "https://www.mediafire.com/file/93pk0yhsdpilmd2/sugogsum.mp3"
+      },
+      "id": 202603231219,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1505,
         "parca_adi": "AZ",
         "seslendiren": "B. Engin",
@@ -54,11 +64,6 @@
       "text": "[Y~OLDA ÇEVRİLENLER'den]\n\nGörəsən əbədi qaranlığa qərq olacağam, bəs onlar mənim pişiyimlə nə edəcəklər? Varislər pulu b...",
       "id": 202603181456,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "Kanatlı bir kalple şafakta uyanmak ve aşkın aktığı yeni bir güne, şükrân-ı nimetle dolmak...\n\nDolup dolup boşalmak \nİşte...",
-      "id": 202603181444,
-      "category": "sabahnesesi"
     }
   ]
 }
