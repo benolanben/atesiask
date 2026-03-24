@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1507,
+        "parca_adi": "Hicaz Mukabele'den",
+        "seslendiren": "K. Erguner",
+        "url": "https://www.mediafire.com/file/xacm1rukmrw1vfp/hczes.mp3"
+      },
+      "id": 202603242136,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Mevcut Sahnenin Mükemmeliği",
       "id": 202603242101,
       "category": "posts/seyirdefteri/202603242101"
@@ -58,11 +68,6 @@
     {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nNə göz, nə söz, nə də ağıl ora getmir. \nOnun necə izah olunacağını bilmirik, başa düşə bilmirik...",
       "id": 202603181524,
-      "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nBundan daha büyük bir sır yoktur: \n\nGerçekliğin kendisi olduğumuz halde, \nGerçekliği elde etmey...",
-      "id": 202603181521,
       "category": "yoldacevrilenler"
     }
   ]
