@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Mevcut Sahnenin Mükemmeliği",
+      "id": 202603242101,
+      "category": "posts/seyirdefteri/202603242101"
+    },
+    {
       "text": {
         "sira_no": 1506,
         "parca_adi": "Şu göğsüm yırtılıp baksan",
@@ -58,11 +63,6 @@
     {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nBundan daha büyük bir sır yoktur: \n\nGerçekliğin kendisi olduğumuz halde, \nGerçekliği elde etmey...",
       "id": 202603181521,
-      "category": "yoldacevrilenler"
-    },
-    {
-      "text": "[Y~OLDA ÇEVRİLENLER'den]\n\nGörəsən əbədi qaranlığa qərq olacağam, bəs onlar mənim pişiyimlə nə edəcəklər? Varislər pulu b...",
-      "id": 202603181456,
       "category": "yoldacevrilenler"
     }
   ]
