@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İlk sahibinden satılık aydınlanma!",
+      "id": 202603280003,
+      "category": "posts/seyirdefteri/202603280003"
+    },
+    {
       "text": "Etiketlemek~sizin",
       "id": 202603280000,
       "category": "posts/seyirdefteri/202603280000"
@@ -64,16 +69,6 @@
       "text": "Sıradan (mı) farkındalık",
       "id": 202603212213,
       "category": "posts/seyirdefteri/202603212213"
-    },
-    {
-      "text": {
-        "sira_no": 1504,
-        "parca_adi": "Mavi şarkı",
-        "seslendiren": "K. Erguner",
-        "url": "https://www.mediafire.com/file/1nibsmwp3rog5z7/mavisarki.mp3"
-      },
-      "id": 202603192238,
-      "category": "kaynak/baska"
     }
   ]
 }
