@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1508,
+        "parca_adi": "Eyâ âlemlerin şâhı",
+        "seslendiren": "Agah",
+        "url": "https://www.mediafire.com/download/3yde2y0lcs367c6/eyalemlerin_agah.mp3"
+      },
+      "id": 202603271216,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1507,
         "parca_adi": "Hicaz Mukabele'den",
         "seslendiren": "K. Erguner",
@@ -64,11 +74,6 @@
       "text": "KADR'i âlâ y'ayın",
       "id": 202603192158,
       "category": "posts/seyirdefteri/202603192158"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nNə göz, nə söz, nə də ağıl ora getmir. \nOnun necə izah olunacağını bilmirik, başa düşə bilmirik...",
-      "id": 202603181524,
-      "category": "yoldacevrilenler"
     }
   ]
 }
