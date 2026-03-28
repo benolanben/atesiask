@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1509,
+        "parca_adi": "Evvel tevhîdi zikret",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/ap8gsd38371aac1/vefasultan.mp3"
+      },
+      "id": 202603281855,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "İlk sahibinden satılık aydınlanma!",
       "id": 202603280003,
       "category": "posts/seyirdefteri/202603280003"
@@ -64,11 +74,6 @@
       "text": "Arefeden bayram tebriği",
       "id": 202603212220,
       "category": "posts/seyirdefteri/202603212220"
-    },
-    {
-      "text": "Sıradan (mı) farkındalık",
-      "id": 202603212213,
-      "category": "posts/seyirdefteri/202603212213"
     }
   ]
 }
