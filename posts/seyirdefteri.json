@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202603291210,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202603291211-1774775469572.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "seçim",
+            "tercih",
+            "özgür irade"
+          ],
+          "title": "Özgür İradenin Düşüşü",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603280003,
       "is_protected": true,
       "article": {
