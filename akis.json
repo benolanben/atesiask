@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Özgür İradenin Düşüşü",
+      "id": 202603291210,
+      "category": "posts/seyirdefteri/202603291210"
+    },
+    {
       "text": {
         "sira_no": 1509,
         "parca_adi": "Evvel tevhîdi zikret",
@@ -69,11 +74,6 @@
       "text": "Rabbin sen~i terk etmedi",
       "id": 202603212233,
       "category": "posts/seyirdefteri/202603212233"
-    },
-    {
-      "text": "Arefeden bayram tebriği",
-      "id": 202603212220,
-      "category": "posts/seyirdefteri/202603212220"
     }
   ]
 }
