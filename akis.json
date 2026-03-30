@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1510,
+        "parca_adi": "Bahar-ı dilnişin",
+        "seslendiren": "H. Hamidi",
+        "url": "https://www.mediafire.com/file/qkibrl4kxzb7see/dilnisin.mp3"
+      },
+      "id": 202603300945,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Özgür İradenin Düşüşü",
       "id": 202603291210,
       "category": "posts/seyirdefteri/202603291210"
@@ -69,11 +79,6 @@
       },
       "id": 202603221522,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Rabbin sen~i terk etmedi",
-      "id": 202603212233,
-      "category": "posts/seyirdefteri/202603212233"
     }
   ]
 }
