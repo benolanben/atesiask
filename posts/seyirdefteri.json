@@ -1,6 +1,29 @@
 {
   "isaretler": [
     {
+      "id": 202604030010,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604022410-1775164243812.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "A..Z",
+            "andaç",
+            "bellek",
+            "hafıza",
+            "kabul",
+            "yaddaş",
+            "çok"
+          ],
+          "title": "Belleğin Şarj Kablosu Nereye Takılı?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202603291210,
       "is_protected": false,
       "article": {
