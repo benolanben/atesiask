@@ -1,3 +1,44 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1775164606419,
+      "title": "Yedi Dur~ak Risâlesi •5",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1775164606419,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-04-02T21:04:55.469Z",
+        "created_at": "2026-04-02T21:04:55.469Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "bilmek",
+              "melamet",
+              "âlim"
+            ],
+            "title": "Yedi Dur~ak Risâlesi •5",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "ses",
+                "text": "",
+                "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604022420-1775164842078.jpg",
+                "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/yedi_bes.mp3?download=true"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-04-02T21:16:46.419Z",
+      "updated_at": "2026-04-02T21:19:39.539Z",
+      "is_protected": true
+    }
+  ]
 }
