@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kanalı arındıran seyre geçer",
+      "id": 202604030015,
+      "category": "posts/seyirdefteri/202604030015"
+    },
+    {
       "text": "Belleğin Şarj Kablosu Nereye Takılı?",
       "id": 202604030010,
       "category": "posts/seyirdefteri/202604030010"
@@ -69,11 +74,6 @@
       },
       "id": 202603242136,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Mevcut Sahnenin Mükemmeliği",
-      "id": 202603242101,
-      "category": "posts/seyirdefteri/202603242101"
     }
   ]
 }
