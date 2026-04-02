@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1511,
+        "parca_adi": "Önce kuş olduk",
+        "seslendiren": "A. Gülay",
+        "url": "https://www.mediafire.com/file/cayxerannx9czi1/gulay_ask.mp3"
+      },
+      "id": 202604021044,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1510,
         "parca_adi": "Bahar-ı dilnişin",
         "seslendiren": "H. Hamidi",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/93pk0yhsdpilmd2/sugogsum.mp3"
       },
       "id": 202603231219,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1505,
-        "parca_adi": "AZ",
-        "seslendiren": "B. Engin",
-        "url": "https://www.mediafire.com/file/ih6qn2nx9k3l8xp/az_b.mp3"
-      },
-      "id": 202603221522,
       "category": "kaynak/baska"
     }
   ]
