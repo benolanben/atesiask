@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1514,
+        "parca_adi": "Hicaz Peşrevi",
+        "seslendiren": "A. Kutbay",
+        "url": "https://www.mediafire.com/file/rkakn78h7scr7bz/hicazpesrev.mp3"
+      },
+      "id": 202604051551,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1513,
         "parca_adi": "Hicaz Ney Taksimi",
         "seslendiren": "S. Özçimi",
@@ -69,11 +79,6 @@
       "text": "İlk sahibinden satılık aydınlanma!",
       "id": 202603280003,
       "category": "posts/seyirdefteri/202603280003"
-    },
-    {
-      "text": "Etiketlemek~sizin",
-      "id": 202603280000,
-      "category": "posts/seyirdefteri/202603280000"
     }
   ]
 }
