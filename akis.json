@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1513,
+        "parca_adi": "Hicaz Ney Taksimi",
+        "seslendiren": "S. Özçimi",
+        "url": "https://www.mediafire.com/file/x5ke50tcep9suod/sadreddin_ozcimi_hicaz_taksim.mp3"
+      },
+      "id": 202604051510,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1512,
         "parca_adi": "Sabâ Ney Taksimi",
         "seslendiren": "S. Yardım",
@@ -64,16 +74,6 @@
       "text": "Etiketlemek~sizin",
       "id": 202603280000,
       "category": "posts/seyirdefteri/202603280000"
-    },
-    {
-      "text": {
-        "sira_no": 1508,
-        "parca_adi": "Eyâ âlemlerin şâhı",
-        "seslendiren": "Agah",
-        "url": "https://www.mediafire.com/download/3yde2y0lcs367c6/eyalemlerin_agah.mp3"
-      },
-      "id": 202603271216,
-      "category": "kaynak/baska"
     }
   ]
 }
