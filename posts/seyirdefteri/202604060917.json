@@ -1,0 +1,57 @@
+{
+  "id": 202604060917,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-02T21:04:55.469Z",
+  "created_at": "2026-04-06T06:17:08.382Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "bilmek",
+        "melamet",
+        "âlim"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •5",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Âşık olanın nişânı vardır<br><strong>Melâmet</strong> olur belli beyânı<br></p>",
+          "author": "[Y. Emre'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Görünen sıfâtındır<br>Ânı gören zâtındır<br>Gayrı ne hâcâtındır<br><strong>Sen seni bil sen seni</strong><br></p>",
+          "author": "[H. Bayram Dedemiz'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bu zevkte Gizli Hazine'nin bilinmesi meselesine gelince...</p><blockquote><p class=\"mb-4\"><br>Yıllar var ki<br>VARLIK<br>ile<br>BİLİŞ'in ayrı şeyler olduğunu varsaymıştım.</p><p class=\"mb-4\">Bir tarafta cansız madde, neyse ne işte...<br>Diğer tarafta ona bakan bilinç.<br><br>Bilen<br>Bilinen<br>BİLİŞ</p><p class=\"mb-4\">Sonra gerçek deneyime doğrudan baktım.<br><br>Mevcut olan her şey bilinir.<br>Bilinen her şey mevcuttur.<br>Deneyimlenmeyen bir varlık<br>Ya da var olmayan bir deneyim olabilir mi?</p><p class=\"mb-4\">Bunlar aynı dalga hareketin uçlarıdır.<br><br>Bu, inançla kabul etmeniz gereken bir felsefe değil.<br>Siz de hemen şimdi kontrol edin.</p><p class=\"mb-4\">Deneyiminizde var olan ama bilinmeyen bir şey var mı?<br>Var olmayan ama bilinen bir şey var mı?</p><p class=\"mb-4\">Bunu gördüğünüzde, bilincin zor sorunu ortadan kalkar.<br>Gerçeklik, bir zihnin onu fark etmesini bekleyen cansız bir şey değildir.</p><p class=\"mb-4\">Gerçeklik, baştan sona biliş-varlıktır.<br></p></blockquote><p class=\"mb-4\"><br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İnnAllâhe kâne ‘alîmen ḣabîrâ<br>Şüphesiz Allah, kemaliyle bilendir, hakkıyla haberdar olandır<br></p>",
+          "author": "[Nisa:35'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Kitapta, \"Alîm\" ismi genellikle \"Hakîm\" (hikmet sahibi), \"Semî'\" (işiten), \"Basîr\" (gören), \"Habîr\" (haberdar olan) \"Vâsî\" (kuşatıcı) gibi isimlerle birlikte kullanılarak Allah'ın bütünlüğüne dikkat çekilir.<br><br>Gerisini birlikte yürüyerek...<br><br>BİL<br>BUL<br>OL</p><p class=\"mb-4\"><br>Nâzeniniz nezâketle,<br>Turâb olduk melâmetle,<br>Gönlümüz hüsn-i niyetle<br>İmhâ olmuş köşktür bizim...</p><p class=\"mb-4\">Elhamdulillah...</p><p class=\"mb-4\"><br></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604022420-1775164842078.jpg",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/yedi_bes.mp3?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-06T06:17:08.382Z",
+  "is_protected": true
+}
