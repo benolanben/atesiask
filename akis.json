@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1515,
+        "parca_adi": "Nazar",
+        "seslendiren": "İ. Özel",
+        "url": "https://www.mediafire.com/file/lbjbav9itzj3m0g/nazar.mp3"
+      },
+      "id": 202604061524,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Bilmemeyi Bilmenin Dayanılmaz Hafifliği",
       "id": 202604060941,
       "category": "posts/seyirdefteri/202604060941"
@@ -69,11 +79,6 @@
       },
       "id": 202603300945,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Özgür İradenin Düşüşü",
-      "id": 202603291210,
-      "category": "posts/seyirdefteri/202603291210"
     }
   ]
 }
