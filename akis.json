@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •5",
+      "id": 202604060917,
+      "category": "posts/seyirdefteri/202604060917"
+    },
+    {
       "text": {
         "sira_no": 1514,
         "parca_adi": "Hicaz Peşrevi",
@@ -74,11 +79,6 @@
       },
       "id": 202603281855,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "İlk sahibinden satılık aydınlanma!",
-      "id": 202603280003,
-      "category": "posts/seyirdefteri/202603280003"
     }
   ]
 }
