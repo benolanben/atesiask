@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bilmemeyi Bilmenin Dayanılmaz Hafifliği",
+      "id": 202604060941,
+      "category": "posts/seyirdefteri/202604060941"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •5",
       "id": 202604060917,
       "category": "posts/seyirdefteri/202604060917"
@@ -69,16 +74,6 @@
       "text": "Özgür İradenin Düşüşü",
       "id": 202603291210,
       "category": "posts/seyirdefteri/202603291210"
-    },
-    {
-      "text": {
-        "sira_no": 1509,
-        "parca_adi": "Evvel tevhîdi zikret",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/ap8gsd38371aac1/vefasultan.mp3"
-      },
-      "id": 202603281855,
-      "category": "kaynak/baska"
     }
   ]
 }
