@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1516,
+        "parca_adi": "Görürüm görmeyi",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/0skoe4r9vsntqci/gorurum.mp3"
+      },
+      "id": 202604071148,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1515,
         "parca_adi": "Nazar",
         "seslendiren": "İ. Özel",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/cayxerannx9czi1/gulay_ask.mp3"
       },
       "id": 202604021044,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1510,
-        "parca_adi": "Bahar-ı dilnişin",
-        "seslendiren": "H. Hamidi",
-        "url": "https://www.mediafire.com/file/qkibrl4kxzb7see/dilnisin.mp3"
-      },
-      "id": 202603300945,
       "category": "kaynak/baska"
     }
   ]
