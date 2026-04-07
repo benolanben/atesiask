@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Canlı yayın kaydı: Zaman an bağışlanan",
+      "id": 202604072233,
+      "category": "posts/seyirdefteri/202604072233"
+    },
+    {
       "text": {
         "sira_no": 1516,
         "parca_adi": "Görürüm görmeyi",
@@ -69,16 +74,6 @@
       "text": "Belleğin Şarj Kablosu Nereye Takılı?",
       "id": 202604030010,
       "category": "posts/seyirdefteri/202604030010"
-    },
-    {
-      "text": {
-        "sira_no": 1511,
-        "parca_adi": "Önce kuş olduk",
-        "seslendiren": "A. Gülay",
-        "url": "https://www.mediafire.com/file/cayxerannx9czi1/gulay_ask.mp3"
-      },
-      "id": 202604021044,
-      "category": "kaynak/baska"
     }
   ]
 }
