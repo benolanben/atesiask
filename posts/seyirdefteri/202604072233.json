@@ -1,0 +1,40 @@
+{
+  "id": 202604072233,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-07T19:20:07.243Z",
+  "created_at": "2026-04-07T19:33:37.852Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604072233-1775590420038.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Canlı yayın kaydı: Zaman an bağışlanan",
+      "subtitle": "",
+      "show_background_image": true
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604072228.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Geçmişi ne kadar çok hatırlarsan, zihnin üzerinizdeki etkisi de o kadar artar. Ancak sadece şimdiki zamanda kalır ve hayatında sadece şimdiki zamana gerçek önem verirsen, işte o zaman özgürlüğün üstü açılır.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Özgürleşme, kendi gerçek doğamızı tanımaktan ibarettir.<br>Bu bilme hali, tam bir bilmezlikten doğar.<br>Hiçbir şey bilmediğimizi bildiğimiz zaman..<br><br>Zaman, nefestir mâdem<br>Bir anda esenler böyleyken böyle</p><blockquote><p class=\"mb-4\"><br>\"Geleceğin geleceği yok\" dedi, güzel âşığın biri,<br>\"Şöyle olsun kaybolurum sînende...\"<br>Artık ses etmedi diğeri de kendi~ne...<br></p></blockquote><p class=\"mb-4\"><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline cursor-pointer\" href=\"https://x.com/benolanben/status/2040350484834214031\"><u>Buraya bakmadan</u></a><br>Camiye yardım etmeden geçmeyelim vesselâm</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-07T19:33:37.852Z",
+  "is_protected": true
+}
