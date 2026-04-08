@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1517,
+        "parca_adi": "Yek nazarda",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/cqs97sxdogtrjwv/yeknazarda.mp3"
+      },
+      "id": 202604082124,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Etiket~siz b~akış •3",
       "id": 202604072245,
       "category": "posts/seyirdefteri/202604072245"
@@ -69,11 +79,6 @@
       },
       "id": 202604041757,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Kanalı arındıran seyre geçer",
-      "id": 202604030015,
-      "category": "posts/seyirdefteri/202604030015"
     }
   ]
 }
