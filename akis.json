@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1518,
+        "parca_adi": "YÜZ SÖZ Okumaları 1",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/89ddx0zoig5ejz2/yuzsoz_1.mp3"
+      },
+      "id": 202604091030,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1517,
         "parca_adi": "Yek nazarda",
         "seslendiren": "C. Asitanesi",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/x5ke50tcep9suod/sadreddin_ozcimi_hicaz_taksim.mp3"
       },
       "id": 202604051510,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1512,
-        "parca_adi": "Sabâ Ney Taksimi",
-        "seslendiren": "S. Yardım",
-        "url": "https://www.mediafire.com/file/8jg01bbvtoymvql/sabaney.mp3"
-      },
-      "id": 202604041757,
       "category": "kaynak/baska"
     }
   ]
