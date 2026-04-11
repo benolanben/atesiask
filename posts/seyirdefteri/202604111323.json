@@ -1,0 +1,49 @@
+{
+  "id": 202604111323,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-11T10:05:29.060Z",
+  "created_at": "2026-04-11T10:23:37.598Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111323-1775903012900.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "aidiyet",
+        "mahkum",
+        "sürgün",
+        "yalnızlık",
+        "özgürlük"
+      ],
+      "title": "Sen nereye aitsin?",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604111317.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Aidiyet, ne kalabalıklar içinde kaybolmaktan gelir ne de ayrı durmaktan.<br>Aidiyet, artık hiçbir yere konumlanmaya ihtiyaç duymayana dek<br>Hareketsiz kalabilmekten gelir.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Hapse düşmek ve sürgün yemek,<br>Âidiyet hissini kaybedip yalnız kalmak,<br>Tanıdık bildik çevreden uzakta,<br>İradesini kullanamaz duruma düşmek<br><br>\"Uzakta ve darda kalmak\"<br><br>İnsanlık imkanının açılacağı en müsait toprak olabilir mi?</p><p class=\"mb-4\"><br><br>Sürgün'den,<br>Sürgündeki'ne<br>Gökyüzünden,<br>Gölgesini bir yere ait hissetmeyen buluta<br>Gönül dolusu selâm selâm olsun<br><br>~<br><br><strong>“İnsanlık İmkanı'nda halifetullah olmak\" ne demek?</strong><br>Tüm deneyimlerin ortaya çıktığı ve kaybolduğu, evsiz bir farkındalık olarak kendini tanımak bu demek...<br><br>Acı ve zevk , başarı ve başarısızlık, aidiyet ve reddedilme gibi zıtlıklar dünyasında bir dinlenme yeri bulmamaktır çünkü gelip geçmeyen yuva, gelip geçen bir mekanda ya da ilişkide değildir.[YÜZ SÖZ'den]<br><br>~<br><br>Ey garip bülbül diyârın nerdedir?</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111323-1775903022158.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111323-1775903017701.mp3"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-11T10:23:37.598Z",
+  "is_protected": true
+}
