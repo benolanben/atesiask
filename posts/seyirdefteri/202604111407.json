@@ -1,0 +1,50 @@
+{
+  "id": 202604111407,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-11T10:05:29.060Z",
+  "created_at": "2026-04-11T11:07:19.365Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111407-1775905633456.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "doğrudan deneyim",
+        "düşünce"
+      ],
+      "title": "Canlı YAYIN: Doğrudan Deneyimle Temas",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604111334.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>Pişterâ pişterâ cân-ı men<br>Peyk-i der-i Hazret-i sultân men<br></em><strong>Daha beri gel, daha beri<br>Men et benden, gelip geçeni<br><br></strong>Düşünceler, hayatımızı mı şekillendiriyor?<br>Yoksa sadece olaylar gerçekleştikten sonra olanı mı açıklıyor?<br><br>Gelin yakından bakalım bir bir olana...<br>\"Yaşar gibi yapmak\" için değil<br>Canlı canlı yaşayana dönmek için<br>Canlıdan bir dâvet işte:<br><br>Doğrudan deneyime<br>Şimdi burada olana<br>Daha da yaklaş hele<br>Meğer içine düşene<br>İçinden çıkamayacak hâle gelene dek...<br><br>Ama<br>Olanı düzeltmek veya anlamak için değil,<br>Yargılama veya hikaye süzgecinden geçmeden,<br>Nazikçe ve açıkça onunla yüzleşmek için.<br>Karşılaşmak için<br>Aynalaşmak için<br><br>Vech-i Bâkî'nin yeni yüzünü göre göre<br>Varlık Dağı'nın un ufak olması<br>Toplananların dağılması<br><br>Hâsılı parçalı bulutlardan sonra<br>Büsbütün aşk olsun için...<br><br><strong>••<br>••<br>•<br></strong><br>Ve nihâyet uyanmak,<br>Hayatı kafanın içinde<br>Dün bildiklerinle yaşamak değil,<br><br>Dil eldiveni<br>Zihindeki harita ağı olmadan<br><strong>Sahada canlı canlı d~okunmak,<br>Tam temas kurmak...</strong><br><br><strong>Hafızadan hiçbir şey eklemeden şimdi olanın ham algılanması nasıl olurdu?<br></strong></p><p class=\"mb-4\">Şimdi derin bir nefes al:<br>Sessizlik, dinlenme.<br><br>Nefes ver:<br>Eylem, canlı temas...<br>İşte yaşamak...<br><br>~</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111407-1775905643995.jpg",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111407-1775905640000.mp3"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Hayat nefes gibidir;<br>Merkezdeki kaynağa doğru içe dönmek,<br>Sonra da yüzeydeki forma doğru dışa dönmek<br>Ve ikide bir gidip gelmek...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-11T11:07:19.365Z",
+  "is_protected": true
+}
