@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202604111323,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111323-1775903012900.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aidiyet",
+            "mahkum",
+            "sürgün",
+            "yalnızlık",
+            "özgürlük"
+          ],
+          "title": "Sen nereye aitsin?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604072245,
       "is_protected": false,
       "article": {
