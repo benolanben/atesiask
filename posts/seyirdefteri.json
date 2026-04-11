@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202604111407,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604111407-1775905633456.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "doğrudan deneyim",
+            "düşünce"
+          ],
+          "title": "Canlı YAYIN: Doğrudan Deneyimle Temas",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604111331,
       "is_protected": false,
       "article": {
