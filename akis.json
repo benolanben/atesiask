@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sen nereye aitsin?",
+      "id": 202604111323,
+      "category": "posts/seyirdefteri/202604111323"
+    },
+    {
       "text": {
         "sira_no": 1518,
         "parca_adi": "YÜZ SÖZ Okumaları 1",
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/rkakn78h7scr7bz/hicazpesrev.mp3"
       },
       "id": 202604051551,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1513,
-        "parca_adi": "Hicaz Ney Taksimi",
-        "seslendiren": "S. Özçimi",
-        "url": "https://www.mediafire.com/file/x5ke50tcep9suod/sadreddin_ozcimi_hicaz_taksim.mp3"
-      },
-      "id": 202604051510,
       "category": "kaynak/baska"
     }
   ]
