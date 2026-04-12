@@ -1,0 +1,47 @@
+{
+  "id": 202604122220,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-12T19:08:33.090Z",
+  "created_at": "2026-04-12T19:20:22.768Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604122220-1776021625864.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "zaten",
+        "öyle",
+        "şahsen"
+      ],
+      "title": "CANLI YAYIN: Zâten öyle",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604122219.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Nefs-ego-ayrı benlik<br>Kişisel performansla<br>Çabalamayla sona ermez</p><p class=\"mb-4\">Bilincin kendi içinde dinlendiği ve hiçbir şeyde tutunmadığı, kişisel yeteneğinin olmadığı sessiz bir anda sona erer. Bu, yumuşak bir duraklamadır;<br>Basit<br>Anlık<br>Ve \"zâten\" hep burada...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~<br><br>Bu apaçık bir davet;<br>Dışarıya bakmayı bırakmaya,<br>Kendinizi tanımlamaya çalışmayı bırakmaya.<br>Olandan kaçmayı bırakmaya</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Bunun yerine, eve dönmeye.<br>Gelip gitmesi olmayan şeye.<br>Her zaman burada olan şeye.<br>\"Zâten\" olduğumuz şeye...</p><p class=\"mb-4\">...</p><p class=\"mb-4\">\"Zaten\" her şey olana hiçbir şey verilemez.<br>Öyleyse geriye yalnızca şu kalır:</p><p class=\"mb-4\">Deneyip durmayı bırak<br>Şah~sen kendini ne sandığını bırak<br>Şimdi doğrudan kendi~ne bak<br>Ve bir hikaye olmadan<br>Zâten ne olduğunu hatırla<br><br>...</p><p class=\"mb-4\">Biz zaten O~nun ile öyleyiz,<br>Sadece şah~sen farkında değiliz</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Hem \"zâten\" kişi hâli ve farkındalık aynı cümlede geçemez,<br>Üzerine güneş düşen gölgenin resmi güneşe dönmeden edemez.<br><br>Yani dalga yoluyla okyanus olamaz;<br>\"Zâten\" okyanustur.</p><p class=\"mb-4\">Aynı şekilde,<br>Kişisel benlik (düşüncesi)<br>Farkındalığa ulaşamaz.</p><p class=\"mb-4\">Kişisel benlik<br>\"Zâten\"<br>En başından beri<br>Farkındalıkta bir unutuş, bir dalgadır.<br><br>(Dalga, okyanusun içinden çıkmış,<br>Okyanusun anlık tezahürü olarak var görünmüştür)<br>...<br><br>Yani kişi hâliyle farkındalık açılıp kapanan bir özellik değil!<br>Farkındalığı unutamazsın...<br>Sâdece şahsen onu hatırlamayı unutabilirsin;<br><br>Peki ya şimdi farkında mısın?</p><p class=\"mb-4\">...<br><br>Hâsılı hayatın en büyük şakası şu olabilir mi?</p><p class=\"mb-4\">Zâten her an ilk kez olan bir şeyi,<br>Şahsen son kez yaşıyor olman.<br><br>Ve sen, şimdi bunu sıkılarak mı geçiriyorsun?</p><p class=\"mb-4\">Hadi şimdi biraz dinlenelim:</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604122220-1776021627418.jpg",
+          "url": "https://benolanben.com/dinle/baska&950"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-12T19:20:22.768Z",
+  "is_protected": true
+}
