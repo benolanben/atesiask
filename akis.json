@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1521,
+        "parca_adi": "Yandık sen ve ben",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/a6brb06zpnb4ipj/suyandi.mp3"
+      },
+      "id": 202604122253,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1520,
         "parca_adi": "Zaman kırıntıları",
         "seslendiren": "A. Aşk",
@@ -64,11 +74,6 @@
       "text": "Etiket~siz b~akış •3",
       "id": 202604072245,
       "category": "posts/seyirdefteri/202604072245"
-    },
-    {
-      "text": "Canlı yayın kaydı: Zaman an bağışlanan",
-      "id": 202604072233,
-      "category": "posts/seyirdefteri/202604072233"
     }
   ]
 }
