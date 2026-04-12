@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1519,
+        "parca_adi": "YÜZ SÖZ Okumaları 2",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/2xwmfa067wt4bqt/yuzsoz3.mp3"
+      },
+      "id": 202604122109,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Canlı YAYIN: Doğrudan Deneyimle Temas",
       "id": 202604111407,
       "category": "posts/seyirdefteri/202604111407"
@@ -64,11 +74,6 @@
       },
       "id": 202604061524,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Bilmemeyi Bilmenin Dayanılmaz Hafifliği",
-      "id": 202604060941,
-      "category": "posts/seyirdefteri/202604060941"
     }
   ]
 }
