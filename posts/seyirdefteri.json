@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202604122220,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604122220-1776021625864.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "zaten",
+            "öyle",
+            "şahsen"
+          ],
+          "title": "CANLI YAYIN: Zâten öyle",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604111407,
       "is_protected": true,
       "article": {
