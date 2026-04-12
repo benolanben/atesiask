@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1520,
+        "parca_adi": "Zaman kırıntıları",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/c7ao7bl6rdsj3le/zamank.mp3"
+      },
+      "id": 202604122246,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "CANLI YAYIN: Zâten öyle",
       "id": 202604122220,
       "category": "posts/seyirdefteri/202604122220"
@@ -59,16 +69,6 @@
       "text": "Canlı yayın kaydı: Zaman an bağışlanan",
       "id": 202604072233,
       "category": "posts/seyirdefteri/202604072233"
-    },
-    {
-      "text": {
-        "sira_no": 1516,
-        "parca_adi": "Görürüm görmeyi",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/0skoe4r9vsntqci/gorurum.mp3"
-      },
-      "id": 202604071148,
-      "category": "kaynak/baska"
     }
   ]
 }
