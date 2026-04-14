@@ -1,6 +1,29 @@
 {
   "isaretler": [
     {
+      "id": 202604142213,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604142213-1776193996716.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "kelime-tevhid",
+            "kesret",
+            "sıfat",
+            "vahdet",
+            "yok var",
+            "zat",
+            "şahitlik"
+          ],
+          "title": "CANLI YAYIN: Var ~ yok",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604142200,
       "is_protected": false,
       "article": {
