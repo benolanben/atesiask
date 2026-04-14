@@ -1,0 +1,60 @@
+{
+  "id": 202604142213,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-14T18:40:55.245Z",
+  "created_at": "2026-04-14T19:13:10.219Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604142213-1776193996716.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "kelime-tevhid",
+        "kesret",
+        "sıfat",
+        "vahdet",
+        "yok var",
+        "zat",
+        "şahitlik"
+      ],
+      "title": "CANLI YAYIN: Var ~ yok",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kim bildi ef'âlini<br>Ol bildi sıfâtını<br>Anda gördü zâtını<br><strong>Sen seni bil, sen seni</strong></p><p class=\"mb-4\">Görünen sıfâtındır<br>Anı gören zâtındır<br>Gayrı ne hâcetindir<br><strong>Sen seni bil sen seni</strong></p><p class=\"mb-4\">Kim ki hayrete vardı<br>Nûra müstağrak oldu<br>Tevhîd-i zâtı buldu<br><strong>Sen seni bil sen seni<br></strong></p>",
+          "author": "[H. B. Velî Dedemiz'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Zât‐ı Hakk’ı anla zâtındır senin<br>Hem sıfâtı hep sıfâtındır senin<br>Sen seni bilmek necâtındır senin<br>Gayre bakma sende iste sende bul<br><br>Her sıfat kim sende var izle ânı<br>Gör ne sırdan feyz alır gözle ânı<br><strong>Erişince zâtına özle ânı<br></strong>Gayre bakma sende iste sende bul<br></p>",
+          "author": "[N. Mısrî Nefesimiz'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Ben size şimdi La ilahe illallah’ın Türkçesini söyleyeceğim:<br>\"Yoktur, vardır, yoktur vardır; yoktur vardır. Öyle de anlar be yâ hû\"<br></p>",
+          "author": "[Türbedâr Dedemiz'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Boşluktan bir nefes üflenir<br>Balon şişer, bir form belirir<br>Balon söner, form boşluğa çekilir<br>Her form, boşluğun anlık bir görünümüdür<br>Yanıp sönen o formun<br>Sabit, kalıcı durup durduğunu sandırmak<br>Bu büyük oyunun en büyük hîlesi olabilir<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Farkındalık,<br>Seni, beni<br><strong>Zihnin ötesindeki~ne<br></strong>Geri götürdüğü takdirde<br>Mânidârdır</p><p class=\"mb-4\">SES,<br>Bir kişiyi geliştirmek için var değildir orada.<br>Düşünceyi, bir an için kesintiye uğratır<br>Ve dikkat, enerjiyi onun altındaki sessizliğe geri döndürür.<br><br>O duraklama ânında,<br>Kesretten vahdete geçmezsiniz<br>Gerçek benliğinize dönüşmezsiniz.<br><br>O'ndan ayrı olduğunuza inanarak<br>Onu terk etmeyi bırakırsınız!<br><br>Kendini bırakan dalga<br>Okyanusun kucağında<br>Bırakmasa da...<br><br>~</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604142208.mp4?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-14T19:13:10.219Z",
+  "is_protected": false
+}
