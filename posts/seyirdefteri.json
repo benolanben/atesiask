@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202604142152,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604142152-1776192733744.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Seyir Zevki: Ölüm",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604142145,
       "is_protected": false,
       "article": {
