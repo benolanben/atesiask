@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Seyir Zevki: Ölüm",
+      "id": 202604142152,
+      "category": "posts/seyirdefteri/202604142152"
+    },
+    {
       "text": "Gizli Hazîne Virân~ede",
       "id": 202604142145,
       "category": "posts/seyirdefteri/202604142145"
@@ -64,16 +69,6 @@
       "text": "Sen nereye aitsin?",
       "id": 202604111323,
       "category": "posts/seyirdefteri/202604111323"
-    },
-    {
-      "text": {
-        "sira_no": 1518,
-        "parca_adi": "YÜZ SÖZ Okumaları 1",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/89ddx0zoig5ejz2/yuzsoz_1.mp3"
-      },
-      "id": 202604091030,
-      "category": "kaynak/baska"
     }
   ]
 }
