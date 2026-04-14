@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1522,
+        "parca_adi": "Bahr içinde",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/af54rc7got7llo0/bahr.mp3"
+      },
+      "id": 202604141007,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1521,
         "parca_adi": "Yandık sen ve ben",
         "seslendiren": "A. Aşk",
@@ -69,11 +79,6 @@
       },
       "id": 202604082124,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Etiket~siz b~akış •3",
-      "id": 202604072245,
-      "category": "posts/seyirdefteri/202604072245"
     }
   ]
 }
