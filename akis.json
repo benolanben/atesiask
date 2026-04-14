@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hareketsiz nefes alamayan kim?",
+      "id": 202604142200,
+      "category": "posts/seyirdefteri/202604142200"
+    },
+    {
       "text": "Seyir Zevki: Ölüm",
       "id": 202604142152,
       "category": "posts/seyirdefteri/202604142152"
@@ -64,11 +69,6 @@
       "text": "Ezelî Yalnızlık",
       "id": 202604111331,
       "category": "posts/seyirdefteri/202604111331"
-    },
-    {
-      "text": "Sen nereye aitsin?",
-      "id": 202604111323,
-      "category": "posts/seyirdefteri/202604111323"
     }
   ]
 }
