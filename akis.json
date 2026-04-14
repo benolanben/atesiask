@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "CANLI YAYIN: Var ~ yok",
+      "id": 202604142213,
+      "category": "posts/seyirdefteri/202604142213"
+    },
+    {
       "text": "Hareketsiz nefes alamayan kim?",
       "id": 202604142200,
       "category": "posts/seyirdefteri/202604142200"
@@ -64,11 +69,6 @@
       "text": "Canlı YAYIN: Doğrudan Deneyimle Temas",
       "id": 202604111407,
       "category": "posts/seyirdefteri/202604111407"
-    },
-    {
-      "text": "Ezelî Yalnızlık",
-      "id": 202604111331,
-      "category": "posts/seyirdefteri/202604111331"
     }
   ]
 }
