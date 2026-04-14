@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gizli Hazîne Virân~ede",
+      "id": 202604142145,
+      "category": "posts/seyirdefteri/202604142145"
+    },
+    {
       "text": {
         "sira_no": 1522,
         "parca_adi": "Bahr içinde",
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/89ddx0zoig5ejz2/yuzsoz_1.mp3"
       },
       "id": 202604091030,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1517,
-        "parca_adi": "Yek nazarda",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/cqs97sxdogtrjwv/yeknazarda.mp3"
-      },
-      "id": 202604082124,
       "category": "kaynak/baska"
     }
   ]
