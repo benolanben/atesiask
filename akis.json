@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1524,
+        "parca_adi": "Bu kadar dilek",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/65azzxxlgxftcgv/bukadar.mp3"
+      },
+      "id": 202604171225,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1523,
         "parca_adi": "Cemal nûru",
         "seslendiren": "A. Aşk",
@@ -64,16 +74,6 @@
       "text": "CANLI YAYIN: Zâten öyle",
       "id": 202604122220,
       "category": "posts/seyirdefteri/202604122220"
-    },
-    {
-      "text": {
-        "sira_no": 1519,
-        "parca_adi": "YÜZ SÖZ Okumaları 2",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/2xwmfa067wt4bqt/yuzsoz3.mp3"
-      },
-      "id": 202604122109,
-      "category": "kaynak/baska"
     }
   ]
 }
