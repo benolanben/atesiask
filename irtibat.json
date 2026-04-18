@@ -1,15 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 1776526073504,
-      "name": "test",
-      "email": "test@test.com",
-      "message": "testttt\n\n--- Teknik Bilgiler ---\nPlatform: web\nModel: chrome\nOS: Bilinmiyor\nUygulama Versiyonu: 1.0.8 (1)\nCihaz UID: fb46fb61-d4d3-4f1a-ae63-dd4a6cae69ad",
-      "reason": "Parça Önerisi",
-      "is_read": 0,
-      "created_at": "2026-04-18T15:27:53.504Z"
-    },
-    {
       "id": 1773308192942,
       "name": "ALİ",
       "email": "aliceviz27@hotmail.com",
