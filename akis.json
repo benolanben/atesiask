@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1525,
+        "parca_adi": "Nikriz Meşk'ten",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/6lcakkbejtkigp3/nikrizden.mp3"
+      },
+      "id": 202604191746,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1524,
         "parca_adi": "Bu kadar dilek",
         "seslendiren": "A. Aşk",
@@ -69,11 +79,6 @@
       },
       "id": 202604122246,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "CANLI YAYIN: Zâten öyle",
-      "id": 202604122220,
-      "category": "posts/seyirdefteri/202604122220"
     }
   ]
 }
