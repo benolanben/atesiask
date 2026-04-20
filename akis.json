@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1526,
+        "parca_adi": "Ben zaten tutulmuşum",
+        "seslendiren": "G. Özcan",
+        "url": "https://www.mediafire.com/file/1ucxauln9ruyhx0/benzatentutulmusum.mp3"
+      },
+      "id": 202604201022,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1525,
         "parca_adi": "Nikriz Meşk'ten",
         "seslendiren": "C. Asitanesi",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/a6brb06zpnb4ipj/suyandi.mp3"
       },
       "id": 202604122253,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1520,
-        "parca_adi": "Zaman kırıntıları",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/c7ao7bl6rdsj3le/zamank.mp3"
-      },
-      "id": 202604122246,
       "category": "kaynak/baska"
     }
   ]
