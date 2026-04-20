@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Tersine mi Paraşüt",
+      "id": 202604202003,
+      "category": "posts/seyirdefteri/202604202003"
+    },
+    {
       "text": "Hiç mi yok",
       "id": 202604201958,
       "category": "posts/seyirdefteri/202604201958"
@@ -64,16 +69,6 @@
       "text": "Gizli Hazîne Virân~ede",
       "id": 202604142145,
       "category": "posts/seyirdefteri/202604142145"
-    },
-    {
-      "text": {
-        "sira_no": 1522,
-        "parca_adi": "Bahr içinde",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/af54rc7got7llo0/bahr.mp3"
-      },
-      "id": 202604141007,
-      "category": "kaynak/baska"
     }
   ]
 }
