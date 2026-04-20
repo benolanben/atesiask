@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hiç mi yok",
+      "id": 202604201958,
+      "category": "posts/seyirdefteri/202604201958"
+    },
+    {
       "text": {
         "sira_no": 1526,
         "parca_adi": "Ben zaten tutulmuşum",
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/af54rc7got7llo0/bahr.mp3"
       },
       "id": 202604141007,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1521,
-        "parca_adi": "Yandık sen ve ben",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/a6brb06zpnb4ipj/suyandi.mp3"
-      },
-      "id": 202604122253,
       "category": "kaynak/baska"
     }
   ]
