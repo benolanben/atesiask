@@ -1,0 +1,52 @@
+{
+  "id": 202604231357,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-23T10:44:48.432Z",
+  "created_at": "2026-04-23T10:57:41.911Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "aşk",
+        "erteleme"
+      ],
+      "title": "Durman yanalım",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "<p class=\"mb-4\"></p>",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604231357-1776941870905.jpg",
+          "url": "https://benolanben.com/dinle/baska&354"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">AŞK,<br>Hayat gibidir ertelemeye gelmez.</p><p class=\"mb-4\">Ve itiraf ister<br>Ne geçiştirmeye<br>Ne gecikmeye gelmez öyle aşk...</p><p class=\"mb-4\"><em><br>O sözü şimdi söyle<br>O eli al sînene<br>O tatili artık erteleme</em></p><p class=\"mb-4\"><br>Şimdi olan<br>Şimdi yaşanır</p><p class=\"mb-4\">Yârini<br>Yarına salmak mı olur?</p><p class=\"mb-4\">Bunu, birinden duymak istedin<br>Dinle şimdi kendin:</p><blockquote><p class=\"mb-4\"><strong><br>Birinin,<br>Bize hissettiklerimizi bir kenara atmamamız,<br>Aşk ve kederden utanmamamız için cesaret vermesi gerekiyor...</strong></p><p class=\"mb-4\"><strong>Kendin için<br>O~BİR~i sen olabilir misin ey sevgili?<br></strong></p></blockquote><p class=\"mb-4\"><br>Yoksa ne mi olmaz?</p><p class=\"mb-4\">Sonra aldığın hiçbir karar,<br>Başına taç takmaz geriye kalan enkâzın...</p><p class=\"mb-4\">Ölenin ardından ağıt yakmak,<br>Yaşarken yanında olmayanların<br>Birlikte yaşamayı beceremeyenlerin kuru avuntusu...</p><p class=\"mb-4\">Ve utanç,<br>Zayıfların uydurduğu bir yalandan başka bir şey değil doğrusu...</p><p class=\"mb-4\">Hiç şakası yok ölüveriyor insan!<strong><br>Aşkı ertelemek yaşamak değil inan...<br></strong><br>Sil gözyaşlarını ve şu mâhûr besteye eğil; say ki ezân:</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604231357-1776941873487.jpg",
+          "url": "https://benolanben.com/dinle/baska&1421"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Uzak ihtimâl ümîdi öldürebilir mi?<br><strong>Ertelemek yavaş yavaş intihar etmek olabilir mi?</strong></p><blockquote><p class=\"mb-4\"><br>Varlığın Sevinci'nden duymuş olun:<br><em>E lâ helake'l-müsevvifûn<br></em><strong><em>Erteleyenler helâk olup gitmiştir, bilmiş olun<br></em></strong></p></blockquote><p class=\"mb-4\"><br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Yâr sînesi...<br>Teselli için kulağımı yasladığım bir deniz kabuğu sînesi<br>Ve o sesi,<br>Çalkantılı bir denizin teskîn edicisi;<br>Nefesinde su-su-yorum,<br>Yok artık ötesi...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-23T10:57:41.911Z",
+  "is_protected": false
+}
