@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Şarkının İçindeki Sessizlik",
+      "id": 202604231410,
+      "category": "posts/seyirdefteri/202604231410"
+    },
+    {
       "text": "Hayatın Kendisi Kulluktadır",
       "id": 202604231405,
       "category": "posts/seyirdefteri/202604231405"
@@ -64,11 +69,6 @@
       "text": "CANLI YAYIN: Var ~ yok",
       "id": 202604142213,
       "category": "posts/seyirdefteri/202604142213"
-    },
-    {
-      "text": "Hareketsiz nefes alamayan kim?",
-      "id": 202604142200,
-      "category": "posts/seyirdefteri/202604142200"
     }
   ]
 }
