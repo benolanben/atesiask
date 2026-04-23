@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202604231405,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604231405-1776942325266.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "kulluk"
+          ],
+          "title": "Hayatın Kendisi Kulluktadır",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604231357,
       "is_protected": false,
       "article": {
