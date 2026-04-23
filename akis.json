@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Durman yanalım",
+      "id": 202604231357,
+      "category": "posts/seyirdefteri/202604231357"
+    },
+    {
       "text": "Tersine mi Paraşüt",
       "id": 202604202003,
       "category": "posts/seyirdefteri/202604202003"
@@ -64,11 +69,6 @@
       "text": "Seyir Zevki: Ölüm",
       "id": 202604142152,
       "category": "posts/seyirdefteri/202604142152"
-    },
-    {
-      "text": "Gizli Hazîne Virân~ede",
-      "id": 202604142145,
-      "category": "posts/seyirdefteri/202604142145"
     }
   ]
 }
