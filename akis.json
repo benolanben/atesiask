@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bin derdim var",
+      "id": 202604231412,
+      "category": "posts/seyirdefteri/202604231412"
+    },
+    {
       "text": "Şarkının İçindeki Sessizlik",
       "id": 202604231410,
       "category": "posts/seyirdefteri/202604231410"
@@ -64,11 +69,6 @@
       },
       "id": 202604151012,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "CANLI YAYIN: Var ~ yok",
-      "id": 202604142213,
-      "category": "posts/seyirdefteri/202604142213"
     }
   ]
 }
