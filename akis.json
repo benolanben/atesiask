@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hayatın Kendisi Kulluktadır",
+      "id": 202604231405,
+      "category": "posts/seyirdefteri/202604231405"
+    },
+    {
       "text": "Durman yanalım",
       "id": 202604231357,
       "category": "posts/seyirdefteri/202604231357"
@@ -64,11 +69,6 @@
       "text": "Hareketsiz nefes alamayan kim?",
       "id": 202604142200,
       "category": "posts/seyirdefteri/202604142200"
-    },
-    {
-      "text": "Seyir Zevki: Ölüm",
-      "id": 202604142152,
-      "category": "posts/seyirdefteri/202604142152"
     }
   ]
 }
