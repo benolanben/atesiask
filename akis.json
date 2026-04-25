@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1527,
+        "parca_adi": "Sekiz yüz",
+        "seslendiren": "M. Dede",
+        "url": "https://www.mediafire.com/file/rurrdqc6gcoiiek/sekizyuz.mp3"
+      },
+      "id": 202604251234,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Bin derdim var",
       "id": 202604231412,
       "category": "posts/seyirdefteri/202604231412"
@@ -58,16 +68,6 @@
         "url": "https://www.mediafire.com/file/65azzxxlgxftcgv/bukadar.mp3"
       },
       "id": 202604171225,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1523,
-        "parca_adi": "Cemal nûru",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/eaqu52fg1pee6mo/cemalnuru.mp3"
-      },
-      "id": 202604151012,
       "category": "kaynak/baska"
     }
   ]
