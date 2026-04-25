@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1528,
+        "parca_adi": "Harikulâde güzelsin",
+        "seslendiren": "İ. Özel",
+        "url": "https://www.mediafire.com/file/il82jm9s3z3ioli/guzelsin.mp3"
+      },
+      "id": 202604251311,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1527,
         "parca_adi": "Sekiz yüz",
         "seslendiren": "M. Dede",
@@ -58,16 +68,6 @@
         "url": "https://www.mediafire.com/file/6lcakkbejtkigp3/nikrizden.mp3"
       },
       "id": 202604191746,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1524,
-        "parca_adi": "Bu kadar dilek",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/65azzxxlgxftcgv/bukadar.mp3"
-      },
-      "id": 202604171225,
       "category": "kaynak/baska"
     }
   ]
