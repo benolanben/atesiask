@@ -1,0 +1,46 @@
+{
+  "id": 202604280102,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-27T21:52:15.993Z",
+  "created_at": "2026-04-27T22:02:34.855Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604272502-1777327369466.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "kurgu",
+        "medya",
+        "savaş"
+      ],
+      "title": "Dünya Savaşları Tarihi",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604280100.webm?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">— Neden habire savaş çıkıyordu?</p><p class=\"mb-4\">— Bir klanın büyücüleri, başka bir grubun gerçekliğini kötü niyetli, şer odağı ya da şeytan ilan ettiğinde savaşlar başlıyordu.</p><p class=\"mb-4\">Önce oturup kendi gölge oyunlarından 'Ötekiler' hakkında karanlık bir kurmaca film çekerler.</p><p class=\"mb-4\">Sonra kendilerine ötekiler hakkındaki filmler izletiyor, sonra da bu kurguyu \"son dakika haberi\" imiş gibi gösterip kendilerini heyecanlandırıyor ve ötekileştirdiklerini bombalamaya başlıyorlardı.</p>",
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İşin en ironik tarafı şuydu:</p><p class=\"mb-4\">Bombalar patladığında ölenler her zaman gerçekti; lakin tetiği çekenler, sadece yanlış ayarlanmış bir frekansta kendi sol elini budayan birer sağ el olduklarını asla fark edemediler.</p><p class=\"mb-4\">Zaten<br>'Ben' ve 'O' arasındaki sözde ayrım,<br>Sadece yüksek çözünürlüklü,<br>Ama alçak anlayışlı ekranların icat edebileceği bir cehaletti.</p><p class=\"mb-4\">Uzun lafın kısası şu ki:</p><p class=\"mb-4\">Dünya Savaşları Tarihi,<br>Aslında hiç var olmamış insanların,<br>Hiç gitmedikleri yerlerde,<br>Hiç tanımadıkları gölgeleri öldürmek için<br>Kredi çekip birbirlerine<br>'İzlenme Rekoru' satma hikâyesidir.</p><p class=\"mb-4\">En acıklı espri ise şurada gizli:<br><br>Savaşı kazanan tarafın eline geçen tek şey,<br>Mağlubun kanıyla kirlenmiş bir uzaktan kumandadır</p><p class=\"mb-4\">Ne var ki pilleri çok zaman bitmiş olur vesselâm.</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gerçeklik, içine çuklat parçacıkları serpiştirilmiş bir oyun hamuru gibidir.</p><p class=\"mb-4\">İnsan, önünde beliren \"Dünya\" adlı bu dönen hamur tablosunun üzerine, parmaklarıyla bastırarak kendine birkaç lezzetli kırıntı koparmaya çalışır.</p><p class=\"mb-4\">Oysa bu esnâda, tablonun üzerinde kuleler yıkılır, gemiler batar, imparatorluklar ve medeniyetler helak olur. Ne var ki bunu, genellikle başkaları görür.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-27T22:02:34.855Z",
+  "is_protected": false
+}
