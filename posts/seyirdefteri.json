@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202604280057,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604272457-1777327035230.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Gerçeğine Uyumlu Sahtelikler",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604231412,
       "is_protected": false,
       "article": {
