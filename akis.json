@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gerçeğine Uyumlu Sahtelikler",
+      "id": 202604280057,
+      "category": "posts/seyirdefteri/202604280057"
+    },
+    {
       "text": {
         "sira_no": 1529,
         "parca_adi": "Âgâh ol ey gönül",
@@ -59,16 +64,6 @@
       "text": "Hiç mi yok",
       "id": 202604201958,
       "category": "posts/seyirdefteri/202604201958"
-    },
-    {
-      "text": {
-        "sira_no": 1526,
-        "parca_adi": "Ben zaten tutulmuşum",
-        "seslendiren": "G. Özcan",
-        "url": "https://www.mediafire.com/file/1ucxauln9ruyhx0/benzatentutulmusum.mp3"
-      },
-      "id": 202604201022,
-      "category": "kaynak/baska"
     }
   ]
 }
