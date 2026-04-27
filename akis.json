@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dünya Savaşları Tarihi",
+      "id": 202604280102,
+      "category": "posts/seyirdefteri/202604280102"
+    },
+    {
       "text": "Gerçeğine Uyumlu Sahtelikler",
       "id": 202604280057,
       "category": "posts/seyirdefteri/202604280057"
@@ -59,11 +64,6 @@
       "text": "Tersine mi Paraşüt",
       "id": 202604202003,
       "category": "posts/seyirdefteri/202604202003"
-    },
-    {
-      "text": "Hiç mi yok",
-      "id": 202604201958,
-      "category": "posts/seyirdefteri/202604201958"
     }
   ]
 }
