@@ -1,0 +1,45 @@
+{
+  "id": 202604290050,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-28T19:57:27.187Z",
+  "created_at": "2026-04-28T21:50:57.951Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "tanışmak"
+      ],
+      "title": "CANLI YAYIN: Nasıl tanışabiliriz?",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/emreaksel/atesiask/resolve/main/202604290047.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kendinizi tanıyamadığınız sürece onu nasıl tanıyacaksınız<br></p>",
+          "author": "[Abdal Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<blockquote><p class=\"mb-4\"><br>— Nasıl tanışabiliriz?<br>İlkin kendini bir şey sanmayı bırak!</p></blockquote><p class=\"mb-4\">~</p><p class=\"mb-4\">Bu apaçık bir davet;</p><p class=\"mb-4\">Dışarıda kimlik aramayı bakmayı bırakmaya, kendinizi tanımlamaya çalışmayı bırakmaya. Olandan kaçmayı bırakmaya ve bunun yerine, açık, boş, hazır kend'öz yurduna dönmeye.</p><p class=\"mb-4\">Hiç gitmeyen şeye.<br>Her zaman burada olan şeye.<br>Zaten olduğunuz şeye...</p><p class=\"mb-4\">Zira kend'özümüz,<br>Elde edilecek bir şey değil, her zaman var olmuş ve her zaman var olacak olan şey olarak her sahnede yeniden tanınması gereken bir şeydir.</p><p class=\"mb-4\">Sıfatını görmek muradıyla açtı bir bir âlem sahnesi<br>Zâtını her yüzden görüp tanımaya insan bahânesi</p><p class=\"mb-4\"></p><blockquote><p class=\"mb-4\"><br>— \"Her şeyi bir rüya olarak görme(zden gelme)” pratiğine başlarsam, bu anlayış nereye vardırır beni?</p><p class=\"mb-4\">Nereye götürürse götürsün,<br>Yine de bir rüya olacaktır.<br>Rüyanın ötesine geçme inancı yanıltıcı bir inançtır.</p><p class=\"mb-4\">Hem hayat şimdi burada yaşanıp dururken<br>Neden başka bir yere gidesiniz ki?<br>Sadece dünyayı gördüğünüz bir rüya olduğunu anlayın ve sonra bir çıkış yolu aramayın. Sizin sorununuz rüyâ değil.<br><br>Varsa bir sorun, rüyanın bir kısmını sevmeniz, diğer bazı kısımlarını sevmemenizdir.<br>Ya hepsini sevin ya da hiçbirini sevmeyin ve şikayet etmeyi, suçlamayı bırakın.</p></blockquote><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Rüyayı bir rüya olarak gördüğünüzde, gereken her şeyi yapmış olursunuz.<br></p>",
+          "author": "[N. Maharaj Zevkiyle]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-28T21:50:57.951Z",
+  "is_protected": true
+}
