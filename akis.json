@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "CANLI YAYIN: Nasıl tanışabiliriz?",
+      "id": 202604290050,
+      "category": "posts/seyirdefteri/202604290050"
+    },
+    {
       "text": "Dünya Savaşları Tarihi",
       "id": 202604280102,
       "category": "posts/seyirdefteri/202604280102"
@@ -59,11 +64,6 @@
       "text": "Durman yanalım",
       "id": 202604231357,
       "category": "posts/seyirdefteri/202604231357"
-    },
-    {
-      "text": "Tersine mi Paraşüt",
-      "id": 202604202003,
-      "category": "posts/seyirdefteri/202604202003"
     }
   ]
 }
