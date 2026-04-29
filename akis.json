@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İlişkinin zemininde ne var?",
+      "id": 202604292237,
+      "category": "posts/seyirdefteri/202604292237"
+    },
+    {
       "text": "Maneviyat Yoluna Açık Pencere",
       "id": 202604292218,
       "category": "posts/seyirdefteri/202604292218"
@@ -59,11 +64,6 @@
       "text": "Şarkının İçindeki Sessizlik",
       "id": 202604231410,
       "category": "posts/seyirdefteri/202604231410"
-    },
-    {
-      "text": "Hayatın Kendisi Kulluktadır",
-      "id": 202604231405,
-      "category": "posts/seyirdefteri/202604231405"
     }
   ]
 }
