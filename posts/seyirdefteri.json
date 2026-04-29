@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202604292218,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604292219-1777490350610.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Via Dolorosa",
+            "mesafe",
+            "yol"
+          ],
+          "title": "Maneviyat Yoluna Açık Pencere",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604290050,
       "is_protected": true,
       "article": {
