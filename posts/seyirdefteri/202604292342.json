@@ -1,0 +1,61 @@
+{
+  "id": 202604292342,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-04-29T19:15:57.847Z",
+  "created_at": "2026-04-29T20:42:14.158Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604292342-1777495347117.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "hatırla",
+        "unut",
+        "zikr"
+      ],
+      "title": "CANLI YAYIN: Hatırlayış",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202604292336.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">AŞK,<br>Bir zihin hâli değildir öyle...</p><p class=\"mb-4\">Zihin,<br>Artık ayrım yapmadığında<br>Geriye kalandır O!<br><br>Hiçbir şey hatırlanmaz;<br>Ayrılık unutulur.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Mağaradaki hâkim eylem ne idi?</p><p class=\"mb-4\">Tefekkür: Fikr etmek değil<br>Tezekkür: Derinlemesine hatırlamak idi<br><br>~</p><p class=\"mb-4\">Hiçbir kendine eren,<br>'Aydınlanmaya' düşünceyle ermiş değil.<br>Sadece gerçek doğasını fark edecek,<br>Tam hatırlayacak kadar derine indi...</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~<br><br>Ezel demini hatırlamak için aklını bırak da, akıl ol!<br>Kulaklarını tıka da kulak ver!<br>Yâni a canım,<br>Zihin ve kapılarından öte geç!<br><br>~</p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Bahr-i esrâra dalmadan bir şey göremezsin!<br>Dalgıç daldığında görür, çıktığında hatırlar ve bilir.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\"><strong>\"Seni, seni hatırladığımdan daha çok özlüyorum...\" dedi,<br>Ne yapsa unutulmayan...</strong></p><p class=\"mb-4\">Uyanış,<br>Hatırlayış<br>Seni beni kalp kırıklığından korumayacak.<br>Bilakis paramparça edecek,<br>Geriye<br>Bir<br>Tek<br>Aşk<br>Kalacak.<br><br><strong>Zikri dâim-i~derler bu zevkimizi az sanma;<br>Her nefes nasıl geçerse öyle göçersin kanma...</strong></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202604292342-1777495348749.jpg",
+          "url": "https://benolanben.com/dinle/baska&1530"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-04-29T20:42:14.158Z",
+  "is_protected": false
+}
