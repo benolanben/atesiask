@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Maneviyat Yoluna Açık Pencere",
+      "id": 202604292218,
+      "category": "posts/seyirdefteri/202604292218"
+    },
+    {
       "text": "CANLI YAYIN: Nasıl tanışabiliriz?",
       "id": 202604290050,
       "category": "posts/seyirdefteri/202604290050"
@@ -59,11 +64,6 @@
       "text": "Hayatın Kendisi Kulluktadır",
       "id": 202604231405,
       "category": "posts/seyirdefteri/202604231405"
-    },
-    {
-      "text": "Durman yanalım",
-      "id": 202604231357,
-      "category": "posts/seyirdefteri/202604231357"
     }
   ]
 }
