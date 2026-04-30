@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1533,
+        "parca_adi": "Keşfolunmaz görmeyince",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/6sjqq6y1hc3vcok/kefolunmaaz.mp3"
+      },
+      "id": 202604302030,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1532,
         "parca_adi": "Câm-ı vahdet",
         "seslendiren": "A. Kadrî",
@@ -54,11 +64,6 @@
       "text": "CANLI YAYIN: Nasıl tanışabiliriz?",
       "id": 202604290050,
       "category": "posts/seyirdefteri/202604290050"
-    },
-    {
-      "text": "Dünya Savaşları Tarihi",
-      "id": 202604280102,
-      "category": "posts/seyirdefteri/202604280102"
     }
   ]
 }
