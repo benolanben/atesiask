@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1534,
+        "parca_adi": "Hak kendini",
+        "seslendiren": "Ş. Kamer",
+        "url": "https://www.mediafire.com/file/obuddgo3cuxn37d/hakkendini.mp3"
+      },
+      "id": 202605012139,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1533,
         "parca_adi": "Keşfolunmaz görmeyince",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       "text": "Maneviyat Yoluna Açık Pencere",
       "id": 202604292218,
       "category": "posts/seyirdefteri/202604292218"
-    },
-    {
-      "text": "CANLI YAYIN: Nasıl tanışabiliriz?",
-      "id": 202604290050,
-      "category": "posts/seyirdefteri/202604290050"
     }
   ]
 }
