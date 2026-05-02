@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202605022314,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605022314-1777752885807.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "gölge",
+            "kaybolan gölge",
+            "sınır"
+          ],
+          "title": "Gayb~olan Gölge •1",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605022312,
       "is_protected": false,
       "article": {
