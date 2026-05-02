@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sahte ölümler",
+      "id": 202605022312,
+      "category": "posts/seyirdefteri/202605022312"
+    },
+    {
       "text": "Uyuyan da uyanan~da güzel",
       "id": 202605022235,
       "category": "posts/seyirdefteri/202605022235"
@@ -74,11 +79,6 @@
       "text": "Sana çekiliyorum",
       "id": 202604300003,
       "category": "posts/seyirdefteri/202604300003"
-    },
-    {
-      "text": "Ölmeden ölüm zevkimiz",
-      "id": 202604292349,
-      "category": "posts/seyirdefteri/202604292349"
     }
   ]
 }
