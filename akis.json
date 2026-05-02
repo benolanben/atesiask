@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Uyuyan da uyanan~da güzel",
+      "id": 202605022235,
+      "category": "posts/seyirdefteri/202605022235"
+    },
+    {
       "text": {
         "sira_no": 1536,
         "parca_adi": "Hicazkâr'dan",
@@ -74,11 +79,6 @@
       "text": "Ölmeden ölüm zevkimiz",
       "id": 202604292349,
       "category": "posts/seyirdefteri/202604292349"
-    },
-    {
-      "text": "CANLI YAYIN: Hatırlayış",
-      "id": 202604292342,
-      "category": "posts/seyirdefteri/202604292342"
     }
   ]
 }
