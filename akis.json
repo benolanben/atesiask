@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1536,
+        "parca_adi": "Hicazkâr'dan",
+        "seslendiren": "T. KTTMT",
+        "url": "https://www.mediafire.com/file/m41ramaq0612bt1/hicazkardan.mp3"
+      },
+      "id": 202605022233,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1535,
         "parca_adi": "Dilimde zikrim",
         "seslendiren": "N. Uzel",
@@ -69,11 +79,6 @@
       "text": "CANLI YAYIN: Hatırlayış",
       "id": 202604292342,
       "category": "posts/seyirdefteri/202604292342"
-    },
-    {
-      "text": "İlişkinin zemininde ne var?",
-      "id": 202604292237,
-      "category": "posts/seyirdefteri/202604292237"
     }
   ]
 }
