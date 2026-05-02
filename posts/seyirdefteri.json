@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202605022235,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605022235-1777750545248.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kelâm-ı Azîz-i Melâmîye",
+            "gerçeklik",
+            "varlık koması"
+          ],
+          "title": "Uyuyan da uyanan~da güzel",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202604300005,
       "is_protected": false,
       "article": {
