@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605022312,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605022312-1777752748246.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Sahte ölümler",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605022235,
       "is_protected": false,
       "article": {
