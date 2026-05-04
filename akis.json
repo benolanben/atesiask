@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1537,
+        "parca_adi": "Kabul",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/gvh08wvkib0tdph/kabul.mp3"
+      },
+      "id": 202605042044,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Gayb~olan Gölge •1",
       "id": 202605022314,
       "category": "posts/seyirdefteri/202605022314"
@@ -74,11 +84,6 @@
       },
       "id": 202604301142,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "BIR~ak Dağınık kalsın",
-      "id": 202604300005,
-      "category": "posts/seyirdefteri/202604300005"
     }
   ]
 }
