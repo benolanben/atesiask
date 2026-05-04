@@ -68,6 +68,7 @@ jobs:
 
       # Değişiklikleri Commit Et ve Pushla
       - name: Commit and push changes
+        id: push_changes  # <--- BU EKSİKTİ: Kimlik tanımladık
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
@@ -76,15 +77,17 @@ jobs:
           # Değişiklik olup olmadığını kontrol et
           if git diff --cached --quiet; then
             echo "No changes to commit."
+            echo "has_changes=false" >> $GITHUB_OUTPUT # <--- BU EKSİKTİ
           else
             git commit -m "Combine sesler arrays into fihimafih.json"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
+            echo "has_changes=true" >> $GITHUB_OUTPUT # <--- BU EKSİKTİ: Değişiklik var dedik
           fi
 
       # 🔥 Hugging Face Space'i Uyandır ve Tetikle
       - name: Wake up Hugging Face Space
+        # Artık yukarıdaki 'push_changes' id'sine ve 'has_changes' değerine bakabilir
         if: steps.push_changes.outputs.has_changes == 'true'
         run: |
           echo "Space tetikleniyor: https://huggingface.co/spaces/benolanben/atesiask-automation"
-          # -s: sessiz mod, -L: yönlendirmeleri takip et, -I: sadece başlıkları al (uyandırmak için yeterli)
           curl -s -L -I https://huggingface.co/spaces/benolanben/atesiask-automation
