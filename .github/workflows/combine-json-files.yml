@@ -80,3 +80,11 @@ jobs:
             git commit -m "Combine sesler arrays into fihimafih.json"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/benolanben/atesiask.git HEAD:main
           fi
+
+      # 🔥 Hugging Face Space'i Uyandır ve Tetikle
+      - name: Wake up Hugging Face Space
+        if: steps.push_changes.outputs.has_changes == 'true'
+        run: |
+          echo "Space tetikleniyor: https://huggingface.co/spaces/benolanben/atesiask-automation"
+          # -s: sessiz mod, -L: yönlendirmeleri takip et, -I: sadece başlıkları al (uyandırmak için yeterli)
+          curl -s -L -I https://huggingface.co/spaces/benolanben/atesiask-automation
