@@ -2,7 +2,7 @@
     "versiyon":116,
     "bildirim":{
         "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik gösterir. platform android,ios,all olabilir ",
-        "metin": "Aşk Olsun",
+        "metin": "H harfi her açılışta, T harfi yalnızca bir seferlik gösterir.\nplatform android,ios,all olabilir",
         "gosterim":"H",
         "platform": "all",
         "vakit1":"17/12/2022 17:29",
