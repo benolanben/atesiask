@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Celâl~de~yüzüm",
+      "id": 202605052128,
+      "category": "posts/seyirdefteri/202605052128"
+    },
+    {
       "text": {
         "sira_no": 1537,
         "parca_adi": "Kabul",
@@ -73,16 +78,6 @@
         "url": "https://www.mediafire.com/file/txapvx89ug0m3te/camivahdet.mp3"
       },
       "id": 202604302023,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1531,
-        "parca_adi": "Aşk masalımsın",
-        "seslendiren": "B. Ünlüataer",
-        "url": "https://www.mediafire.com/file/wzz71n3epj942on/askim.mp3"
-      },
-      "id": 202604301142,
       "category": "kaynak/baska"
     }
   ]
