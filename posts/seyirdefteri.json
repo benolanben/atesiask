@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202605052139,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "mürşid"
+          ],
+          "title": "Sen~i~çık~ar~a~dan",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202605052128,
       "is_protected": false,
       "article": {
