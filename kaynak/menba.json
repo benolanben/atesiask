@@ -1,11 +1,14 @@
 {
     "versiyon":116,
     "bildirim":{
-        "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik",
+        "bilgi":"H harfi her açılışta, T harfi yalnızca bir seferlik gösterir. platform android,ios,all olabilir ",
         "metin": "Aşk Olsun",
         "gosterim":"H",
+        "platform": "all",
         "vakit1":"17/12/2022 17:29",
-        "vakit2":"26/12/2022 16:29"
+        "vakit2":"26/12/2022 16:29",
+        "baslangic": "2026-05-05T20:00:00",
+        "bitis": "2026-05-10T23:40:00",
     },
     "aktifliste": {
         "bilgi":"dinlemeListesiID ile 'dinlemeListeleri' isimli alandaki liste aktifleştirilir ",
