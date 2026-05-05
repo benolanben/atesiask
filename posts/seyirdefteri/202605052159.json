@@ -1,0 +1,53 @@
+{
+  "id": 202605052159,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-05-05T18:24:23.194Z",
+  "created_at": "2026-05-05T18:59:16.805Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605052159-1778007557071.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Alçağa akar sular",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>ALÇAĞA AKAR SULAR</strong><br><em>RAHMET SUYU, KURAK TOPRAĞI SULAR<br></em><br>~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kudretin, acziyettedir<br>Bilmediğin, bildiğindir<br></p>",
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Acz,<br>Abd-i Mutlak'ın<br>Sonsuz kudreti<br>Seyir makamıdır<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Şiir için 'gözyaşı' derler, onu bilmem,<br>Yalnız aczimin giryesidir bence bütün eserim!<br></p>",
+          "author": "[M. Akif'ten]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Ve nihâyet idrâkin aczi, hayrettir hayret...</strong></p><p class=\"mb-4\">Peki nedir bu hayret?<br><br>Hayal perdesine düşen, her gün yeniden gösterime giren dünyâ filmimizde akıl, mantık yeterli olsaydı öyle, tüm cevaplara çoktan sahip olurduk ama değiliz.<br>İşte bu boşlukta merak yeşerir, hayret yetişir.<br><br>Zira zihin, bildiğinde daralır.<br>Merak ettiğinde, hayrete düştüğünde, bilmediğinde açılır.<br>Bu açıklıkta, ben ~ öteki arasındaki ayrım, bir sınır değil, bir düşünce olarak görülür<br>Ve kendini açıklığa bırakan her şey çözülür.</p><p class=\"mb-4\"><strong>Çünkü tek bir hayret nefesi binlerce hayâli özgür bırakabilir...</strong></p><p class=\"mb-4\">Hayret,<br>Şahsın zâtının kavranamaz ve kuşatılamaz kudreti ve azâmeti karşısındaki aczini fark etmesi ve bunun te'siriyle idrakin bir nevi hoşlukla kamaşması, âkıbet boşluğa karışması...</p><p class=\"mb-4\">Vücûdu şehrine tâze göz açan<br>Bebeklere bak...</p><p class=\"mb-4\">Zayıflığınız aslında güçlü yanınızdır,<br>\"Kudret acziyettedir\" hatırlayınız</p><p class=\"mb-4\">Beden ve zihin acziyetle geri çekildikçe<br>İnsanlık İmkânı'nda açılan<br>\"GİZLİ HAZİNE\"<br>Ne imiş görünüyor işte bir güzel...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605052154.mp4?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-05-05T18:59:16.805Z",
+  "is_protected": true
+}
