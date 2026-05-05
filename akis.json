@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Allah, seninledir",
+      "id": 202605052210,
+      "category": "posts/seyirdefteri/202605052210"
+    },
+    {
       "text": "Alçağa akar sular",
       "id": 202605052159,
       "category": "posts/seyirdefteri/202605052159"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/m41ramaq0612bt1/hicazkardan.mp3"
       },
       "id": 202605022233,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1535,
-        "parca_adi": "Dilimde zikrim",
-        "seslendiren": "N. Uzel",
-        "url": "https://www.mediafire.com/file/89hladlmtsyy503/dilimdezikrim.mp3"
-      },
-      "id": 202605012155,
       "category": "kaynak/baska"
     }
   ]
