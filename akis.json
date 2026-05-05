@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Alçağa akar sular",
+      "id": 202605052159,
+      "category": "posts/seyirdefteri/202605052159"
+    },
+    {
       "text": "Gayba İman ya da Belirsizlik",
       "id": 202605052143,
       "category": "posts/seyirdefteri/202605052143"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/89hladlmtsyy503/dilimdezikrim.mp3"
       },
       "id": 202605012155,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1534,
-        "parca_adi": "Hak kendini",
-        "seslendiren": "Ş. Kamer",
-        "url": "https://www.mediafire.com/file/obuddgo3cuxn37d/hakkendini.mp3"
-      },
-      "id": 202605012139,
       "category": "kaynak/baska"
     }
   ]
