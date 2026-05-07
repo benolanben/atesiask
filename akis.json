@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1538,
+        "parca_adi": "Ayna kendini gözler",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/fbhni4qjwxjytbu/kendinigozler.mp3"
+      },
+      "id": 202605071014,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Allah, seninledir",
       "id": 202605052210,
       "category": "posts/seyirdefteri/202605052210"
@@ -49,16 +59,6 @@
       "text": "Uyuyan da uyanan~da güzel",
       "id": 202605022235,
       "category": "posts/seyirdefteri/202605022235"
-    },
-    {
-      "text": {
-        "sira_no": 1536,
-        "parca_adi": "Hicazkâr'dan",
-        "seslendiren": "T. KTTMT",
-        "url": "https://www.mediafire.com/file/m41ramaq0612bt1/hicazkardan.mp3"
-      },
-      "id": 202605022233,
-      "category": "kaynak/baska"
     }
   ]
 }
