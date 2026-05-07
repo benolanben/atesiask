@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1539,
+        "parca_adi": "Hayretteyim",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/94xry884aut2avh/hayretteyim.mp3"
+      },
+      "id": 202605071350,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1538,
         "parca_adi": "Ayna kendini gözler",
         "seslendiren": "A. Kadrî",
@@ -54,11 +64,6 @@
       "text": "Sahte ölümler",
       "id": 202605022312,
       "category": "posts/seyirdefteri/202605022312"
-    },
-    {
-      "text": "Uyuyan da uyanan~da güzel",
-      "id": 202605022235,
-      "category": "posts/seyirdefteri/202605022235"
     }
   ]
 }
