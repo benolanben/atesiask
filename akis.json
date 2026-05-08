@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •6",
+      "id": 202605082150,
+      "category": "posts/seyirdefteri/202605082150"
+    },
+    {
       "text": {
         "sira_no": 1539,
         "parca_adi": "Hayretteyim",
@@ -59,11 +64,6 @@
       "text": "Gayb~olan Gölge •1",
       "id": 202605022314,
       "category": "posts/seyirdefteri/202605022314"
-    },
-    {
-      "text": "Sahte ölümler",
-      "id": 202605022312,
-      "category": "posts/seyirdefteri/202605022312"
     }
   ]
 }
