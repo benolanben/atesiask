@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202605082150,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "melamet",
+            "merâtib-i vücûd"
+          ],
+          "title": "Yedi Dur~ak Risâlesi •6",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202605052210,
       "is_protected": false,
       "article": {
