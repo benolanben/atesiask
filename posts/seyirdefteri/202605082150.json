@@ -1,0 +1,47 @@
+{
+  "id": 202605082150,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-05-08T17:43:29.331Z",
+  "created_at": "2026-05-08T18:50:38.821Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "melamet",
+        "merâtib-i vücûd"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •6",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "<p class=\"mb-4\"></p>",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605082150-1778266241141.jpg",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/yedidurak_6.mp3?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">\"Merâtib-i Vücûd\" zevkine dâir okumalar...<br><br>Sıfır,<br>Hiçbir şeyin yokluğu değil,<br>Belki mükemmel dengedeki her şeyin toplamı...<br><br>Karanlığın müstakil varlığı yoktur<br>Işık vardır, yokluğuna \"karanlık\" demişiz.<br><br>Tıpkı ölümün, yaşamın yokluğu, bâtına çekilmesi olması gibi.<br>Dolayısıyla kötülük, iyiliğin zıttı değil, aksine yokluğudur.<br><br>Öyleyse olan ya olmayan nedir?<br>Mahzâ hayırdır, mahzâ nûr</p><p class=\"mb-4\"><br><strong>Gözün nuru, gönül nuru, aşk nurudur...</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Âyet muhkem buyurur:<br>Allah var oldur<br>Allah göklerin ve yerin nûrudur<br></p>",
+          "author": "[Nûr:35'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Hak nûrudur nefes nefes onunla dolduğun<br>Dirensen de Hak'tır o denizde boğulduğun<br></p>",
+          "author": "[A. Kadrî]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-05-08T18:50:38.821Z",
+  "is_protected": true
+}
