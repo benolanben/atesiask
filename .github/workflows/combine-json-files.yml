@@ -84,10 +84,14 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT # <--- BU EKSİKTİ: Değişiklik var dedik
           fi
 
-      # 🔥 Hugging Face Space'i Uyandır ve Tetikle
-      - name: Wake up Hugging Face Space
-        # Artık yukarıdaki 'push_changes' id'sine ve 'has_changes' değerine bakabilir
+      # 🔥 Hugging Face Space'i API Üzerinden Tetikle
+      - name: Trigger Hugging Face Sync API
         if: steps.push_changes.outputs.has_changes == 'true'
         run: |
-          echo "Space tetikleniyor: https://huggingface.co/spaces/benolanben/atesiask-automation"
-          curl -s -L -I https://huggingface.co/spaces/benolanben/atesiask-automation
+          echo "Space tetikleniyor..."
+          curl -X POST https://benolanben-atesiask-automation.hf.space/api/predict \
+               -H "Content-Type: application/json" \
+               -d '{
+                 "data": [],
+                 "fn_index": 0 
+               }'
