@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Doğrulanabilir Yalanlar",
+      "id": 202605100123,
+      "category": "posts/seyirdefteri/202605100123"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •6",
       "id": 202605082150,
       "category": "posts/seyirdefteri/202605082150"
@@ -59,11 +64,6 @@
       },
       "id": 202605042044,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Gayb~olan Gölge •1",
-      "id": 202605022314,
-      "category": "posts/seyirdefteri/202605022314"
     }
   ]
 }
