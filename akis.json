@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "\"Ney-i bezm-i gamem ey mâh ne bulsan yele ver\nOda yanmış kuru cismimde hevâdan gayrı\" \n\n(Fuzûlî'den)",
+      "id": 202605101826,
+      "category": "kelamikibar"
+    },
+    {
       "text": "Doğrulanabilir Yalanlar",
       "id": 202605100123,
       "category": "posts/seyirdefteri/202605100123"
@@ -54,16 +59,6 @@
       "text": "Celâl~de~yüzüm",
       "id": 202605052128,
       "category": "posts/seyirdefteri/202605052128"
-    },
-    {
-      "text": {
-        "sira_no": 1537,
-        "parca_adi": "Kabul",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/gvh08wvkib0tdph/kabul.mp3"
-      },
-      "id": 202605042044,
-      "category": "kaynak/baska"
     }
   ]
 }
