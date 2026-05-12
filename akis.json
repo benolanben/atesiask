@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "BİN YOKMUŞ",
+      "id": 202605122342,
+      "category": "posts/seyirdefteri/202605122342"
+    },
+    {
       "text": "\"Ney-i bezm-i gamem ey mâh ne bulsan yele ver\nOda yanmış kuru cismimde hevâdan gayrı\" \n\n(Fuzûlî'den)",
       "id": 202605101826,
       "category": "kelamikibar"
@@ -54,11 +59,6 @@
       "text": "Sen~i~çık~ar~a~dan",
       "id": 202605052139,
       "category": "posts/seyirdefteri/202605052139"
-    },
-    {
-      "text": "Celâl~de~yüzüm",
-      "id": 202605052128,
-      "category": "posts/seyirdefteri/202605052128"
     }
   ]
 }
