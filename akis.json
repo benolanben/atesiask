@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1540,
+        "parca_adi": "Zeytin ekmek",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/oka1sh9d1ddsv5d/zeytinekmek.mp3"
+      },
+      "id": 202605131112,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "BİN YOKMUŞ",
       "id": 202605122342,
       "category": "posts/seyirdefteri/202605122342"
@@ -54,11 +64,6 @@
       "text": "Gayba İman ya da Belirsizlik",
       "id": 202605052143,
       "category": "posts/seyirdefteri/202605052143"
-    },
-    {
-      "text": "Sen~i~çık~ar~a~dan",
-      "id": 202605052139,
-      "category": "posts/seyirdefteri/202605052139"
     }
   ]
 }
