@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605151915,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605151915-1778861742594.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Çocuk Sevinci"
+          ],
+          "title": "Sabah neşesi: Çocuk Sevinci",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605151911,
       "is_protected": false,
       "article": {
