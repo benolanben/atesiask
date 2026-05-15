@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ben~i~sen diye çağır",
+      "id": 202605151909,
+      "category": "posts/seyirdefteri/202605151909"
+    },
+    {
       "text": {
         "sira_no": 1541,
         "parca_adi": "Âşığım kemâlime",
@@ -64,11 +69,6 @@
       "text": "Allah, seninledir",
       "id": 202605052210,
       "category": "posts/seyirdefteri/202605052210"
-    },
-    {
-      "text": "Alçağa akar sular",
-      "id": 202605052159,
-      "category": "posts/seyirdefteri/202605052159"
     }
   ]
 }
