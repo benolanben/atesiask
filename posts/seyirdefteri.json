@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605151918,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605151918-1778861929857.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "eşyanın hakikati"
+          ],
+          "title": "Ezber Bozan",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605151915,
       "is_protected": true,
       "article": {
