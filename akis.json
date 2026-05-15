@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Karanlıktaki Hırsızlık",
+      "id": 202605151911,
+      "category": "posts/seyirdefteri/202605151911"
+    },
+    {
       "text": "Ben~i~sen diye çağır",
       "id": 202605151909,
       "category": "posts/seyirdefteri/202605151909"
@@ -64,11 +69,6 @@
       },
       "id": 202605071014,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Allah, seninledir",
-      "id": 202605052210,
-      "category": "posts/seyirdefteri/202605052210"
     }
   ]
 }
