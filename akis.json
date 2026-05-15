@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ezber Bozan",
+      "id": 202605151918,
+      "category": "posts/seyirdefteri/202605151918"
+    },
+    {
       "text": "Sabah neşesi: Çocuk Sevinci",
       "id": 202605151915,
       "category": "posts/seyirdefteri/202605151915"
@@ -54,16 +59,6 @@
       "text": "Yedi Dur~ak Risâlesi •6",
       "id": 202605082150,
       "category": "posts/seyirdefteri/202605082150"
-    },
-    {
-      "text": {
-        "sira_no": 1539,
-        "parca_adi": "Hayretteyim",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/94xry884aut2avh/hayretteyim.mp3"
-      },
-      "id": 202605071350,
-      "category": "kaynak/baska"
     }
   ]
 }
