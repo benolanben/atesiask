@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sabah neşesi: Çocuk Sevinci",
+      "id": 202605151915,
+      "category": "posts/seyirdefteri/202605151915"
+    },
+    {
       "text": "Karanlıktaki Hırsızlık",
       "id": 202605151911,
       "category": "posts/seyirdefteri/202605151911"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/94xry884aut2avh/hayretteyim.mp3"
       },
       "id": 202605071350,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1538,
-        "parca_adi": "Ayna kendini gözler",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/fbhni4qjwxjytbu/kendinigozler.mp3"
-      },
-      "id": 202605071014,
       "category": "kaynak/baska"
     }
   ]
