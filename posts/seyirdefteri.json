@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202605151911,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605151911-1778861482546.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "beka",
+            "fena",
+            "karanlık",
+            "perde",
+            "yüz"
+          ],
+          "title": "Karanlıktaki Hırsızlık",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605151909,
       "is_protected": false,
       "article": {
