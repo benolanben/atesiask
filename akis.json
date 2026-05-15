@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1541,
+        "parca_adi": "Âşığım kemâlime",
+        "seslendiren": "T. Rinesi",
+        "url": "https://www.mediafire.com/file/d7z0c1it06pn90m/kemalime.mp3"
+      },
+      "id": 202605151207,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1540,
         "parca_adi": "Zeytin ekmek",
         "seslendiren": "A. Kadrî",
@@ -59,11 +69,6 @@
       "text": "Alçağa akar sular",
       "id": 202605052159,
       "category": "posts/seyirdefteri/202605052159"
-    },
-    {
-      "text": "Gayba İman ya da Belirsizlik",
-      "id": 202605052143,
-      "category": "posts/seyirdefteri/202605052143"
     }
   ]
 }
