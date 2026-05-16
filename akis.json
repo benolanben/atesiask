@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1542,
+        "parca_adi": "Bir ismi",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/hob1x8h6enr63un/birismi22.mp3"
+      },
+      "id": 202605161401,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Ezber Bozan",
       "id": 202605151918,
       "category": "posts/seyirdefteri/202605151918"
@@ -54,11 +64,6 @@
       "text": "Doğrulanabilir Yalanlar",
       "id": 202605100123,
       "category": "posts/seyirdefteri/202605100123"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •6",
-      "id": 202605082150,
-      "category": "posts/seyirdefteri/202605082150"
     }
   ]
 }
