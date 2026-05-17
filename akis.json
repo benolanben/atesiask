@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1543,
+        "parca_adi": "Bî~nevâdan nevâ",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/8rzoabcul0s67ao/nevadan.mp3"
+      },
+      "id": 202605171432,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1542,
         "parca_adi": "Bir ismi",
         "seslendiren": "C. Asitanesi",
@@ -59,11 +69,6 @@
       "text": "\"Ney-i bezm-i gamem ey mâh ne bulsan yele ver\nOda yanmış kuru cismimde hevâdan gayrı\" \n\n(Fuzûlî'den)",
       "id": 202605101826,
       "category": "kelamikibar"
-    },
-    {
-      "text": "Doğrulanabilir Yalanlar",
-      "id": 202605100123,
-      "category": "posts/seyirdefteri/202605100123"
     }
   ]
 }
