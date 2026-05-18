@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1544,
+        "parca_adi": "Bu fânide kimse kalmaz",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/rpov3h7x2srd1x5/ddolp.mp3"
+      },
+      "id": 202605182203,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1543,
         "parca_adi": "Bî~nevâdan nevâ",
         "seslendiren": "A. Aşk",
@@ -64,11 +74,6 @@
       "text": "BİN YOKMUŞ",
       "id": 202605122342,
       "category": "posts/seyirdefteri/202605122342"
-    },
-    {
-      "text": "\"Ney-i bezm-i gamem ey mâh ne bulsan yele ver\nOda yanmış kuru cismimde hevâdan gayrı\" \n\n(Fuzûlî'den)",
-      "id": 202605101826,
-      "category": "kelamikibar"
     }
   ]
 }
