@@ -28124,59 +28124,45 @@
         },
         {
             "id": 202605182246,
-            "dataMid": "4294980629",
             "vakit": "18.05.2026 15:52:26",
-            "kimden": null,
-            "icerik": "[BİZİ DİNLİYORUM] Her şeyin yazılı olduğu kitabı buldun Tefeul için rasgele bir sayfa açtık ve okudum: Dilediğin gibi olsun Yazıyordu. Şurası kesin... Bu bədənin Bu isimde toplanan hikayenin Bir gün sahneden çekildiğini Sen de görəcəksin Şimdi o sayfadayiz Kendine samimi ol Söyler misin Ne yaparken öldüğünü görüyorsun kendinin? Son nəfəsinde hangi sahnedesin? Amin",
-            "medyaDosyasi": "202605182184-4294980629.jpg"
+            "text": "[BİZİ DİNLİYORUM] Her şeyin yazılı olduğu kitabı buldun Tefeul için rasgele bir sayfa açtık ve okudum: Dilediğin gibi olsun Yazıyordu. Şurası kesin... Bu bədənin Bu isimde toplanan hikayenin Bir gün sahneden çekildiğini Sen de görəcəksin Şimdi o sayfadayiz Kendine samimi ol Söyler misin Ne yaparken öldüğünü görüyorsun kendinin? Son nəfəsinde hangi sahnedesin? Amin",
+            "medya": "202605182184-4294980629.jpg"
         },
         {
             "id": 202605182237,
-            "dataMid": "4294980638",
             "vakit": "18.05.2026 16:30:01",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "beni sevenler denizi geçmek için denizde boğularak ölmesinler meğer ben~denize gark...",
-            "medyaDosyasi": null
+            "text": "beni sevenler denizi geçmek için denizde boğularak ölmesinler meğer ben~denize gark...",
+            "medya": null
         },
         {
             "id": 202605182230,
-            "dataMid": "4294980645",
             "vakit": "18.05.2026 17:27:30",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "Ölen hep başkalarıdır.... İzlersin bir başkasını",
-            "medyaDosyasi": null
+            "text": "Ölen hep başkalarıdır.... İzlersin bir başkasını",
+            "medya": null
         },
         {
             "id": 202605182224,
-            "dataMid": "4294980653",
             "vakit": "18.05.2026 18:45:54",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "Hani bedenin görünme gününde bir dilek tutup üflenir ya muma, bedenden ruh öpücüğü geçmez olunca da... mumdaki alev çekilir içine, tersine üfleme mi ne... iyi de nerde o alev mum yanmazdan önce nerdeyse yine orda... gece rüyasına dönüyor gündüz rüyasını izleyen... evet evet bana öyle gelmiş..",
-            "medyaDosyasi": null
+            "text": "Hani bedenin görünme gününde bir dilek tutup üflenir ya muma, bedenden ruh öpücüğü geçmez olunca da... mumdaki alev çekilir içine, tersine üfleme mi ne... iyi de nerde o alev mum yanmazdan önce nerdeyse yine orda... gece rüyasına dönüyor gündüz rüyasını izleyen... evet evet bana öyle gelmiş..",
+            "medya": null
         },
         {
             "id": 202605182221,
-            "dataMid": "4294980656",
             "vakit": "18.05.2026 21:30:52",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "Hazır film şeridi akıyorken bir de son dilek son dua hakkı alalım Ölüm gibi bir şey olurken İşte bir nəfəslik bir dua: Kendimizi olduğumuz gibi kabul edelim ve bilmediklerimiz için kendimizi bağışlayalım. Amin.",
-            "medyaDosyasi": null
+            "text": "Hazır film şeridi akıyorken bir de son dilek son dua hakkı alalım Ölüm gibi bir şey olurken İşte bir nəfəslik bir dua: Kendimizi olduğumuz gibi kabul edelim ve bilmediklerimiz için kendimizi bağışlayalım. Amin.",
+            "medya": null
         },
         {
             "id": 202605182219,
-            "dataMid": "4294980658",
             "vakit": "18.05.2026 21:34:34",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "Sen özgürsün ve özgürlüğün, zihnin bir varlığı olmamasıdır... Hatta vücudun bile bir varlığı yoktur!",
-            "medyaDosyasi": null
+            "text": "Sen özgürsün ve özgürlüğün, zihnin bir varlığı olmamasıdır... Hatta vücudun bile bir varlığı yoktur!",
+            "medya": null
         },
         {
             "id": 202605182215,
-            "dataMid": "4294980662",
             "vakit": "18.05.2026 22:14:07",
-            "kimden": "B•B @benolanben𐑂•𐐪",
-            "icerik": "\"Bu fânide kimse kalmaz...\" \nOlmazsa olmaz olandan bir selam selam kalsın \n\n https://benolanben.com/dinle/baska&1544",
-            "medyaDosyasi": null
+            "text": "\"Bu fânide kimse kalmaz...\" \nOlmazsa olmaz olandan bir selam selam kalsın \n\n https://benolanben.com/dinle/baska&1544",
+            "medya": null
         }
     ]
 }
