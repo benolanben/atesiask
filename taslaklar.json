@@ -1,6 +1,73 @@
 {
   "isaretler": [
     {
+      "id": 1779389682492,
+      "title": "Deryâ-yı Hayret'e Dalmak",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1779389682492,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-05-21T17:08:49.235Z",
+        "created_at": "2026-05-21T17:08:49.235Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605212205-1779390312468.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "Tayutau",
+              "shukyaku ichinyo"
+            ],
+            "title": "Deryâ-yı Hayret'e Dalmak",
+            "subtitle": "",
+            "show_background_image": true
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "video",
+                "text": "",
+                "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605212154.mp4?download=true"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Kuşlar çoktan eridi göğün mavisinde<br>Şimdi son bulut da akıp gidiyor işte...<br>Dağ ve ben<br>Sessizce oturuyoruz öyle;<br>…<br>Yalnızca dağ kalana dek<br>Tam eğlence...<br></p>",
+                "author": "[Li Poo'dan]"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~<br><br>Kendinden geçip boşluğa nazar etmek nâfile mi?<br>Bugün yine tâli‘im semâdan bir noktaya ilişti, saatlerce kaldım deryâ-yı hayret içre...<br><br>~</p>",
+                "author": "[A. H. Tanpınar'dan]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\"><strong>Peki sizin de boşluğa \"dalıp gitmenin\" zaman kaybı olduğunu düşündüğünüz oldu mu hiç?</strong></p><p class=\"mb-4\">İngilizce’de buna \"spacing out\" deniyor.<br>Yani zihni salıvermek<br>Hiçbir şey yapmamak<br>Boş boş durmak<br><br>Zaman kaybetmek mi?<br>Bilmem belki zamandan, âna dönmek</p><p class=\"mb-4\">Ama 1.300 yıl önce Japon canlar, buna başka bir isim vermişlerdi:<br><strong>揺<br>蕩<br>う</strong><br><strong>\"TAYUTAU\"<br></strong>— Suda salınma, dalgın süzülme</p><p class=\"mb-4\">Dalgalar ve bulutlar arasındaki o esrik boşluğa gark olma...</p><p class=\"mb-4\">Man’yōshū’da kendine bir şarkı bulmuştu; hem de en güzel yerinden, nakaratın hemen öncesindeki sessizlikten.</p><p class=\"mb-4\">Zihnin dinlenmeden çalışmaya devam ettiği saatler<br>— Sinirbilimin günümüzde “Varsayılan Mod Ağı” olarak adlandırdığı şey.</p><p class=\"mb-4\">Meditasyon değil.<br>Farkındalık değil.<br>Kontrol yok.<br>Hedef yok.<br>Aranacak bir cevap yok.</p><p class=\"mb-4\">Varsa yoksa<br>— Katıksız nazar.</p><p class=\"mb-4\">Bir nehrin teni, titreyen bir alev, süzülen bulutlar<br>— Bakan, bakmayı sürdürdükçe...<br>İzleyen ile izlenen arasındaki sınır<br>Öyle sessizce eriyip gider ki<br>Geriye ne bakan kalır ne bakılan;<br>Safâ nazar, mahzâ nûr var...</p><p class=\"mb-4\">Zen'de buna \"Shukyaku ichinyo\" denir<br>— Özne ile nesnenin ayrılmaz bütünlüğü.</p><p class=\"mb-4\">1.300 yıldır dünya dilimizin içinde soluyan sessiz bir bilgelik bu:<br>İşte bu Tayutau</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Ve son nefeste anlarsın ki bütün o bakış, sürükleniş, eriyiş aslında “ben” denen o sahte kimlik yazılımının bir \"sistem geri yükleme noktasına\" dönme çabasından başka bir şey değilmiş.</p><p class=\"mb-4\">Boşluğa dalıp gitmek mi?</p><p class=\"mb-4\">Hayır, asıl mesele boşluğun sana dalıp gitmesi.<br>Çünkü yeterince uzun bakarsan, baktığın şeyin sen~sandığın sınırı çoktan iptal ettiğini fark edersin.</p><p class=\"mb-4\">Ve o an, dağ, bulut, nehir, hepsi yerli yerinde;<br>Sadece “sen” denen o ısrarcı gölge,<br>Kendi silinişini seyrediyordur işte...</p><p class=\"mb-4\">Bu da aslında iyi bir haber:</p><p class=\"mb-4\"><strong>Yokluğun bu kadar şiirsel olabildiği bir evrende,<br>Var olmaya çalışmak biraz da kabalık sayılmaz mı?</strong></p><p class=\"mb-4\">🕳️</p>"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Uzun süre<br>Uçuruma<br>Boşluğa bakarsanız<br>Boşluk da size bakar<br>Kendinizi bulamazsınız<br>...<br>Eğer mikdârı olmayan şeylere bakarsan<br>Kaybolursun yok olursun.<br>...<br>Kimseler bunu çekip kendine alamaz<br>Boşlukla dolamaz...<br></p>",
+                "author": "[YÜZ SÖZ'den]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Mâdem bu kadar zekisin, neden hayranlıktan sessizliğe gömülmrdin a güzel?</p><p class=\"mb-4\"><br>Hoş bu topraklarda<br>\"Aşk elinden avâreyim\"<br>Diye ünleyen,<br>Çoktan duymuş<br>Duyurmuş~durur baş~ı-boş espiriyi...</p>"
+              },
+              {
+                "type": "ses",
+                "text": "",
+                "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605212205-1779390314182.jpg",
+                "url": "https://benolanben.com/dinle/baska&1162"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-05-21T18:54:42.492Z",
+      "updated_at": "2026-05-21T19:02:23.402Z",
+      "is_protected": false
+    },
+    {
       "id": 1779389253240,
       "title": "Yükün Konamadığı Boşluk",
       "category": "seyirdefteri",
