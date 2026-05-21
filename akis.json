@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1545,
+        "parca_adi": "Gafil gezme şaşkın",
+        "seslendiren": "E. Altınses",
+        "url": "https://www.mediafire.com/file/6en849txksfto7u/gafilgezme.mp3"
+      },
+      "id": 202605211328,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "EZANA MUKÂBELE\n\nAllahu ekber Allahu ekber\n(Allahu ekber Allahu ekber)\n\nAllahu ekber Allahu ekber\n(Allahu ekber Allahu ek...",
       "id": 202605191441,
       "category": "varliginsevinci"
@@ -59,16 +69,6 @@
       "text": "Ben~i~sen diye çağır",
       "id": 202605151909,
       "category": "posts/seyirdefteri/202605151909"
-    },
-    {
-      "text": {
-        "sira_no": 1541,
-        "parca_adi": "Âşığım kemâlime",
-        "seslendiren": "T. Rinesi",
-        "url": "https://www.mediafire.com/file/d7z0c1it06pn90m/kemalime.mp3"
-      },
-      "id": 202605151207,
-      "category": "kaynak/baska"
     }
   ]
 }
