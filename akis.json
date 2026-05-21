@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1546,
+        "parca_adi": "Ta'n eyleme",
+        "seslendiren": "C. Karademir",
+        "url": "https://www.mediafire.com/file/go61j7dgk49uc5q/taneyleme.mp3"
+      },
+      "id": 202605211348,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1545,
         "parca_adi": "Gafil gezme şaşkın",
         "seslendiren": "E. Altınses",
@@ -64,11 +74,6 @@
       "text": "Karanlıktaki Hırsızlık",
       "id": 202605151911,
       "category": "posts/seyirdefteri/202605151911"
-    },
-    {
-      "text": "Ben~i~sen diye çağır",
-      "id": 202605151909,
-      "category": "posts/seyirdefteri/202605151909"
     }
   ]
 }
