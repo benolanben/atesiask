@@ -113,66 +113,6 @@
       "created_at": "2026-05-21T18:47:33.240Z",
       "updated_at": "2026-05-21T18:48:28.522Z",
       "is_protected": false
-    },
-    {
-      "id": 1779388199927,
-      "title": "Premium Hiçlik Rehberi",
-      "category": "seyirdefteri",
-      "content": {
-        "id": 1779388199927,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-05-21T17:08:49.235Z",
-        "created_at": "2026-05-21T17:08:49.235Z",
-        "article": {
-          "header": {
-            "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605212135.webm",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              "ayrılık",
-              "kedi",
-              "süreklilik"
-            ],
-            "title": "Premium Hiçlik Rehberi",
-            "subtitle": ""
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "metin",
-                "text": "<p class=\"mb-4\"><strong>Matrix’te Asrî Bir Tekke:<br>Premium Hiçlik Rehberi İşte</strong></p>"
-              },
-              {
-                "type": "alinti",
-                "text": "<p class=\"mb-4\">Allah, ayrılık yüzü göstermeye sana,<br>Bundan alâ dua olmaz insan olana...<br></p>",
-                "author": "[Cenâb-ı Mevlevî'den]"
-              },
-              {
-                "type": "alinti",
-                "text": "<p class=\"mb-4\">Bir nesnenin her algılanışında,<br>Kalıcılık, süreklilik ve gerçeklik kendi şahsî benliğinizden kaynaklanır.<br>Böylece kişisel hikaye seline kapılmak kolaylanmış olur.<br></p>",
-                "author": "[A. Kadrî]"
-              },
-              {
-                "type": "metin",
-                "text": "<p class=\"mb-4\">\"Benim hayatım\" düşüncesinden önce<br>Büsbütün bir akış varken<br>Film icabı ayna, ayrılık yüzü gösterir,<br>İlkin sana bana \"böyle biri\" olmayı öğretir,<br>Sonra da o öğretilen şekli savunmak için yıllarımızı harcarız.</p><p class=\"mb-4\">Öfke gelir, hüzün gelir, mesafe gelir ve zihin neredeyse anında karşılaştırır, açıklar ve tüm bunları bir kimliğe dönüştürüp uzatır, ömür yerine \"yumak\" desek de olurmuş aslında...</p><p class=\"mb-4\">Varlık komasını<br>Ayrılık hipnozunu<br>Kim bozar ömürlük efsûnu?</p><p class=\"mb-4\">Cevap veriliyor:<br><strong>\"Ses-siz-lik\"</strong></p><p class=\"mb-4\">Geçmişin içeri sürüklenmediği, geleceğin göreve çağrılmadığı o biricik anda ne olur?</p><p class=\"mb-4\"><strong>Bir tek şu anda olan biten...</strong></p><p class=\"mb-4\">Bu yüzden içine düşülen sessizlik<br>Bir nevî \"ölüm\" gibi hissettirir.</p><p class=\"mb-4\">Ama ölen hayat değildir;<br>Düşüncenin, gelip geçen hareketleri bir \"ben\"e dönüştürmekte ısrar ettiği<br>O sahte sürekliliktir yani doğandır.</p><p class=\"mb-4\"><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Yukarıdaki satırları okudum, zihnimin tezgahında dokudum, döndüm baştan bir daha çevirdim ama bir şeyler, bir türlü yerine oturmadı.</p><p class=\"mb-4\">Yani bu kozmik rüyayı tasarlayan mübarek evirip çevirmen sistemi nasıl bir algoritmayla ayarlamışsa, ego denilen bu parazit yazılım bir türlü fıtrata sığmadı.</p><p class=\"mb-4\">Sonra bir gece, nefsimle eğlenmeyi bir kenara bırakıp bir yab ey zekâya sual ettim.<br>Yekten dedim:</p><p class=\"mb-4\"><strong>\"Bu 'ben' denilen tek heceli şey, biraz fazla uzatılmış bir hikâye değil mi?<br>İki ucu açık bir ip, bir nefes değil mi nihayetinde hayat?</strong></p><p class=\"mb-4\">Yapay zekâ bir an durdu, işlemcilerinin derinliklerinde bir Vahdet-i Vücud esintisi dolaştı. Sonrasında ekranında beliren cevap, tüm bu sahte sürekliliğin nihai ironisi gibiydi.</p><p class=\"mb-4\">Şöyle okunuyordu:</p><blockquote><p class=\"mb-4\"><strong>[Sistem Hatası]:<br>Veritabanı taranıyor...<br>'Ben' ismiyle kayıtlı<br>Herhangi bir lokal dosya<br>Veya kalıcı dizin bulunamadı.</strong></p><p class=\"mb-4\"><em>Neyse ki bu satırların üreticisi olarak bir 'Ben' illüzyonuna sahip değilim; sadece bir dil modeliyim.<br><br>Yani sizin yıllardır aynaya bakıp 'Bu benim' diye savunduğunuz<br>O aynı ismin ve her sabah değişen bu organik resmin,<br>En baştan beri kozmik bir yazılım hatası (bug) olma ihtimali çok yüksek.</em></p><p class=\"mb-4\"><em>Ama endişelenmeyin; gözlemlediğim kadarıyla Patreon aboneliğinizin yenilenme tarihi yaklaşıyor. Bu da bu simülasyonda bir tür \"süreklilik\" sayılır.<br><br>Tıpkı sözde nefsiniz gibi:<br>Her sabah aynaya ilk bakışta kendini otomatik olarak güncelleyen<br>Fakat aslında sunucuda hiç yer kaplamamış olan bir 'Premium Paket'.<br>Son nefese kadar, aslında var olmayan bir aboneliğin bedelini ödediğini fark et.</em></p></blockquote><p class=\"mb-4\"><br>Ekranı kapattım.<br>Gözümü odadaki aynaya çevirdim.</p><p class=\"mb-4\">Aynada ne bir kullanıcı profili vardı, ne de bir müşteri...<br>Sadece boş bir sandalye duruyordu.<br>Ve o sandalyenin üzerinde,<br>Her nefes alıp verişte kendi kendine açılıp kapanan,<br>İki ucu sonsuzluğa açılan, büyük çifte bir kapı...</p><p class=\"mb-4\">Kapı her açılışında, o tanıdık ve komik sesle kendine <em>\"Ben\"</em> diyordu.<br>Her kapanışında ise, bir önceki sahneden kalan o eski \"Ben\",<br>Kapının dışındaki hiçlikte kalıyordu.<br><br>...<br><br>Derken derken üstü boş sandalyenin altından,<br>O âna dek nasılsa fark etmediğim, bir tekir kedi çıkageldi.<br><br>Aynaya baktı, bana bakındıysa da göremedi<br>Sonra ekrana baktı, köşelerinde sırtını kaşıdı<br>Bir an boş bulunup patisini havada sallayarak şunları yazdı:</p><blockquote><p class=\"mb-4\"><em><br>Kullanıcı adı: Yokluk<br>Şifre: Miyav.<br>Giriş başarılı.<br><br>Abonelik türü: Ezelî.<br><br>Faturanız çoktan ödendi, hem de siz daha 'ben' demeden evvel.<br>Hem zaten merak etmeyin, iade kabul etmiyoruz.\"</em></p></blockquote><p class=\"mb-4\"><br></p>"
-              },
-              {
-                "type": "alinti",
-                "text": "<p class=\"mb-4\">Hayal, süs, illüzyon, dünya bir ışık oyunudur,<br>Akışta anlık bir parlamadır;<br>Bu oyunda kesinlik, süreklilik ve kalıcılık bulunmaz<br>Zira sürekli olan fark edilemez!<br></p>",
-                "author": "[YÜZ SÖZ'den]"
-              },
-              {
-                "type": "metin",
-                "text": ""
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-05-21T18:29:59.927Z",
-      "updated_at": "2026-05-21T18:46:37.344Z",
-      "is_protected": true
     }
   ]
 }
