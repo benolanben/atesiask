@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202605212027,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Sırr-ı Mûtenâ",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202605151918,
       "is_protected": false,
       "article": {
