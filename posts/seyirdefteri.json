@@ -1,6 +1,30 @@
 {
   "isaretler": [
     {
+      "id": 202605212229,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Bernardo Kastrup",
+            "Richard Dawkins",
+            "Swami",
+            "astavakra gita",
+            "beden-zihin",
+            "sarvapriyananda",
+            "tanık"
+          ],
+          "title": "Gerçekten gerçeğe doğru bir adım",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202605212040,
       "is_protected": false,
       "article": {
