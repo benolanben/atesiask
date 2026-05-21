@@ -1,6 +1,53 @@
 {
   "isaretler": [
     {
+      "id": 1779389253240,
+      "title": "Yükün Konamadığı Boşluk",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1779389253240,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-05-21T17:08:49.235Z",
+        "created_at": "2026-05-21T17:08:49.235Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605212148-1779389319440.png",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "an",
+              "inşirah",
+              "zaman"
+            ],
+            "title": "Yükün Konamadığı Boşluk",
+            "subtitle": ""
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Şerh etmedik mi senin içün bağrını?<br>Ve indirmedik mi senden o bârını<br>~<br><em>E lem neşrâh leke sadrak<br>Ve veda’nâ ‘anke vizrak</em><br>~<br>Dar~alanın genişliğini hatırlatmadık mı?<br>Belini büküp seni inleten yükü indirmedik mi?<br></p>",
+                "author": "[İnşirâh:1-2'den]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">Senin benim belimiz kıran yük,<br>Yalın hâliyle \"anda olan\" değildir öyle,<br>Belki zamanda yüklenen...</p><p class=\"mb-4\"><strong>Yani ân, ağır değildir.</strong></p><p class=\"mb-4\">Onu ağırlaştıran, olanın hemen ardından zamlı olarak gelen ve kendini merkeze yerleştiren zihinden bir yorumdur.</p><p class=\"mb-4\">Bir ses olur.<br>Bir bakış konar.<br>Bir boşluk açılır.</p><p class=\"mb-4\">Sonra ikinci katman belirir:</p><p class=\"mb-4\">Bunlar neden hep benim başıma geliyor?<br>Bunun benim için anlamı ne?<br>Bu hikâyede ben neredeyim?<br>Şimdi neyi savunmalıyım?<br>Bu durum imajımı nasıl etkiler?</p><p class=\"mb-4\">İşte belimizi büken, göğsümüzü daraltan o bâr (yük), tam olarak bu soruların yarattığı devasa ağırlıktır.</p><p class=\"mb-4\">Prova üstüne provayla zihin, bu ikinci katmanda o kadar ustalaşmıştır ki kendi inanç tuğlalarıyla ördüğü hapishaneye \"hayatın gerçekleri\" adını verir, ona inanan da kendini, hayatla derinlemesine hemhâl olmuş bir varlık sanır.</p><p class=\"mb-4\">Oysa bu, kendine “anlayış” kostümü giydirmiş mesafeden başka bir şey değildir.</p><p class=\"mb-4\">Yanlış falan da değildir üstelik.<br>Yalnızca olay mahalline geç kalmıştır.<br>Ve geç kaldığı için, ancak sonuçların dilinden konuşabilir.</p><p class=\"mb-4\">Oysa ilk katmanda sonuç yoktur.<br>Yalnızca doğrudan temas vardır.</p><p class=\"mb-4\">Rahatlama, ferahlama, inşirâh, bu ayrımın hissedilmesiyle gelir.</p><p class=\"mb-4\">Ama zihinde bir kavram olarak değil, deneyimin tam da kişiselleştiği o ânın incecik bir dikiş izi gibi seçilmesiyle...</p><p class=\"mb-4\">Gerçeklik, üstüne serilen hikâyeden daha hafiftir.</p><p class=\"mb-4\">Gerçeğin üstüne serilen örtünün bir \"bindirme\" olduğu fark edildiğinde, kendiliğinden incelir.</p><p class=\"mb-4\">Ve örtü inceldiğinde dünya ne yok olur ne boş; dünya yalınlaşır.</p><p class=\"mb-4\">Ağaç ağaçtır.<br>Sessizlik, sessizlik<br>Nefes yalnızca nefes</p><p class=\"mb-4\">Ağaç sadece ağaç olduğunda, zihnin ona yüklediği anlamların, hatıraların veya gelecekte odun olma ihtimalinin ağırlığından kurtulur.<br><br>Nefes sadece nefes olduğunda, yaşam kolaylaşır...<br><br><strong>••<br>••<br>•</strong></p><p class=\"mb-4\">Nefes yalnızca nefes<br>Hareketi uzatmayı kes!</p><p class=\"mb-4\"><em>Sükûnet en başından beri buradaydı zâten...</em></p>"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\"><strong>Yüklediğimiz anlamın acısını çekeriz, gerçeğin değil!<br></strong></p>",
+                "author": "[YÜZ SÖZ'den]"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-05-21T18:47:33.240Z",
+      "updated_at": "2026-05-21T18:48:28.522Z",
+      "is_protected": false
+    },
+    {
       "id": 1779388199927,
       "title": "Premium Hiçlik Rehberi",
       "category": "seyirdefteri",
