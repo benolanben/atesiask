@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sırr-ı Mûtenâ",
+      "id": 202605212027,
+      "category": "posts/seyirdefteri/202605212027"
+    },
+    {
       "text": {
         "sira_no": 1547,
         "parca_adi": "Serabı su sanıp",
@@ -74,11 +79,6 @@
       "text": "Ezber Bozan",
       "id": 202605151918,
       "category": "posts/seyirdefteri/202605151918"
-    },
-    {
-      "text": "Sabah neşesi: Çocuk Sevinci",
-      "id": 202605151915,
-      "category": "posts/seyirdefteri/202605151915"
     }
   ]
 }
