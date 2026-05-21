@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gayb~olan Gölge •2",
+      "id": 202605212040,
+      "category": "posts/seyirdefteri/202605212040"
+    },
+    {
       "text": "Oyunda Ciddi Olamazsın",
       "id": 202605212032,
       "category": "posts/seyirdefteri/202605212032"
@@ -68,16 +73,6 @@
         "url": "https://www.mediafire.com/file/8rzoabcul0s67ao/nevadan.mp3"
       },
       "id": 202605171432,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1542,
-        "parca_adi": "Bir ismi",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/hob1x8h6enr63un/birismi22.mp3"
-      },
-      "id": 202605161401,
       "category": "kaynak/baska"
     }
   ]
