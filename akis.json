@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gerçekten gerçeğe doğru bir adım",
+      "id": 202605212229,
+      "category": "posts/seyirdefteri/202605212229"
+    },
+    {
       "text": "Gayb~olan Gölge •2",
       "id": 202605212040,
       "category": "posts/seyirdefteri/202605212040"
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/rpov3h7x2srd1x5/ddolp.mp3"
       },
       "id": 202605182203,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1543,
-        "parca_adi": "Bî~nevâdan nevâ",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/8rzoabcul0s67ao/nevadan.mp3"
-      },
-      "id": 202605171432,
       "category": "kaynak/baska"
     }
   ]
