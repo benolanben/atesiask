@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Oyunda Ciddi Olamazsın",
+      "id": 202605212032,
+      "category": "posts/seyirdefteri/202605212032"
+    },
+    {
       "text": "Sırr-ı Mûtenâ",
       "id": 202605212027,
       "category": "posts/seyirdefteri/202605212027"
@@ -74,11 +79,6 @@
       },
       "id": 202605161401,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Ezber Bozan",
-      "id": 202605151918,
-      "category": "posts/seyirdefteri/202605151918"
     }
   ]
 }
