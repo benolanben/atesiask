@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1548,
+        "parca_adi": "İlla vechehû",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/myeo1zf7l17wfqn/illaveche.mp3"
+      },
+      "id": 202605220940,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Deryâ-yı Hayret'e Dalmak",
       "id": 202605212323,
       "category": "posts/seyirdefteri/202605212323"
@@ -53,16 +63,6 @@
         "url": "https://www.mediafire.com/file/go61j7dgk49uc5q/taneyleme.mp3"
       },
       "id": 202605211348,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1545,
-        "parca_adi": "Gafil gezme şaşkın",
-        "seslendiren": "E. Altınses",
-        "url": "https://www.mediafire.com/file/6en849txksfto7u/gafilgezme.mp3"
-      },
-      "id": 202605211328,
       "category": "kaynak/baska"
     }
   ]
