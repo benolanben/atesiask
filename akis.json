@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1549,
+        "parca_adi": "Nühüft Mukabele'den",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/4mutkdjqshzk1cc/nuhufta2.mp3"
+      },
+      "id": 202605231153,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1548,
         "parca_adi": "İlla vechehû",
         "seslendiren": "A. Kadrî",
@@ -53,16 +63,6 @@
         "url": "https://www.mediafire.com/file/s4bugmrfcogblil/niyaziden.mp3"
       },
       "id": 202605211447,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1546,
-        "parca_adi": "Ta'n eyleme",
-        "seslendiren": "C. Karademir",
-        "url": "https://www.mediafire.com/file/go61j7dgk49uc5q/taneyleme.mp3"
-      },
-      "id": 202605211348,
       "category": "kaynak/baska"
     }
   ]
