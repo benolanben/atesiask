@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1550,
+        "parca_adi": "Ferahnâk Mukabele'den",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/ek5fdpfa6q7w8ik/ferahnaktan.mp3"
+      },
+      "id": 202605241542,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1549,
         "parca_adi": "Nühüft Mukabele'den",
         "seslendiren": "A. Aşk",
@@ -54,16 +64,6 @@
       "text": "Sırr-ı Mûtenâ",
       "id": 202605212027,
       "category": "posts/seyirdefteri/202605212027"
-    },
-    {
-      "text": {
-        "sira_no": 1547,
-        "parca_adi": "Serabı su sanıp",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/s4bugmrfcogblil/niyaziden.mp3"
-      },
-      "id": 202605211447,
-      "category": "kaynak/baska"
     }
   ]
 }
