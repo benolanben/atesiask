@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Boşluğun Doğasına Dâir",
+      "id": 202605252053,
+      "category": "posts/seyirdefteri/202605252053"
+    },
+    {
       "text": {
         "sira_no": 1550,
         "parca_adi": "Ferahnâk Mukabele'den",
@@ -59,11 +64,6 @@
       "text": "Oyunda Ciddi Olamazsın",
       "id": 202605212032,
       "category": "posts/seyirdefteri/202605212032"
-    },
-    {
-      "text": "Sırr-ı Mûtenâ",
-      "id": 202605212027,
-      "category": "posts/seyirdefteri/202605212027"
     }
   ]
 }
