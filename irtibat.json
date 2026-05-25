@@ -1,15 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 1779721088689,
-      "name": "test",
-      "email": "testtttt@gg.com.tr",
-      "message": "öneri\n\n--- Teknik Bilgiler ---\nPlatform: web\nModel: chrome\nOS: Bilinmiyor\nUygulama Versiyonu: 1.1.19 (1)\nCihaz UID: 9569770d-58df-42cd-9b1b-92e9fcedfffe",
-      "reason": "Parça Önerisi",
-      "is_read": 0,
-      "created_at": "2026-05-25T14:58:08.689Z"
-    },
-    {
       "id": 1779705085559,
       "name": "a",
       "email": "kirimtayuztugba@gmail.com",
