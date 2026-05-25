@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605252058,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605252058-1779731921959.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Yeniden Dil Zevkimiz",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605252057,
       "is_protected": false,
       "article": {
