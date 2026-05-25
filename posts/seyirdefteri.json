@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605252055,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605252055-1779731732166.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "BAŞKA BİR YER İhtiyâcı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605252053,
       "is_protected": false,
       "article": {
