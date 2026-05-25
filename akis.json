@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İllallah zevki",
+      "id": 202605252107,
+      "category": "posts/seyirdefteri/202605252107"
+    },
+    {
       "text": "Yeniden Dil Zevkimiz",
       "id": 202605252058,
       "category": "posts/seyirdefteri/202605252058"
@@ -59,11 +64,6 @@
       "text": "Yükün Konamadığı Boşluk",
       "id": 202605212253,
       "category": "posts/seyirdefteri/202605212253"
-    },
-    {
-      "text": "Premium Hiçlik Rehberi",
-      "id": 202605212251,
-      "category": "posts/seyirdefteri/202605212251"
     }
   ]
 }
