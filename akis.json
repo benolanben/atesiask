@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "BAŞKA BİR YER İhtiyâcı",
+      "id": 202605252055,
+      "category": "posts/seyirdefteri/202605252055"
+    },
+    {
       "text": "Boşluğun Doğasına Dâir",
       "id": 202605252053,
       "category": "posts/seyirdefteri/202605252053"
@@ -59,11 +64,6 @@
       "text": "Gayb~olan Gölge •2",
       "id": 202605212040,
       "category": "posts/seyirdefteri/202605212040"
-    },
-    {
-      "text": "Oyunda Ciddi Olamazsın",
-      "id": 202605212032,
-      "category": "posts/seyirdefteri/202605212032"
     }
   ]
 }
