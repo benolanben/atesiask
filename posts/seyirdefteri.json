@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202605252053,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605252053-1779731639650.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "boşluk",
+            "el-fakr u fenâ",
+            "sunyata"
+          ],
+          "title": "Boşluğun Doğasına Dâir",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605212323,
       "is_protected": false,
       "article": {
