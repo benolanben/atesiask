@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605252057,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605252057-1779731834355.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "teslimiyet"
+          ],
+          "title": "Şahsın zâten zâtına teslim",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605252055,
       "is_protected": false,
       "article": {
