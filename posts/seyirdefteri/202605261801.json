@@ -1,0 +1,50 @@
+{
+  "id": 202605261801,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-05-26T14:41:38.889Z",
+  "created_at": "2026-05-26T15:01:46.048Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "delilik"
+      ],
+      "title": "Deli Kızın Çeyizi Gibi",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Belirsiz şeyleri mantıkla kesin hale getirmeye çalışmak,<br>Akıl yoluyla delirmeye çalışmakla aynı çabadır...<br></p>",
+          "author": "[A. Einstein'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Benim öyküm hoş değil, uydurma öyküler gibi tatlı ve uyumlu değil; aptallık ve şaşkınlık, delilik ve hayal tadı taşıyor, tıpkı artık kendilerine yalan söylemek istemeyen tüm insanların hayatı gibi...<br></p>",
+          "author": "[H. Hesse'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Muhterem geçiciler,</p><p class=\"mb-4\">Ve muhabbetli n'oldum delisi gibiler,<br>Her şeye sahipsiniz, tek bir şey hariç:<br>\"DELİLİK\"<br><br>Oysa dünyaya bağlı her insanın, biraz deliliğe ihtiyacı vardır,<br>Yoksa son ipi kesip özgür olmaya cesaret edemez asla...</p><p class=\"mb-4\">Gülemeseydik hepimiz delirirdik...</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>Ko desinler sana deli divane, yürü git,<br>Ko ayruklar sözünü; sen seni güt...</em><br></p>",
+          "author": "[Y. Emre'den]"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605261756.mp4?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-05-26T15:01:46.048Z",
+  "is_protected": true
+}
