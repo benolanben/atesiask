@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202605261746,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605261744.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ciddiyet enerjisi",
+            "metafizik vecd"
+          ],
+          "title": "Arzulu Bir Söyleşi Kaydından",
+          "subtitle": "",
+          "show_background_image": true
+        }
+      }
+    }
+,
+    {
       "id": 202605252107,
       "is_protected": false,
       "article": {
