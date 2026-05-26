@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1551,
+        "parca_adi": "Bayram oldu",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/0e41ckyb2tmjft7/2akadr.mp3"
+      },
+      "id": 202605261351,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "İllallah zevki",
       "id": 202605252107,
       "category": "posts/seyirdefteri/202605252107"
@@ -59,11 +69,6 @@
       "text": "Deryâ-yı Hayret'e Dalmak",
       "id": 202605212323,
       "category": "posts/seyirdefteri/202605212323"
-    },
-    {
-      "text": "Yükün Konamadığı Boşluk",
-      "id": 202605212253,
-      "category": "posts/seyirdefteri/202605212253"
     }
   ]
 }
