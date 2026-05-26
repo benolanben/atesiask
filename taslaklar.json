@@ -1,3 +1,42 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1779807778935,
+      "title": "Bayram Çuklatı Niyetine",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1779807778935,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-05-26T14:41:38.889Z",
+        "created_at": "2026-05-26T14:41:38.889Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              "hoplayanlar",
+              "kurban"
+            ],
+            "title": "Bayram Çuklatı Niyetine",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "video",
+                "text": "",
+                "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605261813.mp4?download=true"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-05-26T15:02:58.935Z",
+      "updated_at": "2026-05-26T15:30:23.757Z",
+      "is_protected": true
+    }
+  ]
 }
