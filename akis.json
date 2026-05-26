@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hareket-siz kalınca n'olur",
+      "id": 202605261754,
+      "category": "posts/seyirdefteri/202605261754"
+    },
+    {
       "text": "Arzulu Bir Söyleşi Kaydından",
       "id": 202605261746,
       "category": "posts/seyirdefteri/202605261746"
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/4mutkdjqshzk1cc/nuhufta2.mp3"
       },
       "id": 202605231153,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1548,
-        "parca_adi": "İlla vechehû",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/myeo1zf7l17wfqn/illaveche.mp3"
-      },
-      "id": 202605220940,
       "category": "kaynak/baska"
     }
   ]
