@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202605261754,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605261755-1779807300217.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "hareketsiz"
+          ],
+          "title": "Hareket-siz kalınca n'olur",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605261746,
       "is_protected": true,
       "article": {
