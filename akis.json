@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Deli Kızın Çeyizi Gibi",
+      "id": 202605261801,
+      "category": "posts/seyirdefteri/202605261801"
+    },
+    {
       "text": "Hareket-siz kalınca n'olur",
       "id": 202605261754,
       "category": "posts/seyirdefteri/202605261754"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/ek5fdpfa6q7w8ik/ferahnaktan.mp3"
       },
       "id": 202605241542,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1549,
-        "parca_adi": "Nühüft Mukabele'den",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/4mutkdjqshzk1cc/nuhufta2.mp3"
-      },
-      "id": 202605231153,
       "category": "kaynak/baska"
     }
   ]
