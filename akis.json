@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Arzulu Bir Söyleşi Kaydından",
+      "id": 202605261746,
+      "category": "posts/seyirdefteri/202605261746"
+    },
+    {
       "text": {
         "sira_no": 1551,
         "parca_adi": "Bayram oldu",
@@ -64,11 +69,6 @@
       },
       "id": 202605220940,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Deryâ-yı Hayret'e Dalmak",
-      "id": 202605212323,
-      "category": "posts/seyirdefteri/202605212323"
     }
   ]
 }
