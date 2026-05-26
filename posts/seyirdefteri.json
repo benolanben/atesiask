@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202605261801,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "delilik"
+          ],
+          "title": "Deli Kızın Çeyizi Gibi",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202605261754,
       "is_protected": false,
       "article": {
