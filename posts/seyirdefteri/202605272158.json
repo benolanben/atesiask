@@ -1,0 +1,63 @@
+{
+  "id": 202605272158,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-05-27T18:49:54.419Z",
+  "created_at": "2026-05-27T18:58:16.269Z",
+  "article": {
+    "header": {
+      "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605272153.webm",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "kabe"
+      ],
+      "title": "Zat Makâmına İşâret",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kâbe, gönül evindir,<br>Heves ve arzû putlarını kır!<br>Lütûf ve kerem bekçilerini dik,<br>Zan ve kuruntu şeytanlarını kov<br>Ki eminlik yurduna dönsün<br></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Beytullah:<br>\"Allah'ın evi\" diye~bilinen<br>Kâbe'nin içi bom-boş,<br>Unutan çoksa da<br>BİLİNÇ'evinde kimse yok...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Allah, senin beden arazini yarattığı zaman orada bir de zat makamı yani Kâbe var etmiştir; işbu Kâbe, dil~hânesi yani senin açık aynan olan kalbindir; hâriçte aranmak ya ne'ndir?<br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><br><em>Gel derviş gel hele, yabana gitme,</em><br><em>Her ne arar isen inan sendedir.</em><br><em>Beyhûde nefsine eziyet etme,</em><br><em>Kâbeyse maksudun Rahman sendedir.</em></p>",
+          "author": "[Bölükbaşı'ndan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Anlaşılan \"Emîn belde\" gönül kâbesinde<br>Yâni mekan sende; vallahi tersi değil!</p><p class=\"mb-4\"><strong>Hoş sen yine de halkı üşürme başına...<br></strong><br>Dünden boşalt ve Kâbe et kalbini<br>Put~hane sansınlar seni boşuna</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605272158-1779908297966.jpg",
+          "url": "https://benolanben.com/dinle/baska&221"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>\"Semme vechullâh\"ı bildik tâ ezelden zâhidâ<br>Minber-i İnsân'a çıktık, ettik aşk ilânını</em></p><p class=\"mb-4\"><em>Kâbe-i ruhsâr-ı dildâr-ı kıldık çün tavaf<br>Vech-i yâre düş olup bulduk aşk mihrâbını</em></p><p class=\"mb-4\">~<br>Tâ böyle okunuyoruz bir bir...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605272158-1779908300742.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-05-27T18:58:16.269Z",
+  "is_protected": true
+}
