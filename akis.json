@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zat Makâmına İşâret",
+      "id": 202605272158,
+      "category": "posts/seyirdefteri/202605272158"
+    },
+    {
       "text": "Bayram Çuklatı Niyetine",
       "id": 202605272150,
       "category": "posts/seyirdefteri/202605272150"
@@ -49,11 +54,6 @@
       "text": "BAŞKA BİR YER İhtiyâcı",
       "id": 202605252055,
       "category": "posts/seyirdefteri/202605252055"
-    },
-    {
-      "text": "Boşluğun Doğasına Dâir",
-      "id": 202605252053,
-      "category": "posts/seyirdefteri/202605252053"
     }
   ]
 }
