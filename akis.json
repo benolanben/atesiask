@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bayram Çuklatı Niyetine",
+      "id": 202605272150,
+      "category": "posts/seyirdefteri/202605272150"
+    },
+    {
       "text": "Deli Kızın Çeyizi Gibi",
       "id": 202605261801,
       "category": "posts/seyirdefteri/202605261801"
@@ -49,16 +54,6 @@
       "text": "Boşluğun Doğasına Dâir",
       "id": 202605252053,
       "category": "posts/seyirdefteri/202605252053"
-    },
-    {
-      "text": {
-        "sira_no": 1550,
-        "parca_adi": "Ferahnâk Mukabele'den",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/ek5fdpfa6q7w8ik/ferahnaktan.mp3"
-      },
-      "id": 202605241542,
-      "category": "kaynak/baska"
     }
   ]
 }
