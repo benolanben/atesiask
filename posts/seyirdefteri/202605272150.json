@@ -1,0 +1,36 @@
+{
+  "id": 202605272150,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-05-26T14:41:38.889Z",
+  "created_at": "2026-05-27T18:50:56.948Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "hoplayanlar",
+        "kurban"
+      ],
+      "title": "Bayram Çuklatı Niyetine",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605261813.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<blockquote><p class=\"mb-4\"><strong>Terk-i ser idüb reh-i aşkında canlar verdiğim,<br>'Iyd-i vaslına irem diyüb de kurban olduğum</strong></p></blockquote><p class=\"mb-4\"><br>Herkes sevdiğine, sevdiğinden ikrâm eder ya...<br>Kısa toplantıları tercih eden çocuk kalbimizden, aynaya candan selâm selâm olsun...</p><p class=\"mb-4\">Her nefeste güzel adını tâzeleyenin,<br>Dünden kalan boyadan her lemha yıkanıp<br>Her an O'nun rengine boyananın,<br>'Arefesi (tanışma) tamam,<br>Bayramı (tanışma) eksik~siz olur...</p><p class=\"mb-4\">Şimdi ey sevgili,<br>Bugün, bir günlüğüne olsun<br>Geçmişini unut gitsin;<br>Gör nasıl olurmuş(SUN) bayram...</p><p class=\"mb-4\">☀️</p><p class=\"mb-4\">Sabahları uyandığında,<br>Önceki gecenin başarısızlıklarını,<br>Korkunç rüyalarını ve karanlığını al;<br>Güneşin önünde dur veee<br>...<br>Hepücüğünü güneşin alevlerine<br>Bırakılmış bir kurban olarak sun;<br>Sonra, ışıkta aşkla yürüyesin...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-05-27T18:50:56.948Z",
+  "is_protected": true
+}
