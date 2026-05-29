@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1552,
+        "parca_adi": "Mirât edindim",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/ne14tejrmdrig3i/mrtedindim.mp3"
+      },
+      "id": 202605291615,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Zat Makâmına İşâret",
       "id": 202605272158,
       "category": "posts/seyirdefteri/202605272158"
@@ -49,11 +59,6 @@
       "text": "Şahsın zâten zâtına teslim",
       "id": 202605252057,
       "category": "posts/seyirdefteri/202605252057"
-    },
-    {
-      "text": "BAŞKA BİR YER İhtiyâcı",
-      "id": 202605252055,
-      "category": "posts/seyirdefteri/202605252055"
     }
   ]
 }
