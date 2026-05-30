@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Arefe, irfan, bayram",
+      "id": 202605301238,
+      "category": "posts/seyirdefteri/202605301238"
+    },
+    {
       "text": {
         "sira_no": 1552,
         "parca_adi": "Mirât edindim",
@@ -54,11 +59,6 @@
       "text": "Yeniden Dil Zevkimiz",
       "id": 202605252058,
       "category": "posts/seyirdefteri/202605252058"
-    },
-    {
-      "text": "Şahsın zâten zâtına teslim",
-      "id": 202605252057,
-      "category": "posts/seyirdefteri/202605252057"
     }
   ]
 }
