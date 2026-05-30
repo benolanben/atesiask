@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202605301238,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202605301238-1780133929796.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "arefe",
+            "bayram",
+            "gazel",
+            "irfan"
+          ],
+          "title": "Arefe, irfan, bayram",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605272158,
       "is_protected": true,
       "article": {
