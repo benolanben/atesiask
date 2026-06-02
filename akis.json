@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1553,
+        "parca_adi": "Boşluğun düşüşü",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/14ao6eqniza9kxc/boslugundususu.mp3"
+      },
+      "id": 202606021519,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Tek mi çift mi?",
       "id": 202605311153,
       "category": "posts/seyirdefteri/202605311153"
@@ -54,11 +64,6 @@
       },
       "id": 202605261351,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "İllallah zevki",
-      "id": 202605252107,
-      "category": "posts/seyirdefteri/202605252107"
     }
   ]
 }
