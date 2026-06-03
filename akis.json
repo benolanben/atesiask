@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Fıkranın birinde",
+      "id": 202606032140,
+      "category": "posts/seyirdefteri/202606032140"
+    },
+    {
       "text": "Görüyorsun değil mi?",
       "id": 202606032137,
       "category": "posts/seyirdefteri/202606032137"
@@ -54,11 +59,6 @@
       "text": "Deli Kızın Çeyizi Gibi",
       "id": 202605261801,
       "category": "posts/seyirdefteri/202605261801"
-    },
-    {
-      "text": "Hareket-siz kalınca n'olur",
-      "id": 202605261754,
-      "category": "posts/seyirdefteri/202605261754"
     }
   ]
 }
