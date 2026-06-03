@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "ŞİMDİ’NİN TAPTâze Hâli",
+      "id": 202606032130,
+      "category": "posts/seyirdefteri/202606032130"
+    },
+    {
       "text": {
         "sira_no": 1553,
         "parca_adi": "Boşluğun düşüşü",
@@ -54,16 +59,6 @@
       "text": "Arzulu Bir Söyleşi Kaydından",
       "id": 202605261746,
       "category": "posts/seyirdefteri/202605261746"
-    },
-    {
-      "text": {
-        "sira_no": 1551,
-        "parca_adi": "Bayram oldu",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/0e41ckyb2tmjft7/2akadr.mp3"
-      },
-      "id": 202605261351,
-      "category": "kaynak/baska"
     }
   ]
 }
