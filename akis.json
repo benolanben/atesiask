@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Görüyorsun değil mi?",
+      "id": 202606032137,
+      "category": "posts/seyirdefteri/202606032137"
+    },
+    {
       "text": "ŞİMDİ’NİN TAPTâze Hâli",
       "id": 202606032130,
       "category": "posts/seyirdefteri/202606032130"
@@ -54,11 +59,6 @@
       "text": "Hareket-siz kalınca n'olur",
       "id": 202605261754,
       "category": "posts/seyirdefteri/202605261754"
-    },
-    {
-      "text": "Arzulu Bir Söyleşi Kaydından",
-      "id": 202605261746,
-      "category": "posts/seyirdefteri/202605261746"
     }
   ]
 }
