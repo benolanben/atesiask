@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202606032140,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Nasrettin Hoca",
+            "fıkra",
+            "hoca"
+          ],
+          "title": "Fıkranın birinde",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202606032137,
       "is_protected": true,
       "article": {
