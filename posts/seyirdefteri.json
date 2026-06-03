@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606032137,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606032137-1780511838697.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ayna",
+            "gözgü"
+          ],
+          "title": "Görüyorsun değil mi?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606032130,
       "is_protected": false,
       "article": {
