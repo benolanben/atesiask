@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202606032130,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606032127.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "dolaysız yol",
+            "tazelik",
+            "ıtlak zevki",
+            "şimdi"
+          ],
+          "title": "ŞİMDİ’NİN TAPTâze Hâli",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202605311153,
       "is_protected": false,
       "article": {
