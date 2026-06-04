@@ -1,0 +1,49 @@
+{
+  "id": 202606042141,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-04T18:32:40.455Z",
+  "created_at": "2026-06-04T18:41:22.347Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606042141-1780598489891.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "yeni"
+      ],
+      "title": "Dünden boş gözlerle gözle",
+      "subtitle": "",
+      "show_background_image": true
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606042137.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Nefha-i Rahman<br>Evirip çevirenin soluğunun her iltimâsında<br>Lemha-i Basar'dan<br>Bir göz yumup açmada imhâ~inşâ olmada<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Ve gökyüzü, yer~yüzünün üzerindeki en güzel şiirdir;<br>Her nefes, farklı bir dizeyle yazar kendini yeni inmiştir</strong></p><p class=\"mb-4\">Gerçekten görmek için<br>O Güzel'e habire göz kırpmamız<br>Yenilenen sahnesinden<br>Yeni yeni haberimiz olsun diye olabilir mi?</p><p class=\"mb-4\"><br>Öyleyse Yeni'ye Yeni'den başlamaktan korkma a güzel,<br>Yeni hikayeni çok, daha çok sevebilirsin...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606042141-1780598491684.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">\"Sonunda hayatın ne olduğunu anladım\" dedi, hayat~ı film şeridi gibi önünden geçen \"Hiçbir şey bitmiyor, her şey sâdece yeni başlıyor...\"</p><p class=\"mb-4\">❤️<br><br>Aşk, ruhun gözüyse eğer<br>Hep yeni gören, aşka değer...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-04T18:41:22.347Z",
+  "is_protected": false
+}
