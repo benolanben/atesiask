@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606042135,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606042135-1780598149989.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "sad kelam",
+            "yüz söz"
+          ],
+          "title": "Kadri Ali YÜZ SÖZ'den",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606032140,
       "is_protected": false,
       "article": {
