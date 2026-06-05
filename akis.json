@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1555,
+        "parca_adi": "Nihavend Dua",
+        "seslendiren": "M. Özyalvaç",
+        "url": "https://www.mediafire.com/file/0qy9kslajyqvi0j/ilahi-59.mp3"
+      },
+      "id": 202606051555,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1554,
         "parca_adi": "Hasretinle yandı",
         "seslendiren": "S. Okuş",
@@ -54,11 +64,6 @@
       "text": "Tek mi çift mi?",
       "id": 202605311153,
       "category": "posts/seyirdefteri/202605311153"
-    },
-    {
-      "text": "Arefe, irfan, bayram",
-      "id": 202605301238,
-      "category": "posts/seyirdefteri/202605301238"
     }
   ]
 }
