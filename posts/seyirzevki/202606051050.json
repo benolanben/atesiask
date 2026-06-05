@@ -1,0 +1,38 @@
+{
+  "id": 202606051050,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-05T07:25:17.170Z",
+  "created_at": "2026-06-05T07:50:03.719Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202606051050-1780645802613.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "kara mizah",
+        "eylemsizlik"
+      ],
+      "title": "Slow Horses",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\">🎬\"-Plan nedir?<br>-Her zamanki gibi hiçbir şey yapmamak.\"</p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Çeşitli sebeplerle ıskartaya ayrılmış birkaç ajan, Jackson Lamb liderliğinde bir araya gelir. Hiçbir şey yapmamaları gerektiği ve gerçekten de hiçbir şey yapmadıkları halde olaylar hızla gelişir. Geriye hayli sürükleyici ve mizah dozu yüksek bir seyir zevki kalır.</p>"
+        },
+        {
+          "type": "metin",
+          "text": "<blockquote><p class=\"mb-4\">Zaten olan, biz çabalamasak da olmaktadır. Bize düşen; sadece aradan çekilip, kendi halindeki bu zekice hikâyenin ve telaşsız mizahın tadını çıkarmaktır.<br><br>hayat eylem.sizliğin ortasında kendi yatağını bulup akar.</p></blockquote><p class=\"mb-4\"></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-05T07:50:03.719Z",
+  "is_protected": false
+}
