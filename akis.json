@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1556,
+        "parca_adi": "Umman",
+        "seslendiren": "A. Kaya",
+        "url": "https://www.mediafire.com/file/g9glmznxxnkxa10/umman_alikaya.mp3"
+      },
+      "id": 202606061255,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1555,
         "parca_adi": "Nihavend Dua",
         "seslendiren": "M. Özyalvaç",
@@ -59,11 +69,6 @@
       },
       "id": 202606021519,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Tek mi çift mi?",
-      "id": 202605311153,
-      "category": "posts/seyirdefteri/202605311153"
     }
   ]
 }
