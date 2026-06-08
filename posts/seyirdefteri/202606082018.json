@@ -1,0 +1,55 @@
+{
+  "id": 202606082018,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-08T17:10:23.585Z",
+  "created_at": "2026-06-08T17:18:11.762Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "aile",
+        "mutsuzluk"
+      ],
+      "title": "Mutsuz mu Aile Tablosu",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606082011.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Sat Chit Ananda<br>Varlığın Farkındalığı Mutluluktur<br>Çift kutuplu bir dünyada<br>Bir olaya direnmeyen<br>Ânında diğer uçta bulur kendini<br>Direnmeden, aranmadan<br>Mutsuzluğun farkındalığı mutluluktur<br>Korkunun farkındalığı korkusuzluk<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">... İnsan doğası, kendiliğinden üç temel niteliğe sahiptir:<br><br><strong>• BOŞ-öz<br>• FARKINDA-doğa<br>• SINIRSIZ-kapasite</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">KEND'Özümüz boştur, kendini tanır ve sınırsızdır.<br>Bu, Vedantik gelenekte 'sat <strong>chit</strong> ananda' olarak formüle edilen ikili olmayan anlayışın da özüdür.<br></p>",
+          "author": "[T. Rinponce'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">\"Ananda\"<br>Mutluluk-neşe-sevinç manâsına Sanskritçe bir kelime<br><br>Sat: Varlık-Gerçeklik<br>Chit: Bilincinde olma-farkındalık<br>Ananda: Sevinç<br><br>Büyük Vedantik denklem:<br>\"Sat chit ananda\"<br><br>Varlığın bilincinin<br>Kendisinin huzur deneyimi olduğunu zevk eder.<br><br>Yani yok yere bir sevinç, varlığın doğal kokusudur, tadıdır.<br><br>Yok yere demişken...<br><br>Varlığın Sevinci'ni bir de burdan okuyalım mı?<br><br>Zira yana yakıla aradığımız MUTLULUK<br>Bizim öz-doğamız olduğundan<br>Ayrı~sanan kimse tarafından bilinemez<br><br>MUTLULUK olabilirsiniz<br>Ama bunu bilemezsiniz<br><br>Bildiğiniz anda dışına çıkmışsınızdır -sözde-<br>Ve artık mutlu hissetmezsiniz<br><br>Bu seferde aramaya başlarsınız mutluluğu<br>Yani \"mutluluk\" fikri bir sorundur<br><br>O bizim öz-doğamız olduğunda<br>Öyleyizdir ve bu bir sorun değildir<br><br>Ama mutluluğa ulaşmamız gerektiği fikrine sahip olduğumuz işte o zaman bu, bir sorunun olur.<br><br>Bu denklemdeki zevkimiz<br>Mutluluk-varlık-bilinç üçlüsünden her biri için geçerlidir<br><br>Öz-Benlik-varlık ile de aynıdır;<br>Sen O olduğunda, kendinde olduğunda sorun yoktur.<br><br>Ama kendini gerçekleştirmek istediğinde<br>O'nu aramaya, O'na varmaya çalıştığında<br>İşte o zaman bu bir sorun hâline gelir.<br><br>Zira öyle olmadığın ön-kabulüyle yola çıkarsın<br>Şimdi-öyle-değilim diye diye Ayrı-sandığın için kavuşamaz olursun<br><br>Şu cümle biraz dönsün içinizde<br>Bu zevkimiz bal gibi anlaşılacaktır vesselâm</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gerçek mutluluk tek bir şekilde olur:<br>~ Niye mutlu olduğunu bilmediğin hâlde,<br>Mutlu olup olmadığından zerre şüphe duymadığında.<br>Ve bildiğinde, seni bu ana getiren, her bir şeyin haklı bir sebebi olduğunu zira tam da bu âna ulaşmanı sağladığını...<br></p>",
+          "author": "[V. Pelevin'nden]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-08T17:18:11.762Z",
+  "is_protected": true
+}
