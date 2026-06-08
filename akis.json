@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Mutsuz mu Aile Tablosu",
+      "id": 202606082018,
+      "category": "posts/seyirdefteri/202606082018"
+    },
+    {
       "text": "Vaziyetin iyileştirilmesi mümkün mü?",
       "id": 202606061432,
       "category": "posts/seyirdefteri/202606061432"
@@ -59,11 +64,6 @@
       "text": "Görüyorsun değil mi?",
       "id": 202606032137,
       "category": "posts/seyirdefteri/202606032137"
-    },
-    {
-      "text": "ŞİMDİ’NİN TAPTâze Hâli",
-      "id": 202606032130,
-      "category": "posts/seyirdefteri/202606032130"
     }
   ]
 }
