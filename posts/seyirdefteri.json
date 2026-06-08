@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606082018,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aile",
+            "mutsuzluk"
+          ],
+          "title": "Mutsuz mu Aile Tablosu",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202606061432,
       "is_protected": true,
       "article": {
