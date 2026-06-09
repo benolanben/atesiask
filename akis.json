@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Nerede huzur bulabiliriz?",
+      "id": 202606092158,
+      "category": "posts/seyirdefteri/202606092158"
+    },
+    {
       "text": "Cümle Âlemin N•ktacıktan Hikâyesi",
       "id": 202606092149,
       "category": "posts/seyirdefteri/202606092149"
@@ -59,11 +64,6 @@
       "text": "Kadri Ali YÜZ SÖZ'den",
       "id": 202606042135,
       "category": "posts/seyirdefteri/202606042135"
-    },
-    {
-      "text": "Fıkranın birinde",
-      "id": 202606032140,
-      "category": "posts/seyirdefteri/202606032140"
     }
   ]
 }
