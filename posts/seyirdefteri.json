@@ -1,6 +1,27 @@
 {
   "isaretler": [
     {
+      "id": 202606092149,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "genesis",
+            "kaos",
+            "kozmos",
+            "nokta"
+          ],
+          "title": "Cümle Âlemin N•ktacıktan Hikâyesi",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202606082018,
       "is_protected": true,
       "article": {
