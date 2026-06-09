@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606092158,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606092158-1781031521234.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "ervah",
+            "eşbah",
+            "huzur"
+          ],
+          "title": "Nerede huzur bulabiliriz?",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606092149,
       "is_protected": false,
       "article": {
