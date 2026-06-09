@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Cümle Âlemin N•ktacıktan Hikâyesi",
+      "id": 202606092149,
+      "category": "posts/seyirdefteri/202606092149"
+    },
+    {
       "text": "Mutsuz mu Aile Tablosu",
       "id": 202606082018,
       "category": "posts/seyirdefteri/202606082018"
@@ -59,11 +64,6 @@
       "text": "Fıkranın birinde",
       "id": 202606032140,
       "category": "posts/seyirdefteri/202606032140"
-    },
-    {
-      "text": "Görüyorsun değil mi?",
-      "id": 202606032137,
-      "category": "posts/seyirdefteri/202606032137"
     }
   ]
 }
