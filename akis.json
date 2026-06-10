@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kusursuz Hizâ",
+      "id": 202606102036,
+      "category": "posts/seyirdefteri/202606102036"
+    },
+    {
       "text": "Nerede huzur bulabiliriz?",
       "id": 202606092158,
       "category": "posts/seyirdefteri/202606092158"
@@ -59,11 +64,6 @@
       "text": "Dünden boş gözlerle gözle",
       "id": 202606042141,
       "category": "posts/seyirdefteri/202606042141"
-    },
-    {
-      "text": "Kadri Ali YÜZ SÖZ'den",
-      "id": 202606042135,
-      "category": "posts/seyirdefteri/202606042135"
     }
   ]
 }
