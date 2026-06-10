@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606102042,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606102042-1781113355326.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Hiyebân",
+            "ağaç",
+            "Şeceretü'l Kevn"
+          ],
+          "title": "Toprak altında kimler yatar",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606102036,
       "is_protected": true,
       "article": {
