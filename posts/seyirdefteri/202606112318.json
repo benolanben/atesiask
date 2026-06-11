@@ -1,0 +1,56 @@
+{
+  "id": 202606112318,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-11T20:05:28.753Z",
+  "created_at": "2026-06-11T20:18:33.185Z",
+  "article": {
+    "header": {
+      "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606112311.webm",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "düğüm",
+        "hologram",
+        "küll",
+        "zerre",
+        "çözülme"
+      ],
+      "title": "Tek İplik",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>TEK İPLİK</strong><br><em>— Ya da çözülecek kimsenin bulunmadığı bir düğüm üstüne birkaç düğüm</em></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Varlığın büsbütün akışı olan<br>\"HAYAT\"<br>De~senlerini örmek için yalnızca en uzun iplikleri kullanır;<br>Bu yüzden kumaşından kopardığın(ı sandığın) en küçük parça bile tüm dokunun organizasyonunu ortaya koyar, bütün dokumanın nizamını ele verir yani yokluğun sırrını ifşâ edebilir.<br></p>",
+          "author": "[R. P. Feynman'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Zerre küllün aynısı, yok varın aynası<br></p>",
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Varsa<br>Yoksa</p><p class=\"mb-4\">Bir bağlayıp<br>Bir çözdüğü</p><p class=\"mb-4\">Her bir ilmekte<br>Baştan aşağı<br>Kendini seyreden</p><p class=\"mb-4\">O<br>Bir<br>'Hiçlik'</p><p class=\"mb-4\">Aslında tek bir iplik var...<br>Başı yok, sonu yok, ucu nereye gittiği belirsiz titreyen bir çizgi<br>Sen ona bakıp \"desen\" dersin, \"ben\" dersin, \"âlem\" dersin<br><br>— Oysa o, kendini saklamak için milyonlarca düğüm atmış olan Bir'den gayrı değildir<br>(Kusura bakma ama en iyi saklandığı yer de~sen çıktın)</p><p class=\"mb-4\">Cânım erenlerim buna kestirmeden \"Katremin içinde ummanım\" deyivermişler:<br>Damlaya eğilirsin, denizi bulursun;<br>Ama dönüp denizde damlayı ararsan<br>Öyle bir şey hiç olmamıştır.</p><p class=\"mb-4\">Ararken ararken kaybolan tek şey, arayandır.<br>Ve bütün bu seyir boyunca,<br>Senin \"ben\" diye sımsıkı tuttuğun şeye hayret?</p><p class=\"mb-4\">İki ucu açık<br>O sonsuz ipliğin üstündeki geçici bir düğümden ibaret</p><p class=\"mb-4\">Düğüm çözüldüğünde ne kalır nihayet?<br>Varlığın kumaşının ta kendisi!<br>Yani o çok korktuğun<br><br>Ama içten içe düşmeye can attığın<br>\"Mutlak Boşluk\"<br>Zât-ı Mukaddes<br>(Korkma, düşeceğin bir yer yok; çünkü zaten oradan hiç kalkmadın ki.)</p><p class=\"mb-4\">— Peki kimin elinde bu ip, a güzel?<br><br>“En uzun” dediğin iplik, kısacık bir ‘ben’ vehminin ucuna düğümlü.</p><p class=\"mb-4\">Sen, o ipliği çektikçe halıyı kendine çektiğini sanırsın, meğer halı zaten senin içindeymiş en başından beri...</p><p class=\"mb-4\">Hatta<br>— laf aramızda, yazı bitsin diye söyleyeyim —<br>İplik de yok, çeken de yok, çekilen de.</p><p class=\"mb-4\">Sadece \"çekiliyormuş gibi\" yapan bir Hiçlik,<br><br>Kendi şakasına dönüp yine kendi gülüyor<br>Neye ben diyeceğini bir bilmesen...</p><p class=\"mb-4\">İşin asıl komik yanı da ne biliyor musun?</p><p class=\"mb-4\">Bütün bu satırları o düğüm okudu.<br>Yani sen.<br>Kendini nasıl çözeceğini öğrenmek için.</p><p class=\"mb-4\">Oysa bir düğümün dünyada tek bir kariyeri olabilir:</p><p class=\"mb-4\">Çözülmemek için ömür boyu \"çözülme kursu\"na yazılmaya devam etmek.</p><p class=\"mb-4\">Peki çözülmek ne midir?</p><p class=\"mb-4\">Hiç olmamış bir düğümün, hiç kimse tarafından, hiçbir şey yapılmadan güle güle dağılıvermesi.</p><p class=\"mb-4\">Hoş geldin ey sevgili<br>Zaten hiç gitmemişsin gibi...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606112312.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">KAYNAK:<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"text-blue-500 underline cursor-pointer\" href=\"https://www.youtube.com/@benolanben\"><u>https://www.youtube.com/@benolanben</u></a></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-11T20:18:33.185Z",
+  "is_protected": false
+}
