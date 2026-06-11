@@ -1,0 +1,49 @@
+{
+  "id": 202606112327,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-11T20:05:28.753Z",
+  "created_at": "2026-06-11T20:27:12.148Z",
+  "article": {
+    "header": {
+      "background_image": "",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "selam"
+      ],
+      "title": "Selâmın Selâmetle Yayılışı",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606112325.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Varlığın Sevinci'nin müjdelerinden bir müjde:</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Sözü hoş söyle,<br>Selâmı da aşikâre eyle,<br>Yakınlarını yokla<br>Ve gece herkes uyurken sen âgâh olasın<br>O zaman selâmla da cennete dahil olasın<br></p>",
+          "author": "[Ramuz El-Ehadis 72:14'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">0 anda! Dosttan dosta kalır selâm ve secde;<br>En son yüzünü açar dost; gören gelir vecde<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Sende bende değişmeden kalan bir şey var.<br>Düşünceden önce.<br>Hikayeden önce.<br><br>O akışla aşkla tanış<br>Ve 'Dâru's-selâm' olarak tanıyıp<br>Gez dolaş buraya dön.</p><p class=\"mb-4\"><br>~<br><br>Bilmelerin sonu bilmemek,<br>Yürümelerin sonu melamet,<br>Sabrın sonu selamet,<br>Âşıklara bir bir selâm et..<br><br>❤️</p><p class=\"mb-4\">\"Bu fânide kimse kalmaz\" anlarsın<br>Olmazsa olmaz olandan<br>Selâmet içre bir 'selâm selâm' kalsın!</p><p class=\"mb-4\">❤️</p><p class=\"mb-4\">'Gözlerinde kaybolmak istediğim bir şehir var.' dedi, bir sevgili,<br>O şehirden nefes nefese bir selâm aldığı besbelli...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-11T20:27:12.148Z",
+  "is_protected": true
+}
