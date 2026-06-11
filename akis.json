@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Tek İplik",
+      "id": 202606112318,
+      "category": "posts/seyirdefteri/202606112318"
+    },
+    {
       "text": {
         "sira_no": 1557,
         "parca_adi": "Behey kardeş",
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/0qy9kslajyqvi0j/ilahi-59.mp3"
       },
       "id": 202606051555,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1554,
-        "parca_adi": "Hasretinle yandı",
-        "seslendiren": "S. Okuş",
-        "url": "https://www.mediafire.com/file/fo37ltck5pugo7n/hasretinle.mp3"
-      },
-      "id": 202606051216,
       "category": "kaynak/baska"
     }
   ]
