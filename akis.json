@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "BİZ>İ DİNLİYORUM",
+      "id": 202606122337,
+      "category": "posts/seyirdefteri/202606122337"
+    },
+    {
       "text": "Yurtsuz Rüzgarların Büyüsü",
       "id": 202606122330,
       "category": "posts/seyirdefteri/202606122330"
@@ -54,11 +59,6 @@
       "text": "Cümle Âlemin N•ktacıktan Hikâyesi",
       "id": 202606092149,
       "category": "posts/seyirdefteri/202606092149"
-    },
-    {
-      "text": "Mutsuz mu Aile Tablosu",
-      "id": 202606082018,
-      "category": "posts/seyirdefteri/202606082018"
     }
   ]
 }
