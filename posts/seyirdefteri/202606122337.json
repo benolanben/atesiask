@@ -1,0 +1,46 @@
+{
+  "id": 202606122337,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-12T20:25:35.958Z",
+  "created_at": "2026-06-12T20:37:34.070Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "hipnoz",
+        "uyku"
+      ],
+      "title": "BİZ>İ DİNLİYORUM",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606122332.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kendini gözlemlemeyi bir sanat haline getirmeyen, dışardan hipnoz olmaktan kurtulamaz.<br></p>",
+          "author": "[R. Maharshi'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ego-nefs, kişi de hâliyle<br>O Tek Kaynak'tan gelmiştir.</p><p class=\"mb-4\">Bu yüzden egoya 'İlâhi hipnoz' yani \"sehv-unutuş\" diyebiliriz.</p><p class=\"mb-4\">Hipnoz ne midir?</p><p class=\"mb-4\">'Ben' kendimi bir eylem sahipliği hissiyle ayrı bir varlık olarak görüyorum.</p><p class=\"mb-4\">Sâhi rüyâdaki birini, rüyâ gördüğüne nasıl iknâ edebiliriz?<br>(Yorumlara bekleriz)</p><hr><p class=\"mb-4\">Karanlıkta yeterince uzun süre kal,<br>Seni beni hatırlamaktan alıkoyan<br>O şeylerle bir bir yüzleş...</p><p class=\"mb-4\">Yok bişî sana öyle gelmiş...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606122336.mp4?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-12T20:37:34.070Z",
+  "is_protected": true
+}
