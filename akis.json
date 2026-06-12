@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yurtsuz Rüzgarların Büyüsü",
+      "id": 202606122330,
+      "category": "posts/seyirdefteri/202606122330"
+    },
+    {
       "text": {
         "sira_no": 1558,
         "parca_adi": "İntihâb-ı Kadrî",
@@ -54,11 +59,6 @@
       "text": "Mutsuz mu Aile Tablosu",
       "id": 202606082018,
       "category": "posts/seyirdefteri/202606082018"
-    },
-    {
-      "text": "Vaziyetin iyileştirilmesi mümkün mü?",
-      "id": 202606061432,
-      "category": "posts/seyirdefteri/202606061432"
     }
   ]
 }
