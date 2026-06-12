@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1558,
+        "parca_adi": "İntihâb-ı Kadrî",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/gzl6uc8qdkqwhhd/mesneviden2.mp3"
+      },
+      "id": 202606122050,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Selâmın Selâmetle Yayılışı",
       "id": 202606112327,
       "category": "posts/seyirdefteri/202606112327"
@@ -49,16 +59,6 @@
       "text": "Vaziyetin iyileştirilmesi mümkün mü?",
       "id": 202606061432,
       "category": "posts/seyirdefteri/202606061432"
-    },
-    {
-      "text": {
-        "sira_no": 1556,
-        "parca_adi": "Umman",
-        "seslendiren": "A. Kaya",
-        "url": "https://www.mediafire.com/file/g9glmznxxnkxa10/umman_alikaya.mp3"
-      },
-      "id": 202606061255,
-      "category": "kaynak/baska"
     }
   ]
 }
