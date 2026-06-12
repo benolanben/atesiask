@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606122330,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606122327.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "bulutsuzluk",
+            "yersiz",
+            "yurtsuz"
+          ],
+          "title": "Yurtsuz Rüzgarların Büyüsü",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606112327,
       "is_protected": true,
       "article": {
