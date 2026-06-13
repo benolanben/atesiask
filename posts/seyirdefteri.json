@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606132317,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606132318-1781381881590.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "melamet",
+            "tevhid zevki"
+          ],
+          "title": "Kitabın ortasından •1",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606122337,
       "is_protected": true,
       "article": {
