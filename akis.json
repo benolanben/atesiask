@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1559,
+        "parca_adi": "Buldum ise n'oldu",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/cwmwuu44nfabqfx/buldumise.mp3"
+      },
+      "id": 202606130741,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "BİZ>İ DİNLİYORUM",
       "id": 202606122337,
       "category": "posts/seyirdefteri/202606122337"
@@ -54,11 +64,6 @@
       "text": "Nerede huzur bulabiliriz?",
       "id": 202606092158,
       "category": "posts/seyirdefteri/202606092158"
-    },
-    {
-      "text": "Cümle Âlemin N•ktacıktan Hikâyesi",
-      "id": 202606092149,
-      "category": "posts/seyirdefteri/202606092149"
     }
   ]
 }
