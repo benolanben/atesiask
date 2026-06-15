@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606152244,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606152244-1781552656760.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "dil zevki",
+            "yalsızuçanlar"
+          ],
+          "title": "Yakın mı uzak",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606132317,
       "is_protected": true,
       "article": {
