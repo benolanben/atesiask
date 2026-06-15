@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yakın mı uzak",
+      "id": 202606152244,
+      "category": "posts/seyirdefteri/202606152244"
+    },
+    {
       "text": "Kitabın ortasından •1",
       "id": 202606132317,
       "category": "posts/seyirdefteri/202606132317"
@@ -59,11 +64,6 @@
       "text": "Toprak altında kimler yatar",
       "id": 202606102042,
       "category": "posts/seyirdefteri/202606102042"
-    },
-    {
-      "text": "Kusursuz Hizâ",
-      "id": 202606102036,
-      "category": "posts/seyirdefteri/202606102036"
     }
   ]
 }
