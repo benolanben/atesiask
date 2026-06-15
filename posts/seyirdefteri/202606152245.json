@@ -1,0 +1,35 @@
+{
+  "id": 202606152245,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-15T19:26:27.209Z",
+  "created_at": "2026-06-15T19:45:35.900Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Denizde ırmak aranmaz",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bir denize<br>Bir çok nehir dökülebilir<br>Ama hiçbir nehir<br>Denize \"sâhip\" değildir</p><p class=\"mb-4\">Nehir akar, deniz bakar;<br>Biri durmadan \"ben\" der, öbürü susar<br>— Ve kaderde susanın dediğinin olması var.</p><p class=\"mb-4\">Yollar farklı olabilir,<br>İsimler farklı olabilir,<br>Biçimler farklı olabilir.</p><p class=\"mb-4\">Fırat kendine \"Fıratım\" der durur,<br>\"Dicle\" nüfus cüzdanını koynunda taşıyan sudur<br>Islansa da suyun farkına varmaz olur.</p><p class=\"mb-4\">Deniz ikisini de kendinde~n bilir,<br>İkisine de gülümser içten içe,<br>Alçağa açılıp \"Dön gel\" eder</p><p class=\"mb-4\">Çünkü deniz bilir:</p><p class=\"mb-4\">İsim, su üstüne yazılmış yazıdır;<br>Mürekkebi sudandır, kalemi buzdan,<br>Yazan da okuyana karışmıştır çoktan</p><p class=\"mb-4\">Öyleyse a güzel,</p><p class=\"mb-4\">Marifet, savunmak değil bir nehri...<br><br>Suyun bir zamanlar ayrı bir varlık olduğuna dair \"ölümcül inancı\" tutmayıp bırakmaktır hakikat zevki...</p><p class=\"mb-4\">Buz gibi bir inançtır bu;<br>Güneşe tut, kendi kendine geçer</p><p class=\"mb-4\">Geriye bir tâzelik kalır ki<br>Tadanlar ona \"Varlığın Sevinci\" demişler.</p><p class=\"mb-4\">Hem bir damla, denize düştüğünde kaybolmaz, anla<br>Yalnızca adresini günceller; iadeli taahhütlü yollan~anla</p><p class=\"mb-4\">Hâsılı kelâm:</p><p class=\"mb-4\">Deniz olduğunu anlayan damlaya<br>Postacı zinhar tebliğat yapamaya<br>Tutanak zabtına şöyle yazmışlar a:<br><br><strong>\"Adres yetersiz değil<br>Alıcı fazla geniş.\"</strong></p><p class=\"mb-4\">►</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Bu beden hiç benim değil<br>Hiçbir şeyin sahibi var değil<br></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-15T19:45:35.900Z",
+  "is_protected": false
+}
