@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606152245,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Denizde ırmak aranmaz",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202606152244,
       "is_protected": true,
       "article": {
