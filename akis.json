@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Denizde ırmak aranmaz",
+      "id": 202606152245,
+      "category": "posts/seyirdefteri/202606152245"
+    },
+    {
       "text": "Yakın mı uzak",
       "id": 202606152244,
       "category": "posts/seyirdefteri/202606152244"
@@ -59,11 +64,6 @@
       },
       "id": 202606111444,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Toprak altında kimler yatar",
-      "id": 202606102042,
-      "category": "posts/seyirdefteri/202606102042"
     }
   ]
 }
