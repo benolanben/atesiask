@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606162255,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606162255-1781639751178.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "aşk",
+            "hamur",
+            "çamur"
+          ],
+          "title": "Aşk var hamurumuzda",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606152245,
       "is_protected": false,
       "article": {
