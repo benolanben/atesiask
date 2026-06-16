@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Saklı Hazine'nin Saklambacı",
+      "id": 202606162304,
+      "category": "posts/seyirdefteri/202606162304"
+    },
+    {
       "text": "Aşk var hamurumuzda",
       "id": 202606162255,
       "category": "posts/seyirdefteri/202606162255"
@@ -59,16 +64,6 @@
       "text": "Yurtsuz Rüzgarların Büyüsü",
       "id": 202606122330,
       "category": "posts/seyirdefteri/202606122330"
-    },
-    {
-      "text": {
-        "sira_no": 1558,
-        "parca_adi": "İntihâb-ı Kadrî",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/gzl6uc8qdkqwhhd/mesneviden2.mp3"
-      },
-      "id": 202606122050,
-      "category": "kaynak/baska"
     }
   ]
 }
