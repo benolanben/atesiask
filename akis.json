@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Aşk var hamurumuzda",
+      "id": 202606162255,
+      "category": "posts/seyirdefteri/202606162255"
+    },
+    {
       "text": {
         "sira_no": 1561,
         "parca_adi": "Dağ perisi",
@@ -64,11 +69,6 @@
       },
       "id": 202606122050,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Selâmın Selâmetle Yayılışı",
-      "id": 202606112327,
-      "category": "posts/seyirdefteri/202606112327"
     }
   ]
 }
