@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1561,
+        "parca_adi": "Dağ perisi",
+        "seslendiren": "Ç. Fidan",
+        "url": "https://www.mediafire.com/file/dvdu67byndia3i9/dagperisi.mp3"
+      },
+      "id": 202606162138,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1560,
         "parca_adi": "Aşk hamuru",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       "text": "Selâmın Selâmetle Yayılışı",
       "id": 202606112327,
       "category": "posts/seyirdefteri/202606112327"
-    },
-    {
-      "text": "Tek İplik",
-      "id": 202606112318,
-      "category": "posts/seyirdefteri/202606112318"
     }
   ]
 }
