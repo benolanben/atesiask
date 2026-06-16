@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202606162304,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606162304-1781640297613.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "marifetullah",
+            "saklanbaç",
+            "unutmak",
+            "zikrullah"
+          ],
+          "title": "Saklı Hazine'nin Saklambacı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606162255,
       "is_protected": false,
       "article": {
