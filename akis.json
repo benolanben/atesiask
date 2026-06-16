@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1562,
+        "parca_adi": "Saklı Hazine'nin Saklambacı",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/okgwghgc6cm0taj/saklam2.mp3"
+      },
+      "id": 202606162403,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Saklı Hazine'nin Saklambacı",
       "id": 202606162304,
       "category": "posts/seyirdefteri/202606162304"
@@ -59,11 +69,6 @@
       "text": "BİZ>İ DİNLİYORUM",
       "id": 202606122337,
       "category": "posts/seyirdefteri/202606122337"
-    },
-    {
-      "text": "Yurtsuz Rüzgarların Büyüsü",
-      "id": 202606122330,
-      "category": "posts/seyirdefteri/202606122330"
     }
   ]
 }
