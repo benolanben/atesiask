@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çevrimiçi Nörobilim",
+      "id": 202606172237,
+      "category": "posts/seyirdefteri/202606172237"
+    },
+    {
       "text": {
         "sira_no": 1562,
         "parca_adi": "Saklı Hazine'nin Saklambacı",
@@ -64,11 +69,6 @@
       },
       "id": 202606130741,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "BİZ>İ DİNLİYORUM",
-      "id": 202606122337,
-      "category": "posts/seyirdefteri/202606122337"
     }
   ]
 }
