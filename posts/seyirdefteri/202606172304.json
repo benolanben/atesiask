@@ -1,0 +1,49 @@
+{
+  "id": 202606172304,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-17T19:34:18.738Z",
+  "created_at": "2026-06-17T20:04:57.608Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Q260517",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bize kendimizi unuttuğumuzu unutturacak, ne kadar da etkili uyuşturucularımız var öyle...<br><br>\"Fezkurunî\" fermanıyla<br>Hatırlatmak için kurulan<br>Şeriat, tarikat bile öyle bir teselli veriyor, öyle bir avutuyor ki sormayın gitsin<br><br>\"Karşılaştık aynalaştık ya...\" dedi, aşk~zede bir garip, \"Koca ömrümde tek tesellîm bu... \"</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606172305-1781726714705.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Âlemde halkiyyet yoktur; zuhûrat vardır<br>Amma biz bunu pek söylemeyiz evladım...<br></p>",
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Çektiği~n azap yetmez mi?<br><br>Yok yaratıcı</p><p class=\"mb-4\">Yok yaratılmış<br>Bir varmış, bir yokmuş</p><p class=\"mb-4\">Sil bunları</p><p class=\"mb-4\">Deneyim</p><p class=\"mb-4\">Karşılaşma</p><p class=\"mb-4\">Aynalaşma<br>Hatırlama</p><p class=\"mb-4\">Tanışma<br>Unutma</p><p class=\"mb-4\"><br>Varsa yoksa bu</p><p class=\"mb-4\"><br>Ama uyursunuz uyanırsınız ve yeniden biri olursunuz.<br>Sonra mesafe belirir.</p><p class=\"mb-4\">Gerçek başka bir yerde görünür<br>Ve ona ulaşması gereken kişi de onunla birlikte belirir.</p><p class=\"mb-4\"><br>İyi de nerede belirir?</p><p class=\"mb-4\">Ama bu asla başka bir yerde değildir.</p><p class=\"mb-4\">Onu arayan kişiden daha yakındır.</p><p class=\"mb-4\"><br>Mesafe yaratan şeye dikkat edesin,<br>Sonra onu takip etmeyi bırakasın</p><p class=\"mb-4\"><br>Bırak ayrı~sananlar öyle sansın, daha yansın<br>Sen~senma<br>Hepsi bu...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605170000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-17T20:04:57.608Z",
+  "is_protected": false
+}
