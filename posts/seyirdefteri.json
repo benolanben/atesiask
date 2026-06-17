@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606172237,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606172237-1781725043975.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "irade",
+            "motivasyon",
+            "nörobilim"
+          ],
+          "title": "Çevrimiçi Nörobilim",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606162304,
       "is_protected": true,
       "article": {
