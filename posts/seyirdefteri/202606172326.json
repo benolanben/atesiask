@@ -1,0 +1,63 @@
+{
+  "id": 202606172326,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-17T19:34:18.738Z",
+  "created_at": "2026-06-17T20:26:22.290Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Nokta-i Nazar",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Örümcek kendi ağında hapsolmuş.</p><p class=\"mb-4\">No way out<br>Kaçış yok.</p><p class=\"mb-4\"><br>Ağı ören şey, ne ağın içinde ne de dışında bulunamıyor.</p><p class=\"mb-4\"><br>Hayat da böyle böyle örülüyor işte.</p><p class=\"mb-4\"><br>Eee ne mi olmuş</p><p class=\"mb-4\">Örümceğin evine</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kitaba bak bakalım ne diyor örümceğin evi~ne?</p><p class=\"mb-4\">Şüphesiz ağların en zayıfı örümcek evidir; keşke bir bilselerdi...</p><p class=\"mb-4\"></p>",
+          "author": "[Ankebut:41'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Örümcek, ağını kendi özünden örüyor, sonra onunla oynuyor, en sonunda ipliği tekrar içine çekiyordu; tıpkı Rabbin, ebedi, değişmez, biçimsiz, niteliksiz, mutlak biliş ve mutlak mutluluk olan özünden evreni var göstermesi, bir süre onunla ve o olarak oynaması, sonra her şeyi tekrar kendi içine alması gibi.</p>",
+          "author": "[Bhagavatam'dan]"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606172326-1781727993500.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Zihnin erişiminin çok ötesindedir bu; çünkü geriye kalan her şey, muhtelif dur~aklardan ibarettir sadece; farklı bakış açıları, farklı kavramlar...</p><p class=\"mb-4\">Haklı olmaya ihtiyaç yoktur<br>Zira \"doğru\" ya da \"yanlış\"ın ne demek olduğunu bilebilecek bir kimse yoktur o noktada.</p><p class=\"mb-4\"><br>Ne var ki zihin tam da bununla beslenir ve bundan vazgeçmez; vazgeçmek, onun sonu olur.</p><p class=\"mb-4\">Zihin, daimî bir varoluşsal kriz ve nefsi müdafaa halinde varlığını sürdürür.<br><br>Ve bu da tıpkı hayatın kendisi kadar sonsuzdur.</p><p class=\"mb-4\">Zihinden zihinle çıkış yok.</p><p class=\"mb-4\">“Zihinsizlik” bile<br>Zihin için bir konaklama yeridir hâlâ.</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606172326-1781727996394.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bundan alâ esrâr mı olur?<br><br>Gerçekliğin kendisi olmamıza rağmen, ısrarla gerçekliği arıyoruz.<br><br>Gerçekliğimizi gizleyen bir şeyler olduğunu ve gerçekliğe ulaşmadan önce bunun yok edilmesi gerektiğini düşünüyoruz.<br><br>Bu gerçekten gülünesi bir şey.<br><br>Bir gün gelecek ve sonunda geçmiş onca çabalarınıza güleceksiniz.<br><br>Güldüğünüz gün var olacak olan şey, aynı zamanda burada ve şimdi de var olacak.<br><br>Ve tıpkı şimdi olduğu gibi görünecek...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606172326-1781727999040.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-17T20:26:22.290Z",
+  "is_protected": false
+}
