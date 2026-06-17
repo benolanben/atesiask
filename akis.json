@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Q260517",
+      "id": 202606172304,
+      "category": "posts/seyirdefteri/202606172304"
+    },
+    {
       "text": "Çevrimiçi Nörobilim",
       "id": 202606172237,
       "category": "posts/seyirdefteri/202606172237"
@@ -59,16 +64,6 @@
       "text": "Kitabın ortasından •1",
       "id": 202606132317,
       "category": "posts/seyirdefteri/202606132317"
-    },
-    {
-      "text": {
-        "sira_no": 1559,
-        "parca_adi": "Buldum ise n'oldu",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/cwmwuu44nfabqfx/buldumise.mp3"
-      },
-      "id": 202606130741,
-      "category": "kaynak/baska"
     }
   ]
 }
