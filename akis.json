@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Nokta-i Nazar",
+      "id": 202606172326,
+      "category": "posts/seyirdefteri/202606172326"
+    },
+    {
       "text": "Sen~senma..",
       "id": 202606172304,
       "category": "posts/seyirdefteri/202606172304"
@@ -59,11 +64,6 @@
       "text": "Yakın mı uzak",
       "id": 202606152244,
       "category": "posts/seyirdefteri/202606152244"
-    },
-    {
-      "text": "Kitabın ortasından •1",
-      "id": 202606132317,
-      "category": "posts/seyirdefteri/202606132317"
     }
   ]
 }
