@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1563,
+        "parca_adi": "Boş Kâsenin Şöleni",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/bema8gpxyji0tru/solen66.mp3"
+      },
+      "id": 202606191159,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Nokta-i Nazar",
       "id": 202606172326,
       "category": "posts/seyirdefteri/202606172326"
@@ -59,11 +69,6 @@
       "text": "Denizde ırmak aranmaz",
       "id": 202606152245,
       "category": "posts/seyirdefteri/202606152245"
-    },
-    {
-      "text": "Yakın mı uzak",
-      "id": 202606152244,
-      "category": "posts/seyirdefteri/202606152244"
     }
   ]
 }
