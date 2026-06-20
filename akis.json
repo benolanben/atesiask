@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Eğreti Karaltı",
+      "id": 202606202224,
+      "category": "posts/seyirdefteri/202606202224"
+    },
+    {
       "text": "Arayışın Farkındalığı",
       "id": 202606202101,
       "category": "posts/seyirdefteri/202606202101"
@@ -54,11 +59,6 @@
       },
       "id": 202606162403,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Saklı Hazine'nin Saklambacı",
-      "id": 202606162304,
-      "category": "posts/seyirdefteri/202606162304"
     }
   ]
 }
