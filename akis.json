@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ateşten Bir Süpürge",
+      "id": 202606202058,
+      "category": "posts/seyirdefteri/202606202058"
+    },
+    {
       "text": "Boş Kâsenin Şöleni",
       "id": 202606202041,
       "category": "posts/seyirdefteri/202606202041"
@@ -54,16 +59,6 @@
       "text": "Aşk var hamurumuzda",
       "id": 202606162255,
       "category": "posts/seyirdefteri/202606162255"
-    },
-    {
-      "text": {
-        "sira_no": 1561,
-        "parca_adi": "Dağ perisi",
-        "seslendiren": "Ç. Fidan",
-        "url": "https://www.mediafire.com/file/dvdu67byndia3i9/dagperisi.mp3"
-      },
-      "id": 202606162138,
-      "category": "kaynak/baska"
     }
   ]
 }
