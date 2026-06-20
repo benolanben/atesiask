@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Arayışın Farkındalığı",
+      "id": 202606202101,
+      "category": "posts/seyirdefteri/202606202101"
+    },
+    {
       "text": "Ateşten Bir Süpürge",
       "id": 202606202058,
       "category": "posts/seyirdefteri/202606202058"
@@ -54,11 +59,6 @@
       "text": "Saklı Hazine'nin Saklambacı",
       "id": 202606162304,
       "category": "posts/seyirdefteri/202606162304"
-    },
-    {
-      "text": "Aşk var hamurumuzda",
-      "id": 202606162255,
-      "category": "posts/seyirdefteri/202606162255"
     }
   ]
 }
