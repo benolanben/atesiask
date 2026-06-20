@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202606202041,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606202041-1781977319450.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Boş Kâsenin Şöleni",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606202025,
       "is_protected": false,
       "article": {
