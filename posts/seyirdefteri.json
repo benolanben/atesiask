@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202606202025,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606202025-1781976327666.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "huzur arayışı"
+          ],
+          "title": "Hiç Ayrılmayanın Koynunda",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606172326,
       "is_protected": false,
       "article": {
