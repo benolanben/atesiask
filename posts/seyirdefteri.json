@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606202224,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "arzu",
+            "inanç"
+          ],
+          "title": "Eğreti Karaltı",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202606202101,
       "is_protected": true,
       "article": {
