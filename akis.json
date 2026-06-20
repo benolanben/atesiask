@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hiç Ayrılmayanın Koynunda",
+      "id": 202606202025,
+      "category": "posts/seyirdefteri/202606202025"
+    },
+    {
       "text": {
         "sira_no": 1563,
         "parca_adi": "Boş Kâsenin Şöleni",
@@ -64,11 +69,6 @@
       },
       "id": 202606161031,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Denizde ırmak aranmaz",
-      "id": 202606152245,
-      "category": "posts/seyirdefteri/202606152245"
     }
   ]
 }
