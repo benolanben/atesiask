@@ -1,0 +1,45 @@
+{
+  "id": 202606202224,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-20T17:15:52.056Z",
+  "created_at": "2026-06-20T19:24:47.530Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "arzu",
+        "inanç"
+      ],
+      "title": "Eğreti Karaltı",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">— Arzu nedir?</p><p class=\"mb-4\">Bir şeyin olmasını şiddetle, hevesle istemek</p><p class=\"mb-4\">— Arzu neyi örtmektedir?</p><p class=\"mb-4\">Şimdi o şeyin burada olmadığını<br>Şimdi eksi olduğunu<br>O'na kavuşunca tamam olacağını</p><p class=\"mb-4\">\"Özgürlük arzusu\" bile benliği hareket halinde, çark-ı felekte işler vaziyette tutabilir.</p><p class=\"mb-4\">Başlangıçta arzu şelalesi dışarıya akar; nesnelere, deneyimlere, tamamlanmaya doğru.</p><p class=\"mb-4\"><br>Sonra incelir, zarifleşir.</p><p class=\"mb-4\">Huzur ister, salıverilmek ister, uyanış ister, aydınlanma ister yani ermiş olmak ister.</p><p class=\"mb-4\"><br>Fakat yapı hâlâ tanıdıktır:</p><p class=\"mb-4\"><br>Bir şeyler eksiktir ve birinin ona ulaşması gerekmektedir.</p><p class=\"mb-4\">Nesneler değişmiştir.<br>Hareket değişmemiştir.</p><p class=\"mb-4\"><br>Özgürlük, arzunun nihai tatmini değildir öyle</p><p class=\"mb-4\">Özgürlük, ona doğru gerinen kişiye artık o kadar da büsbütün inanılmadığında görünür hâle gelendir.</p><p class=\"mb-4\">İşte o zaman arayış yumuşar.<br>Bir şey elde edildiği için değil, kurtuluşu bir başka nesneye dönüştüren o merkez zayıfladığı için.</p><p class=\"mb-4\">Geriye kalanın özgür olmaya ihtiyacı yoktur.<br><br>Zâten esâretin parmakları öyle sanılan inatçı bir düşüncedendi...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606202225-1781983504255.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Kendim sanarak savunduğun<br>\"Benlik\" dediğin sözde şey,<br>Sırf, öylesi bir düşünce onu durmaksızın sahneye sürdüğü için sana böyle kaskatı, gün ortasında \"anıt\" gibi görünüyor.<br><br>Bir hatıra, bir korku, üstlenilmiş bir rol, kabuk bağlamamış bir yara, vadeli bir ümit...<br><br>Ve hoppala!<br><br>Aynı tanıdık siluet yine düşüyor perdeye:<br><br>\"Ben işte\"<br><br>İşte bu bitmek bilmeyen tekrar, bir süre sonra insana bir \"öz\", hakiki bir cevhermiş gibi hissettirmeye başlar.<br><br>Oysa tespih tanelerini hızlı sallıyorsun diye arada ip olmadığını iddia edemezsin değil mi?<br><br>Gelgelelim, bir gölgenin kendi kendine ait bir hayatı yoktur.<br><br>Perdede kalabilmek için her an başka bir şeye, bir ışık kaynağına, dikkat, enerji, ilgiye yani bakıma muhtaçtır.<br><br>Düşüncenin bizi kainatın merkezindeymiş gibi inandırmaya çalıştığı o \"ego\" denilen şey de aynen böyledir; var~sanılan bir inanç, bir diğeri tarafından doğrulanmazsa aç...<br><br>Yıllardır o kadar aciliyetle, o kadar canhıraş savunduğun, üzerine titrediğin o kale var ya... Aslında hiçbir zaman sandığın kadar sağlam ve kalıcı değildi.<br><br>O, düşüncenin saf yaşantının, o berrak akışın üzerine boyuna fırlattığı ve sonra da utanmadan \"Bu benim işte!\" diye kartvizit bastırdığı eğreti bir karaltıdan ibaretti.<br><br>Ne var ki bu imkansız kovalamaca neticede, gölgesini yakalayayım derken duvara toslayan adamın aydınlanmasından farksız işte:<br><br>Boşlukta asılı kaldı,<br>Elinde ne bir ben kaldı ne de duvar<br>— Ama faturası, her zamanki gibi, kafasına kesildi.</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606202225-1781983506433.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-20T19:24:47.530Z",
+  "is_protected": false
+}
