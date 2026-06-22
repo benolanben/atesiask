@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Son Nefes Üstüne",
+      "id": 202606230014,
+      "category": "posts/seyirdefteri/202606230014"
+    },
+    {
       "text": "Yedi Dur~ak Risâlesi •7",
       "id": 202606230012,
       "category": "posts/seyirdefteri/202606230012"
@@ -49,11 +54,6 @@
       "text": "Sen~senma..",
       "id": 202606172304,
       "category": "posts/seyirdefteri/202606172304"
-    },
-    {
-      "text": "Çevrimiçi Nörobilim",
-      "id": 202606172237,
-      "category": "posts/seyirdefteri/202606172237"
     }
   ]
 }
