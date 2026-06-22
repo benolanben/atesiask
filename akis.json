@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •7",
+      "id": 202606230012,
+      "category": "posts/seyirdefteri/202606230012"
+    },
+    {
       "text": "Eğreti Karaltı",
       "id": 202606202224,
       "category": "posts/seyirdefteri/202606202224"
@@ -49,16 +54,6 @@
       "text": "Çevrimiçi Nörobilim",
       "id": 202606172237,
       "category": "posts/seyirdefteri/202606172237"
-    },
-    {
-      "text": {
-        "sira_no": 1562,
-        "parca_adi": "Saklı Hazine'nin Saklambacı",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/okgwghgc6cm0taj/saklam2.mp3"
-      },
-      "id": 202606162403,
-      "category": "kaynak/baska"
     }
   ]
 }
