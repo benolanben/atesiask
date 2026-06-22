@@ -1,0 +1,59 @@
+{
+  "id": 202606230031,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-22T21:08:08.207Z",
+  "created_at": "2026-06-22T21:31:07.108Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "hafıza",
+        "ömür"
+      ],
+      "title": "Mecburiyetten Hayrete",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bir diğerinin yolu sizi sakinleştirebilir hatta uyandırabilir bile...<br><br>Ama taklit ederek yaşamaya başladığınız an, gerçeğin kendi hayatınızda açtığı biricik yoldan ayrılırsınız.<br><br>İçinizdeki gerçek olan, ödünç alınmış cesaretle şekillenmeyecektir. İlla kendi cesaretinizi ister; her kuş kendi kanadıyla gezer kendi gökkubesinde!</p><p class=\"mb-4\">Unutma maddede ya manâda, münafıklar ateş çukurunun en derinlerinde gezer...</p><p class=\"mb-4\">Korkaklıktan</p><p class=\"mb-4\">Tembellikten</p><p class=\"mb-4\">Teşevvüşü'l emr'den</p><p class=\"mb-4\">Her sabah sığın biricik zatına efendim</p><p class=\"mb-4\">Canım kendim...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606222431-1782163883968.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Gelip geçerken günler, yaşamak alıştığımız bir şeye döner; heyecan, hayret, coşku gider, mecbûri işler kalır ve<br><br>Ve hayat \"mavisini yitirmiş yaşamak\" adını alır.</p><p class=\"mb-4\"><br>Oysa hayata can heyecandır ve tahmin edilebilirlik, heyecanı öldürür...</p><p class=\"mb-4\">Ismarlama bir hayatı yaşamaya çalıştığın yeter;</p><p class=\"mb-4\">Bırak hayat yaşasın seni...</p><p class=\"mb-4\">Yaşasııın...</p><p class=\"mb-4\"><br>Şimdiki dünyayı dünden kalan kelimeler, etiketlerle ve kavramlarla örtbas etmediğinizde insanlığın, düşünceyi kullanmak yerine düşüncenin esiri olmakla uzun zaman önce kaybettiği \"mucizevi varlık hissi\" yaşam sevinci hayata geri döner.</p><p class=\"mb-4\">\"Ölüden diri çıkması\" biraz da buna benzer</p><p class=\"mb-4\">Allah hayırlı ömürler versin</p><p class=\"mb-4\">Misal kendi ömrü</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605200002.webm?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Bellek, saf ve basit bir tuzaktır; geçmişi değiştirir, incelikle yeniden düzenleyerek bugüne uydurur.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">\"Şu hafızam ne garip bir yoldaş\" dedi, semeri indiren,<br>\"İhtiyacım olduğu yerde yüzüstü bırakır, rahat bırakması gereken yerlerdeyse, kafama takılır ha takılır.\"<br><br>Ve acının sonu, düşüncenin sonu değildir; düşünceye takılıp kalmanın sonudur.</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606222431-1782163886917.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-22T21:31:07.108Z",
+  "is_protected": false
+}
