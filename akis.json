@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Mecburiyetten Hayrete",
+      "id": 202606230031,
+      "category": "posts/seyirdefteri/202606230031"
+    },
+    {
       "text": "Son Nefes Üstüne",
       "id": 202606230014,
       "category": "posts/seyirdefteri/202606230014"
@@ -49,11 +54,6 @@
       "text": "Nokta-i Nazar",
       "id": 202606172326,
       "category": "posts/seyirdefteri/202606172326"
-    },
-    {
-      "text": "Sen~senma..",
-      "id": 202606172304,
-      "category": "posts/seyirdefteri/202606172304"
     }
   ]
 }
