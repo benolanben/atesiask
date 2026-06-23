@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İnsan bahânesi",
+      "id": 202606232349,
+      "category": "posts/seyirdefteri/202606232349"
+    },
+    {
       "text": "Deve zâten bu tarafta...",
       "id": 202606232306,
       "category": "posts/seyirdefteri/202606232306"
@@ -44,11 +49,6 @@
       "text": "Arayışın Farkındalığı",
       "id": 202606202101,
       "category": "posts/seyirdefteri/202606202101"
-    },
-    {
-      "text": "Ateşten Bir Süpürge",
-      "id": 202606202058,
-      "category": "posts/seyirdefteri/202606202058"
     }
   ]
 }
