@@ -1,0 +1,68 @@
+{
+  "id": 202606232254,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-23T19:41:07.676Z",
+  "created_at": "2026-06-23T19:54:43.169Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Kendi~ne göndermeler",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Başkalarının içinde \"yuva\" aramayı bırakıp kendi içimde yuvanın temellerini kaldırdığımda, bir zihin ve bedende bütün olmaya karar veren köklerden daha samimi, daha mahrem bir bağ olmadığını fark ettim.<br></p>",
+          "author": "[R. Kaur'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İstikbal köklerdedir<br>Köklendiğini bırak da bil<br><br>Sabahunnûr ve's-sürûr<br>Kökü bildiği yerde değil<br>Bilmediği gökte olan kurtulur</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606232255-1782244504086.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">— Arzu etmeyi bırak, arzu tüm acıların kökenidir.</p><p class=\"mb-4\">Yani benden arzu etmeyi bırakmayı mı arzu etmemi istiyorsunuz?</p><p class=\"mb-4\"><br>— Nirvana, fenafillah tüm olguların sona ermesidir.</p><p class=\"mb-4\">Öyleyse bunun gerçekleştiğini bilmek için geriye kim ya da ne kalır?</p><p class=\"mb-4\"><br>Aziz Dilemmâ:</p><p class=\"mb-4\"><br>İster a-teist olsun ister teist, hakikat eleştirisi yapan entelektüellerin en büyük trajedisi şu olabilir mi?</p><p class=\"mb-4\"><br>Hakikati baltalamak için salladıkları her kavramsal balta, aslında baltalayacakları bir \"Hakikat\" kavramını peşînen var sayar hatta onu kutsar.</p><p class=\"mb-4\">Yani kişi hâliyle, yıkmaya çalıştığı illüzyonun varlığına muhtaç bir köledir.</p><p class=\"mb-4\"><br>Oysa yok bişî</p><p class=\"mb-4\">Bana öyle gelmiş<br><br>~<br><br>Fenâ bulmaz vücûd aslâ;<br>Fenâ bulan cehâlettir...<br><br>Fenâ<br>Bul~an<br>Kalmadı</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605220002.webm?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Düşünceler arasında boşluklar oluşmaz,<br>Düşünceler uçsuz bucaksız bir açıklık<br>Boşluğunda belirir.<br></p>",
+          "author": "[Milarepa'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Düşünceyi kovalayan \"şey\"</p><p class=\"mb-4\">Düşüncenin dışında değildir.</p><p class=\"mb-4\">O, aynı hareketin bir parçasıdır.</p><p class=\"mb-4\"><br>Bu bir kez tam fark edildiğinde, bir düğüm çözüşür ve bir şeyler gevşer.</p><p class=\"mb-4\"><br>Düşünce hâlâ devam edebilir.<br>Takip etme hissi bile devam edebilir.</p><p class=\"mb-4\"><br>Ama senin zâten olduğun şey,<br>Artık o hareketin içine yerleştirilmemektedir.</p><p class=\"mb-4\"><br>Sığmıyorsun işte!</p><p class=\"mb-4\"><br>Evet içimizde</p><p class=\"mb-4\">Düşünceyle gelip gitmeyen bir şey var</p><p class=\"mb-4\"><br>Evet içimizde adı olmayan bir şey var</p><p class=\"mb-4\">Ve işte O şey</p><p class=\"mb-4\">Bizim</p><p class=\"mb-4\">Ne</p><p class=\"mb-4\">Olduğumuzdur.</p><p class=\"mb-4\"><br>Yani gerçekte ne olduğun,<br>Düşünceyle başlamaz<br>Ve düşünce sustuğunda da<br>Sona ermez.</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">\"Kimsin sen\" dedi</p><p class=\"mb-4\">Sus be hey!</p><p class=\"mb-4\">Bizim ne olduğumuz dile mi gelir!</p><p class=\"mb-4\"></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605220001.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-23T19:54:43.169Z",
+  "is_protected": false
+}
