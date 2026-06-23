@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Maya İçinde Maya",
+      "id": 202606231342,
+      "category": "posts/seyirdefteri/202606231342"
+    },
+    {
       "text": "Mecburiyetten Hayrete",
       "id": 202606230031,
       "category": "posts/seyirdefteri/202606230031"
@@ -49,11 +54,6 @@
       },
       "id": 202606191159,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Nokta-i Nazar",
-      "id": 202606172326,
-      "category": "posts/seyirdefteri/202606172326"
     }
   ]
 }
