@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Deve zâten bu tarafta...",
+      "id": 202606232306,
+      "category": "posts/seyirdefteri/202606232306"
+    },
+    {
       "text": "Kendi~ne göndermeler",
       "id": 202606232254,
       "category": "posts/seyirdefteri/202606232254"
@@ -44,11 +49,6 @@
       "text": "Ateşten Bir Süpürge",
       "id": 202606202058,
       "category": "posts/seyirdefteri/202606202058"
-    },
-    {
-      "text": "Boş Kâsenin Şöleni",
-      "id": 202606202041,
-      "category": "posts/seyirdefteri/202606202041"
     }
   ]
 }
