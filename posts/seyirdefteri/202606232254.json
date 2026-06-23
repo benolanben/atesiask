@@ -59,10 +59,24 @@
           "type": "video",
           "text": "",
           "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605220001.webm?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Zat makâmı olan<br>Kıblede duran<br>Kâbe-i Muazzama<br>Niçin boş dersin?<br><br>Dil-hânesi</p><p class=\"mb-4\">Gönül evi</p><p class=\"mb-4\">Kalp ocağı</p><p class=\"mb-4\">Niçin mirat-ı Hak?</p><p class=\"mb-4\"><br>Kendisi renksiz olunca</p><p class=\"mb-4\">İki pencereden sızan ne varsa olduğu gibi düşürüyor aksini...</p><p class=\"mb-4\"><br>Yoksa ne mi oluyor?</p><p class=\"mb-4\">Işığı yutuyor, oda karanlıkta kalıyor, alaca düşüyor gördüğümüze</p><p class=\"mb-4\"><br>Ne demek istiyorsak...<br><br>Uşşak bir nefesten geçmeyen bir selâm olsun geçenlere...</p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&681"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606232256-1782244603383.jpg"
         }
       ]
     }
   },
-  "updated_at": "2026-06-23T19:54:43.169Z",
+  "updated_at": "2026-06-23T19:56:21.854Z",
   "is_protected": false
 }
