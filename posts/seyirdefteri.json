@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202606232137,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606232138-1782239889973.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "O Biri Nasıl Olunur",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606231342,
       "is_protected": false,
       "article": {
