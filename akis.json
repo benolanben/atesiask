@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "O Biri Nasıl Olunur",
+      "id": 202606232137,
+      "category": "posts/seyirdefteri/202606232137"
+    },
+    {
       "text": "Maya İçinde Maya",
       "id": 202606231342,
       "category": "posts/seyirdefteri/202606231342"
@@ -44,16 +49,6 @@
       "text": "Hiç Ayrılmayanın Koynunda",
       "id": 202606202025,
       "category": "posts/seyirdefteri/202606202025"
-    },
-    {
-      "text": {
-        "sira_no": 1563,
-        "parca_adi": "Boş Kâsenin Şöleni",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/bema8gpxyji0tru/solen66.mp3"
-      },
-      "id": 202606191159,
-      "category": "kaynak/baska"
     }
   ]
 }
