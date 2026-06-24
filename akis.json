@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kendi yokluğunu arayan ben~deniz",
+      "id": 202606242246,
+      "category": "posts/seyirdefteri/202606242246"
+    },
+    {
       "text": {
         "sira_no": 1565,
         "parca_adi": "Huzur arıyışı",
@@ -54,11 +59,6 @@
       "text": "Son Nefes Üstüne",
       "id": 202606230014,
       "category": "posts/seyirdefteri/202606230014"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •7",
-      "id": 202606230012,
-      "category": "posts/seyirdefteri/202606230012"
     }
   ]
 }
