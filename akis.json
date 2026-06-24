@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bilmeyiver...",
+      "id": 202606250016,
+      "category": "posts/seyirdefteri/202606250016"
+    },
+    {
       "text": "Gerçek hayat",
       "id": 202606250008,
       "category": "posts/seyirdefteri/202606250008"
@@ -54,11 +59,6 @@
       "text": "Maya İçinde Maya",
       "id": 202606231342,
       "category": "posts/seyirdefteri/202606231342"
-    },
-    {
-      "text": "Mecburiyetten Hayrete",
-      "id": 202606230031,
-      "category": "posts/seyirdefteri/202606230031"
     }
   ]
 }
