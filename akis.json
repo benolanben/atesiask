@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gerçek hayat",
+      "id": 202606250008,
+      "category": "posts/seyirdefteri/202606250008"
+    },
+    {
       "text": "Kendi yokluğunu arayan ben~deniz",
       "id": 202606242246,
       "category": "posts/seyirdefteri/202606242246"
@@ -54,11 +59,6 @@
       "text": "Mecburiyetten Hayrete",
       "id": 202606230031,
       "category": "posts/seyirdefteri/202606230031"
-    },
-    {
-      "text": "Son Nefes Üstüne",
-      "id": 202606230014,
-      "category": "posts/seyirdefteri/202606230014"
     }
   ]
 }
