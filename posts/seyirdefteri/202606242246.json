@@ -1,0 +1,47 @@
+{
+  "id": 202606242246,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-24T19:34:19.359Z",
+  "created_at": "2026-06-24T19:46:46.925Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Kendi yokluğunu arayan ben~deniz",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&1559",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606242247-1782330426157.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><em>... Lem yekun şey-en meżkûrâ</em></p><p class=\"mb-4\">Varlık sahnesinde bir an<br>Zikredilen<br>İsmi geçen<br>Adı anılan<br>Öyle bir şey<br>Değildi insan<br></p>",
+          "author": "[İnsan:1'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Acaba nedir bu \"insan insan\" dedikleri<br>Ve hiç bitmeyen arayış derdi?</p><p class=\"mb-4\">Bir cümlede<br>Bir nesne, kendi yokluğunu arıyorsa...</p><p class=\"mb-4\">O nesneden açığa çıkan fiil kalmayınca Nesnenin de adı anılmaz olur değil mi?</p><p class=\"mb-4\">Allah'ı arayan bizler,<br>Sanki \"Sessizliği arayan gürültüler\"</p><p class=\"mb-4\">Arayış kesilince gürültü de kesilir; hep burada olan sessizlik sezilir...</p><p class=\"mb-4\">Mesela<br>Dalgasızlığı arasa bir dalga<br>Bir~deniz~de<br>Ne deriz?</p><p class=\"mb-4\">Dalganın varlığı okyanusun fiili<br>Fiil kalmayınca sözde fâlin ismi de kalmaz</p><p class=\"mb-4\">Arayış fiili olmasa<br>Arayan da kalmaz</p><p class=\"mb-4\">Dalga~da~deniz~olur</p><p class=\"mb-4\">Ezelden beri<br>Kendi enginliğini<br>Seyre dalan</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Ârife bir işaret yeter<br>Gürültüyü, sessizlik<br>Dalgayı, deniz oynar</p><p class=\"mb-4\">Sessizliği, gürültüyle<br>Denizi, dalgayla gizler</p><p class=\"mb-4\">Unutulunca hatırlanan bir cümle vardır:</p><p class=\"mb-4\">Her fiilde fâil O ise<br>(Doğal olarak)</p><p class=\"mb-4\">Her vücutta mevcut O'dur</p><p class=\"mb-4\">İşte tam burada,<br>Meydan-ı hayrette<br>Şimdi duyulur belki<br>O~Deniz'in Y. Emre Dalgası'ndan:</p><p class=\"mb-4\">İster idim Allah'ı<br>Buldum ise n'oldu ❞</p><hr><p class=\"mb-4\"></p><p class=\"mb-4\">… Buldum ise n’oldu?<br>Öyle miii?</p><p class=\"mb-4\">E, bulmak da bir fiildi, fâili de bendim sandıydım.</p><p class=\"mb-4\">Kaybolmakmış hüner, arayan da O’ymuş meğer!</p><p class=\"mb-4\">Ben O’nu aradıkça kendimi kaybettim,<br>Kendimi kaybettikçe O ben oldu.</p><p class=\"mb-4\">Şimdi sorarım sana bana ey can:</p><p class=\"mb-4\">Arayan gayb~olduğuna, bulunan hiç olmadığına göre,</p><p class=\"mb-4\">Bu buluşmanın sevinci kime düşer?</p><p class=\"mb-4\">Gönülde, hiç yoktan bir bayram havası eser...</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606242247-1782330428542.jpg",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606242245.mp3?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-24T19:46:46.925Z",
+  "is_protected": false
+}
