@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1564,
+        "parca_adi": "Erre Zikri",
+        "seslendiren": "E. Mahzen",
+        "url": "https://www.mediafire.com/file/44oiymiy62tnazv/errezikri.mp3"
+      },
+      "id": 202606241002,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "İnsan bahânesi",
       "id": 202606232349,
       "category": "posts/seyirdefteri/202606232349"
@@ -44,11 +54,6 @@
       "text": "Eğreti Karaltı",
       "id": 202606202224,
       "category": "posts/seyirdefteri/202606202224"
-    },
-    {
-      "text": "Arayışın Farkındalığı",
-      "id": 202606202101,
-      "category": "posts/seyirdefteri/202606202101"
     }
   ]
 }
