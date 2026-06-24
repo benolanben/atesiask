@@ -1,0 +1,49 @@
+{
+  "id": 202606250016,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-24T12:09:09.007Z",
+  "created_at": "2026-06-24T21:16:35.303Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Bilmeyiver...",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Güvende olmak için her şeyi tekrar tekrar düşünmen gerektiğini, çok çeşitli şeyleri kontrol ederek, kendini güvence altına alman gerektiğini sanıyorsun ya...<br><br>Sanki sorunlardan bir sorunmuş gibi varlık sorununu yeterince düşünürsen, BİLMEKLE çözebileceğini sanıyorsun değil mi?<br><br>Ancak bu, düşünmenin ötesinde bir zeka olmadığını varsayıyor.<br><br>Böylesi muzır düşünceye düşerek, ezel zekasına karşı haddini aşmış olmayasın?<br><br>Eğer inancın varsa ve her şeyi düşünmen ve dolayısıyla kontrol etmen gerektiği inancından kurtulursan...<br><br>O zaman daha dinamik, doğal ve etkili, kendi nefesiyle kendi hayatını kendiliğinden suladığı bir yaşam tarzını keşfedebilirsin.<br><br>Dinlerden dinlersen buna gerçek hayat yani öyle sanmalardan sonra gelen \"âhiret\" denildiğini apaçık görebilirsin<br><br>Hayır çok denedin biliyorum<br>Bir de böyle dene istersen...<br>Bilmeyiver</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606241519-1782303569198.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Her nefeste adını tâzeleyenin bayramı eskimez, yâr ile şimdî bayram edenler, yarın hiç cenneti beklemez.</p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Âleme sorsan<br>9 Zilhicce 'Arefe<br>İrfan tanışma günü<br><br>Sonrası bayram<br>Demek bir kez tanıyana sonra hep bayram...<br><br>Şimdi tanıdık ya<br>Hadi bayramlaşalım bir bir...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605260000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-24T21:16:35.303Z",
+  "is_protected": false
+}
