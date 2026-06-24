@@ -1,3 +1,72 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1782302973819,
+      "title": "Gerçek hayat -videoeklenecek",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1782302973819,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-06-24T12:09:09.007Z",
+        "created_at": "2026-06-24T12:09:09.007Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "Gerçek hayat -videoeklenecek",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Her sabah uyandığımda<br>Hayata karışmak için özel bir çaba sarf ediyorum.</p><p class=\"mb-4\"><br>Yüzüme taktığım maske mi gerçek..</p><p class=\"mb-4\">Yoksa altında saklı olan ve benim -ben demekten çekinmediğim varlık mı gerçek, gerçekten bilmiyorum.<br><br>Her şey sahte geliyor.</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Gerçekten nasıl güldüğümü bile hatırlamıyorum.</p>",
+                "author": "[Persona, I. Bergman'dan]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">~</p>"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\"><br>Bu yaşadığım hayat, o kadar benim değil ki...</p><p class=\"mb-4\">Herhangi bir saatimde birisi gelip de bana:</p><p class=\"mb-4\">\"Haydi kalk, sıran geldi, kendi kendin ol!\"<br><br>Diye bağırsa sanki böyle bir şey mümkünmüş gibi<br>İnanıp koşacağım vallahi...</p>",
+                "author": "[Tanpınar'dan]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\"></p><p class=\"mb-4\">Hiç kendini denemeyecek misin?</p><p class=\"mb-4\">Ne olduğunu, kim olduğunu öğrenmeden mi ölüp gideceksin?</p><p class=\"mb-4\"><br>~<br><br>Biraz da yaklaşın uçurumun kenarına<br>Gülümseyin çekiliyoruz<br><br>••<br>••<br>•</p>"
+              },
+              {
+                "type": "video",
+                "text": ""
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Bahçe, gül yapraklarını gübre yapar.</p><p class=\"mb-4\">Bahçıvan, gül suyu</p>",
+                "author": "[Cenâb-ı Mevlevî'den]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\"><br>Çatlarmış insana rastlayan, insanlık tohumu</p><p class=\"mb-4\"><br>Ne demek şimdi bu?</p>"
+              },
+              {
+                "type": "fotograf",
+                "text": "",
+                "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606241516-1782303392670.jpg"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-06-24T12:09:33.819Z",
+      "updated_at": "2026-06-24T12:16:02.374Z",
+      "is_protected": false
+    }
+  ]
 }
