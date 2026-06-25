@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1566,
+        "parca_adi": "Feryâd-ı Hüseynî",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/y6zcs8jfrymynf1/feryadihuseyni.mp3"
+      },
+      "id": 202606251038,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Bilmeyiver...",
       "id": 202606250016,
       "category": "posts/seyirdefteri/202606250016"
@@ -54,11 +64,6 @@
       "text": "O Biri Nasıl Olunur",
       "id": 202606232137,
       "category": "posts/seyirdefteri/202606232137"
-    },
-    {
-      "text": "Maya İçinde Maya",
-      "id": 202606231342,
-      "category": "posts/seyirdefteri/202606231342"
     }
   ]
 }
