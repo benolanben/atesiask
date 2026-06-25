@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1568,
+        "parca_adi": "Gerçeğin Gizi",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/dxmifngaa8jb7ec/gercegingizi.mp3"
+      },
+      "id": 202606252250,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1567,
         "parca_adi": "Böyle bir yalnızlık",
         "seslendiren": "A. Aşk",
@@ -64,11 +74,6 @@
       "text": "Deve zâten bu tarafta...",
       "id": 202606232306,
       "category": "posts/seyirdefteri/202606232306"
-    },
-    {
-      "text": "Kendi~ne göndermeler",
-      "id": 202606232254,
-      "category": "posts/seyirdefteri/202606232254"
     }
   ]
 }
