@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1567,
+        "parca_adi": "Böyle bir yalnızlık",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/tparwyn8cagu9hc/yalnizlik.mp3"
+      },
+      "id": 202606251621,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1566,
         "parca_adi": "Feryâd-ı Hüseynî",
         "seslendiren": "A. Aşk",
@@ -59,11 +69,6 @@
       "text": "Kendi~ne göndermeler",
       "id": 202606232254,
       "category": "posts/seyirdefteri/202606232254"
-    },
-    {
-      "text": "O Biri Nasıl Olunur",
-      "id": 202606232137,
-      "category": "posts/seyirdefteri/202606232137"
     }
   ]
 }
