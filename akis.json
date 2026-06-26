@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Öylesi bir demden",
+      "id": 202606262148,
+      "category": "posts/seyirdefteri/202606262148"
+    },
+    {
       "text": "Bir Nükte",
       "id": 202606262139,
       "category": "posts/seyirdefteri/202606262139"
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/wx51j3y4frx7gj2/huzur.mp3"
       },
       "id": 202606241647,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1564,
-        "parca_adi": "Erre Zikri",
-        "seslendiren": "E. Mahzen",
-        "url": "https://www.mediafire.com/file/44oiymiy62tnazv/errezikri.mp3"
-      },
-      "id": 202606241002,
       "category": "kaynak/baska"
     }
   ]
