@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606262054,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606262054-1782496480244.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "feryâd-ı hüseynî",
+            "kerbala"
+          ],
+          "title": "Feryâd-ı Hüseynî",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606250016,
       "is_protected": false,
       "article": {
