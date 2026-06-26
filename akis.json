@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bir Nükte",
+      "id": 202606262139,
+      "category": "posts/seyirdefteri/202606262139"
+    },
+    {
       "text": "Feryâd-ı Hüseynî",
       "id": 202606262054,
       "category": "posts/seyirdefteri/202606262054"
@@ -69,11 +74,6 @@
       },
       "id": 202606241002,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "İnsan bahânesi",
-      "id": 202606232349,
-      "category": "posts/seyirdefteri/202606232349"
     }
   ]
 }
