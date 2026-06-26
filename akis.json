@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Feryâd-ı Hüseynî",
+      "id": 202606262054,
+      "category": "posts/seyirdefteri/202606262054"
+    },
+    {
       "text": {
         "sira_no": 1568,
         "parca_adi": "Gerçeğin Gizi",
@@ -69,11 +74,6 @@
       "text": "İnsan bahânesi",
       "id": 202606232349,
       "category": "posts/seyirdefteri/202606232349"
-    },
-    {
-      "text": "Deve zâten bu tarafta...",
-      "id": 202606232306,
-      "category": "posts/seyirdefteri/202606232306"
     }
   ]
 }
