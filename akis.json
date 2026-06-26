@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Özgürlük en doğal halimiz",
+      "id": 202606262158,
+      "category": "posts/seyirdefteri/202606262158"
+    },
+    {
       "text": "Öylesi bir demden",
       "id": 202606262148,
       "category": "posts/seyirdefteri/202606262148"
@@ -59,16 +64,6 @@
       "text": "Kendi yokluğunu arayan ben~deniz",
       "id": 202606242246,
       "category": "posts/seyirdefteri/202606242246"
-    },
-    {
-      "text": {
-        "sira_no": 1565,
-        "parca_adi": "Huzur arıyışı",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/wx51j3y4frx7gj2/huzur.mp3"
-      },
-      "id": 202606241647,
-      "category": "kaynak/baska"
     }
   ]
 }
