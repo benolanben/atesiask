@@ -1,0 +1,44 @@
+{
+  "id": 202606262148,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-26T17:44:32.027Z",
+  "created_at": "2026-06-26T18:48:42.045Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Öylesi bir demden",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bâtından zâhire ne baş verirsə versin<br>Arka plandan ön plana ne çıkarsa çıksın<br><br>Yani ne olursa olsun, farkındalığın ışığında, Allah'ın nûrunda muhkem durun.<br><br>İşlevsiz düşünce biçimlerinin seni beni tesiri altına alması, en karanlık anlarda, o sahneye farkındalık ışığı düşmediğinde olur; gaflet zulmette olur.<br><br>Olan oysa karanlığa bile evet deyin, hiç inkar etmeden, kaçmaya ya düzeltmeye çalışmadan...<br><br>Tam olarak burada olanla aynalaşacak, yüzleşecek açık bir şefkat gösterin, merhametle karşılayın...<br><br>Olanla<br>Karşılaşmak<br>Aynalaşmak<br>Yüzleşmek demek<br><br>Hem de kendini anlık yüzünü<br>Vechullah'ı tanımak demek olabilir mi?<br><br>Sabahunnûr ve's-sürûr<br>Tanımanın ilk alâmeti gülüp sarılmak olur</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606262149-1782499744877.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Öyle anlar hulûl eder kii...<br>İnsanın canla başla muhafaza ve tahkim eylediği o zât-ı mevhûmu (sanal benliği) yavaş yavaş çözülmeye, raptiyesiı gevşemeye yüz tutar.<br><br>Bu hâl, öyle bir sa'y u gayretin semeresi değil; bilakis, gayretin ve ihtimamın aczini idrak etmekle zevk olunur.<br><br>Zihne hükmeden bir fikir, artık o eski nüfuz ve satvetini kaybetmiş; nefsin sığındığı o aşina hikâyeler ve mazeretler ise artık pek sığ ve ehemmiyetsiz kalmıştır.<br><br>Bir zamanlar mülk-i insanı kuşatan ve 'ben' zannedilen o keskin hudutlar, nihayet yumuşamaya ve erimeye başlar...<br><br>Öylesi bir demden selâm selâm olsun, bayramda boş geçmeden...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605280000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-26T18:48:42.045Z",
+  "is_protected": true
+}
