@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1569,
+        "parca_adi": "Epistrophy",
+        "seslendiren": "C. Barbas",
+        "url": "https://www.mediafire.com/file/fmxu48dyqkp5e45/epistrophy.mp3"
+      },
+      "id": 202606271147,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Boşluğum gözlerinde...",
       "id": 202606262211,
       "category": "posts/seyirdefteri/202606262211"
@@ -59,11 +69,6 @@
       "text": "Bilmeyiver...",
       "id": 202606250016,
       "category": "posts/seyirdefteri/202606250016"
-    },
-    {
-      "text": "Gerçek hayat",
-      "id": 202606250008,
-      "category": "posts/seyirdefteri/202606250008"
     }
   ]
 }
