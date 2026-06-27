@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Etiketsiz \"Ben kimim?\"",
+      "id": 202606280005,
+      "category": "posts/seyirdefteri/202606280005"
+    },
+    {
       "text": {
         "sira_no": 1570,
         "parca_adi": "Uşşak Saz Semaisi",
@@ -63,16 +68,6 @@
         "url": "https://www.mediafire.com/file/tparwyn8cagu9hc/yalnizlik.mp3"
       },
       "id": 202606251621,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1566,
-        "parca_adi": "Feryâd-ı Hüseynî",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/y6zcs8jfrymynf1/feryadihuseyni.mp3"
-      },
-      "id": 202606251038,
       "category": "kaynak/baska"
     }
   ]
