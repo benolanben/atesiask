@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1570,
+        "parca_adi": "Uşşak Saz Semaisi",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/69g5yxp132sodra/ussaksaz.mp3"
+      },
+      "id": 202606271216,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1569,
         "parca_adi": "Epistrophy",
         "seslendiren": "C. Barbas",
@@ -64,11 +74,6 @@
       },
       "id": 202606251038,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Bilmeyiver...",
-      "id": 202606250016,
-      "category": "posts/seyirdefteri/202606250016"
     }
   ]
 }
