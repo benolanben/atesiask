@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606300030,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202606292431-1782768683915.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kırmızı kaplumbağa",
+            "Michael Dudok de Wit"
+          ],
+          "title": "Kırmızı Kaplumbağa",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606051050,
       "is_protected": false,
       "article": {
