@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kırmızı Kaplumbağa",
+      "id": 202606300030,
+      "category": "posts/seyirzevki/202606300030"
+    },
+    {
       "text": {
         "sira_no": 1571,
         "parca_adi": "Aynı havayla oynuyoruz",
@@ -59,16 +64,6 @@
       "text": "Feryâd-ı Hüseynî",
       "id": 202606262054,
       "category": "posts/seyirdefteri/202606262054"
-    },
-    {
-      "text": {
-        "sira_no": 1568,
-        "parca_adi": "Gerçeğin Gizi",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/dxmifngaa8jb7ec/gercegingizi.mp3"
-      },
-      "id": 202606252250,
-      "category": "kaynak/baska"
     }
   ]
 }
