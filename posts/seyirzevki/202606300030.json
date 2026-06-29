@@ -1,0 +1,43 @@
+{
+  "id": 202606300030,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-06-29T21:13:53.961Z",
+  "created_at": "2026-06-29T21:30:58.120Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202606292431-1782768683915.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Kırmızı kaplumbağa",
+        "Michael Dudok de Wit"
+      ],
+      "title": "Kırmızı Kaplumbağa",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606300016.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İşte sana bana modern bir fabl, kelime-siz bir şölen</p><p class=\"mb-4\">Hayatın gelgitleri karşısında direnmeyi mi,<br>Yoksa onunla akmayı mı seçeceksin bilemem</p><p class=\"mb-4\"><strong>Sessizlik kendi başına bir anlam taşır</strong></p><p class=\"mb-4\">Film boyunca tek bir sözcük edilmez.<br><br>Bu tercih, dilin sınırlarının ötesinde bir iletişim biçiminin varlığına işaret eder.<br><br>Duygular, bakışlar, hareketler ve mekân aracılığıyla aktarılır. Sessizlik burada boşluk değil, her şeyle doluluğun ta kendisidir.</p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\"><em>Zira en derin şeyler, söylenmeden yaşanır.</em></p>"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">🐢<br><br><strong><em>Bir adaya mahkûm olduğunu sanan bir adam, aslında en büyük özgürlüğünü orada bulabilir mi?</em></strong></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-06-29T21:30:58.120Z",
+  "is_protected": false
+}
