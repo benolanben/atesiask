@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Varlık Komasından C~anlanmalar",
+      "id": 202606302324,
+      "category": "posts/seyirdefteri/202606302324"
+    },
+    {
       "text": "Kırmızı Kaplumbağa",
       "id": 202606300030,
       "category": "posts/seyirzevki/202606300030"
@@ -59,11 +64,6 @@
       "text": "Bir Nükte",
       "id": 202606262139,
       "category": "posts/seyirdefteri/202606262139"
-    },
-    {
-      "text": "Feryâd-ı Hüseynî",
-      "id": 202606262054,
-      "category": "posts/seyirdefteri/202606262054"
     }
   ]
 }
