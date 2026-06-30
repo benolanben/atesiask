@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202606302328,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606302329-1782851361531.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "anlam",
+            "boş ev",
+            "mana"
+          ],
+          "title": "Anlam~evi~ne~tahliye",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606302324,
       "is_protected": false,
       "article": {
