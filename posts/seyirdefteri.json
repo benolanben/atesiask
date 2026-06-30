@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202606302324,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202606302325-1782851104176.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "varlık koması",
+            "özgürlük"
+          ],
+          "title": "Varlık Komasından C~anlanmalar",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202606280005,
       "is_protected": false,
       "article": {
