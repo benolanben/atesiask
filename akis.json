@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hikâyeye dönüştürmeden",
+      "id": 202607032306,
+      "category": "posts/seyirdefteri/202607032306"
+    },
+    {
       "text": "Uşşâk içre",
       "id": 202607032254,
       "category": "posts/seyirdefteri/202607032254"
@@ -59,11 +64,6 @@
       },
       "id": 202606271147,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Boşluğum gözlerinde...",
-      "id": 202606262211,
-      "category": "posts/seyirdefteri/202606262211"
     }
   ]
 }
