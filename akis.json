@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yarımı~tam~zevk",
+      "id": 202607032232,
+      "category": "posts/seyirdefteri/202607032232"
+    },
+    {
       "text": "Anlam~evi~ne~tahliye",
       "id": 202606302328,
       "category": "posts/seyirdefteri/202606302328"
@@ -59,11 +64,6 @@
       "text": "Özgürlük en doğal halimiz",
       "id": 202606262158,
       "category": "posts/seyirdefteri/202606262158"
-    },
-    {
-      "text": "Öylesi bir demden",
-      "id": 202606262148,
-      "category": "posts/seyirdefteri/202606262148"
     }
   ]
 }
