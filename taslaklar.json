@@ -2,7 +2,7 @@
   "isaretler": [
     {
       "id": 1783109200084,
-      "title": "Yeni Taslak",
+      "title": "0602",
       "category": "seyirdefteri",
       "content": {
         "id": 1783109200084,
@@ -18,7 +18,7 @@
             "tags": [
               ""
             ],
-            "title": "Yeni Taslak",
+            "title": "0602",
             "subtitle": "",
             "show_background_image": false
           },
@@ -56,7 +56,7 @@
         }
       },
       "created_at": "2026-07-03T20:06:40.084Z",
-      "updated_at": "2026-07-03T20:14:48.858Z",
+      "updated_at": "2026-07-03T20:15:53.587Z",
       "is_protected": false
     }
   ]
