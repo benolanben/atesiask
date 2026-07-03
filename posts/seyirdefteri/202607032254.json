@@ -1,0 +1,44 @@
+{
+  "id": 202607032254,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-03T19:47:39.183Z",
+  "created_at": "2026-07-03T19:54:57.584Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Uşşâk içre",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">O'nun dilinden<br>Y~OL haritası<br><br>Bil<br>Bul<br>Ol<br><br>İlkin n'olduğunu bilmeyiver<br>...<br>Derdiyle gamıyla doluver<br>Yana yana yanmada derman buluver<br><br>Y~andığın gerçek mi ona bakıver<br>...<br>Canlı canlı bir yüzden<br>Rengine aşkın cümle boyanıver<br>...<br>Yana yakıla aradığını<br>Kendinde hoş bir buluver<br><br>Mesken-i cânân oluver<br>Ayînesinde ayînesinde<br>Yâr ile bayram oluver şimdi<br><br>Daha neler neler...<br>Sağa sola selâm selâm oluver şimdi<br><br>Uşşâk içre<br>Gel ben~im yâr~im oluver şimdi<br><br></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&887"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202605310000.webm?download=true"
+        },
+        {
+          "type": "metin",
+          "text": ""
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-03T19:54:57.584Z",
+  "is_protected": false
+}
