@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çözülen",
+      "id": 202607041222,
+      "category": "posts/seyirdefteri/202607041222"
+    },
+    {
       "text": "Hikâyeye dönüştürmeden",
       "id": 202607032306,
       "category": "posts/seyirdefteri/202607032306"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/69g5yxp132sodra/ussaksaz.mp3"
       },
       "id": 202606271216,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1569,
-        "parca_adi": "Epistrophy",
-        "seslendiren": "C. Barbas",
-        "url": "https://www.mediafire.com/file/fmxu48dyqkp5e45/epistrophy.mp3"
-      },
-      "id": 202606271147,
       "category": "kaynak/baska"
     }
   ]
