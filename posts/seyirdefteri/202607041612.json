@@ -1,0 +1,49 @@
+{
+  "id": 202607041612,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-04T12:28:36.501Z",
+  "created_at": "2026-07-04T13:12:42.319Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "selam"
+      ],
+      "title": "Səfər əhlinə salam",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Bir kediyle doğru şekilde ilgilenme sanatı, hayat boyu süren bir öğrenme sürecidir. Aynı şey zihnin düşünce girdabı için de geçerlidir...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Görmezden gelmeyen<br>Açık bir<br>Muhabbetle<br>Her şey çözülür<br><br>İçinde tuttuğunu<br>Esirgeme âlemden<br>~<br>Elinde ne varmış<br>Sıkıp tuttuğun<br>Yumruğun<br>Açılınca görülür birden<br><br>Selam selam, o selam olsun canım erenlerim o demden...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606040001.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Əksi görünən şeylər çox vaxt uzaqdan baxıldıqda münasibətdir. Qaranlıq və işıq eyni suda birləşir və hər quş digəri sayəsində oxunaqlı görünür.<br><br>Səfər əhlinə selam selam olsun</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607041613-1783170789933.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-04T13:12:42.319Z",
+  "is_protected": false
+}
