@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1572,
+        "parca_adi": "Sezenler olmuş",
+        "seslendiren": "Y. Türkü",
+        "url": "https://www.mediafire.com/file/2r4vhv0qi7ubmfl/sezenler.mp3"
+      },
+      "id": 202607041301,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Asla kaybolmadı",
       "id": 202607041231,
       "category": "posts/seyirdefteri/202607041231"
@@ -49,11 +59,6 @@
       },
       "id": 202606291231,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Etiketsiz \"Ben kimim?\"",
-      "id": 202606280005,
-      "category": "posts/seyirdefteri/202606280005"
     }
   ]
 }
