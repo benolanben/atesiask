@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Asla kaybolmadı",
+      "id": 202607041231,
+      "category": "posts/seyirdefteri/202607041231"
+    },
+    {
       "text": "Çözülen",
       "id": 202607041222,
       "category": "posts/seyirdefteri/202607041222"
@@ -49,16 +54,6 @@
       "text": "Etiketsiz \"Ben kimim?\"",
       "id": 202606280005,
       "category": "posts/seyirdefteri/202606280005"
-    },
-    {
-      "text": {
-        "sira_no": 1570,
-        "parca_adi": "Uşşak Saz Semaisi",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/69g5yxp132sodra/ussaksaz.mp3"
-      },
-      "id": 202606271216,
-      "category": "kaynak/baska"
     }
   ]
 }
