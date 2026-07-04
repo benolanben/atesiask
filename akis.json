@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kaygı ve endîşe \"yarın\" demektir ve korumaya çalıştığı öz imajından beslenmektedir.\n\nGözlemleyen, değerlendiren, karşıla...",
+      "id": 1783169174490,
+      "category": "sabahnesesi"
+    },
+    {
       "text": {
         "sira_no": 1572,
         "parca_adi": "Sezenler olmuş",
@@ -49,16 +54,6 @@
       "text": "Kırmızı Kaplumbağa",
       "id": 202606300030,
       "category": "posts/seyirzevki/202606300030"
-    },
-    {
-      "text": {
-        "sira_no": 1571,
-        "parca_adi": "Aynı havayla oynuyoruz",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/59i0tsfn7oy5o6m/aynihavayla.mp3"
-      },
-      "id": 202606291231,
-      "category": "kaynak/baska"
     }
   ]
 }
