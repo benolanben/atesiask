@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": "",
+      "id": 202607051850,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": "",
+      "id": 202607051850,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Səfər əhlinə salam",
       "id": 202607041612,
       "category": "posts/seyirdefteri/202607041612"
@@ -44,16 +54,6 @@
       "text": "Yarımı~tam~zevk",
       "id": 202607032232,
       "category": "posts/seyirdefteri/202607032232"
-    },
-    {
-      "text": "Anlam~evi~ne~tahliye",
-      "id": 202606302328,
-      "category": "posts/seyirdefteri/202606302328"
-    },
-    {
-      "text": "Varlık Komasından C~anlanmalar",
-      "id": 202606302324,
-      "category": "posts/seyirdefteri/202606302324"
     }
   ]
 }
