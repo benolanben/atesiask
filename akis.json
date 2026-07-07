@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kendi Sûret~inde",
+      "id": 202607072043,
+      "category": "posts/seyirdefteri/202607072043"
+    },
+    {
       "text": {
         "sira_no": 1573,
         "parca_adi": "Allah diyelim",
@@ -59,11 +64,6 @@
       "text": "Uşşâk içre",
       "id": 202607032254,
       "category": "posts/seyirdefteri/202607032254"
-    },
-    {
-      "text": "Yarımı~tam~zevk",
-      "id": 202607032232,
-      "category": "posts/seyirdefteri/202607032232"
     }
   ]
 }
