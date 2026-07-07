@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202607072043,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607072043-1783446204876.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Kendi Sûret~inde",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607041612,
       "is_protected": false,
       "article": {
