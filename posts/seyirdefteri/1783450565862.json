@@ -70,7 +70,8 @@
         {
           "type": "ses",
           "text": "",
-          "url": "https://benolanben.com/dinle/baska&1345"
+          "url": "https://benolanben.com/dinle/baska&1345",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607072356-1783457762466.jpg"
         },
         {
           "type": "fotograf",
@@ -80,6 +81,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-07T19:15:30.017Z",
+  "updated_at": "2026-07-07T20:56:03.465Z",
   "is_protected": false
 }
