@@ -1,0 +1,58 @@
+{
+  "id": 1783538260596,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-08T19:14:52.087Z",
+  "created_at": "2026-07-08T19:14:52.087Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "yürüyüş"
+      ],
+      "title": "Nehirde yalınayak",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kimse, hayat nehrini geçmen gereken köprüyü senin yerine inşa edemez;<br><br>Bu köprüyü geçmek zorunda olan tek kişi sensin.<br><br>Seni karşıya taşımak isteyen sayısız yol, eski köprü ve yarı tanrılar olabilir, ancak bunun karşılığında kendini satman ve rehin vermen bedeliyle.<br><br>Dünyada, başka hiç kimsenin gidemediği tek bir yol vardır.<br><br>Bu yol nereye çıkar?<br>Sorma, sadece yürü...<br></p>",
+          "author": "[F. Nietzsche'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ve nihayetinde, ömür boyu o nehrin kıyısında, en has, en otantik köprüyü kim yapacak diye münakaşa ede ede çürüdüğünün farkına varmak da, varılacak menzilin ta kendisi olabilir mi?<br><br>Şimdi sorarım sana bana a güzel<br><br>Köprüyü beklerken nehrin üstünde yürümeyi denedin mi hiç?<br><br>Hepi topu yol bir adımlık<br>Ayrılmadık bir adımız<br><br>Yoksa hâlâ, en güzel köprüyü yapana verilecek \"Manevi Müteahhitlik İhalesi\"ni mi bekliyorsun?<br><br>Yürü güzelim yürü<br>Fistanını sürü...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607082231-1783539071730.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Amma uzattın yâ bir sal<br>Anlama takılma; aşk~a dal<br><br>Merkeze daldıkça<br>Yüzeyde ben~sandığını da<br>Çözülmüş bulursun<br>Zira aşkı düşünmüyorsun;<br>Aşka düşüyorsun; aşk oluyorsun<br><br>Öyle ya tuzlaya ne düşse akıbet tuz olur<br><br>Ateşe düşmeden neysen ne<br>Ateş düşen âkıbet ateşe döner<br><br>Aşkı az mı sandın?<br><br>Sayı~sız güneş gibi ışıldıyorsun işte ne güzel...<br><br>Burada bağları çözülen âkil divâneye döner<br><br>Mâcerâ-yı aşkı levh-i dilde tasvîr eyleriz<br>Berk-i sûz-i âh ile çerhi alev-gîr eyleriz<br><br>Daha neler neler eyleriz...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606060001.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">- Ama bir hedef belirlemeden duramıyorum, şimdiki hâlimi de bir şeye benzetemiyorum...<br><br>Niyet<br>Bilet<br>Kısmet<br>Şu anki vaziyeti, bu hep böyle gider sanıp hedefini ona göre belirlemeyesin.<br><br>Şu anki durumunun, ulaşmaya değer olarak gördüğün o şeye göre genişlemesine izin veresin.<br><br>Açık bir elin, nerelere ulaşmaya kâdir olduğuna sen de şasacaksın a canım...<br><br>Kolaylıkla<br>Güzellikle<br>Selâm selâm olsun<br>İnşirâh dolsun</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607082231-1783539074922.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-08T19:31:15.308Z",
+  "is_protected": false
+}
