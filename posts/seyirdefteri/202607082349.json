@@ -1,0 +1,44 @@
+{
+  "id": 202607082349,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-08T20:19:23.503Z",
+  "created_at": "2026-07-08T20:49:33.074Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Geçmişten geçmiş",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Her bir kap, boş olduğunda yeniden kullanışlıdır.<br><br>Zihin bildikleriyle dolu, şartlanmalarıyla kalıplanmışken yeni olanı yeniden değerlendirmekten âcizdir<br><br>Açık bir zihin<br>Akl-ı küll<br>\"Cebrail\" diye okunabilir<br><br>Un~learn everything<br>Bildiklerin geçmiş<br>Geçmişten geç<br>Öğrendiğini bilməz ol<br><br>Zira şimdi bir b~aşka...<br><br>Ölüden diri çıkarna ihtimaline<br>İnsanlık imkanına elhamdulillah</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607082349-1783543772564.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Dünde geçen benden<br>Boş ol<br>Boş ol<br>Boş ol<br><br>Şimdi bulun<br>Şimdi bak<br><br>Bak kalp gözün açıldı mı ne birden...<br><br>••<br>••<br>•</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606080000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-08T20:49:33.074Z",
+  "is_protected": false
+}
