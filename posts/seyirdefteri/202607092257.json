@@ -1,0 +1,53 @@
+{
+  "id": 202607092257,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-09T19:41:44.902Z",
+  "created_at": "2026-07-09T19:57:20.151Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Düş~düğün",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Pış pış<br>Âgâh olasın cânım erenlerim,<br><br>Âh bu farkındalık her zaman vardır içimizde hem sen ben onun içinde, gelip geçici bir şey değildir öyle...<br><br>Yokluğu için bile<br>Yokluğunun farkında olmalı<br>Haydi söyle...<br><br>Öyle ki<br>Ya farkına varılır ve seni beni korkudan, ayrılıktan kurtarır...<br><br>Ya da bunun böyle olduğu fark edilmez ve egonun biteviye anlatılarının sahte otoritesine esir kalmamıza sebep olur.<br><br>Bunu<br>Bu mevsimde<br>Böylece ilan edip<br>Tam kabul ettiyse<br>Bu tamamen biz~e bağlıdır.<br><br>Çünkü üzerine güneş düşen her şey görülmüş olur.<br><br>Görülenler geçebilir vesselâm</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607092257-1783627038090.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Hazır olan canım buyursunlar vahdet meyinden bir bâde sunalım:</p><p class=\"mb-4\"><br>— Bu sohbetin sonunda şu an her şey apaçık,<br>Hakikat perdesiz parıldıyor. Günden ayan, net yâni</p><p class=\"mb-4\"><br>Ama ortaya bir \"Nasıl?\" suâli düştü mü, hemen yanı başında bir kontrolcü beliriveriyor, ipleri elinde tutan mekanizma peydahlanıyor...</p><p class=\"mb-4\">— Ne zaman bir \"ne\" beliriyormuş ne?</p><p class=\"mb-4\"><br>— Bir soru var ya</p><p class=\"mb-4\">\"Nasıl?\" diye</p><p class=\"mb-4\">Bir \"Nasıl\" varsa, orada bir de işleri idare eden kontrolcü var demektir</p><p class=\"mb-4\">— Yok yahu...</p><p class=\"mb-4\">Hiç de öyle değil</p><p class=\"mb-4\"><br>Asıl \"sen\" var olur olmaz</p><p class=\"mb-4\">\"Nasılların niçinlerin?\" peşine takılırsın;</p><p class=\"mb-4\">Yoksa ortalıkta bir \"Nasıl\" gezindiği için, \"sen\" var olmuş değilsin a canım.</p><p class=\"mb-4\"><br>Belki de bu hikâye baştan sona tersinden okunmalı:</p><p class=\"mb-4\">Sen mevcut olur olmaz, o şüpheli, vehmî varlık \"neden\" diye, \"nasıl\" diye dövünmeye başlar:</p><p class=\"mb-4\">— Yahu ben bu şüphe yumağından, bu sahte benlikten nasıl sıyrılacağım, nasıl arınacağım?</p><p class=\"mb-4\"><br>Şimdi işin asıl cilvesine bak:</p><p class=\"mb-4\">\"Bu varlıktan nasıl kurtulurum?\" diye ortalığı ayağa kaldıran o \"ben\", kurtulmak istediği şeyin ta kendisidir.</p><p class=\"mb-4\"><br>Oyunun daha ilginç yanı da şudur ki:</p><p class=\"mb-4\">Düş~düğün bu hapishaneden, tımarhaneden, bu labirentten çıkmanın hiçbir yolu, yordamı yok!</p><p class=\"mb-4\"><br>— Niyeymiş o?</p><p class=\"mb-4\">Çünkü a güzelim, kapı yok ki dışarı çıkasın; sen zaten içeriye hiç girmedin!<br><br>Ortada ne girilecek bir hapis var, ne çıkılacak bir özgürlük alanı, ne de içeride kalmış bir \"sen\"...</p><p class=\"mb-4\">E hadi geçmiş olsun; madem hiç doğmadın, bari git de kendine benden bir kahve ısmarla, ad gününle kandığın bu sahte cenazeni afiyetle kutla!</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607092257-1783627040881.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ölmeden önce ölmek<br>Hayatı büsbütün görmek<br><br>Ben öldükten sonra<br>Sanki ben ölmemişim gibi devam edecekse şayet akış<br><br>Karış...<br>Barış<br>Varış<br><br>Son cümlədən öncə<br>Bak şimdi de öyle</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606090000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-09T19:57:20.151Z",
+  "is_protected": false
+}
