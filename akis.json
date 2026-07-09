@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Düş~düğün",
+      "id": 202607092257,
+      "category": "posts/seyirdefteri/202607092257"
+    },
+    {
       "text": "Geçmişten geçmiş",
       "id": 202607082349,
       "category": "posts/seyirdefteri/202607082349"
@@ -54,16 +59,6 @@
       "text": "Kaygı ve endîşe \"yarın\" demektir ve korumaya çalıştığı öz imajından beslenmektedir.\n\nGözlemleyen, değerlendiren, karşıla...",
       "id": 202607041549,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1572,
-        "parca_adi": "Sezenler olmuş",
-        "seslendiren": "Y. Türkü",
-        "url": "https://www.mediafire.com/file/2r4vhv0qi7ubmfl/sezenler.mp3"
-      },
-      "id": 202607041301,
-      "category": "kaynak/baska"
     }
   ]
 }
