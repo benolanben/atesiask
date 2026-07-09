@@ -1,6 +1,15 @@
 {
   "isaretler": [
     {
+      "id": 1783627193876,
+      "name": "Osman",
+      "email": "osmankoroglu@gmail.com",
+      "message": "Ruhumuzu dinlendiren uygulamamızı geliştirmek adına: resmi ve yazıyı sabit kadem yapma seçeneğini eklemeyi düşünür müsünüz? Teşekkürler.\n\n--- Teknik Bilgiler ---\nPlatform: android\nModel: SM-A705FN\nOS: 11\nUygulama Versiyonu: 1.0.36 (136)\nCihaz UID: ebd2fc7f-96b8-4cfe-a7e8-afa3dba93880",
+      "reason": "Diğer",
+      "is_read": 0,
+      "created_at": "2026-07-09T19:59:53.876Z"
+    },
+    {
       "id": 1783007907093,
       "name": "inci",
       "email": "inci.ozbirecikli@gmail.com",
