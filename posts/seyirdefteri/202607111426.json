@@ -1,0 +1,63 @@
+{
+  "id": 202607111426,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-11T10:39:39.593Z",
+  "created_at": "2026-07-11T11:26:24.752Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Dışarıdan bakmak",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">A benim canım,<br>Kararsızlıktan yoruldun mu sen?<br><br>Her şeyin ansızın değiştiği bir oyunda istikrar, istikrarsızlığı kabul etmekle ortaya çıkar; istikrarsızlık ise istikrara tutunmakla..<br><br>Evet her şey ama her şey sürekli değişmekte, dönüşmektedir.<br><br>Neyin değişeceğini kontrol edemezsin. Değişimin, dönüşümün önüne geçemezsin.<br><br>Aziz ironi şu ki...<br><br>En derin dönüşüm, çoğu zaman basit bir şekilde şu anın içinde kalmaya istekli olmakla başlar.<br><br>İşbu zevk içre gönül dolusu selâm selâm olsun...<br><br>Duyulanlar duyulsun<br><br></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/fihimafih&15377"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607111426-1783769186688.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">•<br>İbadet âdet hâline geldiğinde, kulluk da rutin memuriyete döner.<br><br>•</p><p class=\"mb-4\">Kendi kültürünüz bildiğiniz tek kültürse, kültürünüzün temel varsayımlarını anlayamazsınız<br><br>Dışardan bakmak, bir gidip gelmek iyidir...<br><br>Kozmosun kulağı yaradan<br>Duyuluyor sağdan soldan<br></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Herhangi bir insan faaliyetini,<br>Sonuçtan bağımsız olarak,<br>Tamamen onunla birlikte olarak ve sadece olması için, oyun gibi eğlencesinde içinde bulunarak \"ibadete\" dönüştürebilirsiniz.</p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Nasıl duyuluyor ordan burdan bilmem?</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606120000.webm?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">.<br><br>Ayrılığın sonunda <br>Hemen yanıbaşında işte<br>İleriye uzanmadan <br>Geriye dönmeden <br>Bütün dillerden ...hemen <br>\"Şimdi\" diye söylenen <br>Açık kollara düşmüşken <br>Burdayım diyen</p>",
+          "author": "Līlã"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-11T11:26:24.752Z",
+  "is_protected": false
+}
