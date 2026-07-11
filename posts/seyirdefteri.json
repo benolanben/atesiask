@@ -5666,6 +5666,24 @@
         }
       }
     }
+,
+    {
+      "id": 1783760236439,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Ayna benmişim meğer...",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
 
   ]
 }
