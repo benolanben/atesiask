@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dışarıdan bakmak",
+      "id": 202607111426,
+      "category": "posts/seyirdefteri/202607111426"
+    },
+    {
       "text": "İşte şifa",
       "id": 202607111357,
       "category": "posts/seyirdefteri/202607111357"
@@ -44,11 +49,6 @@
       "text": "Ve nefehtu min rûhi\nİle ruh üflendi mi?\nEvet\nNefes nefes üflenip durur mu?\nEvet\nDemek ki o ruh\nŞimdi senin benim içimde ...",
       "id": 202607082341,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Nehirde yalınayak",
-      "id": 202607082241,
-      "category": "posts/seyirdefteri/202607082241"
     }
   ]
 }
