@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İçimde~sen",
+      "id": 202607122326,
+      "category": "posts/seyirdefteri/202607122326"
+    },
+    {
       "text": "Şehr-i Pür-Nûr",
       "id": 202607121207,
       "category": "posts/seyirdefteri/202607121207"
@@ -44,11 +49,6 @@
       "text": "Düş~düğün",
       "id": 202607092257,
       "category": "posts/seyirdefteri/202607092257"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nBir varmış\nBir yokmuş\n\nJaponya'da Zen dergâhlarının o ilk, taze günlerinde her şey serbestmiş; ...",
-      "id": 202607092258,
-      "category": "yoldacevrilenler"
     }
   ]
 }
