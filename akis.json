@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "[YOLDA ÇEVRİLENLER'den]\n\nGürcüzâde hocamız, bazen “Dur” egzersizleri olarak adlandırılan idmanlardan istifade ederdi.\n\nB...",
+      "id": 202607130000,
+      "category": "yoldacevrilenler"
+    },
+    {
       "text": "Gülün muradı",
       "id": 202607122359,
       "category": "posts/seyirdefteri/202607122359"
@@ -44,11 +49,6 @@
       "text": "Ayna benmişim meğer...",
       "id": 202607111211,
       "category": "posts/seyirdefteri/202607111211"
-    },
-    {
-      "text": "Şu anda sana gelen kelimelerin ve hikâyenin far*ında mısın?\n\nSana bana altın kaide:\n\nAlgıladığın şey, sen olamazsın\nFark...",
-      "id": 202607111150,
-      "category": "sabahnesesi"
     }
   ]
 }
