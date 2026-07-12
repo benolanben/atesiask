@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dişsiz Seyir",
+      "id": 202607121100,
+      "category": "posts/seyirdefteri/202607121100"
+    },
+    {
       "text": "Dışarıdan bakmak",
       "id": 202607111426,
       "category": "posts/seyirdefteri/202607111426"
@@ -44,11 +49,6 @@
       "text": "Geçmişten geçmiş",
       "id": 202607082349,
       "category": "posts/seyirdefteri/202607082349"
-    },
-    {
-      "text": "Ve nefehtu min rûhi\nİle ruh üflendi mi?\nEvet\nNefes nefes üflenip durur mu?\nEvet\nDemek ki o ruh\nŞimdi senin benim içimde ...",
-      "id": 202607082341,
-      "category": "sabahnesesi"
     }
   ]
 }
