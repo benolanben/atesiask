@@ -1,0 +1,54 @@
+{
+  "id": 202607122359,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-12T20:32:51.697Z",
+  "created_at": "2026-07-12T20:59:48.281Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Gülün muradı",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">\"Amaçsızlık\"<br>Hedef yoksunluğu<br><br>Hiçbir şey yapmamak<br>Demek değil öyle<br><br>Peki ne mi demek?<br><br>Bu, peşinden koşacağın herhangi bir şeyi önüne koymamak, PUT bellememek demek.<br><br>Gerçek anlamda RIZA,<br><br>Varacağın bir menzil<br>Peşinden koşacağın bir şeyi önüne koyup<br>A~RIZA çıkarmamak demek...<br><br>Zira aradığın,<br>Zaten ta ezelden beri seninle;<br>Haricinde, dışarılarda, uzakta değil. Yakın bile değil; iki değil...<br><br>Canlı canlı uygula<br>Çevir başını sağa sola<br>Şu güle bak mesela:<br><br>\"Gülün bir şey yapması mı gerekiyor?<br><br>Hayır, gülün muradı gül olmaktır sadece, güllük yapmak için çabalamak değil!<br><br>Bizim amacınız kendimiz olmaktır.<br>Başka biri olmak için bir yere koşmamıza gerek yok.<br><br>Olduğumuz gibi harikayız<br><br>___<br><br>Ammaaa<br><br>Gel gör ki, bu \"Olduğun gibi harika\" lafını duyan<br>Buralarda \"nefs-i emmâre\" denen bulut, hemen bir mindere kurulup:<br><br>\"Madem öyle, ben şuracıkta çürümeye razıyım, eriştim zaten kemâle\"<br><br>Diyecek kadar da kurnazdır.<br><br>İşte tam burada, vahdet meclisinin şefkat tokadı yüzüne eğilip şöyle fısıldar:<br><br>\"Ey can,<br>Harikasın, Allah eyvallah da...<br>Sen gene kalk da ocağın altını yak, yoksa bu harika çay, bir türlü demlenip de 'ben' olamayacak!\"</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607122359-1783889983561.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gözünün gördüğü şu âlem, zihninde oynayan bir sinemadan ibaret, bilesin a canım.<br><br>Misal taşlar ve kuşlar görmez onu öyle.<br><br>Hadi gel otur şöyle gölgeye<br>Affet ve unut gitsin, neyse ne...<br><br>Bütün gün herkese karşı kalbinde bir incelik, bir şefkat bulundur ki göresin; zaten cennettesin şimdi, şu an halihazırda olup duranla...<br><br>Hikâye budur, haber de budur.<br><br>Lakin kimsecikler anlamaz, kimsecikler dinlemez; hepsi başı kesik tavuklar misali oradan oraya koşturur durur.<br><br>Ben kalkıp bunu öğretmeye yeltenirim amma velâkin nafile...</p>",
+          "author": "[J. Kerouac zevkiyle]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İşte bu yüzden, en nihayetinde dağ başında bir kulübede son soluğu verip, iki satır namaz, birkaç eski şarkı, gürül gürül yanan sobanın başında sac böreği pişirip sükût içinde intikâl ediyorum sevgiliye, bir mahâlden bir mahâle...<br><br>Ardımdan yakılan Hüseynî nefes de cabası...</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&428"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607122359-1783889987105.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-12T20:59:48.281Z",
+  "is_protected": false
+}
