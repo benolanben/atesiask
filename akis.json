@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Cem demi hürlere farz değil mi?",
+      "id": 202607121105,
+      "category": "posts/seyirdefteri/202607121105"
+    },
+    {
       "text": "Dişsiz Seyir",
       "id": 202607121100,
       "category": "posts/seyirdefteri/202607121100"
@@ -44,11 +49,6 @@
       "text": "Bana n'oluyorsa...\n\nYıllarca manevi bir bitiş çizgisini kovaladım.\n\nSonra arayış beklenmedik bir dönüşle tat aldı:\nHer a...",
       "id": 202607092253,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Geçmişten geçmiş",
-      "id": 202607082349,
-      "category": "posts/seyirdefteri/202607082349"
     }
   ]
 }
