@@ -1,0 +1,44 @@
+{
+  "id": 202607122326,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-12T07:54:56.482Z",
+  "created_at": "2026-07-12T20:26:49.435Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "İçimde~sen",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Zihin,<br>Yeryüzünde kaçırdıklarını bulmak (tapmak) için<br>Yukarıya, gökyüzüne bakar.<br><br>IRAKSAMALAR<br><br>Cenneti uzaklaştırır,<br>Sonra bu uzaklığa \"Kulluk: bağlılık\" der.<br>Türlü ibadetlerle uzağı yakın etmek ister<br><br>Eğilmez başını yere koyup \"kendi uzaklığına\" secde eder.<br><br>Oysa gerçek olan, hayatın ötesinde ebediyyen gizli değildi.<br><br>Sadece ezelden beri gözlerin önündeki şeylerin içinde görünmez kalmıştı.<br><br>Velhasıl kelam canım erenlerim, bizim bu fani zihnin arayış hikayesi tam bir Nasreddin Hoca fıkrasıdır:<br><br>Sırtına bindiği eşeği köşe bucak arayan, bulamayınca da oturup \"Kayıp Eşeğin Mukaddes Istırabı ve Aşkın Mesafeler\" üzerine kalın kalın divanlar yazan o şaşkın dervişe benzer.<br><br>En nihayetinde yorulup bir su kenarına çöktüğünde, suda kendi aksini ve altındaki eşeği görür de sevinçten çığlığı basar:<br><br>\"Yetişin erenler! Hızır aleyhisselam duamı kabul etti, eşeğimi de beni de aynen buraya gönderdi!<br><br>Eşeğine binmiş eşeğini arayan Hoca komik oluyor da<br><br>Hakk'a binip Hakk'ı arayan sen ben n'oluyoruz bilmem arada</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607121223-1783848218369.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Görünür maddenin ten kafesinde<br>Görünmez yaşam kuşu saklanıyor işte<br>Aman dikkat edesin o can kuşuna<br>Senin şarkını söylemesi değil boşuna</p>",
+          "author": "[~ Kabir'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Çiçekler, rüzgâr üzerlerinden geçtiğinde konuşur.</p><p class=\"mb-4\">Kuşlar, içlerine bir şarkı düştüğünde.</p><p class=\"mb-4\">Ve bir insan...<br><br>Çiçek konuşmaya karar vermez<br>— rüzgâr onun içinden geçer de öyle söyler.<br><br>Kuş besteci değildir<br>—Şarkı gelir, boğazını bir an ödünç alır, gider.</p><p class=\"mb-4\">İkisi de önce susar, önce boşalır;<br>Sonra dolar, sonra ses olur.<br><br>Ve bir insan ne vakit, böyle bu kadar sussa...<br>Bir kız çocuğu doğacak...</p><p class=\"mb-4\"></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-12T20:26:49.435Z",
+  "is_protected": false
+}
