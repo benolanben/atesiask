@@ -1,0 +1,49 @@
+{
+  "id": 202607132241,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-13T19:32:04.795Z",
+  "created_at": "2026-07-13T19:41:53.320Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Diş kirası",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">'Dişsiz bir hayat yaşadım,' diye iç geçirdi ellilerini gören.<br><br>Dişsiz bir hayat...<br><br>Hiçbir şeyi ısırmadım hep erteledim.<br>Bekliyordum ki en münasip an, o kıvam gelsin.<br><br>Kendimi sonraya saklıyordum ve şimdi...<br>Şimdi, dişlerimin gittiğini fark ettim.<br><br>~<br><br>Yukarıdaki hissiyata sahip birine, şimdi ne dersin a güzelim?</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606160001.webm?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Biliyor musunuz nörobilimciler şok edici bir şey keşfettiler:<br><br>Beyniniz düşüncelerinizin doğru olup olmadığına aldırmıyor sadece tekrarladığınız her şeye inanıyor.<br><br>Burada bir güzel var...<br><br>Marifet iltifata tabi madem<br>Bu kanala da yeni yeni rağbetlerinizi esirgemeyesiniz cânım erenlerim<br><br>Teşekkür ederim<br><br>KUŞ DİLİ bahçelerinden sessizlik işitilir;<br>Biz yalnız çağırıldığımız yere gideriz...<br><br></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "KUŞ DİLİ SPOTIFY KANALI",
+          "url": "https://open.spotify.com/show/0aZrN5YZMMTdMohk5xHk3F?si=28742599d5954bc9"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607132241-1783971712549.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-13T19:41:53.320Z",
+  "is_protected": false
+}
