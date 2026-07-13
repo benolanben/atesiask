@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Diş kirası",
+      "id": 202607132241,
+      "category": "posts/seyirdefteri/202607132241"
+    },
+    {
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nGürcüzâde hocamız, bazen “Dur” egzersizleri olarak adlandırılan idmanlardan istifade ederdi.\n\nB...",
       "id": 202607130000,
       "category": "yoldacevrilenler"
@@ -44,11 +49,6 @@
       "text": "Ego-nefs-kişinin varlığı yok\n\nYegane varlığın zâtının, direniş ve arayış fiilerinin paketlemesine yapıştırılmış ölümcül ...",
       "id": 202607111341,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Ayna benmişim meğer...",
-      "id": 202607111211,
-      "category": "posts/seyirdefteri/202607111211"
     }
   ]
 }
