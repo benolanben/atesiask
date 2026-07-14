@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Huzur peşinde",
+      "id": 202607142101,
+      "category": "posts/seyirdefteri/202607142101"
+    },
+    {
       "text": {
         "sira_no": 1575,
         "parca_adi": "Yok bana bu cihanda",
@@ -49,11 +54,6 @@
       "text": "Şehr-i Pür-Nûr",
       "id": 202607121207,
       "category": "posts/seyirdefteri/202607121207"
-    },
-    {
-      "text": "Cem demi hürlere farz değil mi?",
-      "id": 202607121105,
-      "category": "posts/seyirdefteri/202607121105"
     }
   ]
 }
