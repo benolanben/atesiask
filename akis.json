@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1575,
+        "parca_adi": "Yok bana bu cihanda",
+        "seslendiren": "M. Perest",
+        "url": "https://www.mediafire.com/file/4gm6c2itlibwue2/yokbana.mp3"
+      },
+      "id": 202607141206,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Ego, kişi, nefs bundan ibârettir:\n\"Bir formla özdeşleşme\"\n\nBu da öncelikle düşünce formları, anlam~a~evleri anlamına gel...",
       "id": 202607140500,
       "category": "sabahnesesi"
@@ -10,7 +20,7 @@
       "id": 202607132257,
       "category": "posts/seyirdefteri/202607132257"
     },
-     {
+    {
       "text": "Diş kirası",
       "id": 202607132241,
       "category": "posts/seyirdefteri/202607132241"
@@ -44,11 +54,6 @@
       "text": "Cem demi hürlere farz değil mi?",
       "id": 202607121105,
       "category": "posts/seyirdefteri/202607121105"
-    },
-    {
-      "text": "Dişsiz Seyir",
-      "id": 202607121100,
-      "category": "posts/seyirdefteri/202607121100"
     }
   ]
 }
