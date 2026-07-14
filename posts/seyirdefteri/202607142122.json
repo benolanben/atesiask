@@ -1,0 +1,44 @@
+{
+  "id": 202607142122,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-14T17:59:39.551Z",
+  "created_at": "2026-07-14T18:22:43.281Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Kişiye özel seyir",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Dünya<br>Düşüncelerden oluşur.<br><br>Deneyimleyen kişi,<br>...<br>O da düşüncelerden oluşur.<br><br>İşteee bu.<br><br>Yine de düşüncelerin iyi ya da kötü olduğu söylenemez.<br><br>Belki sadece şudur:<br><br>- Temel nitelikte değillerdir; farkındalıkta ortaya çıkıp kaybolurlar.<br><br>- Dolayısıyla onları %100 ciddiye alman gerekmez değil mi?<br><br>Bu yüzden, onları akışına bırakmaktan kesinlikle çekinmeyesin.<br><br>Bir düşünce dalgası huzurunu mu bozdu ne?<br><br>Yok yok ne olsa bozulmaz<br>Kendini tanıdığın varlığın huzuru<br><br>Hiçbir dünya<br>Zâtî hüviyetini<br>Artırıp azaltmaz<br><br>Geçiyorlar işte<br>Bırakabilirsin<br><br>Bak işte şimdi geçti tuttuğun nefes...<br>O nev'i düşünceyi ben~imsemeyi kes</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607142122-1784053361763.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Zihnimiz,<br>Gerçekliğinizin nihai mimarıdır.<br><br>Her birimiz dünyayı, kendi penceremizden görüyoruz. Onu bu kadar özel bir yer yapan da bu; \"Kişiye özel seyir\"<br><br>Bu yüzden her seyr u süluk<br>Kişiye özel yoldan<br>Bir anlığına öyle açılan<br>Birebir bir aşk səfəridir<br><br>Zâten olduğunuz şey hatrına, şahsen sandığınız şeyden vazgeçmeye, ölüme can atmaya istekli olanın rüyası ne hoş...<br><br>Hər rüya<br>Ancak<br>Görəni bağlar<br>Vesselâm<br><br>Mühim Not:<br>Ölebilen ölmeden evvel ölmeye bak!</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607142120.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-14T18:22:43.281Z",
+  "is_protected": false
+}
