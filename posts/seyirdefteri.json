@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202607142101,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607142101-1784052061256.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Huzur peşinde",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607132257,
       "is_protected": false,
       "article": {
