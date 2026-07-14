@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sakınma kendini",
+      "id": 202607142114,
+      "category": "posts/seyirdefteri/202607142114"
+    },
+    {
       "text": "Huzur peşinde",
       "id": 202607142101,
       "category": "posts/seyirdefteri/202607142101"
@@ -49,11 +54,6 @@
       "text": "İçimde~sen",
       "id": 202607122326,
       "category": "posts/seyirdefteri/202607122326"
-    },
-    {
-      "text": "Şehr-i Pür-Nûr",
-      "id": 202607121207,
-      "category": "posts/seyirdefteri/202607121207"
     }
   ]
 }
