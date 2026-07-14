@@ -1,6 +1,10 @@
 {
   "isaretler": [
-   
+    {
+      "text": "Kişiye özel seyir",
+      "id": 202607142122,
+      "category": "posts/seyirdefteri/202607142122"
+    },
     {
       "text": "Sakınma kendini",
       "id": 202607142114,
@@ -11,7 +15,7 @@
       "id": 202607142101,
       "category": "posts/seyirdefteri/202607142101"
     },
-     {
+    {
       "text": "Manevi yaşam, kavramsal olarak ne bildiğinizle ilgili değildir pek...\n\nDaha çok, öğrenilmiş bir varoluş tarzı, hep bildi...",
       "id": 202607141914,
       "category": "sabahnesesi"
@@ -50,11 +54,6 @@
       "text": "[YOLDA ÇEVRİLENLER'den]\n\nGürcüzâde hocamız, bazen “Dur” egzersizleri olarak adlandırılan idmanlardan istifade ederdi.\n\nB...",
       "id": 202607130000,
       "category": "yoldacevrilenler"
-    },
-    {
-      "text": "Gülün muradı",
-      "id": 202607122359,
-      "category": "posts/seyirdefteri/202607122359"
     }
   ]
 }
