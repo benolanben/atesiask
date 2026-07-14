@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Manevi yaşam, kavramsal olarak ne bildiğinizle ilgili değildir pek...\n\nDaha çok, öğrenilmiş bir varoluş tarzı, hep bildi...",
+      "id": 202607141914,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Sakınma kendini",
       "id": 202607142114,
       "category": "posts/seyirdefteri/202607142114"
@@ -49,11 +54,6 @@
       "text": "Gülün muradı",
       "id": 202607122359,
       "category": "posts/seyirdefteri/202607122359"
-    },
-    {
-      "text": "İçimde~sen",
-      "id": 202607122326,
-      "category": "posts/seyirdefteri/202607122326"
     }
   ]
 }
