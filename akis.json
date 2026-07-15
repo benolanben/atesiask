@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kapalı çarşı",
+      "id": 202607152144,
+      "category": "posts/seyirdefteri/202607152144"
+    },
+    {
       "text": "A benim canım,\n\nBulunduğun sahnede üzerine düşen vazifeyi tut ve gereğini yerine getir; sonuca ait olanı tutma, bırak.\n\n...",
       "id": 202607151610,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       "text": "Burada, bilinmez, büsbütün",
       "id": 202607132257,
       "category": "posts/seyirdefteri/202607132257"
-    },
-    {
-      "text": "Diş kirası",
-      "id": 202607132241,
-      "category": "posts/seyirdefteri/202607132241"
     }
   ]
 }
