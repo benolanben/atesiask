@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "A benim canım,\n\nBulunduğun sahnede üzerine düşen vazifeyi tut ve gereğini yerine getir; sonuca ait olanı tutma, bırak.\n\n...",
+      "id": 202607151610,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Sonsuz bir çoklu evrende, kararlarımızdan biri, her zaman her bir sonuçtan sonra da varlığını sürdürecektir ve en az bir...",
       "id": 202607151557,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       "text": "Diş kirası",
       "id": 202607132241,
       "category": "posts/seyirdefteri/202607132241"
-    },
-    {
-      "text": "[YOLDA ÇEVRİLENLER'den]\n\nFeng Shui’ye göre, evinizdeki dağınıklık rastgele bir durum değildir.\n\n\nBu, aslında hayatınızda...",
-      "id": 202607132243,
-      "category": "yoldacevrilenler"
     }
   ]
 }
