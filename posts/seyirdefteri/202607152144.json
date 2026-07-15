@@ -1,0 +1,47 @@
+{
+  "id": 202607152144,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-15T12:55:36.599Z",
+  "created_at": "2026-07-15T18:44:53.722Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Kapalı çarşı",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">İçinde, başarı ya da başarısızlık, kazanç ya da kayıp, zevk ya da acıdan etkilenmeyen<br><br>Artıp azalması olmayan<br>Uçsuz bucaksız bir alan<br>Dâru's-selâm var...<br><br>Bu alanı keşfetmek, hayattan kaçmak değildir.<br><br>Gerçek anlamda yaşamaya başlamaktır.<br><br>Her bir ses, her bir nefes ve her bir renk<br>O alandan belirip yine O'na dönüyor işte...<br><br>O'nunla<br>O'ndan iken anda<br>O'nu keşfetme ihtimaline<br>İnsanlık imkanına elhamdulillah<br><br>Selam selam<br>Buram buram<br>O'nunla dolmak var</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606210001.webm?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">'IŞK<br>Biraz daha ışık<br>Eve ışık girmesi, Beytullah'a dönmesi için açıklık olmasa olmaz.<br><br>Ve açıklığı zorlamanıza hiç gerek yok...<br><br>Sadece hangi noktalarda kapalı olduğunuzu fark edin yeter...<br><br>Kapalılığın farkındalığı, açıklığın başlangıcıdır zira açıklık asla kaybolmaz vesselâm</p>"
+        },
+        {
+          "type": "galeri",
+          "text": "",
+          "images": [
+            "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607151605-1784120739896.jpg",
+            "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607151605-1784120742408.jpg"
+          ]
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-15T18:44:53.722Z",
+  "is_protected": false
+}
