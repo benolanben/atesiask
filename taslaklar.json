@@ -1,3 +1,65 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1784235126208,
+      "title": "0624",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1784235126208,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-07-16T19:59:21.444Z",
+        "created_at": "2026-07-16T19:59:21.444Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "0624",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Bazen, bir kurabiye yemek istediğimde ama yemem gerektiğinde, düşünüyorum. \"Tanrı neyi daha çok ister?\" Dalai Lama isminin mutlu olmasını mı? Yoksa sadece ona verilen şeyleri yemesini mi?</p><p class=\"mb-4\">...</p><p class=\"mb-4\">Ve kurabiyeyi yiyorum.</p>",
+                "author": "[V. Pelevin'den]"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Ne yaptığımı anlamıyorum.</p><p class=\"mb-4\">Çünkü istediğim şeyi yapmıyor,<br>Nefret ettiğim şeyi yaparken buluyorum kendimi.</p><p class=\"mb-4\"></p>",
+                "author": "[Romalılar 7: 15'ten]"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">~<br><br>İstemeden varım ve istemeden öleceğim...</p><p class=\"mb-4\">Zâten olduğum şeyle, aslında öyle olmadığım şey arasında,</p><p class=\"mb-4\">Ben olan şeyle, benimle oynayan şeyle,</p><p class=\"mb-4\">Hayatın beni yaptığı şey arasında bir boşluğum.</p><p class=\"mb-4\"></p>",
+                "author": "[F. Pessoa'dan]"
+              },
+              {
+                "type": "metin",
+                "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Bir cümle~de-~sen~den ola...</p>"
+              },
+              {
+                "type": "video",
+                "text": "",
+                "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606240000.webm?download=true"
+              },
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">...<br><br>Kendi.mi...sabah olup gözleri açılmış buluyorum <br>Sessizliği yakaladım derken <br>Düşünceyle dolmuş <br>Buluyorum <br>...Önümden koşuyor <br>Arkamdan yetişemiyorum <br>Bilmiyorum <br>Oturmuş. ..buraya yazılan yazılara dokunuyorum ....<br>Seninle dolu..yorum ...</p>",
+                "author": "Līlã ·"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-07-16T20:52:06.208Z",
+      "updated_at": "2026-07-16T21:03:06.384Z",
+      "is_protected": false
+    }
+  ]
 }
