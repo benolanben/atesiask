@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "A benim canım,\n\nBilgi birikmeden önce,\nDüşünce bir isim vermeden önce,\nZihin “Anlıyorum” demeden önce, burada ne var?\n\nG...",
+      "id": 202607170447,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Dilsiz şiir",
       "id": 202607162347,
       "category": "posts/seyirdefteri/202607162347"
@@ -49,11 +54,6 @@
       },
       "id": 202607141206,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Ego, kişi, nefs bundan ibârettir:\n\"Bir formla özdeşleşme\"\n\nBu da öncelikle düşünce formları, anlam~a~evleri anlamına gel...",
-      "id": 202607140500,
-      "category": "sabahnesesi"
     }
   ]
 }
