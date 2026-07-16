@@ -1,0 +1,59 @@
+{
+  "id": 202607162347,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-15T12:55:36.599Z",
+  "created_at": "2026-07-16T20:47:09.349Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Dilsiz şiir",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Yaz beni beni?<br><br>Çünkü gerçek şiir, anlaşılmadan önce iletişim kurabilir.<br><br>Ne çalıyor?<br>Şimdi nasıl duyuluyor bilmem...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202606221612.webm?download=true"
+        },
+        {
+          "type": "spoiler",
+          "text": "<p class=\"mb-4\">\"Ona uzun uzun bakmamaya çalışarak geri çekildi; sanki o güneşmiş gibi...<br><br>Yine de onu gördü.<br><br>Tıpkı bakmadan da güneşi görebildiği, güneşle gördüğü gibi...</p>",
+          "author": "BB'den"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Elim yok yazmaya <br>Dilim söylemeye <br>Kulaktan duyuluyor <br>İşte...böyle <br>Söz oluyor <br>Kalem gözüküyor</p>",
+          "author": "Līlã · "
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">\"Ben hiçbir şey yapmasam da oluyor\"<br>Diye~bilir<br>Hakikat’i<br>Doğrudan deneyimle<br>Kəndində tanıyan biri...<br><br>Görürken, duyarken, dokunurken, koklarken, yerken, hareket ederken, uyurken ve solurken.</p>",
+          "author": "[Bhagavad Gita 5.8'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Hele bana şöyle gelir<br>\"Attığın zaman sen atmadın...\"<br>Duymuş gibi...<br><br>Cümleten tatlı rüyalar</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607162347-1784234828945.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-16T20:47:09.349Z",
+  "is_protected": false
+}
