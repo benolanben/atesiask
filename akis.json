@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dilsiz şiir",
+      "id": 202607162347,
+      "category": "posts/seyirdefteri/202607162347"
+    },
+    {
       "text": "Kapalı çarşı",
       "id": 202607152144,
       "category": "posts/seyirdefteri/202607152144"
@@ -49,11 +54,6 @@
       "text": "Ego, kişi, nefs bundan ibârettir:\n\"Bir formla özdeşleşme\"\n\nBu da öncelikle düşünce formları, anlam~a~evleri anlamına gel...",
       "id": 202607140500,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Burada, bilinmez, büsbütün",
-      "id": 202607132257,
-      "category": "posts/seyirdefteri/202607132257"
     }
   ]
 }
