@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Güneş'e eş mi olur?",
+      "id": 202607172312,
+      "category": "posts/seyirdefteri/202607172312"
+    },
+    {
       "text": {
         "sira_no": 1576,
         "parca_adi": "Güneşe eş",
@@ -49,11 +54,6 @@
       "text": "Huzur peşinde",
       "id": 202607142101,
       "category": "posts/seyirdefteri/202607142101"
-    },
-    {
-      "text": "Manevi yaşam, kavramsal olarak ne bildiğinizle ilgili değildir pek...\n\nDaha çok, öğrenilmiş bir varoluş tarzı, hep bildi...",
-      "id": 202607141914,
-      "category": "sabahnesesi"
     }
   ]
 }
