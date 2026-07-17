@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kahhar-ı Aşk'ın Âdeti",
+      "id": 202607172316,
+      "category": "posts/seyirdefteri/202607172316"
+    },
+    {
       "text": "Güneş'e eş mi olur?",
       "id": 202607172312,
       "category": "posts/seyirdefteri/202607172312"
@@ -49,11 +54,6 @@
       "text": "Sakınma kendini",
       "id": 202607142114,
       "category": "posts/seyirdefteri/202607142114"
-    },
-    {
-      "text": "Huzur peşinde",
-      "id": 202607142101,
-      "category": "posts/seyirdefteri/202607142101"
     }
   ]
 }
