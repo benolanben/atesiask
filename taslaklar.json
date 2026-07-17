@@ -1,3 +1,41 @@
 {
-  "isaretler": []
+  "isaretler": [
+    {
+      "id": 1784320703474,
+      "title": "0626",
+      "category": "seyirdefteri",
+      "content": {
+        "id": 1784320703474,
+        "title": "Yeni Taslak",
+        "author": "BenOlanBen",
+        "publishedDate": "2026-07-17T20:05:07.049Z",
+        "created_at": "2026-07-17T20:05:07.049Z",
+        "article": {
+          "header": {
+            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+            "date_value": "",
+            "mini_title": "",
+            "tags": [
+              ""
+            ],
+            "title": "0626",
+            "subtitle": "",
+            "show_background_image": false
+          },
+          "main_article": {
+            "quotes": [
+              {
+                "type": "alinti",
+                "text": "<p class=\"mb-4\">Kimse seni izliyormuş gibi dans etsen,<br>Hiç incinmemiş gibi sevsen,<br>Kimse dinlemiyormuş gibi şarkını söylesen<br>Ve cennet yeryüzündeymiş gibi yaşasan ya...<br>...<br>Bir bakmışsın öyle olmuş<br></p>",
+                "author": "[W. W. Purkey'den]"
+              }
+            ]
+          }
+        }
+      },
+      "created_at": "2026-07-17T20:38:23.474Z",
+      "updated_at": "2026-07-17T20:39:02.471Z",
+      "is_protected": false
+    }
+  ]
 }
