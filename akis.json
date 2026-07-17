@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ben olmayan ben",
+      "id": 202607172329,
+      "category": "posts/seyirdefteri/202607172329"
+    },
+    {
       "text": "Kahhar-ı Aşk'ın Âdeti",
       "id": 202607172316,
       "category": "posts/seyirdefteri/202607172316"
@@ -49,11 +54,6 @@
       "text": "Kişiye özel seyir",
       "id": 202607142122,
       "category": "posts/seyirdefteri/202607142122"
-    },
-    {
-      "text": "Sakınma kendini",
-      "id": 202607142114,
-      "category": "posts/seyirdefteri/202607142114"
     }
   ]
 }
