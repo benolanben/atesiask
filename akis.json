@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Nasil da hatirladun",
+      "id": 202607172337,
+      "category": "posts/seyirdefteri/202607172337"
+    },
+    {
       "text": "Ben olmayan ben",
       "id": 202607172329,
       "category": "posts/seyirdefteri/202607172329"
@@ -49,11 +54,6 @@
       "text": "Sonsuz bir çoklu evrende, kararlarımızdan biri, her zaman her bir sonuçtan sonra da varlığını sürdürecektir ve en az bir...",
       "id": 202607151557,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Kişiye özel seyir",
-      "id": 202607142122,
-      "category": "posts/seyirdefteri/202607142122"
     }
   ]
 }
