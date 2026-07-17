@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202607172316,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607172314.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Kahhar-ı Aşk'ın Âdeti",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607172312,
       "is_protected": true,
       "article": {
