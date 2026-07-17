@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1576,
+        "parca_adi": "Güneşe eş",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/y8xbdcc71ot6kpq/gunesdedunyada.mp3"
+      },
+      "id": 202607171543,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "A benim canım,\n\nBilgi birikmeden önce,\nDüşünce bir isim vermeden önce,\nZihin “Anlıyorum” demeden önce, burada ne var?\n\nG...",
       "id": 202607170447,
       "category": "sabahnesesi"
@@ -44,16 +54,6 @@
       "text": "Manevi yaşam, kavramsal olarak ne bildiğinizle ilgili değildir pek...\n\nDaha çok, öğrenilmiş bir varoluş tarzı, hep bildi...",
       "id": 202607141914,
       "category": "sabahnesesi"
-    },
-    {
-      "text": {
-        "sira_no": 1575,
-        "parca_adi": "Yok bana bu cihanda",
-        "seslendiren": "M. Perest",
-        "url": "https://www.mediafire.com/file/4gm6c2itlibwue2/yokbana.mp3"
-      },
-      "id": 202607141206,
-      "category": "kaynak/baska"
     }
   ]
 }
