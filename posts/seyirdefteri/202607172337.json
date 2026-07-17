@@ -1,0 +1,59 @@
+{
+  "id": 202607172337,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-17T20:05:07.049Z",
+  "created_at": "2026-07-17T20:37:26.601Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Nasil da hatirladun",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Ego,<br>Yalnızca gözlemlenmeyen zihin yani senmişsin gibi davranan kafandaki ses değil, aynı zamanda bedenin kafadaki sesin söylediklerine verdiği tepkiler olan gözlemlenmeyen duygulardır<br></p>",
+          "author": "[E. Tolle'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Hiçbir düşünce size ait değildir. Bulutlar gibi görünürler ve onları kendinizden ayrı, belirgin bir şekilde gördüğünüzde özgürsünüzdür. Kafanızdaki sese inanmayın, o sizin dostunuz ya düşmanınız değil. Ne söylerse söylesin, onu gözlemlemeye devam edin. Bu, kimliksizleşme acının sonudur.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">- Kafamdaki o küçük ses<br>Hani \"yap artık şunu\" diyen,<br>Başımı habire belaya sokuyor.<br><br>\"Kafandaki sese\" karşı âgâh olasın cânım erenlerim,<br><br>Onu dinleyesin.<br><br>Onun senin sesin olmadığını bilesin; benimsemeyesin<br><br>Bu, toplumun ve başkalarının beklentileridir.<br><br>Ve sen, ben bunları kendi içimizde hiç sorgulamadan kabul etmişizdir.<br><br>Zihnin yorumlarının tek bir kelimesine bile inanmayasın.<br><br>Sadece izle ve farkında ol<br><br>Bu içsel konuşmanın tek bir kelimesine bile inanmadığında, tüm beklentilerden özgürsün.<br><br>Bak şimdi olduğu gibi...<br><br>İşte özgürlük budur.<br><br>Zihni böyle böyle idare edebiliriz<br>Ya da bize öyle gelmiştir<br><br>NOT:<br>Bugüne düşenlerden taze bir nefes sunuldu vesselam:</p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "Feryâd-ı Hüseynî",
+          "url": "https://benolanben.com/seyirdefteri/202606262054"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607172337-1784320644091.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Gün,<br>Başlamadan önce ayrı bir sahibini beklemez.<br><br>Görme gerçekleşir.<br>Ses ulaşır.<br>El, bardağı kaldırır.<br>Bir koku duyulur<br>Beden yürür, yer, cevap verir, uyur.<br>Hayat olur yani...<br><br>Ne var ki bundan sonra düşünce devreye girer ve der:<br><br>\"Bunu ben yapıyorum ya yapmıyorum\"<br><br>Bu iddia, vâkıâ geç kalmıştır.<br><br>Ortadan kaybolan şey eylem değildir;<br><br>Her şeyin ortasında duran,<br><br>Onsuz zaten hareket halinde olan şeyi sahiplenmeye çalışan o fazladır; fuzûlîdir.<br><br>Nasıldı o türkü:<br><br>Ben denizde bir gemi<br>Dalgalar vurur beni<br>Ben ağaçta bir yaprak<br>Rüzgar savurur beni<br><br>Oy beni beni ben~i...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607172337-1784320646601.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-17T20:37:26.601Z",
+  "is_protected": false
+}
