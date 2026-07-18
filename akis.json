@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Zemin kayarken",
+      "id": 202607182235,
+      "category": "posts/seyirdefteri/202607182235"
+    },
+    {
       "text": "Tıpkı kaldırılabilen ağırlığın büyüklüğüne dayalı, basit bir kuvvet testi olduğu gibi...\n\nKoşma veya yüzme yeteneğini öl...",
       "id": 202607190421,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       "text": "Dilsiz şiir",
       "id": 202607162347,
       "category": "posts/seyirdefteri/202607162347"
-    },
-    {
-      "text": "Kapalı çarşı",
-      "id": 202607152144,
-      "category": "posts/seyirdefteri/202607152144"
     }
   ]
 }
