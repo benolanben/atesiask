@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1577,
+        "parca_adi": "Haber saldım gönlüne",
+        "seslendiren": "A. Kadri",
+        "url": "https://www.mediafire.com/file/2t2td91lmy76rhl/habersal2.mp3"
+      },
+      "id": 202607191211,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Zemin kayarken",
       "id": 202607182235,
       "category": "posts/seyirdefteri/202607182235"
@@ -49,11 +59,6 @@
       "text": "A benim canım,\n\nBilgi birikmeden önce,\nDüşünce bir isim vermeden önce,\nZihin “Anlıyorum” demeden önce, burada ne var?\n\nG...",
       "id": 202607170447,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Dilsiz şiir",
-      "id": 202607162347,
-      "category": "posts/seyirdefteri/202607162347"
     }
   ]
 }
