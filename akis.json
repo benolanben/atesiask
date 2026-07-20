@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1578,
+        "parca_adi": "Bulamadım ben beni",
+        "seslendiren": "A. Veysel",
+        "url": "https://www.mediafire.com/file/3f3g9oujvfd5g7u/bulamadim.mp3"
+      },
+      "id": 202607201454,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1577,
         "parca_adi": "Haber saldım gönlüne",
         "seslendiren": "A. Kadri",
@@ -54,11 +64,6 @@
       },
       "id": 202607171543,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "A benim canım,\n\nBilgi birikmeden önce,\nDüşünce bir isim vermeden önce,\nZihin “Anlıyorum” demeden önce, burada ne var?\n\nG...",
-      "id": 202607170447,
-      "category": "sabahnesesi"
     }
   ]
 }
