@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dört Unsur'a düşünce",
+      "id": 202607212235,
+      "category": "posts/seyirdefteri/202607212235"
+    },
+    {
       "text": "Bir Uyku Risalesi",
       "id": 202607212214,
       "category": "posts/seyirdefteri/202607212214"
@@ -54,11 +59,6 @@
       "text": "B1Rak aksın",
       "id": 202607182219,
       "category": "posts/seyirdefteri/202607182219"
-    },
-    {
-      "text": "Nasil da hatirladun",
-      "id": 202607172337,
-      "category": "posts/seyirdefteri/202607172337"
     }
   ]
 }
