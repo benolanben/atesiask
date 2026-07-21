@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bir Uyku Risalesi",
+      "id": 202607212214,
+      "category": "posts/seyirdefteri/202607212214"
+    },
+    {
       "text": "Acıyı kendine çekmek",
       "id": 202607212210,
       "category": "posts/seyirdefteri/202607212210"
@@ -54,11 +59,6 @@
       "text": "Nasil da hatirladun",
       "id": 202607172337,
       "category": "posts/seyirdefteri/202607172337"
-    },
-    {
-      "text": "Ben olmayan ben",
-      "id": 202607172329,
-      "category": "posts/seyirdefteri/202607172329"
     }
   ]
 }
