@@ -1,0 +1,41 @@
+{
+  "id": 202607212118,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-21T17:58:22.006Z",
+  "created_at": "2026-07-21T18:18:53.062Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "yedi durak"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •8",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607212118-1784657935598.jpg",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/yedi8.mp3?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Merâtib-i Vücûd'a Dâir<br>Yahut Aşk'ın Kendine Tutulması</strong></p><blockquote><p class=\"mb-4\">Hakk'ın vücudu, AŞK'ın aynı ve AŞK da ZAT-I MUTLAK'ın vücudunun aynı olduğundan...</p><p class=\"mb-4\">Sevgililik zuhuru lâzım gelmekle, zâhirde kendisi (MA'ŞUK= SEVGİLİ) ve (İNSAN-I-KAMİL)'de (AŞIK) makamına lâyık görüp<br><br>Bâtında AŞK, ĀŞIK, MA'ŞUK, SEVEN, SEVİLEN merkezinde kendisi dolaşarak...</p><p class=\"mb-4\">Bütün yaratıklar ve isim ve sıfat ayrılıklarının her biri kendi yerlerine, işlerine, sıfatlarına bakıp bu değişikliklere hayran kalmışlardır.</p></blockquote><p class=\"mb-4\"><br>Bir başına geldin, tek başına gideceksin.<br>İkisi arasında aşka düşmek ve yine de yalnızlığını kaybetmemek mümkünse<br>Yaşamın tadına bakmışsındır vesselâm..</p><p class=\"mb-4\"><strong>•<br><br><br>BAĞLI KAYIT<br></strong></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "Yedi Dur~ak Risâlesi •7",
+          "url": "https://benolanben.com/seyirdefteri/202606230012"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-21T18:18:53.062Z",
+  "is_protected": false
+}
