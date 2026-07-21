@@ -1,0 +1,52 @@
+{
+  "id": 202607212210,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-21T17:58:22.006Z",
+  "created_at": "2026-07-21T19:10:25.489Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "acı",
+        "meditasyon",
+        "murakabe"
+      ],
+      "title": "Acıyı kendine çekmek",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607181930.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Acı kaçınılmazdır.<br>Dünya rüyasında zengin ile fakir rolü arasındaki en büyük fark,<br>Fakirin rahatsızlık içinde acı çekmesi, zenginin ise rahat bir şekilde acı çekmesidir.<br></p>",
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Gerçek doğamızı unutmak, tüm psikolojik acıların kaynağıdır ve tersine, kendimizi göre göre tanımak ve böylece hatırlamak, bütün insanların özlem duyduğu huzur ve mutluluğun kaynağı...<br></p>",
+          "author": "[C. Jung'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Acıların çoğu, deneyimin kendisinden değil, deneyimin etrafında yarattığımız kimlikten kaynaklanır.<br><br>Acının sebebi, geçmişten gelen ve şimdiki zamanda varlığını sürdüren hikayedir, onu buna bağlamazsan akar ve akan şey acıtmaz.</p><p class=\"mb-4\">Âkıbet kalp, acı, savunma ve ihtiyaç deposu olmaktan çıkıp aşka açık bir kap hâline döner.</p><p class=\"mb-4\"><strong>Ve biliyorsun işte, bir kabın kadri boşluğundan gelir...</strong></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Acınızı adlandırmadan , kınamadan veya haklı çıkarmaya çalışmadan gözlemleyin. O zaman acı çiçek açar, kokusunu salar ve iz bırakmadan sona erer. İşte bu acının acıtmayan paradoksu olabilir:<br><br><strong>Benlik, kendini korumayı bıraktığı an... Artık yoktur.<br>Ve korunacak bir 'ben' kalmadığında, acı çeken de kalmaz!<br></strong></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-21T19:10:25.489Z",
+  "is_protected": false
+}
