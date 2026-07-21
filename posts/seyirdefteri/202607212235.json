@@ -1,0 +1,65 @@
+{
+  "id": 202607212235,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-21T17:58:22.006Z",
+  "created_at": "2026-07-21T19:35:16.451Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607212235-1784662517801.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "dört unsur"
+      ],
+      "title": "Dört Unsur'a düşünce",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607212227.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Dört unsur<br>Tasarruf emânetini almaktan korktu da infaz memuru oldu.<br>Onu tek Âdem yüklendi, hâlife oldu.<br>Âkıbet dört unsur kuşu bağları çözülmesiyle, ölüm gibi gelenle aslına ferşe gider, can kuşu Arş'a dönememişse ikisi arasında berzahta kalır gider...<br></p>",
+          "author": "[Cenâb-ı Mevlevî'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>•<br></strong>Siz, toprak, su, ateş, hava veya hatta eter gibi elementlerden oluşmuyorsunuz.<br>Özgürleşmek için, kendinizi bunların tanığı olan saf bilinç olarak bilin.<br></p>",
+          "author": "[Ashtavakra Gita'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>••<br></strong>Biliyorsunuz, evvele yolculuk bir hayal gücü süreciyle sahnelenir.<br>Bütün bu mevsimlerden geçersiniz, unsurları arındırırsınız, birini diğerinde eritirsiniz, onu bir sonraki daha yüksek olana dönüştürürsünüz, onu zihne, onu ruha dönüştürürsünüz ve sonra siz ruh olursunuz ki zâten öylesiniz.<br></p>",
+          "author": "[S. Vivekananda'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>••••<br></strong>Dört unsur kuşu, beden dağına bağlanmış, ipini çözmesin diye istediklerini kendi asıllarından veririz; asla dönmek için çırpınır dururlar, hastalanırlar, ihtiyar olurlar, ölünce onlar asıllarına döner biz de Arş kuşu olarak aslımıza.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&182",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607212235-1784662519669.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Hicazkâr bir güzel açık etmişti zâten söyleneni, söylenmeyeni...<br><br><br>NOT:<br>Bu zevkle GÜNEŞ işareti de yeniden aşk edilebilir vesselâm</p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "Güneş'e eş mi olur?",
+          "url": "https://benolanben.com/seyirdefteri/202607172312"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-21T19:35:16.451Z",
+  "is_protected": false
+}
