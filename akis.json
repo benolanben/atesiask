@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yedi Dur~ak Risâlesi •8",
+      "id": 202607212118,
+      "category": "posts/seyirdefteri/202607212118"
+    },
+    {
       "text": {
         "sira_no": 1578,
         "parca_adi": "Bulamadım ben beni",
@@ -54,16 +59,6 @@
       "text": "Güneş'e eş mi olur?",
       "id": 202607172312,
       "category": "posts/seyirdefteri/202607172312"
-    },
-    {
-      "text": {
-        "sira_no": 1576,
-        "parca_adi": "Güneşe eş",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/y8xbdcc71ot6kpq/gunesdedunyada.mp3"
-      },
-      "id": 202607171543,
-      "category": "kaynak/baska"
     }
   ]
 }
