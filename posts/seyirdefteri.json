@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202607212214,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607212214-1784661246158.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "mu",
+            "uyku"
+          ],
+          "title": "Bir Uyku Risalesi",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607212210,
       "is_protected": false,
       "article": {
