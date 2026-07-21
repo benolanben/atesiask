@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Acıyı kendine çekmek",
+      "id": 202607212210,
+      "category": "posts/seyirdefteri/202607212210"
+    },
+    {
       "text": "Varlık, Yokluk, Fakr Üstüne",
       "id": 202607212123,
       "category": "posts/seyirdefteri/202607212123"
@@ -54,11 +59,6 @@
       "text": "Ben olmayan ben",
       "id": 202607172329,
       "category": "posts/seyirdefteri/202607172329"
-    },
-    {
-      "text": "Kahhar-ı Aşk'ın Âdeti",
-      "id": 202607172316,
-      "category": "posts/seyirdefteri/202607172316"
     }
   ]
 }
