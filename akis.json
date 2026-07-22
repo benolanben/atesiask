@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1579,
+        "parca_adi": "Mitra's Theme",
+        "seslendiren": "E. Karaindrou",
+        "url": "https://www.mediafire.com/file/izgywzpwj9znq1l/mitra.mp3"
+      },
+      "id": 202607221104,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Dört Unsur'a düşünce",
       "id": 202607212235,
       "category": "posts/seyirdefteri/202607212235"
@@ -54,11 +64,6 @@
       "text": "Tıpkı kaldırılabilen ağırlığın büyüklüğüne dayalı, basit bir kuvvet testi olduğu gibi...\n\nKoşma veya yüzme yeteneğini öl...",
       "id": 202607190421,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "B1Rak aksın",
-      "id": 202607182219,
-      "category": "posts/seyirdefteri/202607182219"
     }
   ]
 }
