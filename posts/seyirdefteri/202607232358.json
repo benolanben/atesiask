@@ -1,0 +1,52 @@
+{
+  "id": 202607232358,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-23T20:05:21.050Z",
+  "created_at": "2026-07-23T20:58:01.715Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232357-1784840276726.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Attar",
+        "Murâdî"
+      ],
+      "title": "Hasretâ",
+      "subtitle": "",
+      "show_background_image": true
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Yüz kere <strong>murâdı</strong> terk etmeyince bir kere murâd ele geçmez.<br></p>",
+          "author": "[F. Irâkî:Lemâat'dan]"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232358-1784840281193.mp3",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232358-1784840284219.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Zaten Olma~yan'dan ayrılmak zordur...</strong></p><p class=\"mb-4\"><br>8 Saferu'l Hayr 1444<br>Ş. Murâdî<br>Hicri Sene-i Devriyesi münâsebeti ile<br>Hasretle ikrâm olundu vesselâm</p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607232355.mp3?download=true",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232358-1784840285899.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>Âteş-i aşk-ı to der cân hoşter est<br>Cân zi aşket âteş-efşân hoşter est</em><br><br>Aşkının ateşi bu cana düşse hoştur; can, aşkınla tutuşup ateşe dönse hoştur.<br><br><em>Her ki hord ez câm-ı aşket katre’î<br>Tâ kıyâmet mest ü hayrân hoşter est<br></em><br>Kim ki câm-ı ışkından nûş etse bir katre; gayrılık zâil olup mest u hayrân olsa hoştur<br><br><em>Tâ to peydâ âmedî pinhân şodem<br>Zânki bâ ma’şûk-ı pinhân hoşter est<br></em><br><strong>Sen ayân olalı \"ben\" dediğim yok oldu bende çünkü Sevgili'yle — ikilik değil — bir olmak hoştur.<br></strong><br><em>Derd-i aşk-ı to ki cân mî-sûzedem<br>Ger heme zehr est ez cân hoşter est</em><br><br>Aşkının derdi bu canı yaksa kavursa da hatta zehir bile olsa, bu dert candan hoştur.<br><br><em>Derd ber men rîz ü dermânem mekon<br>Zânki derd-i to zi dermân hoşter est</em><br><br>Dert yağdır üstüme, arama bana derman çünkü senden gelen dert, dermandan da hoştur.<br><br>Mî-nesâzî tâ ne-mî-sûzî merâ<br>Sûhten der aşk-ı to zân hoşter est<br><br><strong>Yakmadıkça yapmazsın beni, yapma öyleyse aşk ateşinde kül olmak, varlıktan da hoştur.</strong><br><br><em>Çün visâlet hîçkes râ rûy nîst<br>Rûy der dîvâr-ı hicrân hoşter est</em><br><br>Visaline ermeye hiç kimsede yüz yok, bilirim; hicran duvarına dönüp ağlamak ondan hoştur.<br><br><em>Huşk-sâl-ı vasl-ı to bînem müdâm<br>Lâcerem der dîde tûfân hoşter est</em><br><br>Vuslatının kıtlık yılını görürüm her dem; göz pınarımda tufan kopması ondan hoştur.<br><br><em>Hemço şem’î der firâket her şebî<br>Tâ seher Attâr-ı giryân hoşter est</em><br><br>Her gece hasretinle bir mum gibi yanıp, Seher vaktine dek Attâr ağlasa hoştur.</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-23T20:58:01.715Z",
+  "is_protected": true
+}
