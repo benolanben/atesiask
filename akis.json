@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hasretâ",
+      "id": 202607232358,
+      "category": "posts/seyirdefteri/202607232358"
+    },
+    {
       "text": "Kendim giydim kime ne",
       "id": 202607232351,
       "category": "posts/seyirdefteri/202607232351"
@@ -54,16 +59,6 @@
       "text": "Yedi Dur~ak Risâlesi •8",
       "id": 202607212118,
       "category": "posts/seyirdefteri/202607212118"
-    },
-    {
-      "text": {
-        "sira_no": 1578,
-        "parca_adi": "Bulamadım ben beni",
-        "seslendiren": "A. Veysel",
-        "url": "https://www.mediafire.com/file/3f3g9oujvfd5g7u/bulamadim.mp3"
-      },
-      "id": 202607201454,
-      "category": "kaynak/baska"
     }
   ]
 }
