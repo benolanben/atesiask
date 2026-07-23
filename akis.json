@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1580,
+        "parca_adi": "Nedir yine benimle",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/kzfw30ey4s20vct/nediryine.mp3"
+      },
+      "id": 202607231736,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1579,
         "parca_adi": "Mitra's Theme",
         "seslendiren": "E. Karaindrou",
@@ -59,11 +69,6 @@
       "text": "Zemin kayarken",
       "id": 202607182235,
       "category": "posts/seyirdefteri/202607182235"
-    },
-    {
-      "text": "Tıpkı kaldırılabilen ağırlığın büyüklüğüne dayalı, basit bir kuvvet testi olduğu gibi...\n\nKoşma veya yüzme yeteneğini öl...",
-      "id": 202607190421,
-      "category": "sabahnesesi"
     }
   ]
 }
