@@ -1,0 +1,54 @@
+{
+  "id": 202607232351,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-23T20:05:21.050Z",
+  "created_at": "2026-07-23T20:51:33.345Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "arayış",
+        "melamet",
+        "unutuş"
+      ],
+      "title": "Kendim giydim kime ne",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&741",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232351-1784839894537.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Olan'dan başka muradın kalmasa...<br>Başka bir şeye dönüşme talebi olmasa, bu \"arayış' denen filmden ne kalırdı geriye?</p><p class=\"mb-4\">Rüya görenin susuzluğunu, rüya suyuyla gidermeye çalışmak da ne?<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Hakikati arayanın diline, bir rüya balı çalarlar ilkin, derken eline de bir fener tutuştururlar; lakin pilini takmayı unutturular adama...&nbsp;</p><p class=\"mb-4\">Karanlıkta, körtabi her çarpış \"buldum\" sanrısıdır ve her boşluk, sonsuzluğa açılan bir kapı...&nbsp;</p><p class=\"mb-4\">Buldum zannettiğin an, aradığın şey anında şekil değiştirip karşına bir sonraki bilmece olarak dikilir...</p><p class=\"mb-4\">Hele bana şöyle gelir; gölgesini yakalamaya çalışan bir kedi, patisini hep boşluğa savurmuş gibi.&nbsp;</p><p class=\"mb-4\">Ve hazır olanı, gaybda aramadaki kaçınılmaz başarısızlık, şefkatli ama tok bir şamar gibi indirir seni beni, hiçliğin her dem açık kucağına...</p><p class=\"mb-4\">O kısacık hakikat parıltısı ise, gözüne kaçmış bir toz zerresidir aslında; ovuşturdukça daha da uzağa, Laf Dağı'nın ardına savurur.</p><p class=\"mb-4\">Hadi itiraf edelim ey talip:&nbsp;</p><p class=\"mb-4\"><strong>Hayal gücünde yaratılan \"mesafe\" dışında yaratılan hiçbir şey yok!</strong></p><p class=\"mb-4\">Hem \"Başka bir şey olma\" talebi olmasa, \"kendin\" denilen o yekpare muammayı nereye koyacaktın?&nbsp;</p><p class=\"mb-4\">Varoluşun cilvesine bak ki, arayış denilen o koca tufanın göbeğinde, arayan da aranan da aynı suda yüzen bir damlanın, gölgesiyle oyunundan ibaret.</p><p class=\"mb-4\">Sen hep okyanus olduğun halde dalga olmayı talep ettiğin sürece, kıyıya vurmaya da, buharlaşıp kaybolmaya da râzısın demektir a güzel...</p><p class=\"mb-4\">Velhasıl, arayış dediğin, kaybetmek için oynanan en zevkli kumardır ve hileli zarı, oyun başlamadan çok önce Kendi elinle kendi cebine koymuşsundur zaten.</p><p class=\"mb-4\">Şimdi duyuyorsun değil mi?</p><p class=\"mb-4\">🎵<br>Kendim geydim; kime ne!</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kendinize verdiğiniz isim, yalnızca şu anda konuşan birikmiş anılardan ibarettir. Bu yükü bir anlığına unutun ve varoluşunuz çaba gerektirmeden parlasın.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607232351-1784839897134.jpg",
+          "url": "https://benolanben.com/dinle/baska&1579"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-23T20:51:33.345Z",
+  "is_protected": false
+}
