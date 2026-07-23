@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kendim giydim kime ne",
+      "id": 202607232351,
+      "category": "posts/seyirdefteri/202607232351"
+    },
+    {
       "text": "Bulamadım ben ben~i",
       "id": 202607232337,
       "category": "posts/seyirdefteri/202607232337"
@@ -17,11 +22,11 @@
     },
     {
       "text": {
-      "sira_no": 1579,
-      "parca_adi": "Kime ne",
-      "seslendiren": "A. Aşk",
-      "url": "https://www.mediafire.com/file/fvxome0mrnv24pe/kimene_daa.mp3"
-    },
+        "sira_no": 1579,
+        "parca_adi": "Kime ne",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/fvxome0mrnv24pe/kimene_daa.mp3"
+      },
       "id": 202607221104,
       "category": "kaynak/baska"
     },
@@ -58,16 +63,6 @@
         "url": "https://www.mediafire.com/file/3f3g9oujvfd5g7u/bulamadim.mp3"
       },
       "id": 202607201454,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1577,
-        "parca_adi": "Haber saldım gönlüne",
-        "seslendiren": "A. Kadri",
-        "url": "https://www.mediafire.com/file/2t2td91lmy76rhl/habersal2.mp3"
-      },
-      "id": 202607191211,
       "category": "kaynak/baska"
     }
   ]
