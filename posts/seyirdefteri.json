@@ -1,6 +1,26 @@
 {
   "isaretler": [
     {
+      "id": 202607242015,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Kalplerin Gıdası",
+            "dokuz yüz katlı ev",
+            "mesnevi"
+          ],
+          "title": "Dile gelmeyenlerden",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202607232358,
       "is_protected": true,
       "article": {
