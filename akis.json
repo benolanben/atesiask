@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Dile gelmeyenlerden",
+      "id": 202607242015,
+      "category": "posts/seyirdefteri/202607242015"
+    },
+    {
       "text": "Hasretâ",
       "id": 202607232358,
       "category": "posts/seyirdefteri/202607232358"
@@ -54,11 +59,6 @@
       "text": "Varlık, Yokluk, Fakr Üstüne",
       "id": 202607212123,
       "category": "posts/seyirdefteri/202607212123"
-    },
-    {
-      "text": "Yedi Dur~ak Risâlesi •8",
-      "id": 202607212118,
-      "category": "posts/seyirdefteri/202607212118"
     }
   ]
 }
