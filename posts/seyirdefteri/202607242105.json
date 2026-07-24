@@ -1,0 +1,41 @@
+{
+  "id": 202607242105,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-24T16:57:10.888Z",
+  "created_at": "2026-07-24T18:05:51.829Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "Mısrî",
+        "Pera Ensemble"
+      ],
+      "title": "Gider çürüğü işinin",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607242019.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Meclîse ilkin taze bir neş'e gelsin...<br><br>Git~gide âkıbet...<br><br>Tek bir satırın açılması yetti yeter bulutları dağıtmaya:<br><strong>\"Mısrî'e uyan kişinin gider çürüğü işinin...\"<br></strong><br>Âleme hemân ben deyip ayırdığımızdır ya sana bana noksan...<br><br>Benim işim ne yapsam çürük, ne olsa eksik<br>Benim bir işim kalmayınca<br>Benim rengim sahnesi geçince yıkanınca<br>Benim etiketi giderilince</p><p class=\"mb-4\">Ben zâten...<br><br>Adres bir kere silinmeye görsün<br>Bâkî kalan resmî hizmete mahsustur<br>Adresi umursamaksızın<br>Sâdece aşk mektupları göndermeye devam edersiniz vesselam</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>İnsanlık imkanı,<br></strong>Yeni yollar keşfetmek için<br>Kendi adresini unutmayı kabul eden<br>Ebedi gözlemciye benzer...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-24T18:05:51.829Z",
+  "is_protected": false
+}
