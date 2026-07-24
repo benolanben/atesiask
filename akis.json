@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gider çürüğü işinin",
+      "id": 202607242105,
+      "category": "posts/seyirdefteri/202607242105"
+    },
+    {
       "text": "Dile gelmeyenlerden",
       "id": 202607242015,
       "category": "posts/seyirdefteri/202607242015"
@@ -54,11 +59,6 @@
       "text": "Acıyı kendine çekmek",
       "id": 202607212210,
       "category": "posts/seyirdefteri/202607212210"
-    },
-    {
-      "text": "Varlık, Yokluk, Fakr Üstüne",
-      "id": 202607212123,
-      "category": "posts/seyirdefteri/202607212123"
     }
   ]
 }
