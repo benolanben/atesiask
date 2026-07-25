@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1581,
+        "parca_adi": "Çıkar yol",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/koutkgpb76n8pse/cikar.mp3"
+      },
+      "id": 202607252117,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Gider çürüğü işinin",
       "id": 202607242105,
       "category": "posts/seyirdefteri/202607242105"
@@ -54,11 +64,6 @@
       "text": "Bir Uyku Risalesi",
       "id": 202607212214,
       "category": "posts/seyirdefteri/202607212214"
-    },
-    {
-      "text": "Acıyı kendine çekmek",
-      "id": 202607212210,
-      "category": "posts/seyirdefteri/202607212210"
     }
   ]
 }
