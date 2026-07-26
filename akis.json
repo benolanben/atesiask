@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Susabilme Sanatı",
+      "id": 202607261702,
+      "category": "posts/seyirdefteri/202607261702"
+    },
+    {
       "text": "Tek Tabanca: Revolver",
       "id": 202607261625,
       "category": "posts/seyirzevki/202607261625"
@@ -59,11 +64,6 @@
       },
       "id": 202607221104,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Dört Unsur'a düşünce",
-      "id": 202607212235,
-      "category": "posts/seyirdefteri/202607212235"
     }
   ]
 }
