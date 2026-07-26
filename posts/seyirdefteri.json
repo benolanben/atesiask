@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202607261706,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607261706-1785074799952.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "no way out",
+            "çıkış"
+          ],
+          "title": "Çıkar yol: YOK",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607261702,
       "is_protected": false,
       "article": {
