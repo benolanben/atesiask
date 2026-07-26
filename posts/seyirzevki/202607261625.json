@@ -1,0 +1,65 @@
+{
+  "id": 202607261625,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-21T17:58:22.006Z",
+  "created_at": "2026-07-26T13:25:33.912Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Tek Tabanca: Revolver",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202607212124-1784658261263.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Kafanın içinde bir mağarada, kendi yarattığınız hayali bir dünyada zihnin esiri olarak yaşadığınızı bilmek, bilgeliğin şafağıdır.</strong><br></p>",
+          "author": "[Platon'dan]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Hayat, acının ateşi ile heyecanın hayaleti arasında, sözde özgür insanın dehşet içinde uluyarak koştuğu dar bir şerittir. Ve tüm koridor sadece kafasının içinde...<br></p>",
+          "author": "[V. Pelevin'den]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kimliğiniz, kendinizi nasıl gördüğünüzün alışkanlığından ibarettir ve hayatınız, kim olduğunuz hakkında kendi kafanızda sürekli tekrarladığınız şeylere göre şekillenir.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>Şâyet kafanızdaki ses siz~seniz, onu dinleyene kim dersiniz?</strong><br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bütün sözler gecedir, gündüzü bunun gibidir:<br>\"<em>A'dâ aduvvuke nefsüke elletî beyne cenbeyk\"</em><br><strong>İki yanınız arasındaki (içindeki) en azılı düşmanın kendi nefsindir.</strong></p><p class=\"mb-4\">~<br><br>Ego, aklımıza gelebilecek, tahmin edebileceğimiz<br>En kötü güven dolandırıcısıdır.<br>...<br>Çünkü onu görmezsiniz.<br>En büyük ve tek numarası...<br><strong>\"Ben senim işte\" dir.</strong></p><p class=\"mb-4\">~<br><br>En büyük sorun, egonun...<br>Bakacağınız son yerde saklanması:<br><strong>\"Kendi içinde!\"</strong></p><p class=\"mb-4\">Düşüncelerini, sizinkiymiş gibi saklar.<br>Onun duyguları, sizin duygularınızmış gibi.<br>Onu siz zannedersiniz.</p><p class=\"mb-4\">~</p><p class=\"mb-4\">İnsanların egolarını, ben~sandıklarını koruma ihtiyacı sınır tanımaz.<br>Ego değeri, anlam evi dediğimiz şeyi korumak için yalan söyler, hırsızlık yapar, her acıyı çeker, adam öldürür, ne gerekirse yaparlar.<br><br>~</p><p class=\"mb-4\">İnsanlar hapiste olduklarını bilmez.<br>Bir ego olduğunu bilmezler.<br>Aradaki farkı bilmezler.<br>Başta zihin için kabullenmesi zordur.<br>Kendinden öte, daha değerli...<br>İçindeki gerçeği daha iyi...<br>Ayırt eden bir şey olduğunu kabullenemez.</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Dinde, ego şeytandır.<br>Ve tabii kimse egonun<br>Ne kadar zeki olduğunu anlamaz.<br>Çünkü başkasını suçlayabilmeniz için şeytanı yarattı.<br>Bu hayâlî dış düşmanı yaratırken...<br>genelde kendimizi için bir düşman yaratırız...<br>Sonra o, ego için gerçek bir tehlike olur.<br>Ama aslında onu da ego yaratmıştır.<br>Kafanızdaki ses ne derse desin...<br>\"Dış düşman diye bir şey yoktur\"<br>Düşmana dair tüm fikirleriniz...<br>Egonun düşman olarak yansımasıdır.</p><p class=\"mb-4\">Bu bağlamda dış düşmanlarımızın hepsini<br>Kendimizin yarattığını görürsünüz.<br>En büyük düşmanınız...<br>Kendi fikirleriniz, kendi cehaletiniz<br>Öyle sandıklarınız<br>Yani kendi egonuzdur.<br><br>~</p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kafanın içindeki sesin 'sen' olduğuna inandığın an, başlar bir fırtına...<br>Ve inanmayınca, başlar işler tersine dönmeye...<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "Revolver (2005)",
+          "url": "https://www.imdb.com/title/tt0365686/"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-26T13:25:33.912Z",
+  "is_protected": false
+}
