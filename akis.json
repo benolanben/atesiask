@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Çıkar yol: YOK",
+      "id": 202607261706,
+      "category": "posts/seyirdefteri/202607261706"
+    },
+    {
       "text": "Susabilme Sanatı",
       "id": 202607261702,
       "category": "posts/seyirdefteri/202607261702"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/kzfw30ey4s20vct/nediryine.mp3"
       },
       "id": 202607231736,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1579,
-        "parca_adi": "Kime ne",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/fvxome0mrnv24pe/kimene_daa.mp3"
-      },
-      "id": 202607221104,
       "category": "kaynak/baska"
     }
   ]
