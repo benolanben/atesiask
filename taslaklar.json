@@ -1,43 +1,6 @@
 {
   "isaretler": [
     {
-      "id": 1784658192167,
-      "title": "Tek Tabanca: Revolver",
-      "category": "seyirzevki",
-      "content": {
-        "id": 1784658192167,
-        "title": "Yeni Taslak",
-        "author": "BenOlanBen",
-        "publishedDate": "2026-07-21T17:58:22.006Z",
-        "created_at": "2026-07-21T17:58:22.006Z",
-        "article": {
-          "header": {
-            "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
-            "date_value": "",
-            "mini_title": "",
-            "tags": [
-              ""
-            ],
-            "title": "Tek Tabanca: Revolver",
-            "subtitle": "",
-            "show_background_image": false
-          },
-          "main_article": {
-            "quotes": [
-              {
-                "type": "fotograf",
-                "text": "",
-                "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirzevki/202607212124-1784658261263.jpg"
-              }
-            ]
-          }
-        }
-      },
-      "created_at": "2026-07-21T18:23:12.167Z",
-      "updated_at": "2026-07-21T18:36:41.878Z",
-      "is_protected": true
-    },
-    {
       "id": 1784403371528,
       "title": "0628",
       "category": "seyirdefteri",
