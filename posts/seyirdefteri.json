@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202607261702,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607261702-1785074562937.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "susabilme",
+            "sükut"
+          ],
+          "title": "Susabilme Sanatı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607242105,
       "is_protected": false,
       "article": {
