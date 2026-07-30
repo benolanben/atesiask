@@ -1,0 +1,40 @@
+{
+  "id": 202607302115,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-07-30T18:06:00.991Z",
+  "created_at": "2026-07-30T18:15:42.103Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "mesnevi"
+      ],
+      "title": "Dem-i Mevlevî",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607302113.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\"><strong>\"Sıfata ihtiyaç duyan, zâtından emin değildir... \"</strong><br>Nüktesiyle Cenâb-ı Mevlevî bağçesinen aşk ile derlendi bir bir...</p><p class=\"mb-4\">Vasf u nām ile ne tahsīl hayāl<br>Ol hayāldir ki o dellāl-i visāl</p><p class=\"mb-4\">Ad, sıfattan hem ne doğmuş, hep hayâl,<br>Vuslatın rehber olur, olmaz visâl!</p><p class=\"mb-4\"><strong>•</strong><br><strong>Sıfattan, addan ne doğar? Hayal. Onun o hayali, kavuşmaya işaret olsun diye var. Ay'a işaret eden parmağı emmekte ne var!</strong></p><p class=\"mb-4\">Olamaz dellāl bī-medlūl hīç<br>Olmadukça çāre olmaz ġūl hīç</p><p class=\"mb-4\">Olmasın medlûl, gereksizdir delil<br>Olmadan yol, gulyaban olmaz ki bil!</p><p class=\"mb-4\"><strong>•<br>Gösteriğii olmayan bir işaret edici gördün mü hiç? Yol olmadıkça gulyabani de olmaz</strong></p><p class=\"mb-4\">Bī-hakīkat nām görmiş mi ehad<br>Kāf u lām'dan düşürülmez gül ebed</p><p class=\"mb-4\">Gerçek olmazken isim, gördün mü sen?<br>“Kâf” ve “lâm”dan var mı bir gül toplayan!</p><p class=\"mb-4\"><strong>•<br>Gerçeği olmayan bir ad gördün mü hiç? Ya da gül [sözcüğünün] “Kâf” ve lâm” [harflerinden] gül derdin mi?</strong></p><p class=\"mb-4\">İsm okıdın kıl müsemmāsın taleb<br>Māhı bālā bil, suda çekme ta‘ab</p><p class=\"mb-4\">Ad okursun, git müsemmâyı ara;<br>Ay, semâdan, yerde, yer yok onlara.</p><p class=\"mb-4\"><strong>•<br>Adı okudun, git ad verileni de ara. Ay’ı yukarıda bil, ırmak suyunda değil.</strong></p><p class=\"mb-4\">Nām u harfden geçmek isterseñ eger<br>Kendiñi kendiñden eyle pākter</p><p class=\"mb-4\"><strong>İstiyorsan harf ve addan kurtuluş,<br>Kendi kendinden temizlen, bitsin iş.</strong></p><p class=\"mb-4\"><strong>•<br>Addan, harften geçmek istersen, dikkat et, kendini geçmiş kendinden tümüyle temizle.</strong></p><p class=\"mb-4\">Āhen-āsā āhen-i bī-reng ol<br>Kıl riyāżat āyīne bī-jeng ol</p><p class=\"mb-4\">Bak demir emsâli renksiz olmaya,<br>Et riyâzet, dön ki, passız aynaya</p><p class=\"mb-4\"><strong>•<br>Demir gibi ateşlen ve demirlikten çık, renksiz ol; riyazetle passız aynaya dön.</strong></p><p class=\"mb-4\"><strong>Sāf kıl sen kendi vasfıñdan seni<br>Zāt-ı pāk-i vasfıñı gör ey senī</strong></p><p class=\"mb-4\">Kendi vasfından arıt, sen kendini,<br>Sen de gör kendinde, en safken seni.</p><p class=\"mb-4\"><strong>•<br>Kendi berrak ve temiz zatını görmek için kendini, kendi niteliklerinden temizle.</strong></p><p class=\"mb-4\">Gör diliñde sen ‘ulūm-ı enbiyā<br>Bī-kitāb u bī-mu‘īd ü ūstā</p><p class=\"mb-4\">Hem kitâpsız, hem muallimsiz iken,<br>Gör nebîler ismidir, kalbinde sen.</p><p class=\"mb-4\"><strong>•<br>Böylece kitap, öğretici ve hoca olmaksızın gönlünde peygamberlerin bilgilerini görürsün.</strong></p><p class=\"mb-4\">Didi Peyġamber benim var ümmetim<br>Ki olur hem-gevherim hem himmetim</p><p class=\"mb-4\">Derdi Peygamber: “Seçilmiş ümmetim,<br>Cevherim bir, aynı, birdir himmetim.</p><p class=\"mb-4\"><strong>•</strong><br><strong>Peygamber: Ümmetimden benimle aynı cevhere, aynı himmete sahip olanlar vardır, dedi.</strong></p><p class=\"mb-4\">Beni bir nūrdan görür cānları hep<br>Geh ben anları görürem vakt-i şeb</p><p class=\"mb-4\">Rûhların nûruyla görmüşler bizi,<br>Ben de gördüm, öyle bir nûrdan sizi.</p><p class=\"mb-4\"><strong>•</strong><br><strong>Benim onları gördüğüm ışıkla, onların canları da beni görür*</strong></p><p class=\"mb-4\"><em>*“Beni görmeden bana inanan kardeşlerimi görmeyi ne çok isterim” hadis-i şerifine işarettir.</em></p><p class=\"mb-4\">Bī-sahīhīn ü ehādis ü rivāt<br>Buldı anlar meşreb-i āb-ı hayāt</p><p class=\"mb-4\">Râvi sahih sanma, Müslim söylüyor,<br>Hayat sularından içen kalpler diyor!</p><p class=\"mb-4\"><strong>•<br>Onlar Peygamber’i, iki sahih kitabı, hadisler ve râviler olmaksızın bengisu kaynağında görürler.</strong></p>",
+          "author": "[Mesnevi-i Manevî: Birinci Defter'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Sürekli bir şeyleri soyup atıyorsun üzerinden<br>Zira ki bu soyma işleminin bir yerinde gerçek benliğinle karşılaşma ümidin var.</p><p class=\"mb-4\">Korku gider bir bir.<br>Hafıza gider bir bir.<br>İmaj gider birden.</p><p class=\"mb-4\">Peki a güzel,<br>Bunların hiçbirinin, gerçek seni içinde tutamayacağına kim karar vermişti önceden?</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-07-30T18:15:42.103Z",
+  "is_protected": false
+}
