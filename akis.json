@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yumuşak Bakış: Teslimiyet Sanatı",
+      "id": 202607302110,
+      "category": "posts/seyirdefteri/202607302110"
+    },
+    {
       "text": "Çıkar yol: YOK",
       "id": 202607261706,
       "category": "posts/seyirdefteri/202607261706"
@@ -49,16 +54,6 @@
       "text": "Bulamadım ben ben~i",
       "id": 202607232337,
       "category": "posts/seyirdefteri/202607232337"
-    },
-    {
-      "text": {
-        "sira_no": 1580,
-        "parca_adi": "Nedir yine benimle",
-        "seslendiren": "C. Asitanesi",
-        "url": "https://www.mediafire.com/file/kzfw30ey4s20vct/nediryine.mp3"
-      },
-      "id": 202607231736,
-      "category": "kaynak/baska"
     }
   ]
 }
