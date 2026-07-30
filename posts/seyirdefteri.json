@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202607302110,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202607302110-1785435004195.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "teslimiyet",
+            "yumuşak bakış"
+          ],
+          "title": "Yumuşak Bakış: Teslimiyet Sanatı",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202607261706,
       "is_protected": false,
       "article": {
