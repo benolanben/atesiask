@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "KAPISIZ mı kapı",
+      "id": 202608012204,
+      "category": "posts/seyirdefteri/202608012204"
+    },
+    {
       "text": "Dem-i Mevlevî",
       "id": 202607302115,
       "category": "posts/seyirdefteri/202607302115"
@@ -49,11 +54,6 @@
       "text": "Hasretâ",
       "id": 202607232358,
       "category": "posts/seyirdefteri/202607232358"
-    },
-    {
-      "text": "Kendim giydim kime ne",
-      "id": 202607232351,
-      "category": "posts/seyirdefteri/202607232351"
     }
   ]
 }
