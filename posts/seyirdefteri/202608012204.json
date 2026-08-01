@@ -1,0 +1,34 @@
+{
+  "id": 202608012204,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-01T18:46:01.290Z",
+  "created_at": "2026-08-01T19:04:52.116Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608012204-1785611094679.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "KAPISIZ mı kapı",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Kapısız bir kapıdan,<br>Doğru girişi bularak değil...<br>Kapıyı isteyen kişi,<br>Artık dışarıda durmadığında geçersiniz.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Velhâsıl, o kapısız kapının önünde asırlardır bekleşen yolcuya suâl edildi.</p><p class=\"mb-4\">\"Bre kendine talip, daha neyi ararsın?\"</p><p class=\"mb-4\">Yolcu, gözlerini kapının olması gereken boşluğa dikmiş olduğu hâlde, kan ter içinde cevap verdi:</p><p class=\"mb-4\">- E girmeyi bekliyorum işte...</p><p class=\"mb-4\">Bir hâtif-i esrâr yekten ekledi:</p><p class=\"mb-4\">\"Peki, kapıyı kim yaptı?\"</p><p class=\"mb-4\">Yolcu şaştı:</p><p class=\"mb-4\">- Beeen</p><p class=\"mb-4\">\"Peki, içeriyi dışarıdan ayıran duvar kimin eseri?\"</p><p class=\"mb-4\">Bir an durdu, alnındaki teri sildi:</p><p class=\"mb-4\">- Benimmm</p><p class=\"mb-4\">\"E peki o halde, şu anda dışarıda olduğuna karar veren o birini tanıyor musun?\"</p><p class=\"mb-4\">Yolcu, sırtındaki ağrıyla birlikte bütün bir varlık tasavvurunun, tıpkı bir düşünce taşı gibi, sessizce düştüğünü hissetti.</p><p class=\"mb-4\">- Hâşâ</p><p class=\"mb-4\">Dedi kendi kendine:</p><p class=\"mb-4\">- Kellâ, huzurdan hiç çıkmamışım ki....</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-01T19:04:52.116Z",
+  "is_protected": false
+}
