@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Nihavend Harita",
+      "id": 202608042241,
+      "category": "posts/seyirdefteri/202608042241"
+    },
+    {
       "text": "KAPISIZ mı kapı",
       "id": 202608012204,
       "category": "posts/seyirdefteri/202608012204"
@@ -49,11 +54,6 @@
       "text": "Dile gelmeyenlerden",
       "id": 202607242015,
       "category": "posts/seyirdefteri/202607242015"
-    },
-    {
-      "text": "Hasretâ",
-      "id": 202607232358,
-      "category": "posts/seyirdefteri/202607232358"
     }
   ]
 }
