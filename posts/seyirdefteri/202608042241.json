@@ -1,0 +1,40 @@
+{
+  "id": 202608042241,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-04T19:20:03.512Z",
+  "created_at": "2026-08-04T19:41:49.357Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "harita"
+      ],
+      "title": "Nihavend Harita",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202608042236.mp4?download=true"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">İnsan sonsuzdur; sınırlanamaz, haritası çizilemez.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>A benim canım,</strong><br><br>Elindeki harita, canlı araziyi temsil etmez.</p><p class=\"mb-4\">Şimdi esen rüzgarı, duygu trafiğini göstermez.</p><p class=\"mb-4\">Zihin ömrünce harita biriktirir;<br>Geçmediği yerlerin,<br>Tatmadığı meyvelerin,<br>Koklamadığı çiçeklerin<br>Uğramadığı dost meclislerinin haritasını...</p><p class=\"mb-4\">Seve seve, inanarak, ısrarla.</p><p class=\"mb-4\">Oysa harita, yerin kendisi değildir.<br>Bilmek, yaşamak değildir</p><p class=\"mb-4\">Öyle olduğunu anlamak, öyle olmak değildir ya hu...</p><p class=\"mb-4\">Ne var ki zaman çizgisinde süreklilik yanılsamasıyla ilerledikçe harita, arazinin yerini alır.</p><p class=\"mb-4\">Dil, bir şeyi tanımladığında, zihin onu keşfetmeyi bırakır oysa dil, gerçeklik değil, geniş alanın dar alanda sıkıştırmacasıdır.</p><p class=\"mb-4\">Bilmemek bir kusur değil bilakis hayatın gerçekten sizinle buluştuğu açık alandır.</p><p class=\"mb-4\">Yol olduğunu unutan zuhin, ısrarla haritalar ister.<br>Gerçeklikse doğrudan deneyimle varoluşu gözler...</p><p class=\"mb-4\">Nefesin araladığı kapı açıkken, aman sen yine de yürüye~gör...</p><p class=\"mb-4\">Hulâsa-i Kelâm cânım erenlerim,</p><p class=\"mb-4\">Şimdi sen, saf farkındalığın o sınırsız ummanını idrak etmek için buraya kadar derin derin felsefe okudun, vahdet neşesiyle coştun, \"Vay be, ben bu haritalardan özgürleştim, eyvallah!\" diye havayı içine çeke çeke derin bir nefes aldın değil mi?</p><p class=\"mb-4\">Sana bana bir müjdem var:<br>Vallahi tebrikler!</p><p class=\"mb-4\">Şu an zihnine yepyeni, son derece fiyakalı, non-dual ve tasavvufi bir \"Harita\" daha eklemiş bulunuyorsun!</p><p class=\"mb-4\">Şimdi o elindeki ekranı usulca yere bırak.</p><p class=\"mb-4\">Haritayı övmekten vazgeç de üzerinde durduğun o canım dünyaya, ayak parmaklarına bir bak.</p><p class=\"mb-4\">Hadi, navigasyonu kapat da kaybol biraz...</p><p class=\"mb-4\">Çünkü hakikatten kaybolduğun o yer, tam olarak \"Burası\"dır.<br><br>İki gözünü yum ve şu Nihavend güzelinin kucağına bırak kendini a güzel...</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-04T19:41:49.357Z",
+  "is_protected": true
+}
