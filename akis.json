@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gönül Kâbe~sin tavaf ederler",
+      "id": 202608062257,
+      "category": "posts/seyirdefteri/202608062257"
+    },
+    {
       "text": "Gören de yok",
       "id": 202608061646,
       "category": "posts/seyirdefteri/202608061646"
@@ -49,11 +54,6 @@
       },
       "id": 202607252117,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Gider çürüğü işinin",
-      "id": 202607242105,
-      "category": "posts/seyirdefteri/202607242105"
     }
   ]
 }
