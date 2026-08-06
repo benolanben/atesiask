@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Gören de yok",
+      "id": 202608061646,
+      "category": "posts/seyirdefteri/202608061646"
+    },
+    {
       "text": "Nihavend Harita",
       "id": 202608042241,
       "category": "posts/seyirdefteri/202608042241"
@@ -49,11 +54,6 @@
       "text": "Gider çürüğü işinin",
       "id": 202607242105,
       "category": "posts/seyirdefteri/202607242105"
-    },
-    {
-      "text": "Dile gelmeyenlerden",
-      "id": 202607242015,
-      "category": "posts/seyirdefteri/202607242015"
     }
   ]
 }
