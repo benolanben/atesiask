@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Seni bir nefesçik bile terk etmemiş olan şeye doğru yolculuğa çıkamazsın ey sevgili,\n\nYokluktan başlayan her arayış, ara...",
+      "id": 202608072230,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Daha da yaklaşın...",
       "id": 202608072230,
       "category": "posts/seyirdefteri/202608072230"
@@ -44,11 +49,6 @@
       "text": "Dem-i Mevlevî",
       "id": 202607302115,
       "category": "posts/seyirdefteri/202607302115"
-    },
-    {
-      "text": "Yumuşak Bakış: Teslimiyet Sanatı",
-      "id": 202607302110,
-      "category": "posts/seyirdefteri/202607302110"
     }
   ]
 }
