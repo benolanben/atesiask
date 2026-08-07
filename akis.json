@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ben Yoğum İmzası",
+      "id": 202608072210,
+      "category": "posts/seyirdefteri/202608072210"
+    },
+    {
       "text": "Gönül Kâbe~sin tavaf ederler",
       "id": 202608072206,
       "category": "posts/seyirdefteri/202608072206"
@@ -44,11 +49,6 @@
       "text": "Susabilme Sanatı",
       "id": 202607261702,
       "category": "posts/seyirdefteri/202607261702"
-    },
-    {
-      "text": "Tek Tabanca: Revolver",
-      "id": 202607261625,
-      "category": "posts/seyirzevki/202607261625"
     }
   ]
 }
