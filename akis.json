@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ruhullah olandan işitti, kulağı açık olanlar:\n\nKainatı tanıyan kişi, tanımamışsa kendini, kainatı da tanıyamaz!\n\nHer şey...",
+      "id": 202608072234,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Seni bir nefesçik bile terk etmemiş olan şeye doğru yolculuğa çıkamazsın ey sevgili,\n\nYokluktan başlayan her arayış, ara...",
       "id": 202608072230,
       "category": "sabahnesesi"
@@ -44,11 +49,6 @@
       "text": "KAPISIZ mı kapı",
       "id": 202608012204,
       "category": "posts/seyirdefteri/202608012204"
-    },
-    {
-      "text": "Dem-i Mevlevî",
-      "id": 202607302115,
-      "category": "posts/seyirdefteri/202607302115"
     }
   ]
 }
