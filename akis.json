@@ -2,6 +2,11 @@
   "isaretler": [
     {
       "text": "Gönül Kâbe~sin tavaf ederler",
+      "id": 202608072206,
+      "category": "posts/seyirdefteri/202608072206"
+    },
+    {
+      "text": "Gönül Kâbe~sin tavaf ederler",
       "id": 202608062257,
       "category": "posts/seyirdefteri/202608062257"
     },
@@ -44,16 +49,6 @@
       "text": "Tek Tabanca: Revolver",
       "id": 202607261625,
       "category": "posts/seyirzevki/202607261625"
-    },
-    {
-      "text": {
-        "sira_no": 1581,
-        "parca_adi": "Çıkar yol",
-        "seslendiren": "A. Aşk",
-        "url": "https://www.mediafire.com/file/koutkgpb76n8pse/cikar.mp3"
-      },
-      "id": 202607252117,
-      "category": "kaynak/baska"
     }
   ]
 }
