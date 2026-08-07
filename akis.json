@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Aşk olduğu belli olsun",
+      "id": 202608072227,
+      "category": "posts/seyirdefteri/202608072227"
+    },
+    {
       "text": "Ben Yoğum İmzası",
       "id": 202608072210,
       "category": "posts/seyirdefteri/202608072210"
@@ -44,11 +49,6 @@
       "text": "Çıkar yol: YOK",
       "id": 202607261706,
       "category": "posts/seyirdefteri/202607261706"
-    },
-    {
-      "text": "Susabilme Sanatı",
-      "id": 202607261702,
-      "category": "posts/seyirdefteri/202607261702"
     }
   ]
 }
