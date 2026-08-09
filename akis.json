@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bir~es",
+      "id": 202608091110,
+      "category": "posts/seyirdefteri/202608091110"
+    },
+    {
       "text": "Görünmek isteyen güzel",
       "id": 202608091100,
       "category": "posts/seyirdefteri/202608091100"
@@ -44,11 +49,6 @@
       "text": "Gönül Kâbe~sin tavaf ederler",
       "id": 202608062257,
       "category": "posts/seyirdefteri/202608062257"
-    },
-    {
-      "text": "Gören de yok",
-      "id": 202608061646,
-      "category": "posts/seyirdefteri/202608061646"
     }
   ]
 }
