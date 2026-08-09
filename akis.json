@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Görünmek isteyen güzel",
+      "id": 202608091100,
+      "category": "posts/seyirdefteri/202608091100"
+    },
+    {
       "text": "Aynayı tut yüzü~ne",
       "id": 202608091027,
       "category": "posts/seyirdefteri/202608091027"
@@ -44,11 +49,6 @@
       "text": "Gören de yok",
       "id": 202608061646,
       "category": "posts/seyirdefteri/202608061646"
-    },
-    {
-      "text": "Nihavend Harita",
-      "id": 202608042241,
-      "category": "posts/seyirdefteri/202608042241"
     }
   ]
 }
