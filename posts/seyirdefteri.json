@@ -1,6 +1,42 @@
 {
   "isaretler": [
     {
+      "id": 202608091124,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Geçmiş olsun...",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
+      "id": 202608091110,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Bir~es",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202608091100,
       "is_protected": false,
       "article": {
