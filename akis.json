@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Neyin ne olduğu görünmemektedir..\n\nBir ayak, sise basar.\nDüşüş, o adımda gizlidir.\n\nSabâhu'n-nûr ve's-sürûr\nRüyada düşen...",
+      "id": 202608091110,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Bir~es",
       "id": 202608091110,
       "category": "posts/seyirdefteri/202608091110"
@@ -44,11 +49,6 @@
       "text": "Gönül Kâbe~sin tavaf ederler",
       "id": 202608072206,
       "category": "posts/seyirdefteri/202608072206"
-    },
-    {
-      "text": "Gönül Kâbe~sin tavaf ederler",
-      "id": 202608062257,
-      "category": "posts/seyirdefteri/202608062257"
     }
   ]
 }
