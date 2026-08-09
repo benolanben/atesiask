@@ -1,0 +1,40 @@
+{
+  "id": 202608091110,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-09T07:23:07.440Z",
+  "created_at": "2026-08-09T08:10:46.179Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Bir~es",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bilgi, suya isim verebilir.</p><p class=\"mb-4\">Ama ağzı ıslatmaz.</p><p class=\"mb-4\">Biri, birini işaret yoluyla gerçeğe götürebilir<br>Ama gerçeği görmesini sağlayamaz ki...</p><p class=\"mb-4\"><br>Şimdi tenhada dinleyesin<br>Ses etmeyesin:</p><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://benolanben.com/dinle/baska&1574"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608091110-1786263044979.jpg"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-09T08:10:46.179Z",
+  "is_protected": false
+}
