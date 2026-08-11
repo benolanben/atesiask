@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202608112142,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608112142-1786473720003.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Ölüm Ânında",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202608091124,
       "is_protected": false,
       "article": {
