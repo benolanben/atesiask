@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ölüm Ânında",
+      "id": 202608112142,
+      "category": "posts/seyirdefteri/202608112142"
+    },
+    {
       "text": "Geçmiş olsun...",
       "id": 202608091124,
       "category": "posts/seyirdefteri/202608091124"
@@ -44,11 +49,6 @@
       "text": "Aşk olduğu belli olsun",
       "id": 202608072227,
       "category": "posts/seyirdefteri/202608072227"
-    },
-    {
-      "text": "Ben Yoğum İmzası",
-      "id": 202608072210,
-      "category": "posts/seyirdefteri/202608072210"
     }
   ]
 }
