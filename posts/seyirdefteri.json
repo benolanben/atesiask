@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202608142201,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608142201-1786734110162.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Nalınlarını çıkar",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202608112142,
       "is_protected": true,
       "article": {
