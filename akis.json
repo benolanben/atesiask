@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Nalınlarını çıkar",
+      "id": 202608142201,
+      "category": "posts/seyirdefteri/202608142201"
+    },
+    {
       "text": "Ölüm Ânında",
       "id": 202608112142,
       "category": "posts/seyirdefteri/202608112142"
@@ -44,11 +49,6 @@
       "text": "Daha da yaklaşın...",
       "id": 202608072230,
       "category": "posts/seyirdefteri/202608072230"
-    },
-    {
-      "text": "Aşk olduğu belli olsun",
-      "id": 202608072227,
-      "category": "posts/seyirdefteri/202608072227"
     }
   ]
 }
