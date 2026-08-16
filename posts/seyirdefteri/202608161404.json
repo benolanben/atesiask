@@ -1,0 +1,59 @@
+{
+  "id": 202608161404,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-16T10:56:21.222Z",
+  "created_at": "2026-08-16T11:04:44.425Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Bin yılı bir gün",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608161404-1786878281767.mp3",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608161404-1786878285605.jpg"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Yaşam ve ölüm, bast, açılma ve kabz, büzülme hareketinden ibarettir. Doğadaki her değişen etki, bedenleri inşa etmek için dâhilden, İÇE doğru çeker ve onları imhâ etmek için dâhilden DIŞA doğru iter. Her nefes, hayat ve ölümün 'kozmik sarkacını' YANSITIR.<br></p>",
+          "author": "[W. Russell'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~</p><p class=\"mb-4\">Expanding universe</p><p class=\"mb-4\">~</p><p class=\"mb-4\">Evren genişle~miyor<br>Ev<s>i</s>ren nefes alıyor</p><p class=\"mb-4\">Her soluyuşta nefhâ-i rahmân doluyor&nbsp;</p><p class=\"mb-4\">Hadi sen de genişlet kabını<br>Boşalt dünden kalan anlam evini<br>Bak işte en çok boşluk alıyor</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Şüphesiz senin Rabbinin katında bir gün, sizin saymakta olduklarınızdan bin yıl gibidir.</p>",
+          "author": "[Hac:47'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Bin yılı bir gün efendim, gelecek ol gün...</strong></p><p class=\"mb-4\">Hicaz dolap dönedursun gör neler eyler insan sûreti...</p><p class=\"mb-4\"><br></p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608161404-1786878287859.png"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ehline has sunuldu vesselam</p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-16T11:04:44.425Z",
+  "is_protected": true
+}
