@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Bin yılı bir gün",
+      "id": 202608161404,
+      "category": "posts/seyirdefteri/202608161404"
+    },
+    {
       "text": {
         "sira_no": 1582,
         "parca_adi": "Biz canları güle vermişiz",
@@ -48,11 +53,6 @@
     {
       "text": "Ruhullah olandan işitti, kulağı açık olanlar:\n\nKainatı tanıyan kişi, tanımamışsa kendini, kainatı da tanıyamaz!\n\nHer şey...",
       "id": 202608072234,
-      "category": "sabahnesesi"
-    },
-    {
-      "text": "Seni bir nefesçik bile terk etmemiş olan şeye doğru yolculuğa çıkamazsın ey sevgili,\n\nYokluktan başlayan her arayış, ara...",
-      "id": 202608072230,
       "category": "sabahnesesi"
     }
   ]
