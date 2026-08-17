@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1583,
+        "parca_adi": "Zannetme seni şimdi",
+        "seslendiren": "Ç. Fidan",
+        "url": "https://www.mediafire.com/file/01al4yeacbs288o/zannetmeseni.mp3"
+      },
+      "id": 202608171809,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Bin yılı bir gün",
       "id": 202608161404,
       "category": "posts/seyirdefteri/202608161404"
@@ -49,11 +59,6 @@
       "text": "Aynayı tut yüzü~ne",
       "id": 202608091027,
       "category": "posts/seyirdefteri/202608091027"
-    },
-    {
-      "text": "Ruhullah olandan işitti, kulağı açık olanlar:\n\nKainatı tanıyan kişi, tanımamışsa kendini, kainatı da tanıyamaz!\n\nHer şey...",
-      "id": 202608072234,
-      "category": "sabahnesesi"
     }
   ]
 }
