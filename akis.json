@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Eşik~siz",
+      "id": 202608192024,
+      "category": "posts/seyirdefteri/202608192024"
+    },
+    {
       "text": "Es Haydar Es",
       "id": 202608192012,
       "category": "posts/seyirdefteri/202608192012"
@@ -54,11 +59,6 @@
       "text": "Bir~es",
       "id": 202608091110,
       "category": "posts/seyirdefteri/202608091110"
-    },
-    {
-      "text": "Görünmek isteyen güzel",
-      "id": 202608091100,
-      "category": "posts/seyirdefteri/202608091100"
     }
   ]
 }
