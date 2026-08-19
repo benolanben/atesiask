@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Es Haydar Es",
+      "id": 202608192012,
+      "category": "posts/seyirdefteri/202608192012"
+    },
+    {
       "text": {
         "sira_no": 1583,
         "parca_adi": "Zannetme seni şimdi",
@@ -54,11 +59,6 @@
       "text": "Görünmek isteyen güzel",
       "id": 202608091100,
       "category": "posts/seyirdefteri/202608091100"
-    },
-    {
-      "text": "Aynayı tut yüzü~ne",
-      "id": 202608091027,
-      "category": "posts/seyirdefteri/202608091027"
     }
   ]
 }
