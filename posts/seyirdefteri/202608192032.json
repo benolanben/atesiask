@@ -1,0 +1,67 @@
+{
+  "id": 202608192032,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-19T17:05:02.016Z",
+  "created_at": "2026-08-19T17:32:35.360Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Dalgaya gelme...",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Okyanus<br>(Zat)<br>Sıfat (hayat-kudret)<br>Fiil (dalgalanma)<br>Görünüm (dalga)<br><br>Dalga,<br>Okyanus olamaz<br>Çünkü zaten okyanustur.<br><br>Aynı şekilde, benlik de çalışıp çabalayıp farkındalığa ulaşamaz.<br><br>Benlik zaten farkındalıktan oluşur.<br>O'nun fiilidir<br><br>Cümleten câmiu'l cem ola<br>Gönül dolusu selam selam olsun</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608192032-1787160742636.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Tekil bütünlükteki her şey bir yanılsamadan ibâret olduğuna göre, olduğu hâliyle mükemmeldir.</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Tek bir iradeyle bilfiil olanın<br>İyi ya da kötüyle, kabul ya da reddedilmeyle hiçbir ilgisi olmadığına göre, insan o beklenen kahkahayı patlatabilir!<br></p>",
+          "author": "[L. Rabjam'dan]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Ve mükemmellik, bu âna, daha fazla hiçbir şey eklenemeyeceği ya çıkarılamayacağı an, kendiliğinden fark edilir.<br><br>Çıkılması olmayan namazın nihayetinde<br>\"Allahuekber\"<br>Allah var...<br>Zikri kendiliğinden çekilir<br><br>Şimdi olduğu gibi...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608192032-1787160745847.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Bana asla ulaşamazsın çünkü aramızda aşılması gereken bir \"mesafe\" olmalı.<br><br>Beni asla düşünemezsin çünkü düşünülmesi gereken \"ō~tek-i-biri\" olmalı...<br><br>~<br><br>SU<br>(Zat)<br>Islaklık<br>(Sıfat)<br>Dalga<br>(Fiil)<br><br>Bilfiil<br>Dalganın, ıslaklığa ulaşması ne demek?<br>Kuru olduğunu sanmayı bırakması demek<br><br>Dalganın suya dönmesi ne demek?<br>Zaten öyle olmadığını sanmayı bırakması demek<br><br>Ve şimdi zaten öyle<br>Dalgaya öyle gelmese de...<br><br>~<br><br>Dalgaya gelme...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608192032-1787160750241.jpg"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608192032-1787160759242.webm"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-19T17:32:35.360Z",
+  "is_protected": false
+}
