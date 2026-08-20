@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Ben~i örtü~n",
+      "id": 202608202335,
+      "category": "posts/seyirdefteri/202608202335"
+    },
+    {
       "text": "KAYGUSUZ~Zen",
       "id": 202608202311,
       "category": "posts/seyirdefteri/202608202311"
@@ -54,11 +59,6 @@
       "text": "Nalınlarını çıkar",
       "id": 202608142201,
       "category": "posts/seyirdefteri/202608142201"
-    },
-    {
-      "text": "Ölüm Ânında",
-      "id": 202608112142,
-      "category": "posts/seyirdefteri/202608112142"
     }
   ]
 }
