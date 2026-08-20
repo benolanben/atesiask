@@ -1,6 +1,24 @@
 {
   "isaretler": [
     {
+      "id": 202608202311,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608202311-1787256704070.png",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Dzogchen",
+            "Kaygusuz"
+          ],
+          "title": "KAYGUSUZ~Zen",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202608192032,
       "is_protected": false,
       "article": {
