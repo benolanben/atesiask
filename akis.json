@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "KAYGUSUZ~Zen",
+      "id": 202608202311,
+      "category": "posts/seyirdefteri/202608202311"
+    },
+    {
       "text": "Dalgaya gelme...",
       "id": 202608192032,
       "category": "posts/seyirdefteri/202608192032"
@@ -54,11 +59,6 @@
       "text": "Ölüm Ânında",
       "id": 202608112142,
       "category": "posts/seyirdefteri/202608112142"
-    },
-    {
-      "text": "Geçmiş olsun...",
-      "id": 202608091124,
-      "category": "posts/seyirdefteri/202608091124"
     }
   ]
 }
