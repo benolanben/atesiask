@@ -1,0 +1,49 @@
+{
+  "id": 202608210006,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-20T20:01:39.992Z",
+  "created_at": "2026-08-20T21:06:31.182Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Kimlik Dokuması",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Çocuk nedir?<br>Tam bir masumiyet ve unutmadır; yeni bir başlangıç, bir oyun, kendi kendine dönen bir tekerlek, ilk hareket, kutsal bir ‘Evet’tir.<br></p>",
+          "author": "[F. Nietzsche'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Yeniden çocuk olmadıkça şimdi olana açık bir kabul: rızâ gözeten \"cennet\" idrakine dönülmüyor işte...<br><br>Deniz gözleyen içimdeki denize açık açık selâm selâm olsun<br><br>NOT:<br>Deniz tabanındaki ışık desenleri.<br><br>Bunlara “kaustik” denirmiş:<br>Işığın hava-su arayüzünden kırılması ve yansımasıyla oluşurlar.<br><br>Arşivdarımız Su,<br>Dinamik bir büyüteç görevi görür doğrusu...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607120001.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">Merkez~e daha dikkatli bakarak kendini bulamazsın a güzel,<br><br>Bakan kişi,<br>Görülmesi gereken şeyin bir hissesi...<br><br>E şimdi ne demiş olduk?<br><br>Bu içli söz,<br>Senin benim bir haritanın ortasındaki sabit bir nokta olmadığını duyurur.<br><br>Sen, haritanın yapım sürecinin tamamısın.<br><br>\"Bakan kişi\" durduğu yerdə ada gibi durmaz öyle.<br><br>Yalnızca bakılan şeyle ilişkisi içinde, büsbütün bir akışta var olur.<br><br>Ağaçlar, gökyüzü, diğer insanlar ve daha bir dolu şey olmadan, bakan bir \"sen\" de olamaz!<br><br>Kimliğin merkezde kilitli değildir; çevreye, tepkilerine, ortamına ve karşılaştığın insanlara dokunmuştur.<br><br>Ve ölümcül \"Ben bedenim\" inancı, ayrılık sahneleri yaratır:<br>Korku, kıtlık ve rekabet.<br><br>Gerçek kurtuluş, bedenle bütünleşirken onunla sınırlı olmadığının farkında olmakla, sınırları geçirgen kılmakla başlar vesselam.</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607120000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-20T21:06:31.182Z",
+  "is_protected": false
+}
