@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kimlik Dokuması",
+      "id": 202608210006,
+      "category": "posts/seyirdefteri/202608210006"
+    },
+    {
       "text": "Ben~i örtü~n",
       "id": 202608202335,
       "category": "posts/seyirdefteri/202608202335"
@@ -54,11 +59,6 @@
       },
       "id": 202608161331,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Nalınlarını çıkar",
-      "id": 202608142201,
-      "category": "posts/seyirdefteri/202608142201"
     }
   ]
 }
