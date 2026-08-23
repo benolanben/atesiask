@@ -1,15 +1,6 @@
 {
   "isaretler": [
-    {
-      "text": {
-        "sira_no": 60097,
-        "parca_adi": "test",
-        "seslendiren": "tes",
-        "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/eb9hjr_yang_n_yeri.mp3"
-      },
-      "id": 202608222155,
-      "category": "kaynak/nezih"
-    },
+    
     {
       "text": "Kimlik Dokuması",
       "id": 202608210006,
