@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1585,
+        "parca_adi": "Kapıldım gidiyorum",
+        "seslendiren": "S. Özer",
+        "url": "https://www.mediafire.com/file/601zy0s628yjrcb/kapildim.mp3"
+      },
+      "id": 202608242242,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1584,
         "parca_adi": "Giden dönmez",
         "seslendiren": "S. Özer",
@@ -54,11 +64,6 @@
       },
       "id": 202608171809,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Bin yılı bir gün",
-      "id": 202608161404,
-      "category": "posts/seyirdefteri/202608161404"
     }
   ]
 }
