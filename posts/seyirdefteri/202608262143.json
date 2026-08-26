@@ -1,0 +1,48 @@
+{
+  "id": 202608262143,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-26T18:11:28.334Z",
+  "created_at": "2026-08-26T18:43:07.228Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608262143-1787769789890.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "İsim fiil",
+      "subtitle": ""
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Ayakları unutun—<br>Ayakkabılar rahatsa</p><p class=\"mb-4\">Belinizi unutun—<br>Kemer rahatsa</p><p class=\"mb-4\">Doğru ile yanlışı unutun—<br>Zihin rahatsa</p><p class=\"mb-4\">En alâ rahatlık<br>Rahat olduğunu unutan rahatlıkta<br></p>",
+          "author": "[Zhuangzi Zevkiyle]"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Cümle var görünen isimler, yegâne varlığın andaki fiiliyâtıdır.<br></p>",
+          "author": "[Kelâm-ı Azîz-i Melâmîye'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~<br><br><strong>Ey cân-ı men,</strong></p><p class=\"mb-4\">Ego-nefs-kişi hâli,<br>Yok edilmesi gereken bir şey değildir.</p><p class=\"mb-4\">Kimlikle özdeşleşmeyle ortaya çıkan, dinamik bir zihin faaliyetidir, sabit isim değil, değişken fiil akışıdır.</p><p class=\"mb-4\">Mutlak bilincin ışığı, bir anlık farkındalıkla bunun böyle olduğunu, net bir şekilde gördüğünde...</p><p class=\"mb-4\">Zihinde tutulan egonun benimsediği kavrayış gevşer ve genişlik, ferahlık iklimi<br>Dâru's-selâm<br>Kendini açığa vurur vesselâm</p><p class=\"mb-4\"><em>Fakr, fiillerin sahibinin yokluğu ile sabit sıfatlardan hurûçtur<br>\"El-fakru fahrî\" zikri bir güzel duyulmuştur</em></p><blockquote><p class=\"mb-4\">Âlem<br>Sabit•durağan isim değil<br>Akıcı~değişken fiil cümlesidir<br>Bitmiş bir şey<br>Var değildir</p></blockquote><p class=\"mb-4\"></p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202608262138.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">💚</p><p class=\"mb-4\"></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-26T18:43:07.228Z",
+  "is_protected": true
+}
