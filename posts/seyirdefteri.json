@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202608262143,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608262143-1787769789890.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "İsim fiil",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202608262121,
       "is_protected": true,
       "article": {
