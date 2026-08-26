@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "İsim fiil",
+      "id": 202608262143,
+      "category": "posts/seyirdefteri/202608262143"
+    },
+    {
       "text": "Karşılaştırma",
       "id": 202608262121,
       "category": "posts/seyirdefteri/202608262121"
@@ -54,11 +59,6 @@
       "text": "Eşik~siz",
       "id": 202608192024,
       "category": "posts/seyirdefteri/202608192024"
-    },
-    {
-      "text": "Es Haydar Es",
-      "id": 202608192012,
-      "category": "posts/seyirdefteri/202608192012"
     }
   ]
 }
