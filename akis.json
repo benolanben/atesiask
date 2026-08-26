@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Karşılaştırma",
+      "id": 202608262121,
+      "category": "posts/seyirdefteri/202608262121"
+    },
+    {
       "text": {
         "sira_no": 1585,
         "parca_adi": "Kapıldım gidiyorum",
@@ -54,16 +59,6 @@
       "text": "Es Haydar Es",
       "id": 202608192012,
       "category": "posts/seyirdefteri/202608192012"
-    },
-    {
-      "text": {
-        "sira_no": 1583,
-        "parca_adi": "Zannetme seni şimdi",
-        "seslendiren": "Ç. Fidan",
-        "url": "https://www.mediafire.com/file/01al4yeacbs288o/zannetmeseni.mp3"
-      },
-      "id": 202608171809,
-      "category": "kaynak/baska"
     }
   ]
 }
