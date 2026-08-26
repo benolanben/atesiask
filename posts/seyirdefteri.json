@@ -1,6 +1,23 @@
 {
   "isaretler": [
     {
+      "id": 202608262121,
+      "is_protected": true,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608262121-1787768504792.webm",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            ""
+          ],
+          "title": "Karşılaştırma",
+          "subtitle": ""
+        }
+      }
+    }
+,
+    {
       "id": 202608210006,
       "is_protected": false,
       "article": {
