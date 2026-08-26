@@ -1,0 +1,41 @@
+{
+  "id": 202608262159,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-26T18:11:28.334Z",
+  "created_at": "2026-08-26T18:59:06.281Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "vahdet-i vücûd"
+      ],
+      "title": "Yedi Dur~ak Risâlesi •9",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "ses",
+          "text": "",
+          "cover_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608262159-1787770748493.jpg",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/yedi_9.mp3?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Merâtib-i Vücûd'a Dâir<br>Yâhut Aşk'ın Kendine Tutulması</strong></p><blockquote><p class=\"mb-4\"><br>İşit <strong>Niyazi</strong>'nin sözün,<br>Bir nesne örtmez HAK YÜZÜn<br><strong>\"Hak'tan ayan bir nesne yok\"</strong>;<br>Gözsüzlere pinhan imiş</p></blockquote><p class=\"mb-4\"><br>Kırk yılda hâsıl olmayan bir nefesle hâsıl olur<br>Zîrâ âşık ile maşûk arasında bir nefeslik yol vardır.</p><p class=\"mb-4\"><strong>•<br><br></strong>Men 'aref sırrına er, ko gafleti,<br>Gör ne remz eyler bu insan sûreti<strong><br><br>Zira ki 'aref mey~hânesinde<br>Gülbün-i gonca-i vahdet var</strong><br><br>Zerre kan dökmeden ölmek için can atanlarımıza,<br>Her dem tâze sulanan selâm selâmımız var<strong><br><br><br>BAĞLI KAYIT</strong></p>"
+        },
+        {
+          "type": "dis_baglanti",
+          "text": "Yedi Dur~ak Risâlesi •8",
+          "url": "https://benolanben.com/seyirdefteri/202607212118"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-26T18:59:06.281Z",
+  "is_protected": false
+}
