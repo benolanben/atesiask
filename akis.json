@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1586,
+        "parca_adi": "Sözüm dinle behey aşık",
+        "seslendiren": "A. Kadrî",
+        "url": "https://www.mediafire.com/file/n2o66wqjgw7jarb/safa.mp3"
+      },
+      "id": 202608271345,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Kendine ihanet",
       "id": 202608262205,
       "category": "posts/seyirdefteri/202608262205"
@@ -54,11 +64,6 @@
       "text": "Ben~i örtü~n",
       "id": 202608202335,
       "category": "posts/seyirdefteri/202608202335"
-    },
-    {
-      "text": "KAYGUSUZ~Zen",
-      "id": 202608202311,
-      "category": "posts/seyirdefteri/202608202311"
     }
   ]
 }
