@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Eve Dönüş Bileti",
+      "id": 202608292114,
+      "category": "posts/seyirdefteri/202608292114"
+    },
+    {
       "text": "Sizin hiç babanız öldü mü?",
       "id": 202608292048,
       "category": "posts/seyirdefteri/202608292048"
@@ -59,11 +64,6 @@
       "text": "İsim fiil",
       "id": 202608262143,
       "category": "posts/seyirdefteri/202608262143"
-    },
-    {
-      "text": "Karşılaştırma",
-      "id": 202608262121,
-      "category": "posts/seyirdefteri/202608262121"
     }
   ]
 }
