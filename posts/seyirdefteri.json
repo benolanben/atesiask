@@ -1,6 +1,25 @@
 {
   "isaretler": [
     {
+      "id": 202608292048,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "baba",
+            "ölüm"
+          ],
+          "title": "Sizin hiç babanız öldü mü?",
+          "subtitle": "",
+          "show_background_image": false
+        }
+      }
+    }
+,
+    {
       "id": 202608290839,
       "is_protected": false,
       "article": {
