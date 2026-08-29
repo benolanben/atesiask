@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1588,
+        "parca_adi": "Gelmek yaraşır",
+        "seslendiren": "S. Sergen",
+        "url": "https://www.mediafire.com/file/aq6047tutmhgb53/gelmekyarasir.mp3"
+      },
+      "id": 202608291114,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Seyrimde bir şâra vardım",
       "id": 202608290839,
       "category": "posts/seyirdefteri/202608290839"
@@ -58,16 +68,6 @@
         "url": "https://www.mediafire.com/file/601zy0s628yjrcb/kapildim.mp3"
       },
       "id": 202608242242,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1584,
-        "parca_adi": "Giden dönmez",
-        "seslendiren": "S. Özer",
-        "url": "https://www.mediafire.com/file_premium/0loz98xf4qo4l8z/gidensevgi.mp3"
-      },
-      "id": 202608242236,
       "category": "kaynak/baska"
     }
   ]
