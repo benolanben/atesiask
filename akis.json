@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Sizin hiç babanız öldü mü?",
+      "id": 202608292048,
+      "category": "posts/seyirdefteri/202608292048"
+    },
+    {
       "text": {
         "sira_no": 1588,
         "parca_adi": "Gelmek yaraşır",
@@ -59,16 +64,6 @@
       "text": "Karşılaştırma",
       "id": 202608262121,
       "category": "posts/seyirdefteri/202608262121"
-    },
-    {
-      "text": {
-        "sira_no": 1585,
-        "parca_adi": "Kapıldım gidiyorum",
-        "seslendiren": "S. Özer",
-        "url": "https://www.mediafire.com/file/601zy0s628yjrcb/kapildim.mp3"
-      },
-      "id": 202608242242,
-      "category": "kaynak/baska"
     }
   ]
 }
