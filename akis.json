@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Hayat\nSenin benim ayrı başımıza gelen\nBir dolu olaylar ~ olaylar değil a canım,\n\nVarlığın büsbütün akışı olan\n\"Hayyyat\"\n...",
+      "id": 202608292114,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Eve Dönüş Bileti",
       "id": 202608292114,
       "category": "posts/seyirdefteri/202608292114"
@@ -59,11 +64,6 @@
       "text": "Âlemlere rahmet",
       "id": 202608262153,
       "category": "posts/seyirdefteri/202608262153"
-    },
-    {
-      "text": "İsim fiil",
-      "id": 202608262143,
-      "category": "posts/seyirdefteri/202608262143"
     }
   ]
 }
