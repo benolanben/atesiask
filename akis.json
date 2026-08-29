@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Seyrimde bir şâra vardım",
+      "id": 202608290839,
+      "category": "posts/seyirdefteri/202608290839"
+    },
+    {
       "text": {
         "sira_no": 1587,
         "parca_adi": "Neyleyim",
@@ -64,11 +69,6 @@
       },
       "id": 202608242236,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Kimlik Dokuması",
-      "id": 202608210006,
-      "category": "posts/seyirdefteri/202608210006"
     }
   ]
 }
