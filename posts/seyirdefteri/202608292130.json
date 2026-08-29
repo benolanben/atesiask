@@ -1,0 +1,44 @@
+{
+  "id": 202608292130,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-29T17:42:44.727Z",
+  "created_at": "2026-08-29T18:30:21.668Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Bir Nefes Kıyısında",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Narkozdan çıkmak, ölümden dönmek yani 'uyanmak' sürekli tekrarlandığı için gizemi azalmış bir mucizedir.<br></p>",
+          "author": "[YÜZ SÖZ'den]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">- Ölümümün nasıl olacağını her merak ettiğimde, merakın beni öldüreceği sonucuna varıyorum<br><br>Ölmenin en iyi yolu.<br><br>- Ya da uykuda, ona çok yakın...<br><br>Nefha-i Rahman<br>Evrenin Soluğu bu<br>Tanrı'nın öpücüğüyle yarışmak zordur doğrusu<br><br><br>**<br><br>**<br><br>*<br><br><br>Seni, içindeki tüm sahte olanların kaçınılmaz ölümüne doğru sürekli çeken o câzibe, gerçek doğanın parlak alevinden ey sevgili...</p>"
+        },
+        {
+          "type": "fotograf",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608292130-1788028226351.jpg"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>~</strong></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-29T18:30:21.668Z",
+  "is_protected": false
+}
