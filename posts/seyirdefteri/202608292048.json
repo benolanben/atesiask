@@ -1,0 +1,45 @@
+{
+  "id": 202608292048,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-29T17:42:44.727Z",
+  "created_at": "2026-08-29T17:48:56.194Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        "baba",
+        "ölüm"
+      ],
+      "title": "Sizin hiç babanız öldü mü?",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202608292044.mp4?download=true"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><strong>Hasbihâl olsun a canım,</strong></p><p class=\"mb-4\">Belki de kendi filmimizdeki veda sahnesini andırdı diyedir, pek dokundu buralara...</p><p class=\"mb-4\">Tütsün istedik orda da...</p><blockquote><p class=\"mb-4\">Hem sözde benim<br>Çok babam öldü...<br><strong>Sizin hiç babanız öldü mü?</strong></p></blockquote><p class=\"mb-4\"></p><p class=\"mb-4\">~</p><p class=\"mb-4\"><strong>Babam bahçıvandı.<br>Şimdi bir bahçe...</strong></p><p class=\"mb-4\">~</p>"
+        },
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">Babanın sustuğu şey, oğulda dile gelir<br>Ve ben çoğu kez oğulu, babanın açığa çıkmış sırrı olarak buldum.<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\"><em>Hüznüm sizde görünür<br>Saçım beyaz bürünür<br>Yaşarken de ölünür</em></p><p class=\"mb-4\">Seyretmen beni<br>Söyletmen beni<br><strong>Ağlatman beni<br>Aynalar aynalar ❞</strong></p>"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-29T17:48:56.194Z",
+  "is_protected": false
+}
