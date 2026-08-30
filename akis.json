@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Kusursuz Dans",
+      "id": 202608310004,
+      "category": "posts/seyirdefteri/202608310004"
+    },
+    {
       "text": "İki uçlu düşünce, ancak tutup kavrayabildiği şeyi anlayabilir.\n\nHadd ü kenarı olmayan aşkın, tutup kavramaya ihtiyacı yo...",
       "id": 202608300707,
       "category": "sabahnesesi"
@@ -59,11 +64,6 @@
       },
       "id": 202608271345,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Kendine ihanet",
-      "id": 202608262205,
-      "category": "posts/seyirdefteri/202608262205"
     }
   ]
 }
