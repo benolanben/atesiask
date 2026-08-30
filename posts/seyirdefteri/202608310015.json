@@ -1,0 +1,40 @@
+{
+  "id": 202608310015,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-29T17:42:44.727Z",
+  "created_at": "2026-08-30T21:15:09.281Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Neş'e-i insânî",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "alinti",
+          "text": "<p class=\"mb-4\">El-evvel, düşünce ona bir isim vermeden de vardır ve birdir. Aynanın tanığa ihtiyacı yok gibidir. Sessizlik, kendini kendinden kendiyle bilir...<br></p>",
+          "author": "[A. Kadrî]"
+        },
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">~<br>Silik bir şekilde başlayıp bitse de<br>~<br>Ancak bir rüyada, bir başlangıç ​​ve bir son vardır.<br><br>Bu anlamda evet, bir başlangıç ​​deneyimi ve bir son deneyimi vardır.<br><br>Ama bir başlangıç ​​deneyiminin olabilmesi için, başlangıçtan önce başlangıcı deneyimleyen şeyin hâlihazırda mevcûd olması gerekir değil mi?<br><br>Ve bunun bir başlangıcı yoktur.<br><br>Ve aynı şekilde, sonu deneyimleyen şeyin sonun ötesinde olması gerekir, aksi takdirde sonu deneyimleyemezsiniz.<br><br>Doğumu deneyimleyen doğumdan öncedir, ölümü deneyimleyen, ölümü tadan, ölümden sonra kalandır.<br><br>Ayetteki açık işarete dikkat:<br><br>Kullu nefsin zaikatul mevti summe ileyna turceun<br>[Ankebût:57'den]<br><br>Kendini bir benlik olarak deneyimleyen her bilinç, ölümü tadacaktır. Sonra, bize dönüp durursunuz.<br><br>Dolayısıyla her başlangıcı ve her sonu deneyimleyen şeyin başlangıçta bir başlangıcı ve sonda bir sonu yoktur.<br><br>O~nun önüne ön yok, sonuna son<br>EL-EVVELi~HÛ ve'l ÂHİRİ~HÛ<br><br>Zâten olduğunuz şey için bir başlangıç ​​ve bir son yoktur.<br><br>Kendini bir şey sanan her benlik maskesinin, bir ilk kullanım ve son kullanım tarihi vardır ama...<br><br>\"Ben olan Ben\" olarak sonsuz başlangıç ​​deneyimi ve sonsuz son deneyimi yaşayacaksınız ancak başlangıçta hiçbir şey başlamadı ve sonda hiçbir şey bitmedi...<br><br>Fikrin evveli,<br>Amelin âhiri,<br>Anda d~olduğu besbelli:<br>\"Neş'e-i insânî\"<br><br>Öylesine bir zevkti, geldi geçti.<br>Kendi söylediğimizi, kendi kulağımız duysa yeter vesselam</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202608302415-1788124513463.webm"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-30T21:15:09.281Z",
+  "is_protected": false
+}
