@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Neş'e-i insânî",
+      "id": 202608310015,
+      "category": "posts/seyirdefteri/202608310015"
+    },
+    {
       "text": "Kusursuz Dans",
       "id": 202608310004,
       "category": "posts/seyirdefteri/202608310004"
@@ -53,16 +58,6 @@
         "url": "https://www.mediafire.com/file/db5z3z13o9n86dv/nisbet.mp3"
       },
       "id": 202608281948,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1586,
-        "parca_adi": "Sözüm dinle behey aşık",
-        "seslendiren": "A. Kadrî",
-        "url": "https://www.mediafire.com/file/n2o66wqjgw7jarb/safa.mp3"
-      },
-      "id": 202608271345,
       "category": "kaynak/baska"
     }
   ]
