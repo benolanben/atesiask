@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Vahdetler aşkolsun",
+      "id": 202608310030,
+      "category": "posts/seyirdefteri/202608310030"
+    },
+    {
       "text": "Ne parça ne de bütün bir yanılsamadır.\nMesele sadece ölçekle ilgilidir.\n\nAtom altı düzeyde, bütün gerçektir.\n\nBiraz daha...",
       "id": 202608310515,
       "category": "sabahnesesi"
@@ -49,11 +54,6 @@
       },
       "id": 202608291114,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Seyrimde bir şâra vardım",
-      "id": 202608290839,
-      "category": "posts/seyirdefteri/202608290839"
     }
   ]
 }
