@@ -1,0 +1,35 @@
+{
+  "id": 202608310030,
+  "title": "Yeni Taslak",
+  "author": "BenOlanBen",
+  "publishedDate": "2026-08-30T20:19:50.991Z",
+  "created_at": "2026-08-30T21:30:55.779Z",
+  "article": {
+    "header": {
+      "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/site/0001_kus.jpg",
+      "date_value": "",
+      "mini_title": "",
+      "tags": [
+        ""
+      ],
+      "title": "Vahdetler aşkolsun",
+      "subtitle": "",
+      "show_background_image": false
+    },
+    "main_article": {
+      "quotes": [
+        {
+          "type": "metin",
+          "text": "<p class=\"mb-4\">- Her gün çok daha fazla insan bu rüyadan uyanıyor, ne güzel.<br><br>- Çok mu yani...<br><br>El-hâkumu't-tekâsür,<br>Çokluk, çoklarını aldatır durur çok çok...<br><br>Zikr-i daim<br>Her zaman ve her yerde kendini hatırla.<br><br>Dünyayı kurtarmaya çalışmadan önce...<br>Herkes, bir çift aynada kendini doğrudan tanımalı<br><br>Bakalım öyle uyanan çok biri var mı?<br><br>Uyanma rüyasından uyansalar, artık uyanması gereken kimseyi görmezlerdi.<br><br>A benim canım,<br><br>Şimdi kim uyanacak ve uyanması gereken kimi görüyor?<br><br>Kimi uyandırmış oldu ve uyanan neyden uyandı?<br><br>Allah'ı ne bir uyku tutar ne de uyukladığı var...<br><br>Yani Biricik Benlik, her zaman uyanıktır ve uyanabilen şeyse saçmalıktır, bir hayalettir, bir düşünce bulutudur, ayrılı vehmi budur.<br><br>Bir bulut dağılsa, suda bir girdap, suyun düğümü çözülse ne olmuş olur?<br><br>Uyanmışmış!<br>Neyden neye...<br><br>Saçmalıktan saçmalığa.<br>Rüyadan rüyaya...<br><br>Buluttan buluta...<br><br>Bulutların çok güzel ama ben~seni gökyüzü olarak görüyorum ey sevgili...</p>"
+        },
+        {
+          "type": "video",
+          "text": "",
+          "url": "https://huggingface.co/datasets/benolanben/posts/resolve/main/patreon/202607170000.webm?download=true"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-30T21:30:55.779Z",
+  "is_protected": false
+}
