@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1589,
+        "parca_adi": "Kurtulduk",
+        "seslendiren": "A. Rıdvan",
+        "url": "https://www.mediafire.com/file/tl5tirmdwefxbxl/rehidi.mp3"
+      },
+      "id": 202608311407,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Vahdetler aşkolsun",
       "id": 202608310030,
       "category": "posts/seyirdefteri/202608310030"
@@ -44,16 +54,6 @@
       "text": "Sizin hiç babanız öldü mü?",
       "id": 202608292048,
       "category": "posts/seyirdefteri/202608292048"
-    },
-    {
-      "text": {
-        "sira_no": 1588,
-        "parca_adi": "Gelmek yaraşır",
-        "seslendiren": "S. Sergen",
-        "url": "https://www.mediafire.com/file/aq6047tutmhgb53/gelmekyarasir.mp3"
-      },
-      "id": 202608291114,
-      "category": "kaynak/baska"
     }
   ]
 }
