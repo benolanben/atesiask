@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1591,
+        "parca_adi": "Yanmaktan usanmazam",
+        "seslendiren": "V. Dalsaldı",
+        "url": "https://www.mediafire.com/file/1konxk2n800kgjy/yanmaktanusan.mp3"
+      },
+      "id": 202609021854,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1590,
         "parca_adi": "Şeddaraban Saz Semaisi",
         "seslendiren": "K. Erguner",
@@ -54,11 +64,6 @@
       "text": "Hayat\nSenin benim ayrı başımıza gelen\nBir dolu olaylar ~ olaylar değil a canım,\n\nVarlığın büsbütün akışı olan\n\"Hayyyat\"\n...",
       "id": 202608292114,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Eve Dönüş Bileti",
-      "id": 202608292114,
-      "category": "posts/seyirdefteri/202608292114"
     }
   ]
 }
