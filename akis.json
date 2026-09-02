@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1590,
+        "parca_adi": "Şeddaraban Saz Semaisi",
+        "seslendiren": "K. Erguner",
+        "url": "https://www.mediafire.com/file/5505wz1awxn6ma9/noname.mp3"
+      },
+      "id": 202609021045,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1589,
         "parca_adi": "Kurtulduk",
         "seslendiren": "A. Rıdvan",
@@ -49,11 +59,6 @@
       "text": "Eve Dönüş Bileti",
       "id": 202608292114,
       "category": "posts/seyirdefteri/202608292114"
-    },
-    {
-      "text": "Sizin hiç babanız öldü mü?",
-      "id": 202608292048,
-      "category": "posts/seyirdefteri/202608292048"
     }
   ]
 }
