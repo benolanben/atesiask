@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Yüz değişiyor\nSes değişiyor\nTarih sürekli yeniden yazılıyor\nHikâye güncellenip duruyor\n\nOysa kimlikte yazılı duran\nBİR İ...",
+      "id": 202609040322,
+      "category": "sabahnesesi"
+    },
+    {
       "text": "Matriks'ten niyazlar",
       "id": 202609040018,
       "category": "posts/seyirdefteri/202609040018"
@@ -64,11 +69,6 @@
       "text": "Neş'e-i insânî",
       "id": 202608310015,
       "category": "posts/seyirdefteri/202608310015"
-    },
-    {
-      "text": "Kusursuz Dans",
-      "id": 202608310004,
-      "category": "posts/seyirdefteri/202608310004"
     }
   ]
 }
