@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1592,
+        "parca_adi": "Zümre-i ehl-i melâmet",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/e7idm84mab27jty/zumre.mp3"
+      },
+      "id": 202609032142,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1591,
         "parca_adi": "Yanmaktan usanmazam",
         "seslendiren": "V. Dalsaldı",
@@ -59,11 +69,6 @@
       "text": "Bir Nefes Kıyısında",
       "id": 202608292130,
       "category": "posts/seyirdefteri/202608292130"
-    },
-    {
-      "text": "Hayat\nSenin benim ayrı başımıza gelen\nBir dolu olaylar ~ olaylar değil a canım,\n\nVarlığın büsbütün akışı olan\n\"Hayyyat\"\n...",
-      "id": 202608292114,
-      "category": "sabahnesesi"
     }
   ]
 }
