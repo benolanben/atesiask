@@ -2,7 +2,7 @@
   "isaretler": [
     {
       "id": 1788125503983,
-      "title": "0718",
+      "title": "0719",
       "category": "seyirdefteri",
       "content": {
         "id": 1788125503983,
@@ -18,7 +18,7 @@
             "tags": [
               ""
             ],
-            "title": "0718",
+            "title": "0719",
             "subtitle": "",
             "show_background_image": false
           },
@@ -33,7 +33,7 @@
         }
       },
       "created_at": "2026-08-30T21:31:43.983Z",
-      "updated_at": "2026-08-30T21:31:49.041Z",
+      "updated_at": "2026-09-03T21:24:39.024Z",
       "is_protected": false
     }
   ]
