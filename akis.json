@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Evlerin En Zayıfı",
+      "id": 202609040012,
+      "category": "posts/seyirdefteri/202609040012"
+    },
+    {
       "text": {
         "sira_no": 1592,
         "parca_adi": "Zümre-i ehl-i melâmet",
@@ -64,11 +69,6 @@
       "text": "İki uçlu düşünce, ancak tutup kavrayabildiği şeyi anlayabilir.\n\nHadd ü kenarı olmayan aşkın, tutup kavramaya ihtiyacı yo...",
       "id": 202608300707,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Bir Nefes Kıyısında",
-      "id": 202608292130,
-      "category": "posts/seyirdefteri/202608292130"
     }
   ]
 }
