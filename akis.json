@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1593,
+        "parca_adi": "Murâdî meşk",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/y9usfft85m5mfqe/mradimesk.mp3"
+      },
+      "id": 202609040946,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Yüz değişiyor\nSes değişiyor\nTarih sürekli yeniden yazılıyor\nHikâye güncellenip duruyor\n\nOysa kimlikte yazılı duran\nBİR İ...",
       "id": 202609040322,
       "category": "sabahnesesi"
@@ -64,11 +74,6 @@
       "text": "Ne parça ne de bütün bir yanılsamadır.\nMesele sadece ölçekle ilgilidir.\n\nAtom altı düzeyde, bütün gerçektir.\n\nBiraz daha...",
       "id": 202608310515,
       "category": "sabahnesesi"
-    },
-    {
-      "text": "Neş'e-i insânî",
-      "id": 202608310015,
-      "category": "posts/seyirdefteri/202608310015"
     }
   ]
 }
