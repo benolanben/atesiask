@@ -1,6 +1,28 @@
 {
   "isaretler": [
     {
+      "id": 202609062351,
+      "is_protected": false,
+      "article": {
+        "header": {
+          "background_image": "https://raw.githubusercontent.com/benolanben/atesiask/main/medya/posts/seyirdefteri/202609062351-1788727883133.jpg",
+          "date_value": "",
+          "mini_title": "",
+          "tags": [
+            "Tuğrul İnançer",
+            "sene-i devriye",
+            "vefa",
+            "Ömer Tuğrul İnançer",
+            "Şeyh Murâdî"
+          ],
+          "title": "Murâd-ı ile devr~i~an",
+          "subtitle": "",
+          "show_background_image": true
+        }
+      }
+    }
+,
+    {
       "id": 202609040018,
       "is_protected": false,
       "article": {
