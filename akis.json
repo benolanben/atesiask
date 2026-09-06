@@ -1,6 +1,11 @@
 {
   "isaretler": [
     {
+      "text": "Murâd-ı ile devr~i~an",
+      "id": 202609062351,
+      "category": "posts/seyirdefteri/202609062351"
+    },
+    {
       "text": {
         "sira_no": 1593,
         "parca_adi": "Murâdî meşk",
@@ -69,11 +74,6 @@
       "text": "Vahdetler aşkolsun",
       "id": 202608310030,
       "category": "posts/seyirdefteri/202608310030"
-    },
-    {
-      "text": "Ne parça ne de bütün bir yanılsamadır.\nMesele sadece ölçekle ilgilidir.\n\nAtom altı düzeyde, bütün gerçektir.\n\nBiraz daha...",
-      "id": 202608310515,
-      "category": "sabahnesesi"
     }
   ]
 }
