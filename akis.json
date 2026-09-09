@@ -2,6 +2,16 @@
   "isaretler": [
     {
       "text": {
+        "sira_no": 1595,
+        "parca_adi": "Durman yanalım",
+        "seslendiren": "C. Asitanesi",
+        "url": "https://www.mediafire.com/file/ptwuztox6wrzkij/durman.mp3"
+      },
+      "id": 202609091637,
+      "category": "kaynak/baska"
+    },
+    {
+      "text": {
         "sira_no": 1594,
         "parca_adi": "Bûselik taksim",
         "seslendiren": "A. Aşk",
@@ -68,16 +78,6 @@
         "url": "https://www.mediafire.com/file/5505wz1awxn6ma9/noname.mp3"
       },
       "id": 202609021045,
-      "category": "kaynak/baska"
-    },
-    {
-      "text": {
-        "sira_no": 1589,
-        "parca_adi": "Kurtulduk",
-        "seslendiren": "A. Rıdvan",
-        "url": "https://www.mediafire.com/file/tl5tirmdwefxbxl/rehidi.mp3"
-      },
-      "id": 202608311407,
       "category": "kaynak/baska"
     }
   ]
