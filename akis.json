@@ -1,6 +1,16 @@
 {
   "isaretler": [
     {
+      "text": {
+        "sira_no": 1594,
+        "parca_adi": "Bûselik taksim",
+        "seslendiren": "A. Aşk",
+        "url": "https://www.mediafire.com/file/fsdhzyr01wcx2ym/buselik_tokac.mp3"
+      },
+      "id": 202609091117,
+      "category": "kaynak/baska"
+    },
+    {
       "text": "Murâd-ı ile devr~i~an",
       "id": 202609062351,
       "category": "posts/seyirdefteri/202609062351"
@@ -69,11 +79,6 @@
       },
       "id": 202608311407,
       "category": "kaynak/baska"
-    },
-    {
-      "text": "Vahdetler aşkolsun",
-      "id": 202608310030,
-      "category": "posts/seyirdefteri/202608310030"
     }
   ]
 }
