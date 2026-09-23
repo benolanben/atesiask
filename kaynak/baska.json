@@ -4,13 +4,49 @@
       "sira_no": 1,
       "parca_adi": "Tac marifet tâcıdır",
       "seslendiren": "A. Bektaş",
-      "url": "https://www.mediafire.com/file/qs46uxqqk2zqsam/marifettaci_abektas.mp3"
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/marifettaci_abektas.mp3"
+    },
+    {
+      "sira_no": 1602,
+      "parca_adi": "Âh AŞK",
+      "seslendiren": "S. Akkiraz",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/ahask.mp3"
+    },
+    {
+      "sira_no": 1601,
+      "parca_adi": "Acemaşiran Gazel",
+      "seslendiren": "H. Sami",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/acemasirangazel.mp3"
+    },
+    {
+      "sira_no": 1600,
+      "parca_adi": "Dil ateş",
+      "seslendiren": "A. Aşk",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/dilates.mp3"
+    },
+    {
+      "sira_no": 1599,
+      "parca_adi": "Izdırâbın sonu yok sanma",
+      "seslendiren": "Ç. Fidan",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/izdirabin.mp3"
+    },
+    {
+      "sira_no": 1598,
+      "parca_adi": "Muhayyerkürdi neş'e",
+      "seslendiren": "C. Asitanesi",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/mkurdi.mp3"
+    },
+    {
+      "sira_no": 1597,
+      "parca_adi": "Ahkâm-ı sevdâdan şikâyet",
+      "seslendiren": "M. Irkılata",
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/ahkamisevda.mp3"
     },
     {
       "sira_no": 1596,
       "parca_adi": "Ezelde aşk ile yandım",
       "seslendiren": "C. Asitanesi",
-      "url": "https://www.mediafire.com/file/wv3sn6mr5zj0uym/ezeldeaskile.mp3"
+      "url": "https://huggingface.co/datasets/benolanben/atesiask/resolve/main/sesler/ezeldeaskile.mp3"
     },
     {
       "sira_no": 1595,
